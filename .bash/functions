@@ -12,10 +12,7 @@ s!/(.)[^/]+/!/\1/!g
 jobs_count(){
     echo -n $(jobs -s | wc -l | awk '{ \
         if($1 > 0){
-            if($1 > 1)
-                print "with " $1 " jobs"
-            else
-                print "with " $1 " job"
+            print "(" $1 ")"
         }
     }')
 }
@@ -53,4 +50,57 @@ cdp () {
     cd "$(python -c "import os.path as _, ${1}; \
           print _.dirname(_.realpath(${1}.__file__[:-1]))"
         )"
+}
+
+### Prompts
+oneletter_pwd() {
+    local DIRS=() ODIRS=() MAX=0 SHORTEDPATH=''
+    IFS=/ read -d '' -a DIRS <<<"${PWD/#$HOME/~}"
+    MAX=$((${#DIRS[@]} - 2)) # show 2 complete names at the end of pwd
+    for i in ${!DIRS[@]}; do
+        if [[ $i -lt $MAX ]]; then
+            ODIRS[$i]=${DIRS[$i]:0:1}
+        else
+            ODIRS[$i]=${DIRS[$i]}
+        fi
+    done
+    for i in ${!ODIRS[@]}; do
+        SHORTEDPATH+=/${ODIRS[$i]}
+    done
+    echo ${SHORTEDPATH:1}
+}
+
+prompt_vcs() {
+	local hgprompt gitroot gitbranch gitstat gitstatus
+	[[ -d .svn ]] && { echo svn; return; }
+
+	gitroot=$(git rev-parse --show-toplevel 2>/dev/null)
+	if [[ $gitroot ]]; then
+		gitbranch=$(git branch 2>/dev/null |sed -rne '/^\*/s/^\*( | master)//p')
+		gitstat=$(git status 2>/dev/null | grep '\(# Untracked\|# Changes\|# Changed but not updated:\)')
+		[[ $gitstat =~ 'Changes to be committed' ]] && gitstatus='!'
+		[[ $gitstat =~ 'Changed but not updated' || $gitstat =~ 'Untracked files' ]] && gitstatus='?'
+		echo "${COLOR_CYAN_BOLD}± ${gitroot##*/}${gitstatus:+${COLOR_RED}${gitstatus}}${gitbranch:+ ${COLOR_YELLOW}${gitbranch}}${COLOR_NONE}"
+		return
+	fi
+
+	hgprompt=$(test -r /.hg || hg prompt --angle-brackets "${COLOR_CYAN_BOLD}☿ <root|basename><${COLOR_YELLOW}#<branch|quiet>><${COLOR_RED}<status>><update>< ${COLOR_YELLOW}<patch>>${COLOR_NONE}" 2>/dev/null)
+	if [[ $hgprompt ]]; then
+		echo -e "$hgprompt"
+		return
+	fi
+}
+
+prompt_command() {
+    local shortpwd=$(oneletter_pwd)
+    local vcs=$(prompt_vcs)
+    local prompt_jobs="\$(jobs_count)"
+    local prompt_server="${COLOR_BLUE_BOLD}\h${COLOR_NONE}"
+
+    [[ $VIRTUAL_ENV ]] && ve="[${COLOR_RED_BOLD}${VIRTUAL_ENV##*/}${COLOR_NONE}]"
+
+    PS1="${COLOR_RED_BOLD}${prompt_jobs:+$prompt_jobs}${COLOR_NONE}${ve:+$ve }${prompt_server} ${vcs:+$vcs }${COLOR_YELLOW}${shortpwd}"
+    PS1+="\n${COLOR_NONE}\$ " # shorted path
+
+    [[ $WINDOW ]] && echo -ne "\ek${shortpwd}\e\\" # update screen status line
 }

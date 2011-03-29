@@ -1,5 +1,7 @@
 # vim:filetype=sh
 
+. ~/.bash/functions
+
 umask 022
 
 # xterm, rxvt, title
@@ -54,3 +56,5 @@ export WORKON_HOME=~/.virtualenvs
 source /usr/local/bin/virtualenvwrapper.sh
 export PIP_VIRTUALENV_BASE=$WORKON_HOME
 export PIP_RESPECT_VIRTUALENV=true
+
+export PS1 PROMPT_COMMAND=prompt_command

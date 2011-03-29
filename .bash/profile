@@ -5,7 +5,6 @@
 # fi
 
 
-. ~/.bash/functions
 . ~/.bash/python
 . ~/.bash/completions
 . ~/.bash/misc
@@ -34,16 +33,6 @@ export HISTSIZE=5000
 
 # If running interactively, then:
 if [ "$PS1" ]; then
-    # Prompt
-    prompt_user="${COLOR_GREEN_BOLD}\u${COLOR_NONE}"
-    prompt_server="${COLOR_YELLOW_BOLD}at${COLOR_NONE} ${COLOR_CYAN_BOLD}\h${COLOR_NONE}"
-    prompt_location="${COLOR_YELLOW_BOLD}in${COLOR_NONE} ${COLOR_RED_BOLD}\w${COLOR_NONE}"
-    prompt_jobs="${COLOR_MAGENTA_BOLD}\$(jobs_count)${COLOR_NONE}"
-
-    PS1="${prompt_user} ${prompt_server} ${prompt_location} ${prompt_jobs}${COLOR_NONE}\n$ "
-    PS2="\[\033[33m\]>\[\033[0m\] "
-    #PS1="\[\033[31m\]\$(jobscnt_promtp)\[\033[32m\]\h\[\033[37m\] \[\033[35m\]\$(shortpwd)\$\[\033[0m\] "
-
     eval `keychain --eval 2>/dev/null`
     . ~/.bash/colors
 
@@ -73,4 +62,5 @@ if [ "$PS1" ]; then
     alias mkvirt="mkvirtualenv --no-site-packages"
     alias flash="mplayer /proc/$(pgrep npv)/fd/11"
     alias flashcd="cd /proc/$(pgrep npv)/fd/"
+    alias dotfiles="GIT_DIR=~/.dotfiles.git GIT_WORK_TREE=~ git"
 fi
