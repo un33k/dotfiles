@@ -137,6 +137,8 @@ nmap <leader>spr :setlocal nospell<cr>
 map <leader>c ]sz=
 map <leader>C ]s1z=
 
+" helpful mercurial shortcuts
+map <leader>au :!hg annotate -nu % \| less<CR>
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 """"""""""""""""" Plugins configurations """"""""""""""""""""""
