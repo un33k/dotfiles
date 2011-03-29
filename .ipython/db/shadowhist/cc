@@ -5,129 +5,129 @@ I16233
 sVfilters.tojson?
 p3
 I11700
-sVi0.text.text_text
-p4
-I676
-sVr.headers['location']
-p5
-I7882
 sVoptparse.__doc__
-p6
+p4
 I2810
 sV^(!+[}&&@##_*!$%_{+)^%+_)@*][{!]$]#%{[%#(*(+$@{^*{+@#+#&#&+})*+%}[^+_$@@&@$+&}@*
-p7
+p5
 I13256
+sVf.widget.id_for_label()
+p6
+I3371
 sVf.drawerlinkurl.list
-p8
+p7
 I1298
 sVa.sort(lambda x, y: x + 2 > y)
-p9
+p8
 I2544
 sVEpe()
-p10
+p9
 I3471
 sVfrom obnob.apps.qa.templatetags import qa_tags
-p11
+p10
 I19805
 sVTaggedItem._meta.get_field('user')
-p12
+p11
 I12633
 sVoptions = (
-p13
+p12
 I7019
 sVi.getThumbnailData()
-p14
+p13
 I5584
 sVdef f():
-p15
+p14
 I774
 sVfrom social_auth.backends import get_backends()
-p16
+p15
 I19497
 sVpepe.__class__
-p17
+p16
 I1489
 sVc.move('Qe2')
-p18
+p17
 I16084
 sVs = "2010-09-16 23:59:00
-p19
+p18
 I17723
 sVCmsPage.objects_aux.get_work_in_progress_pages().filter(http_path='/')
-p20
+p19
 I602
 sVa = {'sv': 1, 'pv':1}
-p21
+p20
 I16500
 sVa_username = purple.PurpleAccountGetUsername
-p22
+p21
 I5621
+sVfrom django.dispatch import Signal
+p22
+I8447
 sVpepe(1, 2, x=1, y=2)
 p23
 I20638
-sVnew.instancemethod.__doc__
+sVCmsPagePath.objects.with_page()[:3]
 p24
-I5831
+I12102
 sVarrayfns.construct3.
 p25
 I2733
-sVCmsPagePath.objects.with_page()[:3]
+sVc.image.url
 p26
-I12102
-sVs = d.get_screen()
+I11306
+sVStopIteration.__class__
 p27
+I3654
+sVs = d.get_screen()
+p28
 I18073
 sV{_*)!(@[%@{*{)]$*_&%*$+!%$&&!(%}^]^!)*@+@!){_(&#%[_)_]*[$++&!}@])#%)}@)!+!%]@*+#
-p28
+p29
 I13472
 sVr.regex.__deepcopy__
-p29
+p30
 I8244
 sVresolve('cms.edit_page', args=(10,))
-p30
+p31
 I12676
 sVslugify(urllib.unquote('facet=cat1%2C105'))
-p31
-I8498
-sVdef pepe(a=()):
 p32
-I8406
+I8498
 sVCAPLETTERS = re.compile('([A-Z])')
 p33
 I17151
 sVisinstance(a, "generator")
 p34
 I2411
-sVsettings.FACEBOOK_SECRET_KEY.value(32312)
-p35
-I10577
 sVdata['section1']['nousednames']['grouping'].form()
-p36
+p35
 I4844
 sVt.replace('V', 'l').replace('I', 's').replace('T', 'n').replace('G', 'd').replace('Y', 'r').replace('P', 'i').replace('L', 't').replace('N', 'b')
-p37
+p36
 I5235
 sVp range.__doc__
-p38
+p37
 I6532
 sVtime.mktime(1)
-p39
+p38
 I7551
 sVp = Pepe()
-p40
+p39
 I20
 sVf.get_manipulator_fields()
-p41
+p40
 I3554
 sVi._getexif.__doc__
-p42
+p41
 I8314
 sVv = [(date, values.values()) for date, values in per_date.items()]
-p43
+p42
 I19014
 sVsys.call_tracing(1, lambda *args, **kwargs: None)
-p44
+p43
 I2050
+sVx.int / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62
+p44
+I21538
 sVM
 I5796
 sVa = { 1: 10, 3: 5, 2: 5, 9: 1, 7: 1, 4: 1}
@@ -154,9 +154,9 @@ I1622
 sVev_form(ev)[0][1].label
 p52
 I8185
-sVfrom django.dispatch import Signal
+sVdef pepe(a=()):
 p53
-I8447
+I8406
 sV*]+[!%[^_*+&*$(&@@(+)$!(!#)}!}{+*)_^_*^(}^}+}][&*_@#%{^!&{)%_](**_%&%!!{${#+@$#^
 p54
 I13993
@@ -175,15 +175,15 @@ I12918
 sVhtmlentitydefs
 p59
 I14687
-sVx = {int: 1, str: 2, bool: 3}
+sV[ i.get('image', '') for i in v.values()]
 p60
+I9188
+sVx = {int: 1, str: 2, bool: 3}
+p61
 I16617
 sVtraceback.print_tb
-p61
-I17402
-sVimport_plugin('hp_splash')
 p62
-I12830
+I17402
 sVnotices += [x.notice for x in ReceiverNotice.objects.notices_for(u).select_related('notice').filter(notice__notice_type__in_chatterbox=True)]
 p63
 I21032
@@ -214,82 +214,91 @@ I6344
 sVprint u"\u005cxed"
 p72
 I298
-sVq.put(3)
-p73
-I16185
 sVany([1, 2] in a)
-p74
+p73
 I3475
-sVr = Room.objects.order_by('-id')[0]
-p75
-I17613
+sVa = dict((x, x) for x in range(10))
+p74
+I14998
 sVurllib.urlencode(a)
-p76
+p75
 I14249
-sVTranslateableModelTrans.fields
+sVr = Room.objects.order_by('-id')[0]
+p76
+I17613
+sVsettings.FACEBOOK_SECRET_KEY.value(32312)
 p77
+I10577
+sVTranslateableModelTrans.fields
+p78
 I5786
 sVf._meta.model
-p78
+p79
 I14865
 sVpq.move('matias', 'd3')
-p79
+p80
 I16215
 sVs.query(PhotoTag).outerjoin((pt_alias, pt_alias.c.photo_id==PhotoTag.photo_id & pt_alias.c.tag_id!=PhotoTag.tag_id)).filter(PhotoTag.tag_id==1 & pt_alias.c.tag_id!=6)
-p80
-I15380
-sVwith closing(database.connect(PRODUCT2DB_RO)) as conn:\u000a    items = database.iteritems(conn, sql, database.DICT, **{ "id": 2221 })\u000a    print list(items)
 p81
+I15380
+sVlen(a) + len(8) > 20
+p82
+I21568
+sVwith closing(database.connect(PRODUCT2DB_RO)) as conn:\u000a    items = database.iteritems(conn, sql, database.DICT, **{ "id": 2221 })\u000a    print list(items)
+p83
 I3612
 sVfrom toolbox.tokenizer import build_tokenizer
-p82
+p84
 I6411
 sVs.groups()
-p83
+p85
 I9081
 sV_()%@#@{%_({${*!)(*+$*!!+$&&]{^^!(#}@[&@&[}^#)]+{)__@_[+]%$)]}$[([^{)%&)@[+]!_!+
-p84
-I14072
-sVc.image.url
-p85
-I11306
-sVp sys.getrefcount.__doc__
 p86
-I4137
-sVclient.GetContactsFeed?
+I14072
+sVimport_plugin('hp_splash')
 p87
-I19788
-sVa = dict((x, x) for x in range(10))
+I12830
+sVclient.GetContactsFeed?
 p88
-I14998
-sVvirtual_models['image']
+I19788
+sVq.put(3)
 p89
+I16185
+sVvirtual_models['image']
+p90
 I8680
 sVweb.
-p90
-I18013
-sVi = CmsImageContent.objects.get(pk=83882)
 p91
-I9157
-sV[ i.get('image', '') for i in v.values()]
+I18013
+sVsys.path.append('/home/omab/.virtualenvs/andres/lib/python2.6/site-packages/python_snappy-0.2-py2.6.egg-info/')
 p92
-I9188
-sVa[a.find('(')+1:a.find(')')]
+I21579
+sVi = CmsImageContent.objects.get(pk=83882)
 p93
+I9157
+sVnew.instancemethod.__doc__
+p94
+I5831
+sVa[a.find('(')+1:a.find(')')]
+p95
 I502
 sVm = "matias aguirre <%s>" % settings.DEFAULT_FROM_EMAIL
-p94
-I5469
-sVf.widget.id_for_label()
-p95
-I3371
-sVt = time.mktime(x.timetuple())
 p96
+I5469
+sVr.headers['location']
+p97
+I7882
+sVp sys.getrefcount.__doc__
+p98
+I4137
+sVt = time.mktime(x.timetuple())
+p99
 I18401
 sVfrom django.utils.simplejson import JSONDecodeError
-p97
+p100
 I18466
-sVStopIteration.__class__
-p98
-I3654
+sVi0.text.text_text
+p101
+I676
 s.

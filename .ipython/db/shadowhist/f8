@@ -5,81 +5,81 @@ I16811
 sVimport decorator
 p3
 I2718
-sVecs.setLicenseKey('Your-AWS-License-Key')
+sVCMS_LINK_RE.findall(s)
 p4
-I6069
-sVforms.form_for_fields([f])
+I15019
+sVr = re.compile("(?<\u005cs)[a-fA-F0-9]{40}(?\u005cs)")
 p5
-I716
-sVprint "\u005cx2665"
-p6
-I6821
+I4935
 sVPost._meta.app_label
-p7
+p6
 I20941
 sVsc
-p8
+p7
 I15564
 sVi = list(UncategorizedProduct.objects.all()[0:3])
-p9
+p8
 I2627
 sVSearchParams?
-p10
+p9
 I14314
 sVdatetime.strptime?
-p11
+p10
 I11874
 sVs.result.have_other_results()
-p12
+p11
 I14360
 sVr.entries.filter(break_rules__isnull=True)
-p13
+p12
 I20270
 sVc.child
-p14
+p13
 I4583
 sVa.insert?
-p15
+p14
 I14659
 sVg.permissions.all()
-p16
+p15
 I6579
-sV2 << 30
-p17
-I6845
+sVsettings.STATIC_DEBUG
+p16
+I498
 sVboard.append('a b c d e f g h')
-p18
+p17
 I15949
-sVEmai
-p19
-I9688
 sV*_$+)&}*){${}!]+%[{{!+)+{!&]$!}{_]&)!!^+){&*#{@!##_(^%^$([!+&+($&)##[&[^_{##{(**
-p20
+p18
 I14063
 sVr = c.post(f.getAttribute('action'), data=data)
-p21
+p19
 I20712
 sVm.category.categories.all()
-p22
+p20
 I5413
-sV'%02x' % 10
-p23
-I6263
+sV2 << 30
+p21
+I6845
+sVa.lstrip("hola").lower()
+p22
+I1659
 sVitertools.tee(iter(a), 15)
-p24
+p23
 I5308
 sVtokenize = build_tokenizer(phrases, base_tokenizer=SingleTokenizer(stopwords=[None]))
-p25
+p24
 I6489
-sVg = GetParamsHelper({ 'a': [ 1, 2, 3] })
+sVct.tokenize_html(text)[1]
+p25
+I6373
+sVfrom django.template import RequestContext
 p26
-I7815
+I10773
 sVs = api.home_timeline()[0]
 p27
 I16450
-sVfor line in f:
+sV'%02x' % 10
 p28
-I926
+I6263
 sVq.select_fields
 p29
 I20479
@@ -92,171 +92,174 @@ I18725
 sVnltk.tokenize.RegexpTokenizer(text, re.compile('sofa bed'))
 p32
 I6438
-sVr = re.compile("(?<\u005cs)[a-fA-F0-9]{40}(?\u005cs)")
-p33
-I4935
 sVp.stdin.write('a4')
-p34
+p33
 I15783
 sVx = zip(slugs, ids)
-p35
+p34
 I15124
-sVprint 1,
-p36
-I6555
+sVi = "56fd76089aa4301d71323fe807e840e1a1455fa1"
+p35
+I4099
 sVd = datetime.datetime("134964")
-p37
+p36
 I3228
 sVa[6:]
-p38
+p37
 I11735
 sVSiteCategory.objects.filter(slug='design-boutique')
-p39
+p38
 I14567
 sVreadline.insert_text()
-p40
+p39
 I3249
 sVfind_template_source('microsite_base.html', None)
-p41
+p40
 I8342
 sVw.name
-p42
+p41
 I10238
 sVs._flush
-p43
+p42
 I15224
 sVt = cipher_text("hola pepe", "hola mundo")
-p44
+p43
 I1130
-sVi = "56fd76089aa4301d71323fe807e840e1a1455fa1"
-p45
-I4099
+sVa.\u005c
+p44
+I1876
 sVa = [ A() for i in range(10) ]
-p46
+p45
 I5683
 sVa = "hola/"
-p47
+p46
 I5296
-sVy
-I2110
-sVct.tokenize_html(text)[1]
+sVforms.form_for_fields([f])
+p47
+I716
+sVEmai
 p48
-I6373
+I9688
 sVt._own_comments()[0].comment
 p49
 I20423
-sVminifb.call('pages_isFan', settings.FACEBOOK_SECRET_KEY, 1)
-p50
-I10585
 sVTvVideos.title_template
-p51
+p50
 I3220
+sVbase62_encode(100)
+p51
+I21517
 sV[x.notice for x in ReceiverNotice.objects.notices_for(u).select_related('notice').filter(notice__notice_type__in_chatterbox=True)]
 p52
 I21019
-sVfrom django.template import RequestContext
+sVd_p = date(1982, 11, 27)
 p53
-I10773
-sVNotice.objects.all()
+I6026
+sVEF_RE  = re.compile(r'href=[\u005c'"]([^\u005c'"]+)[\u005c'"]', re.I)
 p54
+I9888
+sVr = re.compile("\u005cbhole\u005cb", re.I)
+p55
+I6179
+sVNotice.objects.all()
+p56
 I20931
 sVa = "hola.mundo.cruel"
-p55
+p57
 I8501
 sVe.competition_id = None
-p56
+p58
 I19394
 sV[ t.name for t in Tag.objects.all() ]
-p57
-I269
-sVa.\u005c
-p58
-I1876
-sV'%02x' % 1024
 p59
-I6265
-sVa.lstrip("hola").lower()
+I269
+sV'%02x' % 1024
 p60
-I1659
-sVf.bind()
+I6265
+sVminifb.call('pages_isFan', settings.FACEBOOK_SECRET_KEY, 1)
 p61
+I10585
+sVfor line in f:
+p62
+I926
+sVf.bind()
+p63
 I2341
 sVdef save_bigtext(page, name, group, value):
-p62
+p64
 I4850
 sVp.primary_image_path
-p63
+p65
 I11551
 sVurlparse.urlparse('http://gooogle.com:8000')
-p64
+p66
 I18509
 sVx = [{'a': i, 'b': random.randint(1, 20)} for i in range(20)]
-p65
+p67
 I19994
 sVa = "hola mundo cruel"
-p66
+p68
 I11581
 sVItem._meta.pk.column
-p67
+p69
 I11017
 sV_traversal('37948')
-p68
+p70
 I6959
 sVpartial.__doc__
-p69
+p71
 I4608
 sVlist(s.query(PhotoTag).outerjoin((pt_alias, pt_alias.c.photo_id==PhotoTag.photo_id & pt_alias.c.tag_id!=PhotoTag.tag_id)).filter(PhotoTag.tag_id==1).filter(~pt_alias.c.tag_id = None)))
-p70
+p72
 I15384
 sVfrom os.path import pathsep
-p71
+p73
 I16198
 sVaction
-p72
-I20754
-sVd_p = date(1982, 11, 27)
-p73
-I6026
-sVlist(Website.objects.filter(name="Amazon"))
 p74
+I20754
+sVlist(Website.objects.filter(name="Amazon"))
+p75
 I3619
 sVdatetime.timedelta(month=)
-p75
+p76
 I20049
 sVs.readline()
-p76
+p77
 I16004
 sVa[:4 * (len(a)/4)]
-p77
+p78
 I8755
 sVlen("a-b")
-p78
-I1980
-sVEF_RE  = re.compile(r'href=[\u005c'"]([^\u005c'"]+)[\u005c'"]', re.I)
 p79
-I9888
+I1980
+sVy
+I2110
 sVp.parent.name
 p80
 I19878
-sV{]][(!_(+}$%*_]*&$!_[@$})#@)]*%#]*{)$@*!^#[]**+]&])$@*@]{$_+]]^_*+*+)%!_!}#}^@*[
+sVg = GetParamsHelper({ 'a': [ 1, 2, 3] })
 p81
-I12922
-sVCMS_LINK_RE.findall(s)
+I7815
+sV{]][(!_(+}$%*_]*&$!_[@$})#@)]*%#]*{)$@*!^#[]**+]&])$@*@]{$_+]]^_*+*+)%!_!}#}^@*[
 p82
-I15019
+I12922
 sVf = BuyTheLook._meta.get_field('creator')
 p83
 I5734
 sVqs.count()
 p84
 I17580
-sVr = re.compile("\u005cbhole\u005cb", re.I)
+sVecs.setLicenseKey('Your-AWS-License-Key')
 p85
-I6179
-sVa.pop(5)
+I6069
+sVprint "\u005cx2665"
 p86
-I8777
-sVsettings.STATIC_DEBUG
+I6821
+sVa.pop(5)
 p87
-I498
+I8777
+sVprint 1,
+p88
+I6555
 s.

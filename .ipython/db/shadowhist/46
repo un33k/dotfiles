@@ -5,289 +5,292 @@ I16183
 sVx.start()
 p3
 I6213
-sVd['s1']['header']['form']
-p4
-I8946
-sVm.name
-p5
-I5496
-sVlocale.setlocale(10)
-p6
-I5751
-sVimport logging
-p7
-I9364
 sVa.match('jdkajsd_djakdjas').groups()
-p8
+p4
 I14277
-sVw.do_show()
-p9
-I18042
-sVe.end()
-p10
-I16133
-sVhxs.select('//div[@id="Categorias"]/div[@class="margin"]//a/@href').extract()
-p11
-I16624
-sVp.has_shared_fragments
-p12
-I589
+sVd['s1']['header']['form']
+p5
+I8946
+sVi.title_pt
+p6
+I11233
+sVm.name
+p7
+I5496
 sV[{)_[)*@_#*($(%${[)$[%^@+%&!}]_&(^()#()_{_&_&*&[}+!$^$!]++*}])$$]!}[+@%{!]*^}(%]
-p13
+p8
 I13009
-sVr.sub('', a)
+sVimport logging
+p9
+I9364
+sVa.items.append(1)
+p10
+I18210
+sVf.add?
+p11
+I12377
+sVfrom cms.models import Page
+p12
+I5015
+sVev = EmailVisionIntegration.objects.get(pk=4)
+p13
+I8393
+sVnumbered_list
 p14
+I5369
+sVr.sub('', a)
+p15
 I9088
 sVLIST_ITEM_RE = re.compile('[^\u005c[]+\u005c[\u005cd+\u005c]$')
-p15
+p16
 I9965
 sV'0' < 'A'
-p16
-I14124
-sV__import__(m, {}, {}, [a])
 p17
-I8467
-sVrewrite_url('bestonlinesofas.com', '/microsite/bestonlinesofas.com/the-magazine')
+I14124
+sV{!]^*+#]$!@+!$)^%)!&[$*[@!(_)[![)(}$}*)$(&%%&+^}+^%%&^_}]!(&]#+$*__*))#*{_&*]{*@
 p18
+I12948
+sVrewrite_url('bestonlinesofas.com', '/microsite/bestonlinesofas.com/the-magazine')
+p19
 I8807
 sVresolved =  [u'0019fdeaa35b6e3ab71c48361f373dec171b5b4c', u'00923836cf99da9a2c92216c8d42d6230f701953', u'00a631a74821b6041b36b38e5c81492340d8b302', u'00cf8cb62499e385e088fe79f34170dadcce128d']
-p19
+p20
 I4229
 sVa = 'article_items__current'
-p20
-I19238
-sVfrom cms.models import Page
 p21
-I5015
-sVclass _DummyImageModel(models.Model):\u000a    image = models.ImageField(upload_to=IMAGE_UPLOAD_TO)
+I19238
+sVp = pages[-1]
 p22
-I4911
-sVg.shortest_path('a', 'd')
+I5481
+sVclass _DummyImageModel(models.Model):\u000a    image = models.ImageField(upload_to=IMAGE_UPLOAD_TO)
 p23
-I6910
-sV[(u.id, u.username) for u in User.objects.all()]
+I4911
+sVopr
 p24
-I20084
-sVa = ARC4.new("hola mundo")
+I404
+sVg.shortest_path('a', 'd')
 p25
+I6910
+sVThread
+p26
+I21467
+sVa = ARC4.new("hola mundo")
+p27
 I993
 sV+){@)%$*[$_#))[({)&()[_^&^+#}%#((+@@[$+!^[%*_{]*+)}#$${+!@_)@@)@%**]_]))$$^&**!_
-p26
-I12947
-sVweb.geometry().size()
-p27
-I18024
-sVquery="sofa"
 p28
-I2826
-sVi.title_pt
+I12947
+sVdef pepe(a, b, c=1, d=2):
 p29
-I11233
-sVSpecialOffer.add_to_class('b', SpecialOffer._meta.fields[2])
+I6541
+sVitertools.permutations
 p30
-I7160
-sVa[slice(1, None)]
+I12500
+sVf = nodes[3].node
 p31
+I10256
+sVa[slice(1, None)]
+p32
 I16747
 sVf = Form(instance=v)
-p32
+p33
 I15505
 sVFunctionType("print 'hola'", {})
-p33
+p34
 I6299
 sVChatterboxThread._meta.module_name
-p34
+p35
 I21281
 sVs.strip('/').split('/')
-p35
+p36
 I15117
 sVrandom.randint(1, range(10))
-p36
+p37
 I7043
 sVc.acquire?
-p37
+p38
 I15998
 sVu = User.objects.get(username='maguirre')
-p38
+p39
 I19579
 sVw._get_next_or_previous_in_order()
-p39
-I6309
-sVopr
 p40
-I404
+I6309
 sV}]{!}#]$[!&&[*(!]!$))%+$%{!{^[^[$@[((]#!%@)!]__+{}%{_^_!{@{)^)+&%&!^*{_&$][!]@_%
 p41
 I13427
-sVconnection.options.pop('autocommit')
+sVreversion.__path__
 p42
+I20379
+sVconnection.options.pop('autocommit')
+p43
 I11899
 sVb = pepe()
-p43
-I4619
-sVnumbered_list
 p44
-I5369
-sVos?
+I4619
+sVa = {'a': 1, 'b': 2, 'c': 3}
 p45
-I15442
-sVdef func(x, y, r=False, *args, **kwargs):
+I19539
+sVos?
 p46
+I15442
+sVfrom django.template.defaulttags import slugify
+p47
+I12136
+sVdef func(x, y, r=False, *args, **kwargs):
+p48
 I18168
 sVgroupby(o, key=lambda q: q.question_id)
-p47
+p49
 I19037
 sVs = time()
-p48
+p50
 I9803
 sVfrom django.db.models import DoesNotExist
-p49
+p51
 I8717
 sV[1, 2] in a
-p50
+p52
 I3474
 sVimport randr
-p51
+p53
 I15670
 sVraw_input.__doc__
-p52
+p54
 I3267
 sVa = range(29, 39)
-p53
-I17571
-sVa.items.append(1)
-p54
-I18210
-sVs.widget.id_for_label
 p55
-I4111
-sVr.find(s)
+I17571
+sV[(u.id, u.username) for u in User.objects.all()]
 p56
+I20084
+sVs.widget.id_for_label
+p57
+I4111
+sVe.end()
+p58
+I16133
+sVfd = open("/home/omab/text_contents")
+p59
+I1609
+sVr.find(s)
+p60
 I6228
 sVupdate cms_fragment_template set content_names = "headline/text,subheading/text,content/largetext,linkUrl/text
-p57
+p61
 I6671
-sVp = pages[-1]
-p58
-I5481
-sVdiscoverer.initPlayerEngine
-p59
-I15915
+sVct = ClassificationTokenizer({ 'article': 'html' }, phrases=['seats'])
+p62
+I6384
 sVf.image.name
-p60
+p63
 I4186
 sVimport this
-p61
+p64
 I1
 sVimg2 = Image.open('/home/omab/src/face/average.png')
-p62
+p65
 I12455
 sVt = Tag.get(12)
-p63
+p66
 I15318
 sVc2.top_catname
-p64
-I8529
-sVev = EmailVisionIntegration.objects.get(pk=4)
-p65
-I8393
-sVSupplierUserData.objects.filter(about__not='')[0]
-p66
-I19829
-sVc1 = f.drawerheading
 p67
-I1340
-sVreversion.__path__
+I8529
+sVp.has_shared_fragments
 p68
-I20379
-sVRoomCompetition()
+I589
+sVSpecialOffer.add_to_class('b', SpecialOffer._meta.fields[2])
 p69
+I7160
+sVc1 = f.drawerheading
+p70
+I1340
+sVlist(q.filter(PhotoTag.tag_id.in_(6)))
+p71
+I15352
+sVRoomCompetition()
+p72
 I19971
 sVUserWarning?
-p70
+p73
 I19251
 sVpythonBooks = amazon.searchByKeyword('Python')
-p71
+p74
 I6106
-sVlist(q.filter(PhotoTag.tag_id.in_(6)))
-p72
-I15352
+sVSupplierUserData.objects.filter(about__not='')[0]
+p75
+I19829
 sVgroupby(votes, lambda x: x.created.date())
-p73
+p76
 I18841
 sV%^[[{%@)%%+$}((*(_^_${*[$&+}@%&^$%&[+!@#]*%+$_@*!}#)#*((*&[$!+_]%[^$[]+$[({$}}!$
-p74
+p77
 I13494
 sVArticle._meta.get_all_related_objects()[0]
-p75
-I11958
-sV{!]^*+#]$!@+!$)^%)!&[$*[@!(_)[![)(}$}*)$(&%%&+^}+^%%&^_}]!(&]#+$*__*))#*{_&*]{*@
-p76
-I12948
-sVos.path.splitext('a.jpg')
-p77
-I290
-sVf.add?
 p78
-I12377
-sVf = nodes[3].node
+I11958
+sVos.path.splitext('a.jpg')
 p79
-I10256
+I290
 sVgc.move('a4')
 p80
 I16138
-sVdef pepe(a, b, c=1, d=2):
+sVweb.geometry().size()
 p81
-I6541
-sVweakref.ref(1)
+I18024
+sVdiscoverer.initPlayerEngine
 p82
-I4147
-sVitertools.permutations
+I15915
+sVweakref.ref(1)
 p83
-I12500
-sVu.friendships_requested.select_related('friend_a').values('friend_a')
+I4147
+sVw.do_show()
 p84
-I20076
-sVct = ClassificationTokenizer({ 'article': 'html' }, phrases=['seats'])
+I18042
+sVArticle._meta.get_all_related_many_to_many_objects()
 p85
-I6384
-sVtime.time()
+I11961
+sVu.friendships_requested.select_related('friend_a').values('friend_a')
 p86
+I20076
+sV2**38
+p87
+I12857
+sVlocale.setlocale(10)
+p88
+I5751
+sVtime.time()
+p89
 I2128
 sVph.section1.a63d754c0ff711dea2dc001f3c609307['name1']
-p87
+p90
 I5095
 sVItem.objects.all().set_language('es')[0].current_language
-p88
-I11031
-sVArticle._meta.get_all_related_many_to_many_objects()
-p89
-I11961
-sV$@^)[($^}@%}(&&)_}$%}&{$)@[+!}+^]+{$+$({_[)@*)&!{}+[$*}#!}@_{{(]]@*%*)]%_}%[{&$)
-p90
-I13803
-sVa = {'a': 1, 'b': 2, 'c': 3}
 p91
-I19539
-sV'1' == 1
+I11031
+sV__import__(m, {}, {}, [a])
 p92
+I8467
+sV$@^)[($^}@%}(&&)_}$%}&{$)@[+!}+^]+{$+$({_[)@*)&!{}+[$*}#!}@_{{(]]@*%*)]%_}%[{&$)
+p93
+I13803
+sV'1' == 1
+p94
 I10953
 sVv.render(Context())
-p93
-I10107
-sVfrom django.template.defaulttags import slugify
-p94
-I12136
-sV2**38
 p95
-I12857
-sVs.result.results.values()[0]['similarity_base_items']
+I10107
+sVquery="sofa"
 p96
-I10665
-sVfd = open("/home/omab/text_contents")
+I2826
+sVs.result.results.values()[0]['similarity_base_items']
 p97
-I1609
-sVdef g(self, name):
+I10665
+sVhxs.select('//div[@id="Categorias"]/div[@class="margin"]//a/@href').extract()
 p98
+I16624
+sVdef g(self, name):
+p99
 I3680
 s.

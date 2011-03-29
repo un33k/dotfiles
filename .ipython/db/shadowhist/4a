@@ -2,36 +2,36 @@
 V&$+#])%@_*}{[}$!{#}!^%*)++$]&]!_{_+_]%#&@&$&)*!(]+_+}}]_+#){[^]#^+)$#!)&)[+#[)}}
 p2
 I13926
-sVlines = fd.readlines()
+sVo.takes_value
 p3
-I12325
-sV[@**!)^[#^^%#*(!_{((&!*%!!+&+%)_{$}+^@[)[@]$_$*+&(&{)^%]}(()*){[{]@}[]]*%!#](*%@
+I7059
+sVf.list_ex[0].next_obj.name
 p4
-I13609
-sVProduct.objects.filter(pk__in=products)
+I1868
+sV[@**!)^[#^^%#*(!_{((&!*%!!+&+%)_{$}+^@[)[@]$_$*+&(&{)^%]}(()*){[{]@}[]]*%!#](*%@
 p5
-I7413
+I13609
 sVxxx(1, 2, 3, 4, 5, 3, h=4)
 p6
 I19922
-sVp = urlparse.urlparse('http://extranet.mydeco.com/')
+sVprint u'\u005c\u005c0x262e'
 p7
-I9850
-sVa = Person.objects.filter(address='pepe')
+I4611
+sVt = Template('{% article_tracked_url "23131" "http://google.com/" %
 p8
-I5853
-sVclass HM(object):
+I15010
+sVforms.CharField?
 p9
-I4600
-sVcmp(-1, 1)
+I14386
+sVCmsComment.objects.full_page_comments(20).count()
 p10
-I19986
-sVa % ("ho", "12" )
+I748
+sV__file__
 p11
-I4282
-sVall.__doc__
+I5031
+sVa = Person.objects.filter(address='pepe')
 p12
-I1747
+I5853
 sVM = class M(object):\u000a    __metaclass__ = MetaClass
 p13
 I16964
@@ -41,178 +41,181 @@ I5230
 sVclass Ff(forms.Form):\u000a    name = forms.CharField()\u000a    label = forms.CharField()\u000a    def __init__(self, fname, *args, **kwargs):\u000a        self.fields[fname] = forms.CharField()\u000a        super(F, self).__init__(*args, **kwargs)
 p15
 I4882
-sVpaid = True
+sVa*10
 p16
-I12349
-sVp open.__doc__
+I9796
+sVpaid = True
 p17
-I6916
-sVt.widget.value_from_datadict()
+I12349
+sVp FunctionType.__doc__
 p18
-I20036
-sVi.user.get_avatar_url()
+I6298
+sVt.widget.value_from_datadict()
 p19
-I4009
-sVn.order_by('-created')
+I20036
+sVdatetime.datetime.strptime(s, '%Y-%m-%d %H:%M:%S %Z')
 p20
-I21309
-sVt = Template('{% article_tracked_url "23131" "http://google.com/" %
+I17703
+sVx = uuid.uuid4()
 p21
-I15010
-sVfrom functools import wraps
+I18475
+sVf.f_back.f_trace
 p22
-I11127
-sVfrom social_auth.backends.facebook import FacebookAuth
+I4259
+sVfrom functools import wraps
 p23
+I11127
+sVt =
+p24
+I14816
+sVfrom social_auth.backends.facebook import FacebookAuth
+p25
 I21070
 sVx.image
-p24
-I19840
-sVclass MyOptionParser(optparse.OptionParser):\u000a    def error(self, values, *args, **kwargs):\u000a        print values.__dict__
-p25
-I16280
-sVd._round_floor(2)
 p26
-I10723
-sVfrom search.results import RefineOption
+I19840
+sVprint urllib2.quote.__doc__
 p27
+I3338
+sVreversed
+p28
+I21554
+sVp open.__doc__
+p29
+I6916
+sVd._round_floor(2)
+p30
+I10723
+sVt = TranslateableModel.objects.select_related().lang('es')
+p31
+I5860
+sVfrom search.results import RefineOption
+p32
 I8877
 sVItem.objects.set_language('es').set_language('ru')[0].title_p
-p28
+p33
 I11123
-sVp = subprocess.Popen(['/usr/games/gnuchess'], stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-p29
-I15776
+sVg.parent.obnob_users.officers
+p34
+I20519
 sVw = Wear.objects.get(62)
-p30
+p35
 I6294
 sV+@*_*[&%%(_++!{]*+&(*%%@{!!*%!*^}]}$&}#[+*&+@((#](@(&*{+](#%!%[%]@#+[_+(^[*&[}${
-p31
-I13931
-sVs.result.startrank
-p32
-I14355
-sVo.takes_value
-p33
-I7059
-sVprint u'\u005c\u005c0x262e'
-p34
-I4611
-sVf.f_back.f_trace
-p35
-I4259
-sVb = dict(((i, a[i]) for i in len(a))
 p36
+I13931
+sVlines = fd.readlines()
+p37
+I12325
+sVcmp(-1, 1)
+p38
+I19986
+sVi.user.get_avatar_url()
+p39
+I4009
+sVb = dict(((i, a[i]) for i in len(a))
+p40
 I5684
 sVa[:0]
-p37
+p41
 I358
 sVfrom django.utils.dateformat import time_format
-p38
+p42
 I3223
 sVa = 'Dez'
-p39
+p43
 I16771
-sV[m.user for m in x]
-p40
-I20151
+sVall.__doc__
+p44
+I1747
 sVRoomCompetition.objects.filter(community_judged=True)
-p41
+p45
 I20264
 sVItem.objects.set_language('es').get(pk=1).title
-p42
+p46
 I11104
 sVst.headers.dict
-p43
+p47
 I7850
 sVr.search('silk curtains').groups()
-p44
-I19384
-sVdatetime.datetime.strptime(s, '%Y-%m-%d %H:%M:%S %Z')
-p45
-I17703
-sVzip('87654321', board)
-p46
-I15950
-sVx = uuid.uuid4()
-p47
-I18475
-sVr.regex.match('')
 p48
-I8248
-sVt = TranslateableModel.objects.select_related().lang('es')
+I19384
+sVn.order_by('-created')
 p49
-I5860
-sVCmsComment.objects.full_page_comments(20).count()
+I21309
+sVzip('87654321', board)
 p50
-I748
-sVg.parent.obnob_users.officers
+I15950
+sVclass HM(object):
 p51
-I20519
-sV_cache_values()
+I4600
+sVr.regex.match('')
 p52
-I4984
-sVprint urllib2.quote.__doc__
+I8248
+sV[m.user for m in x]
 p53
-I3338
-sVitem.select('./img[contains(@src, "/img/default/images/stars")]/@title').extract()
+I20151
+sVs.result.startrank
 p54
+I14355
+sV_cache_values()
+p55
+I4984
+sVa % ("ho", "12" )
+p56
+I4282
+sVitem.select('./img[contains(@src, "/img/default/images/stars")]/@title').extract()
+p57
 I16644
 sVPepe().xxx()
-p55
-I20199
-sV__file__
-p56
-I5031
-sVforms.CharField?
-p57
-I14386
-sVx = 'http://linuxaddict.livejournal.com'
 p58
-I19440
-sVp FunctionType.__doc__
+I20199
+sVp = subprocess.Popen(['/usr/games/gnuchess'], stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 p59
-I6298
-sVr.split(quote(a))
+I15776
+sVx = 'http://linuxaddict.livejournal.com'
 p60
+I19440
+sVr.split(quote(a))
+p61
 I14679
 sVub.save()
-p61
-I6173
-sVf.list_ex[0].next_obj.name
 p62
-I1868
-sVqs = u.obnob_groups.active()
+I6173
+sVp = urlparse.urlparse('http://extranet.mydeco.com/')
 p63
-I20176
-sVt =
+I9850
+sVqs = u.obnob_groups.active()
 p64
-I14816
-sV]*%!]!&{%+%@{_}*#_@$)^{{]&&^]{+)@(&+!&@_*@}^@}%(]@$}${_}{#*)!@!*)@%(%$*}(]#&&{&+
+I20176
+sVProduct.objects.filter(pk__in=products)
 p65
+I7413
+sV]*%!]!&{%+%@{_}*#_@$)^{{]&&^]{+)@(&+!&@_*@}^@}%(]@$}${_}{#*)!@!*)@%(%$*}(]#&&{&+
+p66
 I13078
 sVprint smart_unicode(a)
-p66
+p67
 I7577
 sVbooks[0].ASIN
-p67
+p68
 I6087
 sVp = subprocess.Popen(['/usr/games/gnuchess', '-e'], stdin=subprocess.PIPE, stdout=subprocess.PIPE)
-p68
+p69
 I15852
 sVrandom.random()
-p69
+p70
 I367
 sVrange(sr, max, by)
-p70
-I6531
-sVa*10
 p71
-I9796
-sVf = p._meta.get_field_by_name('child')[0]
+I6531
+sVclass MyOptionParser(optparse.OptionParser):\u000a    def error(self, values, *args, **kwargs):\u000a        print values.__dict__
 p72
+I16280
+sVf = p._meta.get_field_by_name('child')[0]
+p73
 I18785
 sVctx = get_shopping_context(path='/0')
-p73
+p74
 I8526
 s.

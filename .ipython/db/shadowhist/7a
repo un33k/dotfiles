@@ -1,251 +1,254 @@
 (dp1
-Vdef move(proc, pos):\u000a    proc.stdin.write(pos + '\u005cn')\u000a    lines = []\u000a    try:\u000a        while True:\u000a            lines.append(proc.stdout.readline())\u000a    except IOError:\u000a        pass\u000a    return [ l for l in lines if l.startswith('My move is') ]
+Vall(s.query(PhotoTag, pt_alias).outerjoin((pt_alias, pt_alias.c.photo_id==PhotoTag.photo_id & pt_alias.c.tag_id!=PhotoTag.tag_id)))
 p2
-I15829
-sV[)!^){!+@%(^_)[]@(]+&^_@[*(_@^*##*&*$!{^{!&#@(%&(@!]^[]({!+(]+^}&&${{]^!+#^*#&%{
+I15372
+sVp = Product.objects.get(guid="2dad85e2e9db01578901902625be0439a41a0423")
 p3
-I12927
-sVstr(c.form_set())
+I2472
+sVc = calendar.Calendar()
 p4
+I18495
+sVstr(c.form_set())
+p5
 I1345
 sV[!*@]%*[_^!#{{)@![$+^__[]{($+}}{}[$[]^{+(*(^)&*&#^][@{&@)+^*{%@^)+++&!&[{(@{!]{]
-p5
+p6
 I13929
 sVfrom pyflakes.scripts.pyflakes import main
-p6
+p7
 I5578
 sVquit()
-p7
+p8
 I16064
 sVreverse('cms_edit', args=(10,))
-p8
-I12677
-sVrandom.randint(1)
 p9
-I7039
-sVa.normalize()
+I12677
+sV0xfffd - 0xa
 p10
-I2156
-sV((*&@}}&$)!*@$}*^!]+]))!!*%^[%(+[{!(_%]&^$[#!#]{+$+]*}[[*@&&!+^#%!})&$]{*(&+@&+^
+I11691
+sVh.drawers_slider_1[0].has_next
 p11
-I13996
+I1300
 sVct = ContentType.objects.get_for_model(CmsImageContent)
 p12
 I17461
-sVa.append(20)
+sVq.put(5)
 p13
-I15527
+I16189
 sVr = re.compile(r'{%\u005cs*article_tracked_url\u005cs+([\u005c'"])([^\u005c1]+?)\u005c1([\u005c'"])([^\u005c3]+?)\u005c3\u005cs*%}')
 p14
 I14947
-sVCategoryHierarchy._meta.get_field()
+sVa[Pepe]
 p15
-I4568
-sVurlresolvers.reverse("wears", a=1)
+I4821
+sV[)!^){!+@%(^_)[]@(]+&^_@[*(_@^*##*&*$!{^{!&#@(%&(@!]^[]({!+(]+^}&&${{]^!+#^*#&%{
 p16
-I2858
-sV!(%*(@[^+$@_&}#}#[}{^#({^}!)}*$$}(_(+)*!+)[]#+@(%&}}!)}!]$$^(%_)_&[&_%*#(^%)@[#)
+I12927
+sVint_to_base36(x.int)
 p17
-I13253
-sVimg.rotate(-45)
+I21505
+sVt.fmap.page
 p18
+I14908
+sVimg.rotate(-45)
+p19
 I12283
 sV&[#$!&+}!*#%_!%+&&[@(![+*@}^%@)@+(_@(%{$[]_[%)}_))}$*#+$(]@%{#!)&_#@!!]{!}){&@@(
-p19
-I13737
-sVurlsplit('http://localhost:8000/')
 p20
-I9042
-sVimport pickle
+I13737
+sVa.remove()
 p21
-I3162
-sVh = HTMLParser.HTMLParser
+I16128
+sVc = CatInfo()
 p22
-I6592
-sVm = 'tipocms'
+I3844
+sVimport tipocm
 p23
-I8464
-sVd = r.findall(v)[0].strip()
+I8470
+sVhelp(sqlite3.connect)
 p24
-I16658
-sVc = calendar.Calendar()
+I7512
+sVh = HTMLParser.HTMLParser
 p25
-I18495
-sVDateField.widget.media
+I6592
+sVraw_input("Hola:")
 p26
+I15923
+sVd = r.findall(v)[0].strip()
+p27
+I16658
+sVDateField.widget.media
+p28
 I18405
 sVf.content_lists
-p27
+p29
 I1721
 sVCmsContentMapping.objects.filter(page__in=ids, name='heading').values('object_id')
-p28
+p30
 I8841
 sVround(round(a, 1))
-p29
-I2164
-sVarticle_tracked_url({}, "furniture123.co.uk", "http://www.furniture123.co.uk/layouts/search/search.asp?cms=true&action=freeSearch&free_text=myd050309&x=0&y=0&cm_mmc=mydeco-_-bedmonthpromo-_-none-_-none")
-p30
-I4630
-sVa = "%(hola)s mundo"
 p31
-I2708
-sVh.drawers_slider_1[0].has_next
+I2164
+sVr = re.compile('var ([^ ]+) = [\u005c'"]?([^;]+)[\u005c'"]?;')
 p32
-I1300
-sVsys.modules['path']
+I17086
+sVa = "%(hola)s mundo"
 p33
+I2708
+sVurlsplit('http://localhost:8000/')
+p34
+I9042
+sVsys.modules['path']
+p35
 I11180
 sVm.handler_is_connected(0)
-p34
+p36
 I8051
 sVfrom urllib import urlretrieve
-p35
+p37
 I9798
 sVAES.block_size
-p36
+p38
 I982
 sVa = "jdaskdjak"
-p37
-I1000
-sV0xfffd - 0xa
-p38
-I11691
-sVarr(9, 5) / 2 / 2 / 2 / 3 / 3 / 3
 p39
-I5663
-sVx.add_node?
+I1000
+sVa.normalize()
 p40
-I19172
-sVthumbnail("/" + i.image, "width=80,height=80")
+I2156
+sVarr(9, 5) / 2 / 2 / 2 / 3 / 3 / 3
 p41
+I5663
+sVthumbnail("/" + i.image, "width=80,height=80")
+p42
 I3813
 sVr.show_previous
-p42
+p43
 I4090
 sVPost.objects.annotate(num_posts=Count('id'))[0].num_posts
-p43
-I15691
-sVa.__class__.__name__
 p44
-I16353
-sVdatetime.datetime(d2.timetuple())
+I15691
+sVx.timetuple
 p45
+I19199
+sVdef move(proc, pos):\u000a    proc.stdin.write(pos + '\u005cn')\u000a    lines = []\u000a    try:\u000a        while True:\u000a            lines.append(proc.stdout.readline())\u000a    except IOError:\u000a        pass\u000a    return [ l for l in lines if l.startswith('My move is') ]
+p46
+I15829
+sVdatetime.datetime(d2.timetuple())
+p47
 I4053
 sVe = c.entries.order_by('-id')[0]
-p46
+p48
 I19392
 sVimport gc
-p47
-I4155
-sVimport test
-p48
-I6534
-sVlist(groupby(qs, lambda x: int(x.competition_id)))
 p49
+I4155
+sVa.__class__.__name__
+p50
+I16353
+sVlist(groupby(qs, lambda x: int(x.competition_id)))
+p51
 I19118
 sVparent = get_object_or_404(qs, slug='design-boutique')
-p50
-I14560
-sVall(s.query(PhotoTag, pt_alias).outerjoin((pt_alias, pt_alias.c.photo_id==PhotoTag.photo_id & pt_alias.c.tag_id!=PhotoTag.tag_id)))
-p51
-I15372
-sVf = CmsFragment.objects.all()[0]
 p52
-I3716
-sVurlparse.urlunparse(('', '', '/a', '?a=1', '', ''))
+I14560
+sVm = 'tipocms'
 p53
-I20788
-sVq.put(5)
+I8464
+sVf = CmsFragment.objects.all()[0]
 p54
-I16189
-sVdef pepe(a, b):
+I3716
+sVCategoryHierarchy._meta.get_field()
 p55
-I9093
-sVp.func(2)
+I4568
+sVdef pepe(a, b):
 p56
-I17
-sVjson = json.readlines()
+I9093
+sVimport test
 p57
+I6534
+sVjson = json.readlines()
+p58
 I11594
 sVurl = h.get_authorization_url()
-p58
-I16404
-sVimport tipocm
 p59
-I8470
-sVfrom search.models import ArticleSearch
+I16404
+sVurlresolvers.reverse("wears", a=1)
 p60
+I2858
+sVfrom search.models import ArticleSearch
+p61
 I9502
 sVs = sha.sha("pepe")
-p61
+p62
 I934
 sVhas_feed("/the-magazine/")
-p62
+p63
 I3980
 sVDecimal("0")
-p63
+p64
 I2094
 sVrange(1, 6)
-p64
+p65
 I3792
 sVf._errors['query'].__unicode__()
-p65
-I12721
-sVos.walk?
 p66
-I12380
-sVa[Pepe]
+I12721
+sVp.func(2)
 p67
-I4821
-sVb.show()
+I17
+sVarticle_tracked_url({}, "furniture123.co.uk", "http://www.furniture123.co.uk/layouts/search/search.asp?cms=true&action=freeSearch&free_text=myd050309&x=0&y=0&cm_mmc=mydeco-_-bedmonthpromo-_-none-_-none")
 p68
-I18067
-sVt.fmap.page
+I4630
+sVb.show()
 p69
-I14908
-sVd.hour
+I18067
+sVurlparse.urlunparse(('', '', '/a', '?a=1', '', ''))
 p70
-I11821
-sVraw_input("Hola:")
+I20788
+sVos.walk?
 p71
-I15923
-sVstr(b)
+I12380
+sVa.append(20)
 p72
+I15527
+sVstr(b)
+p73
 I7585
 sVa[10:]
-p73
-I10054
-sVr = re.compile('var ([^ ]+) = [\u005c'"]?([^;]+)[\u005c'"]?;')
 p74
-I17086
-sVa.remove()
+I10054
+sVimport pickle
 p75
-I16128
-sVCmsPage._default_manager.filter(state="live").values("htt
+I3162
+sVx.add_node?
 p76
-I3470
-sVp = Product.objects.get(guid="2dad85e2e9db01578901902625be0439a41a0423")
+I19172
+sVd.hour
 p77
-I2472
-sVhelp(sqlite3.connect)
+I11821
+sVCmsPage._default_manager.filter(state="live").values("htt
 p78
-I7512
-sVc = CatInfo()
+I3470
+sV((*&@}}&$)!*@$}*^!]+]))!!*%^[%(+[{!(_%]&^$[#!#]{+$+]*}[[*@&&!+^#%!})&$]{*(&+@&+^
 p79
-I3844
-sVh.drawers_slider_1.list[0]
+I13996
+sV!(%*(@[^+$@_&}#}#[}{^#({^}!)}*$$}(_(+)*!+)[]#+@(%&}}!)}!]$$^(%_)_&[&_%*#(^%)@[#)
 p80
+I13253
+sVh.drawers_slider_1.list[0]
+p81
 I1268
 sVviews.misc
-p81
-I2503
-sVx.timetuple
 p82
-I19199
-sVf.has_next(f)
+I2503
+sVrandom.randint(1)
 p83
+I7039
+sVf.has_next(f)
+p84
 I1302
 sVa = [x for x in xrange(10)]
-p84
+p85
 I19219
 s.

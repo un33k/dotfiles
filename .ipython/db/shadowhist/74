@@ -1,82 +1,82 @@
 (dp1
-Vpd.dump()
+Vd + timedelta(7)
 p2
+I20057
+sVpd.dump()
+p3
 I797
 sVt.fmap
-p3
+p4
 I14906
 sVp = Page.objects.get(pk=135)
-p4
+p5
 I17788
 sVpurple.PurpleAccountsFind(None, 'XMPP')
-p5
+p6
 I5619
 sV*&]]{#)%%@{@$##[*][@#$[(@+()%%!@^]{$#!([+#@}&_)#_@{&{[#_}+__*_%+__+&&*!]&#%*%**&
-p6
+p7
 I13416
 sVc.sql_insert_or_update("pepe", { "row1": "value1", "row2": "value", "row3": "value3" })
-p7
+p8
 I3562
 sVfor line in fd.readlines():\u000a    line = line.replace("</", "")
-p8
+p9
 I1635
 sVtime.mktime(tuple(d2))
-p9
+p10
 I4045
 sVos.path.split('no_image')[-1]
-p10
+p11
 I818
 sVget_request_host()
-p11
+p12
 I14580
 sVhome_timeline
-p12
+p13
 I16439
 sV]*%@_+!}&+}_}[%^]#&{{+*%$&_#}#*]&%%})$+]@)+^})[&(+@$)^#)${@_(%!($]}^!{@}){+@!__)
-p13
+p14
 I13933
 sVa.__class__
-p14
-I2409
-sVlen(d)
 p15
-I5063
-sVVideo.objects.filter(user=omab)
+I2409
+sVa[:-4]
 p16
+I21559
+sVVideo.objects.filter(user=omab)
+p17
 I814
 sVb.encrypt("hola mundoo")
-p17
+p18
 I955
 sVtpl = 'cms/page/suppliers.html'
-p18
-I17475
-sVp = CmsPage.objects.filter(http_path__startswith='/article/')[0]
 p19
-I9175
-sVi = VideoIndex.search("maraca")
+I17475
+sVurlparse.urlparse('')
 p20
+I9922
+sVi = VideoIndex.search("maraca")
+p21
 I149
 sVapply(lambda k: sum([ i for i, j in k ]), a.items())
-p21
+p22
 I7030
 sV)}@&+[)!]__*(#*@)_[@}+}$!^&_^]*@!)_@!)$*()}[@*&}){%@}_@$[@]$*{_^}+[{}_}#+[&(^]]#
-p22
-I13647
-sVmod.__file__
 p23
-I11171
-sVb.encrypt("hola mundooo")
+I13647
+sVlen(d)
 p24
+I5063
+sVb.encrypt("hola mundooo")
+p25
 I956
 sVTranslateableModel.objects.lang(TranslateableModel.objects)
-p25
+p26
 I5828
 sVprint sys.copyright
-p26
-I2045
-sVurlparse.urlparse('')
 p27
-I9922
+I2045
 sVPost.objects.filter(author='3139312312')[:5]
 p28
 I19680
@@ -92,15 +92,15 @@ I3156
 sVi[1].count()
 p32
 I225
-sV(^$][(@))(!{(#))%+{{{+#{]{^}&#&+%_@#$%]_&($[!!}]++{%%(#%^(%+*_#^#[*!+&$!]_(@%^_]
+sV5 // 3
 p33
-I13088
+I14551
 sVsys.modules['a.b.c.x']
 p34
 I11186
-sVd + timedelta(7)
+sVa.attname = 'jdakjda'
 p35
-I20057
+I14376
 sVisinstance(a, basestring)
 p36
 I12603
@@ -119,160 +119,163 @@ I19885
 sVurljoin.__class__
 p41
 I17657
-sVPAGES['shopping.s']
+sVmod.__file__
 p42
+I11171
+sVPAGES['shopping.s']
+p43
 I17777
 sV#*!#^*+[_!$^%&)%$_@%}[%}#{{}%!$)[%+[[&%)^(@(_^)!*@#^#@@+@[(@)$(^&_}%%)@{$%+){(+[
-p43
+p44
 I13595
 sVcoords
-p44
+p45
 I10913
 sVtrans = string.maketrans('kqe', 'wqp')
-p45
-I9917
-sVdatetime.datetime.strptime(n)
 p46
-I11840
-sVr._user_cache
+I9917
+sVa = 'contents__hola'
 p47
-I11482
-sVm = MenuData('Magazine')
+I10053
+sVr._user_cache
 p48
+I11482
+sVa.add("hola")
+p49
+I10612
+sVm = MenuData('Magazine')
+p50
 I5153
 sVDATE_RE.findall(s)[0][1].strip().split(' ', 4)[1:]
-p49
+p51
 I16768
 sVv.val.read()
-p50
+p52
 I8666
 sVxor(1, 2)
-p51
+p53
 I2370
 sVu = models.Url('/')
-p52
-I8603
-sVimport functools
-p53
-I2418
-sVprint t.id
 p54
+I8603
+sVprint t.id
+p55
 I15249
 sVp.url
-p55
+p56
 I2630
 sVp = get_page(pk=14146)
-p56
+p57
 I12638
 sVimport shove
-p57
+p58
 I3133
 sVabsolute_reverse('highend_action', ticlet='dajdkasj')
-p58
+p59
 I14294
 sVo = Option.objects.filter(quesiont__id__in=pk)
-p59
-I19035
-sVa[0:-1:50]
 p60
-I17559
-sVq = Question.objects.get(pk=1)
+I19035
+sVp = CmsPage.objects.filter(http_path__startswith='/article/')[0]
 p61
-I18992
-sVa.add("hola")
+I9175
+sVa[0:-1:50]
 p62
-I10612
-sVcm.move('a4')
+I17559
+sVdatetime.datetime.strptime(n)
 p63
+I11840
+sVq = Question.objects.get(pk=1)
+p64
+I18992
+sVprint "\u005cu003"
+p65
+I21364
+sVcm.move('a4')
+p66
 I15861
 sVg._fields
-p64
+p67
 I20453
 sVp.parent.parent.parent
-p65
+p68
 I19880
 sVh.getpos
-p66
-I6596
-sVdatos
-p67
-I7189
-sVdatetime.date.today().__bases__
-p68
-I7753
-sVtempfile.mkstemp()
 p69
+I6596
+sVdatetime.date.today().__bases__
+p70
+I7753
+sVs.closed()
+p71
+I1135
+sVtempfile.mkstemp()
+p72
 I15421
 sVlist(Product.objects.filter(query="table", count=10))
-p70
+p73
 I14310
 sVs.query(PhotoTag, Photo).join((Photo, Photo.id == PhotoTag.photo_id))
-p71
+p74
 I15393
 sVv = Value.objects.all()[0]
-p72
-I15500
-sVa.attname = 'jdakjda'
-p73
-I14376
-sVprint "\u005cu003"
-p74
-I21364
-sVurllib.splitquery(url)
 p75
+I15500
+sVdatos
+p76
+I7189
+sVurllib.splitquery(url)
+p77
 I5597
 sVdom.documentElement.getElementsByTagName('form').getAttribute('id')
-p76
+p78
 I20735
+sV(^$][(@))(!{(#))%+{{{+#{]{^}&#&+%_@#$%]_&($[!!}]++{%%(#%^(%+*_#^#[*!+&$!]_(@%^_]
+p79
+I13088
 sVos.path.exists("/tmp")
-p77
+p80
 I4412
 sVdraw.fontmode = "0"
-p78
-I3728
-sVa = 'contents__hola'
-p79
-I10053
-sV[None]*0
-p80
-I7638
-sVd.strftime('%D')
 p81
-I17964
-sV5 // 3
+I3728
+sV[None]*0
 p82
-I14551
-sVi.keys()
+I7638
+sVcodecs.encode('u rdys¿ drhitp mp ñs dsvsm', 'rot_13')
 p83
+I16915
+sVd.strftime('%D')
+p84
+I17964
+sVi.keys()
+p85
 I5535
 sV!#+$$_}!%^%$]}^!*)]+*(+{#{[%^&!!^_$*+@}_$($#)&!)$_))*+##$&$$(]]^@_@_(!^%{_&@&+^{
-p84
-I13675
-sVcodecs.encode('u rdys¿ drhitp mp ñs dsvsm', 'rot_13')
-p85
-I16915
-sVvalues
 p86
-I2604
-sVs.closed()
+I13675
+sVimport functools
 p87
-I1135
-sVim = Image.new("RGB", [300, 300], fill=(0, 0, 0))
+I2418
+sVvalues
 p88
+I2604
+sVim = Image.new("RGB", [300, 300], fill=(0, 0, 0))
+p89
 I1402
 sVa == str
-p89
+p90
 I16615
 sVCmsPage.objects.filter(state='live').values("http_path", "id", "state", 'since')[0]{'since'}
-p90
+p91
 I4974
 sVsettings.LOGIN_REDIRECT_URL
-p91
+p92
 I18677
 sVp.stdin.write('pgnload /tmp/out.pgn\u005cne4\u005cnpgnsave /tmp/out.pgn\u005cnquit')
-p92
+p93
 I15858
 sV]*{+#%@^_%[+${+]{{]@@#%!+}#_{_(^!^}%[{$(@]&[#^_^}$!}%}@$(&[&**]++[*!(!@$[@&+]+(]
-p93
+p94
 I13759
 s.

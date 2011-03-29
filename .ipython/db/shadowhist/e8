@@ -1,253 +1,256 @@
 (dp1
-Vw.logo.storage.url
+Vtest(10, recursive=True, [10, 20])
 p2
-I5102
+I18145
 sVp = CmsPage.objects_aux.page_status(pk=974)
 p3
 I594
-sV%timeit armar(data)
+sVthread.start_new_thread(mainloop.run, [])
 p4
-I15612
-sVimport dumbo
+I9367
+sVfor url in ARTICLE_TRACKER_URL.findall(r.value):
 p5
-I15441
-sVa = "djaksdj"
+I14786
+sVpynotify.Notification.__doc__
 p6
-I14850
-sVCrypto.Cipher.CAST.new("hola")
+I7272
+sVs2.save()
 p7
-I998
-sVf.is_bound()
+I7392
+sVt = template.Template("""
 p8
-I237
-sVimport egg.tryicon
+I18245
+sVprint h.whats_hot.form()[0]
 p9
-I7304
+I17111
 sVu.friendships_requested.all()
 p10
 I20073
 sVi=ImageIndex.search("dia")
 p11
 I222
-sVp.shared_valid
-p12
-I590
-sVa.__class__.valor = property(lambda: AClass(x, y))
-p13
-I9016
-sVfrom pychess.Utils.GameModel import GameModel
-p14
-I15910
 sVCmsComment.objects.full_page_comments(20)
-p15
+p12
 I747
 sVformsets.formset_factory?
-p16
+p13
 I14446
-sVCategory._meta.get_field("pepe", None)
-p17
-I3125
-sVa.join(set((2, 3)))
-p18
-I2307
+sVf = p.fragments_ignore_missing
+p14
+I1875
 sVa.criterioarea_set.get_or_create()
-p19
+p15
 I11085
 sVitem['author'] = self._clear_value(hxs.select('//div[@id="Autor"]/strong/a/text()').extract()[0])
-p20
+p16
 I16738
-sVtype(B)
-p21
-I3094
-sVupdate cms_fragment_template set content_names = "bottomBigDescrip
-p22
-I6699
+sVoperator.mul(1, 2, 3)
+p17
+I9835
+sVb = BlogAwardItem.objects.with_stats().all()
+p18
+I15770
+sVdef pepe(a, b=True, *args, **kw):
+p19
+I3176
+sVnltk.tokenize.RegexpTokenizer(text, re.compile('sofa bed')).tokenize(text)
+p20
+I6439
 sVarticles = ArticleSearch(query='', count=5, display=display).get_result().get_items()
-p23
+p21
 I5322
 sV^@^$!{_^&%%]@&_)}&_@#%*{!*[(($#[[}{#&_+%&+{*_*$%[{{[[$@@^_%(*#)#@%{*)#&)]{[_{(]+
-p24
+p22
 I13776
 sVa.strip?
-p25
+p23
 I16078
+sVs.result.query
+p24
+I10652
 sVurlparse.urlparse(u)
-p26
+p25
 I1227
-sVw.logo_abs_path
-p27
-I2751
-sVpynotify.Notification.__doc__
-p28
-I7272
+sVCategory._meta.get_field("pepe", None)
+p26
+I3125
 sVcgi.parse_qsl("a=1&b=2")
-p29
+p27
 I7257
+sVprint CreateCompetition()
+p28
+I20847
 sVScoredItem.objects.create(ctype="system user", object_id="3929", user="813", uuid="vQRo3cCoZM4AAAczEhkAAAAA", score="1", rate_type="rating")
-p30
+p29
 I7373
-sVabsolute_reverse("sitemap_section", section="pepe-index")
-p31
-I3919
+sVCrypto.Cipher.CAST.new("hola")
+p30
+I998
 sVp[0].address
-p32
+p31
 I5887
 sVr = HttpRequest()
-p33
+p32
 I10628
 sVa = articles.get_result().get_items()[0]
-p34
+p33
 I5344
 sVr.match("/3283913.32.jpg")
-p35
+p34
 I2765
 sVrated_item = RatedItem.objects.add_rate(v, -2, u)
-p36
+p35
 I347
 sVfrom common.utils import split_email_template
-p37
+p36
 I20010
+sVf.initial['user'] = u.id
+p37
+I6036
 sVs[0][0].__class__
 p38
 I16984
-sVfrom pygraph.classes import digraph
-p39
-I19161
 sVcalculate_cloud(links, steps=3)
-p40
+p39
 I12153
 sV'1' - 1
-p41
+p40
 I14994
-sVthread.start_new_thread(mainloop.run, [])
+sVx.int / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62
+p41
+I21535
+sVa.__class__.valor = property(lambda: AClass(x, y))
 p42
-I9367
-sVf = p.fragments_ignore_missing
+I9016
+sVfrom room_competition.models import RoomCompetitionEntry
 p43
-I1875
+I11403
 sVpage.__
 p44
 I18049
 sVr.result.have_results()
 p45
 I5257
-sVprint CreateCompetition()
+sVtype(B)
 p46
-I20847
-sVa.extend(range(10))
+I3094
+sVp.shared_valid
 p47
+I590
+sVa.extend(range(10))
+p48
 I10128
 sVupdate cms_fragment_template set content_names = "description/largetext,image/i
-p48
+p49
 I6763
 sV&@#+(((&%+$&$!!*^}{+}%&^{&&!_]+}}][!%[$){)_[+(&+{)$(+(+*#%{%&+(+}+*%%}_]&+&[^_[#
-p49
+p50
 I13565
 sVlen(a)/8
-p50
+p51
 I5382
 sVre.IGNORECASE
-p51
+p52
 I15958
 sVclassmethod
-p52
+p53
 I4405
 sV}(}@$(!!^]+)%($)_[!@%#{[@#((%+]*!*)%([]{(}*$]%#^*#_@@}+_*{$+(%]}$@{!#*%*[[^!{)&#
-p53
-I13594
-sV)]{$%$$}^^}&&^]&(%@*!)%[!})&(!_^]%*[&)#&!^+@(#%+@+{*%}^]$!)]{}]{&@]]$]#$_[${*@%{
 p54
-I13087
+I13594
 sVr.errmsg
 p55
 I5244
 sVv[0].title += " cola"
 p56
 I181
-sVpurple.__class__
+sVw.logo_abs_path
 p57
-I1429
-sVnltk.tokenize.RegexpTokenizer(text, re.compile('sofa bed')).tokenize(text)
+I2751
+sVimport dumbo
 p58
-I6439
-sVs2.save()
-p59
-I7392
+I15441
 sVimg = Image.open('/home/omab/src/face/faces/maie.jpg')
-p60
+p59
 I12469
-sVfor url in ARTICLE_TRACKER_URL.findall(r.value):
+sV)]{$%$$}^^}&&^]&(%@*!)%[!})&(!_^]%*[&)#&!^+@(#%+@+{*%}^]$!)]{}]{&@]]$]#$_[${*@%{
+p60
+I13087
+sVa = "djaksdj"
 p61
-I14786
-sVprint h.whats_hot.form()[0]
-p62
-I17111
+I14850
 sVa = 'a'
-p63
+p62
 I16079
 sVi._Image__iptcTagsDict
-p64
+p63
 I5543
-sVtest(10, recursive=True, [10, 20])
+sVp.group
+p64
+I20915
+sVfrom pychess.Utils.GameModel import GameModel
 p65
-I18145
-sVs.result.query
+I15910
+sVpurple.__class__
 p66
-I10652
+I1429
 sV)+#&{${%+(*_$$^]}&#+^%())^_^@(_]*^]{))]+_)$@_%*([}{${^(]{[[#(#]&}+l}%#@}{{)%@{+}
 p67
 I13649
-sVb = BlogAwardItem.objects.with_stats().all()
+sVupdate cms_fragment_template set content_names = "bottomBigDescrip
 p68
-I15770
+I6699
 sVi
 I106
 sVappend_titles(Image.objects.all(), "pepe")
 p69
 I128
-sVt = template.Template("""
+sVw.logo.storage.url
 p70
-I18245
-sVi = f.items.all()[0]
+I5102
+sVa (1, 2, 3, 4)
 p71
+I16481
+sVi = f.items.all()[0]
+p72
 I19629
 sVsha.sha("pepe")
-p72
-I933
-sVdef pepe(a, b=True, *args, **kw):
 p73
-I3176
-sVpages[0].title
+I933
+sV%timeit armar(data)
 p74
-I12214
-sVf.initial['user'] = u.id
+I15612
+sVpages[0].title
 p75
-I6036
-sVoperator.mul(1, 2, 3)
+I12214
+sVa.join(set((2, 3)))
 p76
-I9835
-sVa (1, 2, 3, 4)
+I2307
+sVf.is_bound()
 p77
-I16481
-sVd.strftime('%D/%m/%Y')
+I237
+sVabsolute_reverse("sitemap_section", section="pepe-index")
 p78
+I3919
+sVd.strftime('%D/%m/%Y')
+p79
 I21215
 sVurl
-p79
+p80
 I2293
 sVopr = Id('tag') + Var('xxx_name') + Optional(Id('manolo') + Var('hola'))
-p80
+p81
 I420
 sVc.images_thumbnails
-p81
-I19396
-sVp.group
 p82
-I20915
-sVfrom room_competition.models import RoomCompetitionEntry
+I19396
+sVfrom pygraph.classes import digraph
 p83
-I11403
-sVget_raters_report(datetime.date(2008, 10, 10), datetime.date.today())
+I19161
+sVimport egg.tryicon
 p84
+I7304
+sVget_raters_report(datetime.date(2008, 10, 10), datetime.date.today())
+p85
 I7696
 s.

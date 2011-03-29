@@ -1,257 +1,260 @@
 (dp1
-Vprogram
+VARTICLE_TRACKER_URL.findall(r.value)
 p2
-I16700
-sVimport antigravity
-p3
-I3142
-sVtime.strptime(s, '%Y-%m-%d %H:%M:%S %Z%z')
-p4
-I17745
-sVre.compile('us\u005c.dev').search('uspdev.mydeco.com')
-p5
-I14592
-sVh.http_path
-p6
-I1163
-sVprint d['s1']['header']['values']
-p7
-I8949
-sVF = forms.formsets.formset_factory(CForm, formset=CForm2, extra=2)
-p8
-I14418
-sVloader.find_template_source('cms/fragment/microsites_top_panel2.html')
-p9
-I10001
-sV100 / (300.0 / 300.0)
-p10
-I10757
-sVpages[-1]
-p11
-I1020
-sVm.match
-p12
-I4491
-sVMYMOVE_RE  = re.compile('Black\u005c(\u005cd+\u005c): [RNBQKP][a-h][1-8]')
-p13
-I16094
-sVform horno.models import *
-p14
-I322
-sVt._sa_class_manager
-p15
-I15311
-sVr[1].__class__
-p16
-I4170
-sVprint x.decode('utf-8')
-p17
-I21375
-sVfrom common.templatetags import filters
-p18
-I11698
-sVos.walk('./backends')
-p19
-I19459
-sVsubprocess.select.select([s.stdout.fileno()], [], [])
-p20
-I15977
-sVhxs.select('//comment(contains(text(), 'CUERPO'))').extract()
-p21
-I16875
-sVdata['section2']['nousednames']['grouping']
-p22
-I4830
-sVARTICLE_TRACKER_URL.findall(r.value)
-p23
 I14783
+sVprint d['s1']['header']['values']
+p3
+I8949
+sVpages[-1]
+p4
+I1020
+sVa = AuthenticationForm()
+p5
+I18961
+sVos.walk('./backends')
+p6
+I19459
+sVh.http_path
+p7
+I1163
+sVsubprocess.select.select([s.stdout.fileno()], [], [])
+p8
+I15977
+sVdata['section2']['nousednames']['grouping']
+p9
+I4830
 sVtitle.content_object
-p24
+p10
 I1458
 sVf[0][0][0][0]
-p25
+p11
 I17070
-sVd.props
-p26
-I8067
-sVp = r.findall(a)
-p27
-I6196
-sVb - a
-p28
-I1562
-sVt = Template('{% context { pepe: val } %}{{ pepe }}{% endcontext %}')
-p29
-I11337
-sVBase
-p30
-I15290
-sVdata.fragments['content']
-p31
-I12403
-sVr = re.compile("ab.+ab")
-p32
-I3935
-sVa = AuthenticationForm()
-p33
-I18961
-sVinspect.currentframe()
-p34
-I4249
-sVfrom competition.templatetags import competition_tags
-p35
-I7891
+sVunicode(a)
+p12
+I643
+sVprint x.decode('utf-8')
+p13
+I21375
+sVd.replace(tzinfo=utc)
+p14
+I20096
 sVr = RoomCompetition.objects.get(pk=185)
-p36
+p15
 I19177
 sVbrowers = webkit.WebView()
-p37
+p16
 I18052
-sVif a:
-p38
-I1874
-sVtxt.id
-p39
-I8620
 sVpymsn()
-p40
+p17
 I9326
 sVfrom Crypto.Cipher import ARC2
-p41
+p18
 I1125
-sVtokenize = build_tokenizer(phrases, HtmlPhraseTokenizer(stopwords=['']))
-p42
-I6482
 sVpq.move('matias', 'c5')
-p43
+p19
 I16307
-sVCmsPage._default_manager.filter(state="live").values("http_path")
-p44
-I3472
 sVadd_query_param('http://gooogle.com/?product=31232', { 'channel': '3123829'})
-p45
+p20
 I14284
-sVt.lastname_es
-p46
-I5837
-sVd.replace(tzinfo=utc)
-p47
-I20096
+sVfrom common.templatetags import filters
+p21
+I11698
 sVs = Encoded(simplejson.dumps("Hola mundo"))
-p48
+p22
 I10385
-sV+$_{#_]%}[+)$++$}[(*!+[$]*}!$${@#@{^{{#}[!%!#$&^^[+[+^(%}(^]#+!)(@{$&}#{*)#$(&{$
-p49
-I13524
-sVcopy_reg.pickle
-p50
-I4720
 sV}_!@[##$@%)}&+!!@#&}$[]+%+({()@+}]#+%_#_{$_^}^}!&[^*^[&@@@^*[@}{+[[%^+]{@@}&+]](
-p51
+p23
 I12978
 sVcommands.getstatusoutput('mpc pause')
-p52
+p24
 I318
+sVa.sum
+p25
+I12477
 sVr.start_date
-p53
+p26
 I20045
 sVuuid.uuid5("hola", 2)
-p54
+p27
 I4806
-sV^_*($_^)]#!%{]_[!@(&$}($!_#&!_&^%&((&#*{}[$}&
-p55
-I13844
 sVdef get(self, *args, **kwargs):\u000a    value = super(Ctx, self).get(*args, **kwargs)
-p56
+p28
 I10392
-sVi.set_language('es')
-p57
-I11281
-sVt.label
-p58
-I20026
-sVunicode(a)
-p59
-I643
-sVi = CmsImageContent.objects.filter(image__isnotnull=True)
-p60
-I17987
+sVfrom competition.templatetags import competition_tags
+p29
+I7891
+sVsnappy
+p30
+I21580
 sVurllib.urlretrieve.__doc__
-p61
+p31
 I7333
-sVp(**dict(("1", 1), ("2", 2)))
-p62
-I2332
-sVcomb(5, 2)
-p63
-I5556
-sVd = [{u'count': 29083, u'subcat_count': 5, u'name': u'throw pillows, bean bags & throws', u'image_big_credits': u'Marks and Spencer', u'image_small': u'categorization/cushions__.jpg', u'image_big': u'categorization/42_CUSHIONS_Marks-and-Spencers2.jpg', u'parents': [{u'subcat_count': 11, u'id': 128, u'name': u'living room'}, {u'subcat_count': 15, u'id': 332, u'name': u'home decor'}], u'special_offers': [], 'path': u'throw-pillows-bean-bags-throws/1131', u'id': 1131}]
-p64
-I14535
-sVItem.objects.set_language('es')[0].title_default
-p65
-I11124
-sVfrom common.templatetags.filters import tojson
-p66
-I10317
 sVxml.startDocument(out=s)
-p67
+p32
 I17270
-sVa.sum
-p68
-I12477
+sVMYMOVE_RE  = re.compile('Black\u005c(\u005cd+\u005c): [RNBQKP][a-h][1-8]')
+p33
+I16094
 sVfunc('z', *('a', 'b', 'c'))
-p69
+p34
 I17388
 sVs.SetAuthSubToken(unquote(auth_token))
-p70
+p35
 I19748
-sVu.
-p71
-I20338
-sV[ (x, x < u'A') for x in u'¡¿'.decode('ascii')]
-p72
-I14138
-sVcallable(test)
-p73
-I16344
-sV[@&[+^@$}&{]{)+^&^#{{}@!}{^{%}#)@!%([$(_!([+({)@^(#@!)$[_&](!}@$*$@!(#[$+!@][}_*
-p74
-I14033
+sVt = Template('{% context { pepe: val } %}{{ pepe }}{% endcontext %}')
+p36
+I11337
+sVr = re.compile("ab.+ab")
+p37
+I3935
 sVt = Template('{% if a and a in ("1", "2") %}{{ a }}{% else %}no a{% endif %}
-p75
+p38
 I17895
 sVoffers
-p76
+p39
 I9823
 sVo = ObjectPaginator(p)
-p77
+p40
 I2832
 sVos.urandom(1)
-p78
+p41
 I19224
-sVhxs.select('//div[@id="Contenido"]//h1//text()')
-p79
-I16799
+sVfrom common.templatetags.filters import tojson
+p42
+I10317
+sVfrom django.core.urlresolvers import reverse
+p43
+I496
+sVurlparse.urlunparse(('', 'google.com', '/a', '', 'a=1', 'xxx'))
+p44
+I20792
+sVprogram
+p45
+I16700
+sVtime.strptime(s, '%Y-%m-%d %H:%M:%S %Z%z')
+p46
+I17745
+sVre.compile('us\u005c.dev').search('uspdev.mydeco.com')
+p47
+I14592
+sVcomb(5, 2)
+p48
+I5556
+sVF = forms.formsets.formset_factory(CForm, formset=CForm2, extra=2)
+p49
+I14418
+sVm.match
+p50
+I4491
+sVform horno.models import *
+p51
+I322
+sVt._sa_class_manager
+p52
+I15311
+sVimport antigravity
+p53
+I3142
+sVhxs.select('//comment(contains(text(), 'CUERPO'))').extract()
+p54
+I16875
+sVBase
+p55
+I15290
+sVd.props
+p56
+I8067
+sVp = r.findall(a)
+p57
+I6196
+sVb - a
+p58
+I1562
+sV100 / (300.0 / 300.0)
+p59
+I10757
+sVdata.fragments['content']
+p60
+I12403
+sVinspect.currentframe()
+p61
+I4249
+sVu.
+p62
+I20338
+sVif a:
+p63
+I1874
+sVtxt.id
+p64
+I8620
 sVp = [ a[i*4:i*(4+1)] for i in range(len(a)/4) ]
-p80
+p65
 I5379
+sVr[1].__class__
+p66
+I4170
+sVtokenize = build_tokenizer(phrases, HtmlPhraseTokenizer(stopwords=['']))
+p67
+I6482
+sVCmsPage._default_manager.filter(state="live").values("http_path")
+p68
+I3472
+sVt.lastname_es
+p69
+I5837
+sVcopy_reg.pickle
+p70
+I4720
+sV+$_{#_]%}[+)$++$}[(*!+[$]*}!$${@#@{^{{#}[!%!#$&^^[+[+^(%}(^]#+!)(@{$&}#{*)#$(&{$
+p71
+I13524
+sVloader.find_template_source('cms/fragment/microsites_top_panel2.html')
+p72
+I10001
+sV^_*($_^)]#!%{]_[!@(&$}($!_#&!_&^%&((&#*{}[$}&
+p73
+I13844
+sVi.set_language('es')
+p74
+I11281
+sVt.label
+p75
+I20026
+sVi = CmsImageContent.objects.filter(image__isnotnull=True)
+p76
+I17987
+sVp(**dict(("1", 1), ("2", 2)))
+p77
+I2332
+sVd = [{u'count': 29083, u'subcat_count': 5, u'name': u'throw pillows, bean bags & throws', u'image_big_credits': u'Marks and Spencer', u'image_small': u'categorization/cushions__.jpg', u'image_big': u'categorization/42_CUSHIONS_Marks-and-Spencers2.jpg', u'parents': [{u'subcat_count': 11, u'id': 128, u'name': u'living room'}, {u'subcat_count': 15, u'id': 332, u'name': u'home decor'}], u'special_offers': [], 'path': u'throw-pillows-bean-bags-throws/1131', u'id': 1131}]
+p78
+I14535
+sVItem.objects.set_language('es')[0].title_default
+p79
+I11124
 sVn.__class__
-p81
+p80
 I6283
-sVw2 = w.node.nodelist[-1]
+sV[ (x, x < u'A') for x in u'¡¿'.decode('ascii')]
+p81
+I14138
+sVcallable(test)
 p82
+I16344
+sV[@&[+^@$}&{]{)+^&^#{{}@!}{^{%}#)@!%([$(_!([+({)@^(#@!)$[_&](!}@$*$@!(#[$+!@][}_*
+p83
+I14033
+sVhxs.select('//div[@id="Contenido"]//h1//text()')
+p84
+I16799
+sVw2 = w.node.nodelist[-1]
+p85
 I10251
 sVs = SystemUser.objects.get(id=813)
-p83
-I7673
-sVfrom django.core.urlresolvers import reverse
-p84
-I496
-sVfor p in r.result.items:
-p85
-I5267
-sVurlparse.urlunparse(('', 'google.com', '/a', '', 'a=1', 'xxx'))
 p86
-I20792
+I7673
+sVfor p in r.result.items:
+p87
+I5267
 s.

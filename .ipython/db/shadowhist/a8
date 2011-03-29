@@ -1,132 +1,132 @@
 (dp1
-Vurlresolvers.reverse("wears")
+Vproduct_id = 'GB0000233OGVY6VAMYDUQCLQFMGXIPLJP3KBZJBS'
 p2
-I2857
-sVproduct_id = 'GB0000233OGVY6VAMYDUQCLQFMGXIPLJP3KBZJBS'
-p3
 I20874
-sV$_+($!%{_]$^+^@_()#^[[^)$+@))&}+_$[_&+{!$]}]%$_!}[@)}[_($^+#}_%*%@*+(^!+)()[#*_#
-p4
-I13721
-sV__import__('account.views.escapejs', fromlist=['.'], level=0)
-p5
-I8277
-sVupdate cms_fragment_template set content_names = "image/image" where id = 27;
-p6
-I6622
+sVp.fragments[0].contents
+p3
+I4179
 sVf._get_related_query_name("a")
-p7
+p4
 I4578
+sVf = s.fields["name"]
+p5
+I3773
+sVfor k, v in a.iteritems():\u000a    clauses.append("%s IN (%s)" % (k, ", ".join(["%s " * len(v)])))
+p6
+I4539
 sVr.webservice_data()
-p8
+p7
 I18086
-sVa.index
-p9
-I8508
-sVtest(10, True, *[10, 20])
-p10
-I18141
 sVfs.form
-p11
+p8
 I3276
 sVp types.CodeType.__doc__
-p12
+p9
 I6304
 sVtpl.nodelist[0].render
-p13
+p10
 I11359
 sVfrom classification.tokenizer import HtmlTokenizer
-p14
+p11
 I6401
 sVl.acquire()
-p15
+p12
 I15995
-sVp timeit.__doc__
-p16
-I4781
-sVt.render(Context({'the_url': "/the-magazine/"}))
-p17
-I14632
 sVclass FForm(forms.ModelForm):\u000a    class Meta:\u000a        model = CmsFragment
-p18
+p13
 I3711
+sVurlparse.urldefrag(x)
+p14
+I19442
 sVEmailVisionEntryField.objects.all().values('name')
-p19
+p15
 I11421
-sVsimplejson.loads("""{ "cms_competition_unsubscribe_text": "", "cms_contents_text": "<p><strong>We\u005cu2019ve teamed with <a href=\u005c"{% article_tracked_url \u005c"biomelifestyle.com\u005c"  \u005c"http://www.biomelifestyle.com/\u005c" %}\u005c" target=\u005c"_blank\u005c">Biome Lifestyle</a> to give Helen, Mick, Colette, and Derek the their Christmas hampers! </strong></p>\u005cn\u005cn<p>They will take home a \u005cu00a3250 hamper full of delightful Christmas decorations, including their fair trade Christmas wreath (right) and advent calendar, plus bestselling gifts including the Silk Scarf Cushion (right), Alpaca Slippers, Bulb Vase, Cotton Bathrobe and many more!   </p> \u005cn\u005cn<p>Like everything from Biome Lifestyle, the items have been carefully chosen to meet strict organic, sustainability and ethical standards \u005cu2013 without compromising on style. </p> \u005cn\u005cn<p>Biome Lifestyle know that being a conscientious consumer does not necessarily mean you are a hippy! Instead, they offer a unique range of gifts and homeware that unite style, design and ethics.</p>\u005cn\u005cn<p>Read the <a href=\u005c"/the-magazine/biome-lifestyle-terms\u005c">competition terms</a>.</p>\u005cn\u005cn<p><strong>For your chance to win, just tell us: Where are the artisans based who made the Recycled Fair Trade Christmas wreath (above)? HINT: <a href=\u005c"{% article_tracked_url \u005c"biomelifestyle.com\u005c"  \u005c"http://www.biomelifestyle.com/browse/ecogifts/christmas-at-home/recycled-fair-trade-christmas-wreath/\u005c" %}\u005c" target=\u005c"_blank\u005c">See the product page</a> to find out the answer. \u005cn\u005cn </strong></p>"}""")
-p20
-I11328
+sVtpl = Template('{% var c_txt %}{{ t }}{% endvar %}{{ t }}')
+p16
+I11342
+sVq.query.group_by = [('book_post', 'MONTH(date)')]
+p17
+I15722
+sVa = {'sv': 1, 'pv':1, 'rv': 1}
+p18
+I16501
 sV)
 I802
 sV!(+]{%(((&+!*%@[#*}^)_(@+*@*&(){{@}+]]+^*)({{%#})&(*$]{&$#_{{{[@](*$[!%!@%!*&!+&
-p21
+p19
 I12993
-sV'en' < 'en-gb'
-p22
-I12664
-sVq.query.group_by = [('book_post', 'MONTH(date)')]
-p23
-I15722
+sVparser.add_option('--pepe')
+p20
+I7055
+sVsimplejson.loads("""{ "cms_competition_unsubscribe_text": "", "cms_contents_text": "<p><strong>We\u005cu2019ve teamed with <a href=\u005c"{% article_tracked_url \u005c"biomelifestyle.com\u005c"  \u005c"http://www.biomelifestyle.com/\u005c" %}\u005c" target=\u005c"_blank\u005c">Biome Lifestyle</a> to give Helen, Mick, Colette, and Derek the their Christmas hampers! </strong></p>\u005cn\u005cn<p>They will take home a \u005cu00a3250 hamper full of delightful Christmas decorations, including their fair trade Christmas wreath (right) and advent calendar, plus bestselling gifts including the Silk Scarf Cushion (right), Alpaca Slippers, Bulb Vase, Cotton Bathrobe and many more!   </p> \u005cn\u005cn<p>Like everything from Biome Lifestyle, the items have been carefully chosen to meet strict organic, sustainability and ethical standards \u005cu2013 without compromising on style. </p> \u005cn\u005cn<p>Biome Lifestyle know that being a conscientious consumer does not necessarily mean you are a hippy! Instead, they offer a unique range of gifts and homeware that unite style, design and ethics.</p>\u005cn\u005cn<p>Read the <a href=\u005c"/the-magazine/biome-lifestyle-terms\u005c">competition terms</a>.</p>\u005cn\u005cn<p><strong>For your chance to win, just tell us: Where are the artisans based who made the Recycled Fair Trade Christmas wreath (above)? HINT: <a href=\u005c"{% article_tracked_url \u005c"biomelifestyle.com\u005c"  \u005c"http://www.biomelifestyle.com/browse/ecogifts/christmas-at-home/recycled-fair-trade-christmas-wreath/\u005c" %}\u005c" target=\u005c"_blank\u005c">See the product page</a> to find out the answer. \u005cn\u005cn </strong></p>"}""")
+p21
+I11328
 sVItem.objects.set_language('es').get(pk=1)
-p24
+p22
 I11076
+sVUser._meta.get_field('username').length
+p23
+I21482
 sV[ a[i*6:i*6+6] for i in range(len(a)/6+len(a)%6) ]
-p25
+p24
 I487
-sVnltk.tokenize.word_tokenize()
-p26
-I6508
-sVa = ArticleForm()
-p27
-I21205
 sVserialize()
-p28
+p25
 I17336
 sVp.values
-p29
+p26
 I4756
-sVround(13.399999999999999, 2)
-p30
-I11222
+sVa.pop()
+p27
+I400
+sVa = ArticleForm()
+p28
+I21205
 sVr2.callback
-p31
+p29
 I8237
-sVa = { 1:2, 2:3 }
-p32
-I635
-sVMYMOVE_RE.match(s)
-p33
-I16092
+sVr2 = re.compile('[A-Z]{3}')
+p30
+I14120
+sVpages = tpl.cmspage_set.filter(state="live").order_by("http_path")
+p31
+I8835
 sV__import__('hp_splash', fromlist=['cms.plugins.'])
-p34
+p32
 I12846
-sVfor k, v in a.iteritems():\u000a    clauses.append("%s IN (%s)" % (k, ", ".join(["%s " * len(v)])))
-p35
-I4539
+sVnltk.tokenize.word_tokenize()
+p33
+I6508
 sVCipher("hola")
-p36
+p34
 I996
 sVf = v._meta.fields[-1]
-p37
+p35
 I8569
 sV[ i['image'] for i in microsite_articles.get_contents(p).values() ]
-p38
+p36
 I9184
 sVpurple
-p39
+p37
 I5598
 sVclass ItemAdmin(admin.ModelAdmin):
-p40
+p38
 I17824
 sVclient._address_book
-p41
+p39
 I9339
 sV#++$+!#{([%%+)}+}_+$){{#++&%((^^@%!}^&^$($#%}+$}([]][@^_@}##&_)$##[{{@)%{+*}]{&^
-p42
+p40
 I12998
-sVpages = tpl.cmspage_set.filter(state="live").order_by("http_path")
+sVx = o._meta.get_all_related_objects()[0]
+p41
+I18735
+sVq.query.group_by = 'date'
+p42
+I15702
+sVurlresolvers.reverse("wears")
 p43
-I8835
+I2857
 sVItem._default_manager.filter().guery
 p44
 I11005
@@ -136,12 +136,12 @@ I8933
 sV[!)*%)^!}&(}+[(#$^@*}%_$+)[)}!+^](+__@@{%}(#_#)[%[([$)*#)@&&*&#_$}{!_+_!$_*_)&@)
 p46
 I13443
-sVa.pop()
+sVupdate cms_fragment_template set content_names = "image/image" where id = 27;
 p47
-I400
-sVpagination.pagination(10, 19, 2)
+I6622
+sVMYMOVE_RE.match(s)
 p48
-I3083
+I16092
 sVrooms.keys
 p49
 I9303
@@ -163,9 +163,9 @@ I15307
 sVgen_word = lambda size: ''.join(random.choice(string.letters) for _ in xrange(size))
 p55
 I15663
-sVq.query.group_by = 'date'
+sVa = { 1:2, 2:3 }
 p56
-I15702
+I635
 sVif x:
 p57
 I19793
@@ -178,64 +178,67 @@ I7590
 sVf.errors['query']
 p60
 I12707
-sVparser.add_option('--pepe')
+sVround(13.399999999999999, 2)
 p61
-I7055
-sVprint u'\u005cx262e'
+I11222
+sVtest(10, True, *[10, 20])
 p62
+I18141
+sVprint u'\u005cx262e'
+p63
 I4613
 sV(f for f in [])
-p63
+p64
 I3199
 sVu.obnob_groups
-p64
-I19939
-sVx = o._meta.get_all_related_objects()[0]
 p65
-I18735
-sVu._meta.get_field('first_name')
+I19939
+sVpagination.pagination(10, 19, 2)
 p66
-I18678
-sVserializers.get_serializer('csv')
+I3083
+sVt.render(Context({'the_url': "/the-magazine/"}))
 p67
-I11398
-sV$*$%}*{!^[#@}&{&[(+@$)&!$&#}{]]++#]@!)[&@[_#)!!%){$]&)})*@)[{()@!)@^(#@]+@_$&#*@
+I14632
+sVserializers.get_serializer('csv')
 p68
-I13390
+I11398
 sVr = o.parse('ttp 123 as pp')
 p69
 I7199
-sVa = {'sv': 1, 'pv':1, 'rv': 1}
+sV__import__('account.views.escapejs', fromlist=['.'], level=0)
 p70
-I16501
+I8277
 sVg.node_incidence['37328']
 p71
 I6965
-sVf = s.fields["name"]
+sV$_+($!%{_]$^+^@_()#^[[^)$+@))&}+_$[_&+{!$]}]%$_!}[@)}[_($^+#}_%*%@*+(^!+)()[#*_#
 p72
-I3773
+I13721
 sVlink_re = re.compile(r'href=(?P<open>["\u005c'])(?P<address>[^"\u005c']*/search/[^"\u005c']*)(?P<close>["\u005c'])')
 p73
 I1218
-sVtpl = Template('{% var c_txt %}{{ t }}{% endvar %}{{ t }}')
+sVu._meta.get_field('first_name')
 p74
-I11342
-sV($&*#*&){+@{$#@[()[*!{}_)!&$%%^@!%!&@$!&^$_}!]&!]+[_*(^)_^]}**}&%)}[&#&[[)$]!&({
+I18678
+sV$*$%}*{!^[#@}&{&[(+@$)&!$&#}{]]++#]@!)[&@[_#)!!%){$]&)})*@)[{()@!)@^(#@]+@_$&#*@
 p75
-I13024
-sVp.fragments[0].contents
+I13390
+sV($&*#*&){+@{$#@[()[*!{}_)!&$%%^@!%!&@$!&^$_}!]&!]+[_*(^)_^]}**}&%)}[&#&[[)$]!&({
 p76
-I4179
-sV#class A(object):\u000a    a = 1\u000a    b = 2\u000a    def print(self, x):
+I13024
+sV'en' < 'en-gb'
 p77
-I16334
-sVurlparse.urldefrag(x)
+I12664
+sV#class A(object):\u000a    a = 1\u000a    b = 2\u000a    def print(self, x):
 p78
-I19442
-sVr2 = re.compile('[A-Z]{3}')
+I16334
+sVp timeit.__doc__
 p79
-I14120
-sVurllib2.unquote(urllib2.unquote(u))
+I4781
+sVa.index
 p80
+I8508
+sVurllib2.unquote(urllib2.unquote(u))
+p81
 I5437
 s.

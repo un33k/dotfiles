@@ -1,190 +1,190 @@
 (dp1
-Vl = Lexer(*s)
+Vconnection.options['autocommit'] = True
 p2
-I10033
-sVget_categories_products(categories)
-p3
-I10554
+I11897
 sVf.list_ex[0].next_obj
-p4
+p3
 I1867
-sVt.photos.filter
-p5
-I15410
+sVmatches
+p4
+I14899
 sVrange(0, 10392, 500)
-p6
+p5
 I6768
 sVa = range(12)
-p7
+p6
 I480
 sVget_values('/the-magazine/')
-p8
+p7
 I9587
 sVfrom django.utils.encoding import smart_unicode
-p9
+p8
 I7576
 sVcgi.parse_qsl('a=1&b=2')
-p10
+p9
 I18483
 sVp2 = p.deep_copy()
-p11
+p10
 I579
-sVt.choices.extend([ (i, i) for i in xrange(10) ])
-p12
-I691
 sVpq.move('matias', 'Nc3')
-p13
+p11
 I16274
-sVl = [ (c, s.find(c)) for c in 'aeilquty' ]
-p14
-I14104
+sVl.tasks()
+p12
+I887
 sVfrom todo.forms import *
-p15
+p13
 I4116
-sVmath.fabs(-1)
+sVt.choices.extend([ (i, i) for i in xrange(10) ])
+p14
+I691
+sVp.join(meta.tables['photo_tags'])
+p15
+I15176
+sVx.int / 62 / 62 / 62 / 62 / 62 / 62 / 62
 p16
-I364
-sVa[3]
-p17
-I1263
-sVu.obnob_groups.__class__
-p18
-I20135
+I21527
 sVp.sendline('display')
-p19
+p17
 I16113
 sVsplited = tag_re.split(src)
-p20
+p18
 I10012
-sVimport simplejson
-p21
-I2675
+sVcomb(15, 7)
+p19
+I5558
 sVcsv.reader(open("/home/omab/copy.csv"), dialect="csv")
-p22
+p20
 I15096
 sVB().m1()
-p23
+p21
 I17363
 sVSofa bed designs vary considerably. In some cases, the mattress simply slides out or the back folds down. Other sofa beds unfold themselves in a masterpiece of engineering which requires a degree in quantum physics to operate. The ease of assembly is a point to consider if the sofa bed is likely to be set up late at night when people are tired and emotional. Some modern sofa beds on the market have enough internal space that allow them to be made up with basic bedding even when they are closed and in use as seats, thereby saving a lot of time. However you will still need to find somewhere to store the pillows, etc.
-p24
+p22
 I6337
-sVUserForm.base_fields
-p25
-I3362
+sVprint h.heap()
+p23
+I9223
 sVc = Category(path='sofas/129')
-p26
+p24
 I20533
 sVp._state
-p27
+p25
 I18810
 sVCmsTextContent._meta.get_field('text')
-p28
+p26
 I14844
 sVdatetime(d.toordinal())
-p29
+p27
 I19276
 sVb_iface.GetProperty("battery.rechargeable.is_charged")
-p30
+p28
 I2217
 sVt = api.user_timeline()
-p31
+p29
 I16383
 sVc.formfield
-p32
+p30
 I8911
 sVp cgi.parse_multipart.__doc__
-p33
+p31
 I7595
-sVl.tasks()
-p34
-I887
 sVc = CategoryHierarchy.objects.filter(id=129)
-p35
+p32
 I4595
 sVi.image.name.split('/')[-1]
-p36
+p33
 I17316
 sVu.obnob_groups.values_list()
-p37
+p34
 I20449
 sVi[0].translations.all()[0]._language
-p38
+p35
 I11535
 sVreplace_amp("hola &aa; mundo")
-p39
+p36
 I4659
 sVfor line in file.readlines():\u000a    print sha(line.strip()).hexdigest() == "a3b8cf00426ade76d0376c528b13ebc15d691f3c"
-p40
+p37
 I12080
 sVupdate cms_fragment_template set content_names = "linkUrl/text,linkName/text" where id = 56;
-p41
+p38
 I6651
 sVprint str(a.encode('utf-8')).decode('utf-8')
-p42
+p39
 I10144
 sVprint shutil.rmtree.__doc__
-p43
+p40
 I1916
-sVPIL.__doc__
-p44
-I8286
+sVv.updated
+p41
+I8664
 sV%timeit ('attr' in a.__dict__ and a.attr or None)
-p45
+p42
 I16329
 sVf.prepare_field_objs_and_params()
-p46
+p43
 I2346
 sV[None] * 10
-p47
+p44
 I7618
 sVsp.join('.')
-p48
+p45
 I10888
 sVa.append({'name': 'b'})
-p49
+p46
 I14653
-sVp.join(meta.tables['photo_tags'])
-p50
-I15176
+sVimport convert
+p47
+I21490
 sVget_locale_setting('SEARCH_GOOGLE_WEB_OPTIMIZER_EXPERIMENTS')
-p51
+p48
 I16504
 sVp.path.split("/")
-p52
+p49
 I3007
 sVfd.next
-p53
+p50
 I843
 sVs.delete(t
-p54
+p51
 I15298
 sVd.strftime('%d/%m/%Y')
-p55
+p52
 I21214
 sVd.update((i, i) for i in range(100, 1000))
-p56
+p53
 I9246
+sVclass MyForm(Form):
+p54
+I18125
 sVct.tokenize_text.wordmap
-p57
+p55
 I6362
-sVv.updated
-p58
-I8664
+sV(a, b) = (1, 2) if 1 else (5, 4)
+p56
+I8900
+sVUserForm.base_fields
+p57
+I3362
 sVloop = gobject.MainLoop()
-p59
+p58
 I1425
+sVmath.fabs(-1)
+p59
+I364
 sVr.match("aaa-bbb")
 p60
 I1498
 sVa.update(dict(["x=3".split("=")]))
 p61
 I2971
-sVconnection.options['autocommit'] = True
+sVl = Lexer(*s)
 p62
-I11897
-sVmatches
+I10033
+sVu.obnob_groups.__class__
 p63
-I14899
+I20135
 sVurllib.os.path.split(None)
 p64
 I7888
@@ -194,12 +194,12 @@ I19943
 sVf = CmsPageScheduleForm()
 p66
 I7358
-sVcm.move('e4')
+sVfrom opencv import cv
 p67
-I15862
-sVprint h.heap()
+I10844
+sVcm.move('e4')
 p68
-I9223
+I15862
 sVim = Image.new("/tmp/a.jpg")
 p69
 I1383
@@ -212,76 +212,85 @@ I13466
 sVs.readlines()
 p72
 I16003
-sV(a, b) = (1, 2) if 1 else (5, 4)
+sVimport simplejson
 p73
-I8900
-sVo.parse(['age'])
+I2675
+sVa[3]
 p74
-I7237
+I1263
 sVa.rstrip('/').rstrip('/')
 p75
 I20001
-sVb.LargeImage
-p76
-I6115
 sVdatetime.datetime.strftime(datetime.datetime.now(), '%Y-%m-%d %H:%M:%S')
-p77
+p76
 I17713
 sVg.id
-p78
+p77
 I20249
 sVu.time
-p79
+p78
 I5086
 sVlist(CategoryImage.objects.all()[0])
-p80
+p79
 I3593
 sVfor p in i:
-p81
+p80
 I142
 sV' AND '.join([ "a=b", "c=d" ])
-p82
+p81
 I3585
-sVclass MyForm(Form):
+sVt.photos.filter
+p82
+I15410
+sVo.parse(['age'])
 p83
-I18125
-sVfrom passfile import *
+I7237
+sVl = [ (c, s.find(c)) for c in 'aeilquty' ]
 p84
-I921
-sV&+(]({$]{+%*}]@&(([&(&^&!@{][^+^^)!@#[[%_!@^}_[(+@!!^+@${[]%]]@&[{}^)+()@%&}#!(@
+I14104
+sVx.int / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62
 p85
+I21533
+sVfrom passfile import *
+p86
+I921
+sVPIL.__doc__
+p87
+I8286
+sV&+(]({$]{+%*}]@&(([&(&^&!@{][^+^^)!@#[[%_!@^}_[(+@!!^+@${[]%]]@&[{}^)+()@%&}#!(@
+p88
 I13442
 sVclient.SetOAuthInputParameters?
-p86
+p89
 I19766
 sVfor x in q:
-p87
+p90
 I16195
 sV!+]^]#%]^!{(!#){_!![({)+@{&^}*[}%}(}%_%*&]+*)_!#+{^)$##_]*}@$^#()]*)@%}[^_)!%++!
-p88
+p91
 I12975
 sV]}(^#*@^)$$%[%*(({(^]}_$+^%{$#*#^+({)[*}@]+![&%_%&_$#@[$^+@$(##[[$}+*$!@*!{_@})&
-p89
+p92
 I13947
-sVcomb(15, 7)
-p90
-I5558
+sVget_categories_products(categories)
+p93
+I10554
 sVreverse('alert_list', user)
-p91
+p94
 I12365
 sVfrom categorization.models import Category
-p92
+p95
 I3179
 sVstr(a.encode('utf-8')).encode('ascii')
-p93
+p96
 I10141
 sVo = c.object
-p94
+p97
 I17471
-sVfrom opencv import cv
-p95
-I10844
+sVb.LargeImage
+p98
+I6115
 sVf = Form()
-p96
+p99
 I8631
 s.

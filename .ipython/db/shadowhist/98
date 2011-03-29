@@ -11,81 +11,81 @@ I18323
 sVp._meta.get_field_by_name('child')
 p5
 I18764
-sVr = Request(url, data=data, headers=headers)
+sVupdate cms_fragment_template set content_names = "" where id = 4;
 p6
+I6602
+sVr = Request(url, data=data, headers=headers)
+p7
 I21170
 sVmod = import_module(name, module)
-p7
+p8
 I19492
 sVc.move('Nc3')
-p8
+p9
 I16082
 sVt = Template('{% load aff_link %}{% article_tracked_url "www.habitat.co.uk" "http://www.habitat.co.uk/fcp/categoryhome/browse/sale/" %}')
-p9
+p10
 I11239
 sV'b':
-p10
+p11
 I7907
 sVprint fs.forms[0]
-p11
-I14429
-sVa.decode('ascii')
 p12
-I7569
-sVthread?
+I14429
+sVu = "http://localhost:8000/c/living-room/sofas/128/129/...9%252C1000&facet_cat129=cat129%252C133&startrank=0"
 p13
-I15066
-sVc = Category.objects.get(129)
+I5434
+sVthread?
 p14
-I2392
-sVfrom django.core.urlresolvers import reverse, resolve
+I15066
+sVTag("dia").save()
 p15
-I16865
-sVhtmllib.HTMLParser.parse_declaration(html)
+I263
+sVc = Category.objects.get(129)
 p16
-I9714
-sVqs = RoomCompetition.objects.active_competitions(type='3d')
+I2392
+sVa = "'hola'"
 p17
+I7220
+sVqs = RoomCompetition.objects.active_competitions(type='3d')
+p18
 I19080
 sV})$(*@{](%***+@&!_}*]#!}(^%!$%$()&{$)@@[}*&+!(##^+#*$#*)(}{(_]@%!@!)!%%[%%$*$$#(
-p18
-I13110
-sV_@+#+&[^$#[&)%+@]!*(}@+#*[^@]%#^!*#+#$()+))[!)]]}@)!]*@#&#*!$&@!{]{^$*{{$$]%&++[
 p19
-I13780
-sVt.show_all()
+I13110
+sVa.insert(0, None)
 p20
+I12764
+sVt.show_all()
+p21
 I7302
 sVlists(range(20), 20, 1)
-p21
-I3052
-sVdict(UserType.objects.values_list('id', 'name'))
 p22
-I18085
-sVs.callback
+I3052
+sVa = "hola-mundo-cruel"
 p23
-I2623
-sVi = 3128391283912839123L
+I20814
+sVfrom django.core.urlresolvers import reverse, resolve
 p24
+I16865
+sVi = 3128391283912839123L
+p25
 I7947
 sVpepe.func_code.co_varnames
-p25
+p26
 I3927
 sVp.get('keys', 'APP_SECRET')
-p26
+p27
 I16547
 sVPhoto.by_tag(t.id).all()
-p27
+p28
 I14815
 sVreverse("shopping_browse_category", path="aa-bbb")
-p28
+p29
 I3968
 sVfrom tipocms import models
-p29
-I8481
-sV'a' + r.regex
 p30
-I8242
+I8481
 sVm = cv.cvCreateMemStorage()
 p31
 I10829
@@ -98,18 +98,18 @@ I15940
 sVs2.user = SystemUser.objects.all().order_by('?')[0]
 p34
 I7397
-sVbase64.decodestring ('cGVybyBjb21vIGxlIGNvbWlzdGUgbGEgb3JlamEgYSBsYSBydWJpYT8gZWg/\u005cn')
+sVitem.select('./p/text()').extract()[0]
 p35
-I14490
+I16777
 sV{^*!*%^[}&]_}#]{_(_&((([(]!}@(]^!+]#+!&}_@}@_)$$)}()]{_(&}(%%^}_^+[+[$}[__{(*$+^
 p36
 I12981
 sVSITE-1853
 p37
 I3903
-sVa = "hola-mundo-cruel"
+sVdict(UserType.objects.values_list('id', 'name'))
 p38
-I20814
+I18085
 sVu.social_auth.__class__
 p39
 I20222
@@ -125,9 +125,9 @@ I17872
 sV@#}@*!!()[]%$*+*{*$%@**!}&#[*#[[{(@&_){{!}!)++@*{{({_!#^]}+{{#]{$^)&]%}})^@&$%@$
 p43
 I12915
-sVitem.select('./p/text()').extract()[0]
+sVbase64.decodestring ('cGVybyBjb21vIGxlIGNvbWlzdGUgbGEgb3JlamEgYSBsYSBydWJpYT8gZWg/\u005cn')
 p44
-I16777
+I14490
 sVurlresolvers.reverse("wears.designed")
 p45
 I2856
@@ -140,48 +140,48 @@ I4561
 sV{![%[*$[$(](([#*#_$_*#$){$@)&&{&%%*@&_++)$[_}^&@$%@_[^]_}^&#^]#&^[%#*[!}!&}@##!@
 p48
 I13546
-sVc[-1]
+sV_@+#+&[^$#[&)%+@]!*(}@+#*[^@]%#^!*#+#$()+))[!)]]}@)!]*@#&#*!$&@!{]{^$*{{$$]%&++[
 p49
+I13780
+sVlen(a + h[:8])
+p50
+I21571
+sVc[-1]
+p51
 I6804
 sVCmsPage.objects.simple_qs().filter(state="live").extra(tables=["(SELECT * FROM cms_page WHERE state='live' AND live_date IS NOT NULL ORDER BY live_date DESC) p", ])
-p50
-I1042
-sVa = "'hola'"
-p51
-I7220
-sVlive(p, None)
 p52
+I1042
+sVlive(p, None)
+p53
 I8461
 sVp.a
-p53
+p54
 I16
 sVs = "g fmnc wms bgblr rpylqjyrc gr zw fylb. rfyrq ufyr amknsrcpq ypc dmp. bmgle gr gl zw fylb gq glcddgagclr ylb rfyr'q ufw rfgq rcvr gq qm jmle. sqgle qrpgle.kyicrpylq() gq pcamkkclbcb. lmu ynnjw ml rfc spj."
-p54
+p55
 I12859
 sVa.find('b')
-p55
+p56
 I16909
 sV'a' in p
-p56
+p57
 I18873
 sV[(q.id, q.text) for q in Question.objects.all()]
-p57
+p58
 I18991
 sVfrom lib.html import clean_ht
-p58
+p59
 I20839
 sVFunctionType.__doc__
-p59
+p60
 I6297
 sVfrom vimpdb import vimpdb
-p60
+p61
 I19504
 sVimport search_links
-p61
-I1528
-sVu = "http://localhost:8000/c/living-room/sofas/128/129/...9%252C1000&facet_cat129=cat129%252C133&startrank=0"
 p62
-I5434
+I1528
 sVtokenize = build_tokenizer(phrases, HtmlTokenizer(stopwords=[None]))
 p63
 I6487
@@ -206,24 +206,24 @@ I18566
 sVa = '/hola'
 p70
 I12245
-sVa.insert(0, None)
-p71
-I12764
 sV(++$%*@_](}_(+!}!(%!*([&#[$@]#}+@@%^[]&^[%]+[{!_#+{(*)!*+@*}+(+!*+#@[@#!)#*[]#%&
-p72
+p71
 I13990
-sVTag("dia").save()
+sVs.callback
+p72
+I2623
+sV'a' + r.regex
 p73
-I263
-sVupdate cms_fragment_template set content_names = "" where id = 4;
-p74
-I6602
+I8242
 sVraise UserWarning?
-p75
+p74
 I19250
 sVid(c)
-p76
+p75
 I8969
+sVhtmllib.HTMLParser.parse_declaration(html)
+p76
+I9714
 sVt.replace('V', 'l').replace('I', 's').replace('T', 'n').replace('G', 'd').replace('Y', 'r').replace('P', 'i')
 p77
 I5233
@@ -266,7 +266,10 @@ I2583
 sVinfo = fd.info()
 p90
 I12322
-sVsimplejson.dumps({ 'hola': ['mundo'] })
+sVa.decode('ascii')
 p91
+I7569
+sVsimplejson.dumps({ 'hola': ['mundo'] })
+p92
 I4956
 s.

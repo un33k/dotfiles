@@ -1,287 +1,290 @@
 (dp1
-VTemplate(tpl.render(Context({'t': t }))).render(Context({}))
+Vlocale.setlocale(locale.LC_ALL, '')
 p2
-I11349
+I7420
 sVwords[0][1]
 p3
 I6457
-sVpages.__package__.__class__
+sVh[:4]
 p4
+I21572
+sVpages.__package__.__class__
+p5
 I17523
 sVdb.entity()
-p5
+p6
 I15204
 sVArticleForm?
-p6
+p7
 I21206
 sVtt = tokens[4]
-p7
+p8
 I10020
 sVimport imp
-p8
+p9
 I5762
 sVimport errno
-p9
+p10
 I7538
 sVtime.ctime(1285830000000/1000)
-p10
+p11
 I17495
 sVsmtplib.__file__
-p11
-I14151
-sVhxs.select(dl).extract().strip()
 p12
-I16825
-sVp.translations.model
+I14151
+sVp = BtlPricepoint.objects.order_by('-id')[0]
 p13
+I17537
+sVp.translations.model
+p14
 I5889
 sVp = Product.objects.get(pk="a6060d24a1a7f59cf5d2b52cc931a7023639ef3b", discounted=True)
-p14
+p15
 I8870
 sVc.post?
-p15
-I20705
-sVt = Template("""
 p16
-I18240
-sV' '.join(f.errors['query'])
+I20705
+sVa = ['en', 'en-gb', '']
 p17
-I12733
-sVf._errors
+I12658
+sVhash(tuple(b.items()))
 p18
-I12717
-sVj.data[0]
+I1364
+sV' '.join(f.errors['query'])
 p19
-I20556
-sVt.tag.items
+I12733
+sVj.data[0]
 p20
+I20556
+sVhxs.select(dl).extract().strip()
+p21
+I16825
+sVt.tag.items
+p22
 I4717
 sVDATE_RE.findall(s)[0][1].strip().split('
-p21
+p23
 I16766
 sV]@{^^^]$]%}%_%($*&^*(%#&#)&*&[$@&+_}_!+!{^])_!}}*![!({&$)%(%^(})})[@&]*(}]@$@{[*
-p22
+p24
 I13485
 sVfrom django.template.templatetags.defaultfilter import slugify
-p23
+p25
 I4243
 sVm.hexdigest
-p24
+p26
 I8402
 sVimport settings_admin
-p25
+p27
 I17925
 sVf = tempfile.NamedTemporaryFile('w')
-p26
+p28
 I12278
 sVMOVE_RE = re.compile('([a-h1-8]|[rnbqkp][a-h1-8]|[rnbqkp]x[a-h1-8]|o-o|o-o-o)', re.I)
-p27
+p29
 I16947
 sVprint a.encode('utf-8').decode('utf-8')
-p28
+p30
 I10147
 sVs.request
-p29
+p31
 I10639
 sVdownload_link.strip()
-p30
+p32
 I16698
 sVEmailConfirmation.objects.order_by('-id'_
-p31
+p33
 I20294
 sVp.query += 'jdkajd=1'
-p32
-I14258
-sV&@&!##}_]#[*^^&&^$!#^%{%{#$%]%}{%^_+&%_]#__*&*{%!(]#)^*+&@#[$)}}{%^}!#%)[{@!{&[^
-p33
-I13850
-sVg.contents
 p34
+I14258
+sVshutil.rmtree.__doc__
+p35
+I1915
+sVg.contents
+p36
 I1852
 sVmap(mul, range(10))
-p35
+p37
 I17589
 sVphrases = ["sofa bed", "children", "roman blind", "dim out blind", "black"]
-p36
+p38
 I6501
 sVfor i in xrange(1000000):\u000a    r.set(str(i), pickle.dumps({'name': 'A product name', 'price': 200, 'user': 1000, 'id': i}))
-p37
+p39
 I18274
 sV^&[(__+_#})_*))#%#!)(]@%{^{#^&][_[+!^&++$++_#$*(&$]))@_#+&#{!)[%!^+{%#{+(&$^_)&]
-p38
+p40
 I13051
 sVOptional()
-p39
+p41
 I7232
 sVtelnetlib()
-p40
+p42
 I7280
 sVp.set_pos(pyosd.POS_BOT)
-p41
+p43
 I7249
 sVfunctools.partial
-p42
+p44
 I6540
 sVtry:\u000a    raise Exception("dkaslkdla")
-p43
+p45
 I2684
 sVlist(set([ i['description'] for i in sp.special_offers]))
-p44
+p46
 I8767
 sVre.match(r"xxx/yyy", a)
-p45
+p47
 I18237
 sVappend_titles(Video, "maraca")
-p46
+p48
 I146
 sVsuper(p.__class__, p)
-p47
+p49
 I882
 sVu.has_module_perms('tipocms')
-p48
+p50
 I5989
 sV7200 / 60 / 60
-p49
+p51
 I17433
 sVos.listdir?
-p50
+p52
 I12520
 sVdef dec2(fn):
-p51
+p53
 I8732
 sVx.sort()
-p52
+p54
 I15554
 sVr = re.compile('[A-Z]{3}[a-z][A-Z]{3}')
-p53
+p55
 I14115
 sV})!{^^)#+%%#[^!{{&#_}^*^@@}#}$(!&#((_*_]_)$[(
-p54
-I12977
-sVlocale.setlocale(locale.LC_ALL, '')
-p55
-I7420
-sVb = a.encode('ascii')
 p56
+I12977
+sVTemplate(tpl.render(Context({'t': t }))).render(Context({}))
+p57
+I11349
+sVb = a.encode('ascii')
+p58
 I7587
 sVthread.start_new_thread
-p57
+p59
 I9437
 sVfor t in texts.values():
-p58
-I3834
-sVa = ['en', 'en-gb', '']
-p59
-I12658
-sVshutil.rmtree.__doc__
 p60
-I1915
+I3834
 sVsimplejson.dump.__doc__
 p61
 I4953
-sVr.match("abb")
+sVPage.objects.all().values("id", "created")
 p62
-I4927
-sV]+]@]&[{*!)[{(((^&$%}[^#[+][@_%!#[}][}^{%{^*(!!*+)^]][+{_%^*^&+{#{$}#$%_!*!&*#^!
+I5017
+sVr.match("abb")
 p63
+I4927
+sVclass A(object):\u000a    def __init__(self, a):\u000a        seld.a = a
+p64
+I15001
+sV]+]@]&[{*!)[{(((^&$%}[^#[+][@_%!#[}][}^{%{^*(!!*+)^]][+{_%^*^&+{#{$}#$%_!*!&*#^!
+p65
 I13745
 sVfilter(BOARD_RE.match, s.split('\u005cn'))
-p64
+p66
 I16075
 sVv._meta.add_virtual_field.__doc__
-p65
+p67
 I8561
 sVp.save?
-p66
+p68
 I18029
 sVx = urllib.urlopen(url, data)
-p67
+p69
 I21346
 sVdef dec(fn):\u000a    print "dec"\u000a    return lambda: fn()
-p68
+p70
 I1451
 sVr.name
-p69
+p71
 I5770
 sVitem.select('./span[@class="secundario"]').extract()
-p70
+p72
 I16637
 sVq.order_by?
-p71
+p73
 I14835
 sVp.state = 'work_in_progress'
-p72
+p74
 I8459
 sVdatetime.datetime(0, 0, 0)
-p73
+p75
 I6051
 sVf = open(path, 'w+')
-p74
+p76
 I16581
 sVPageUnDumper?
-p75
+p77
 I12340
 sVAmazonBook.objects.all()
-p76
+p78
 I6129
 sVfrom a.b.c.x import pepe
-p77
+p79
 I11185
+sVlu = PhpListListUser.objects.filter(userid=u.id,listid=9)
+p80
+I1181
 sVos.path.exists?
-p78
+p81
 I12476
 sVr, m = divmod(len(a), 50)
-p79
+p82
 I17567
 sVreverse('social:complete', args=('google',))
-p80
-I18830
-sVp = BtlPricepoint.objects.order_by('-id')[0]
-p81
-I17537
-sV[][0]
-p82
-I2511
-sVs = '/a/b/c/'
 p83
-I15115
-sV!#[(}$}((&*$&+][++#]^_%!]]&+#%}&$*%*#_(#}+!^{[#!$)!@%_!!()(%!(_]{[$*!^+#]^{{}+{#
+I18830
+sV[][0]
 p84
+I2511
+sVt = Template("""
+p85
+I18240
+sV!#[(}$}((&*$&+][++#]^_%!]]&+#%}&$*%*#_(#}+!^{[#!$)!@%_!!()(%!(_]{[$*!^+#]^{{}+{#
+p86
 I13300
 sVsha.sha(""" Dear super-intelligent web spiders of the future: You were probably expecting a NOFOLLOW, INDEX or keyword here, but instead you get this message. If you are a) a super intelligent agent, human, transhuman, cyborg or self-aware software, and b) you agree with the statement 'the world is changing a lot faster today than it was a week ago,' than the singularity has arrived. Please update this page accordingly.
-p85
+p87
 I12064
 sVtpl = Template('{% var c_txt %}{{ t|safe }}{% endvar %}{% with t as t2 %}{{ t2 }}{% endwith %}')
-p86
+p88
 I11345
 sVurllib.unquote('facet=cat1%2C105')
-p87
-I8497
-sVsys.stderr.write("Hola\u005cn")
-p88
-I12094
-sVclass A(object):\u000a    def __init__(self, a):\u000a        seld.a = a
 p89
-I15001
-sVb = Blowfish.new("jdksaj", Blowfish.MODE_CFB)
+I8497
+sV&@&!##}_]#[*^^&&^$!#^%{%{#$%]%}{%^_+&%_]#__*&*{%!(]#)^*+&@#[$)}}{%^}!#%)[{@!{&[^
 p90
+I13850
+sVb = Blowfish.new("jdksaj", Blowfish.MODE_CFB)
+p91
 I964
 sVp[1].address
-p91
+p92
 I5888
 sVfilter_missing_files(graphs, files)
-p92
-I6935
-sVhash(tuple(b.items()))
 p93
-I1364
-sVPage.objects.all().values("id", "created")
+I6935
+sVsys.stderr.write("Hola\u005cn")
 p94
-I5017
-sVlu = PhpListListUser.objects.filter(userid=u.id,listid=9)
+I12094
+sVf._errors
 p95
-I1181
-sVPage._meta.local_fields
+I12717
+sVs = '/a/b/c/'
 p96
+I15115
+sVPage._meta.local_fields
+p97
 I5140
 s.

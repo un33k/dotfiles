@@ -5,9 +5,9 @@ I12058
 sVraise NotImplemented()
 p3
 I3443
-sVmax(a, lambda x, y: y-x)
+sVh.doc.heap
 p4
-I7071
+I9226
 sVa.aclass
 p5
 I9008
@@ -35,9 +35,9 @@ I16958
 sVa.index(32, -1)
 p13
 I8510
-sVh.doc.heap
+sVmax(a, lambda x, y: y-x)
 p14
-I9226
+I7071
 sVi = Image('/home/omab/misc/img/msn/hippy.jpg')
 p15
 I8291
@@ -65,118 +65,124 @@ I6728
 sVfrom django.template import Template, BLOCK_TAG_START, VARIABLE_TAG_START
 p23
 I16484
-sVp = Permission.objects.get(applabel="tipocms")
-p24
-I6012
 sVF = forms.form_for_instance(c)
-p25
+p24
 I2373
 sVt = Tag(name='Test tag 2', category_id=0)
-p26
+p25
 I15239
 sVa=reload(a)
-p27
+p26
 I511
-sVm.signature
+sVu.extra_data['a']
+p27
+I20581
+sVbase62_encode(x.int)
 p28
+I21511
+sVm.signature
+p29
 I10830
 sVsimplejson.JSONDecodeError
-p29
+p30
 I18473
 sVu.obnob_groups.values_list('group_id', 'group_name')
-p30
+p31
 I20460
 sVUserSocialAuth._meta.fields.get('xxx')
-p31
+p32
 I19254
 sV{#${$&*$]#](}[[[)($%@!(@@^_#^&})_(![+_)}_%*}@%{!{+%@_(%&{#])()]#!(]%!$$#_*%@%_*[
-p32
+p33
 I13287
 sVde pepe():
-p33
+p34
 I11207
 sV}{{$&)^##]()_}_}])@$[$]}%}(^[^{(!%[)$[]^[{+(!}%]^#&#!*^%)^(&])%!#($[+^[($%$&$[(]
-p34
+p35
 I13798
 sVcookielib.MozillaCookieJar?
-p35
+p36
 I9522
 sV%*)_@)+_$+[&@*{@(+^@&({##}#{*([^_+@]*{+@})!)&))]@@[(({!!)*(}($__(]+*}[}&+@}]$$]*
-p36
+p37
 I13746
 sVfrom django.db.backends.mysql.compiler import SQLCompiler
-p37
+p38
 I18903
 sVfor url in ARTICLE_TRACKER_URL.findall(r.value):\u000a    import urlparse, cgi, urllib\u000a    url_parsed = urlparse.urlparse(url).query\u000a    query = cgi.parse_qs(url_parsed)\u000a    website = query.get('website', [None])[0\u000a    if website is not None:\u000a        ws_id = get_website_id(website)\u000a        if ws_id is not None:\u000a            query['website'] = ws_id\u000a            r.value = r.value.replace(url, '/aff/?%s' % urllib.urlencode(query))
-p38
+p39
 I14790
 sVa = 'a/b/c/d'
-p39
+p40
 I16733
 sVhelp(print)
-p40
+p41
 I6546
 sVimport sqlite3
-p41
+p42
 I7506
 sVdatetime.datetime.fromordinal?
-p42
-I11886
-sVu.extra_data['a']
 p43
-I20581
-sVTwitterTestCase.testLogin()
+I11886
+sVp = Permission.objects.get(applabel="tipocms")
 p44
-I20738
-sVu.has_perms('tipocms.cms_producer')
+I6012
+sVTwitterTestCase.testLogin()
 p45
+I20738
+sVqs = Thread.objects.all()
+p46
+I21468
+sVu.has_perms('tipocms.cms_producer')
+p47
 I5975
 sVresults=[{"facets":[["category",["bed in a bag","blankets","mattress pads","pillowcases","pillows","other"]],["image_colour",["10","11","18","19","1c","1d","1e","20","22","23","24","28","29","2a","2b","2c","2f","3","30","31","32","34","35","36","37","3b","3c","3d","3f","4","40","41","43","45","48","49","4b","4c","4e","5","50","51","53","57","58","59","5a","5d","5f","60","61","62","63","64","65","67","69","6b","70","71","73","74","75","76","b","c","d","f"]],["designer",["blossom"]],["retailer",["Amazon","Anna\u005c's Linens","overstock.com","Sears","Target","other"]],["price",[[1,30],[30,50],[50,80],[80,140],[140,13000]]],["material",["cotton","fabric","foam","plastic","polyester","other"]]],"db":"product","results":["US69BA80Q4BDA2MPBO3RHIOPVCXIYOJV633EO3QP","US000705N5SAXAVYDACMZ3IG4QFDIMYOU5WIOU77","US00065DLYJXTP6FAU7KF4AERLWMDUVG3VVIYAKT","US69BA80UUBHJP4XS6HBV6AKYGSI6DF7FVPRBPRV","US00060DDIL32GX73WC6L2LIZNQXY4BTQLMC3X4A","US69BA4CFVSW7DPHSCGN7NSSXUPAQRYLRQO2LOL2","US69B9C73H7RK5ETWMGKXETBD5F7L3MOOTP2PYOR","US00062DVQ6Z2D5XFIDVIJYXS3F42EXBWCF4R4JO","US000705XTOVBMA62LCHU2SEOI4YX7PTJAFLOEMT","US00072CLD6OVSJ7PKYYKYPSQ7T3KLSQGLP5AWV2","US00077FJ3EHFTFESMZDYMZCMAZLHH2MHT74F5JL","US69B989NTLW7RDFP3QC2FVGXVINAVQMP3PMGJCO","US00062AD6J6IHRQDSOULPLTCOSOKSMKQ5RZYX7V","US000619ZDUMNXH2YNCQL2YVZKH7WDAWBW2VCPJK","US69B9D3TAKSMKDRY3B6FVC45I33HXEVZ7PCL22N","US69BB0DX7VX6TOGYDDGPWQUKYS4B2QD4EZS6WH2","US000A51YXPJLZDMBZF4SHPIHHG6P2CJZZWTTPIK","US000663XVNNZ7LKV7MMFOSCY5RCBTBOCRPN6N4U","US00065DJXJMWLR3R27ZMPUZTUGNALUP226E5BKY","US00064EOROZIX7R2O6K4ZDMNY5SWOJGZO2OQIGC"]}]
-p46
+p48
 I15644
 sVqs = Group.objects.filter(obnob_users=u)
-p47
+p49
 I20898
 sVd.strftime('%B')
-p48
+p50
 I17949
 sVctype
-p49
+p51
 I7824
 sV]@*{*)!!(@+]__*@$[}&($[)#{*[}(@@%!}%[{$]&^%)@&(@][+{}*{%++}$&+!&[^^%]+%_(_!#)++(
-p50
+p52
 I13044
 sVf = names_form(n)
-p51
+p53
 I8918
 sVfrom white_labeling.models import *
-p52
+p54
 I18317
 sVt.contents
-p53
+p55
 I10062
 sVurlparse.urlparse('')[1]
-p54
+p56
 I20947
 sVprint urllib2.unquote("%C2%A310")
-p55
+p57
 I11680
 sVChatterboxThread.objects.get_for_object(g)
-p56
+p58
 I21340
 sVnot ( True and True )
-p57
+p59
 I14722
 sVd.fragments
-p58
+p60
 I12252
 sVopr.left.left.left.left
-p59
+p61
 I437
 sV@_%(]${&*&#^#_@^{%*^%$^+*(%}[!!)(!%_}!@@#&+)^^{##%&}$+*+!#}+%{%#)^@%[{}^%#+(+$[@
-p60
+p62
 I14043
 sVa = smtplib.SMTPException('msg')
-p61
+p63
 I14153
 s.

@@ -1,256 +1,262 @@
 (dp1
-Vu
-I337
-sVdata = fd.read()
+Vrandom.randint(range(10))
 p2
-I1778
-sVm.handler_is_connected(2)
-p3
-I8053
-sVqs.view_count
-p4
-I17440
+I7040
 sVlist(xml.characters)
-p5
+p3
 I17265
-sVs[0][0][0][0][0][0].__class__
+sVc.cursor.cursor
+p4
+I11832
+sVfrom tipocms.state import _cache_values
+p5
+I4983
+sVweb.geometry
 p6
-I16989
-sVproducts
+I18022
+sVstr(l)
 p7
-I7411
-sVapply(range(10), lambda x: x*x)
+I9997
+sVload.PAGES
 p8
-I8710
-sVlen(search_links.AFFECTED)
+I17030
+sVa.expand_items("hola, como,\u005cn\u005cnandas")
 p9
-I1567
-sV^[${+![}[&][)(@+[+*+#{*!(^&()&#_^(%@]]&(+^)](&^]@@)%[@#*[_}$$]*][@(())#)@%*{&{!+
+I520
+sVm, d, y = d.split(' ', 4)[1:]
 p10
-I13021
-sVr = p.get_result()
+I16673
+sV^[${+![}[&][)(@+[+*+#{*!(^&()&#_^(%@]]&(+^)](&^]@@)%[@#*[_}$$]*][@(())#)@%*{&{!+
 p11
-I5393
-sVSearch?
+I13021
+sVfind_packages?
 p12
-I21264
-sVclass Ctx(template.Context):\u000a    def __getitem__(self, x):\u000a        value = super(Ctx, self).__getitem__(x)\u000a        if not value:\u000a            raise SyntaxError, "no item %s" % x
+I19315
+sVfrom django.template.defaultfilters
 p13
-I10389
-sVprint "%f" % (e - s,)
+I4244
+sVfrom horno.forms import SearchForm
 p14
-I9808
-sVpygraph
+I233
+sVproducts
 p15
-I19159
-sV[({*%&[%!@&&&_*#_@{_*]@&$+)}(&)+(#]^}{#%&([^^%{^}){$#](^##^%*%&#%#$#}*@#!$#}+]!!
+I7411
+sVfrom social_auth.utils import base62_encode, base62_decode
 p16
-I13066
+I21509
 sVupdate cms_fragment_template set content_names = "itemDescription/text[4],itemImage/image[4],itemImageText/text[4],itemLinkTa
 p17
 I6717
-sVp.aa
-p18
-I58
-sVcm = CmsContentMapping.objects.filter(content_type_id=75)[2000]
-p19
-I17459
-sVstr(l)
-p20
-I9997
-sVc.read('/home/omab/.t2chess/config.cfg')
-p21
-I16613
-sVtime.mktime(d2.timetuple())
-p22
-I4048
-sVfor w in tokenize(t, True):\u000a    if isinstance(w, tuple):\u000a        s, e = w[1]\u000a        print split_words(t)[s:e]
-p23
-I6513
-sVid(v2)
-p24
-I8689
-sVload.PAGES
-p25
-I17030
-sV^!!+)*^^])[+{&++{[[##$**]]%^]_+*%*@%!{)@%(}*!#]@$]^@)(%$$+$#$[^_${)&_)!}{[+&[@}&
-p26
-I13841
-sVfrom obnob.apps.blog.models import Post
-p27
-I20368
-sVurlparse.urlparse(url)
-p28
-I5588
-sV<p class="hola"
-p29
-I18246
-sV%)^!^$!$#*^]$*}&{]#{*]!{%%+_({%)%+}&$%+_(}_^(%{*++!@^}*_{([[_#_++@+(*&$(%+)+$}[)
-p30
-I13994
-sVfrom categorization.views import *
-p31
-I2500
-sVt = Template('{% ifequal cat.shortname|lower "sale" %} on sale{% endifequal %}')
-p32
-I10867
-sVimpor re
-p33
-I19378
-sVlr = CmsLinkReference.objects.all()
-p34
-I3828
-sVm, d, y = d.split(' ', 4)[1:]
-p35
-I16673
-sVrandom.randint(range(10))
-p36
-I7040
-sVclass Val(object):\u000a    def __init__(self, initial=''):\u000a        self.value = initial\u000a    def add_entry(self, entry):\u000a        values = filter(None, self.value.split(','))
-p37
-I19153
-sVconnection.cursor.exect
-p38
-I11793
-sVc.match(a).groups()
-p39
-I20773
-sVa.expand_items("hola, como,\u005cn\u005cnandas")
-p40
-I520
-sVv[-1].url
-p41
-I8695
-sVs = """var surveyTypeId = 0;  var userId = 0;  var webId = 11777;  var propertyName = 'Aureole';  var delayHours = 0;  var islist = 0;  var vID = 8;  var ispublic = 0;  var costCurrencyId = 1;  var ptype = 3;  var geoid = 2420;  var detailFlag = 1;  var voteId = 0;  var isEdit = 0; var verticalId = 8; var neighborhood = ''; var cuisines = '';"""
-p42
-I17084
-sVvideos["videos"]
-p43
-I3217
-sVs._meta.parents()
-p44
-I3308
-sVtokenize = build_tokenizer(phrases, stopwords=NO_STOPWORDS, base_tokenizer=HtmlPhraseTokenizer(stopwords=NO_STOPWORDS, base_tokenizer=nltk.tokenize.word_tokenize))
-p45
-I6510
-sV]_}(_]&}[&#%!{+@(##({^[+#_)]@!$]_@+[[%*_)}]([$}}*+#$+{$+_{}^][]{!^!#^{{_$}$(%)+[
-p46
-I13987
-sV__builtin__.__dict__["_"] = lambda x:x
-p47
-I15582
-sVdb.entity
-p48
-I15203
-sVso
-p49
-I16030
-sVfrom horno.forms import SearchForm
-p50
-I233
-sVdelivery_pat = re.compile(r'delivery time:\u005cs*([\u005cd\u005cs-]+\u005cs*days)')
-p51
-I7473
-sVlocale.getpreferredencoding()
-p52
-I10778
-sVc.cursor.cursor
-p53
-I11832
-sVcube.count('n')
-p54
-I15567
-sVurllib2.Request
-p55
-I6043
-sV(_@^&^*)[*$*)+&$@){]$#^(#_({}**+!#${()_)#^+)&)*[%$%@^]})#{+^&*]_#^!]!)][#*#%!_%$
-p56
-I13438
-sVfrom django.template.defaultfilters
-p57
-I4244
-sVx.abbreviation
-p58
-I19897
-sVweb.geometry
-p59
-I18022
-sVb_iface.GetProperty("battery.charge_level.warning")
-p60
-I2202
-sVfind_packages?
-p61
-I19315
-sV%&&#($[[+##*%${)_!+{_[})%++)$#))]]]$]@]@($+{&%&%+!!!@]_]+])^*@$(@#${}}#}{%}#+{(@
-p62
-I12883
-sVfrom tipocms.state import _cache_values
-p63
-I4983
-sVunicode(f.fields["product"])
-p64
-I3387
-sVBuyTheLook._meta.fields
-p65
-I5732
-sVint.__doc__
-p66
-I6138
-sVa.next
-p67
-I9497
-sVkw
-p68
-I4196
-sVu.username.lower() in ('cleberry',)
-p69
-I9202
-sVarticles_tab2
-p70
-I5371
-sVUserSocialAuth.objects.all)(
-p71
-I19247
-sVsys.stdout.write(". ")
-p72
-I6560
-sVp = urlparse.urlparse("/a/b/c"
-p73
-I3005
 sVt = Template('{% include "navigation.html" %}')
-p74
+p18
 I11979
 sVimport dbus
-p75
+p19
 I1418
-sVv.add_entry('1')
-p76
-I19140
+sV%&&#($[[+##*%${)_!+{_[})%++)$#))]]]$]@]@($+{&%&%+!!!@]_]+])^*@$(@#${}}#}{%}#+{(@
+p20
+I12883
+sVarticles_tab2
+p21
+I5371
+sVv[-1].url
+p22
+I8695
+sVapply(range(10), lambda x: x*x)
+p23
+I8710
+sVp = urlparse.urlparse("/a/b/c"
+p24
+I3005
+sVtime.mktime(d2.timetuple())
+p25
+I4048
+sVa = a[:20 - 8]
+p26
+I21569
 sVc.name
-p77
+p27
 I1742
-sVpepe.__call__()
-p78
-I3673
-sVimg2 = img.rotate(-40)
-p79
-I12308
+sVcm = CmsContentMapping.objects.filter(content_type_id=75)[2000]
+p28
+I17459
+sVfor w in tokenize(t, True):\u000a    if isinstance(w, tuple):\u000a        s, e = w[1]\u000a        print split_words(t)[s:e]
+p29
+I6513
+sVSearch?
+p30
+I21264
+sVc.match(a).groups()
+p31
+I20773
+sVs._meta.parents()
+p32
+I3308
+sVx.abbreviation
+p33
+I19897
+sVBuyTheLook._meta.fields
+p34
+I5732
+sVa.next
+p35
+I9497
+sV]_}(_]&}[&#%!{+@(##({^[+#_)]@!$]_@+[[%*_)}]([$}}*+#$+{$+_{}^][]{!^!#^{{_$}$(%)+[
+p36
+I13987
 sVd = libxml2.htmlParseDoc(t, "utf-8")
-p80
+p37
 I1793
+sVlen(search_links.AFFECTED)
+p38
+I1567
+sVso
+p39
+I16030
+sVimg2 = img.rotate(-40)
+p40
+I12308
+sV<p class="hola"
+p41
+I18246
 sVs = p.get_section('get_the_look')
-p81
+p42
 I17204
-sVfrom social_auth.backends import google
-p82
-I20233
 sVth.run()
-p83
+p43
 I15986
-sVr = c.get('/search/?query=black+table&prefdb=&sv=default')
-p84
-I19661
+sVb_iface.GetProperty("battery.charge_level.warning")
+p44
+I2202
+sVdb.entity
+p45
+I15203
+sVclass Ctx(template.Context):\u000a    def __getitem__(self, x):\u000a        value = super(Ctx, self).__getitem__(x)\u000a        if not value:\u000a            raise SyntaxError, "no item %s" % x
+p46
+I10389
+sVp.aa
+p47
+I58
 sVb_iface.GetProperty("battery.is_charging")
-p85
+p48
 I2212
+sV^!!+)*^^])[+{&++{[[##$**]]%^]_+*%*@%!{)@%(}*!#]@$]^@)(%$$+$#$[^_${)&_)!}{[+&[@}&
+p49
+I13841
+sV(_@^&^*)[*$*)+&$@){]$#^(#_({}**+!#${()_)#^+)&)*[%$%@^]})#{+^&*]_#^!]!)][#*#%!_%$
+p50
+I13438
+sVlr = CmsLinkReference.objects.all()
+p51
+I3828
+sVunicode(f.fields["product"])
+p52
+I3387
+sVprint "%f" % (e - s,)
+p53
+I9808
+sVsys.stdout.write(". ")
+p54
+I6560
+sVtokenize = build_tokenizer(phrases, stopwords=NO_STOPWORDS, base_tokenizer=HtmlPhraseTokenizer(stopwords=NO_STOPWORDS, base_tokenizer=nltk.tokenize.word_tokenize))
+p55
+I6510
+sVpygraph
+p56
+I19159
+sVr = p.get_result()
+p57
+I5393
+sVqs.view_count
+p58
+I17440
+sVt = Template('{% ifequal cat.shortname|lower "sale" %} on sale{% endifequal %}')
+p59
+I10867
+sVfrom categorization.views import *
+p60
+I2500
+sVkw
+p61
+I4196
+sV[({*%&[%!@&&&_*#_@{_*]@&$+)}(&)+(#]^}{#%&([^^%{^}){$#](^##^%*%&#%#$#}*@#!$#}+]!!
+p62
+I13066
+sVv.add_entry('1')
+p63
+I19140
+sVfrom social_auth.backends import google
+p64
+I20233
+sVfrom obnob.apps.blog.models import Post
+p65
+I20368
+sVid(v2)
+p66
+I8689
+sVs[0][0][0][0][0][0].__class__
+p67
+I16989
+sVs = """var surveyTypeId = 0;  var userId = 0;  var webId = 11777;  var propertyName = 'Aureole';  var delayHours = 0;  var islist = 0;  var vID = 8;  var ispublic = 0;  var costCurrencyId = 1;  var ptype = 3;  var geoid = 2420;  var detailFlag = 1;  var voteId = 0;  var isEdit = 0; var verticalId = 8; var neighborhood = ''; var cuisines = '';"""
+p68
+I17084
+sVurlparse.urlparse(url)
+p69
+I5588
+sV%)^!^$!$#*^]$*}&{]#{*]!{%%+_({%)%+}&$%+_(}_^(%{*++!@^}*_{([[_#_++@+(*&$(%+)+$}[)
+p70
+I13994
+sVlocale.getpreferredencoding()
+p71
+I10778
+sVu
+I337
+sVconnection.cursor.exect
+p72
+I11793
+sV__builtin__.__dict__["_"] = lambda x:x
+p73
+I15582
+sVUserSocialAuth.objects.all)(
+p74
+I19247
+sVr = c.get('/search/?query=black+table&prefdb=&sv=default')
+p75
+I19661
+sVdata = fd.read()
+p76
+I1778
+sVpepe.__call__()
+p77
+I3673
+sVdelivery_pat = re.compile(r'delivery time:\u005cs*([\u005cd\u005cs-]+\u005cs*days)')
+p78
+I7473
+sVu.username.lower() in ('cleberry',)
+p79
+I9202
+sVcube.count('n')
+p80
+I15567
+sVurllib2.Request
+p81
+I6043
+sVm.handler_is_connected(2)
+p82
+I8053
+sVc.read('/home/omab/.t2chess/config.cfg')
+p83
+I16613
+sVvideos["videos"]
+p84
+I3217
+sVclass Val(object):\u000a    def __init__(self, initial=''):\u000a        self.value = initial\u000a    def add_entry(self, entry):\u000a        values = filter(None, self.value.split(','))
+p85
+I19153
+sVimpor re
+p86
+I19378
+sVint.__doc__
+p87
+I6138
 s.

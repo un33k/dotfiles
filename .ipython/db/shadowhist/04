@@ -2,256 +2,265 @@
 Vmd5.new('hola').hexdigits()
 p2
 I8398
-sVf = WebsiteAffiliateScheme._meta.get_field('website')
-p3
-I12609
-sVrange(0, 3)
-p4
-I9193
-sV!%${[&{@#%}^#_*$^+%&+{%)]^%##+{^@$[&_{++)_@_}#[[(_+!{&@[!%@*{_*][$$$###[!}%%&@(!
-p5
-I12982
-sVv = Valoracion.objects.filter(area=1, criterio=1)[0]
-p6
-I10737
-sVp = CmsPagePath.objects.get(http_path="/the-magazine/news/18823208")
-p7
-I4707
-sVpopen2.__doc__
-p8
-I2257
-sVMostPopularRooms({}, "rating")
-p9
-I3151
-sVsys.maxint
-p10
-I12515
-sVf._get_related_query_name()
-p11
-I4577
-sVt = Template('{{ cms_data.fragments.content }}')
-p12
-I12407
-sV^#!+{_(_$+!!%##{[{]($+@)#&$%)))&[&*!^%+]!#]^#{)][()**$^_!@)^}%$}+_]+{[]*_}[[*)*{
-p13
-I13937
-sVdb = SqlSoup("sqlite:////home/omab/.config/f-spot/photos.db")
-p14
-I15193
-sVdef get_articles(catname):\u000a    return ArticleSearch(query=catname, count=17, display=display).get_result().get_items()
-p15
-I5362
-sVd = xml.dom.minidom.parse(lines)
-p16
-I20694
-sVa_img_re.match("hola mundo como <a href='http://google.com'><img src='hdai'></a> va todo?")
-p17
-I9855
-sVs = StringIO.StringIO()
-p18
-I15810
-sV'oldsearch' in d or paid and 'fastsearch' not in d
-p19
-I12350
-sVlist(c)[0]
-p20
-I11811
-sVbtl = get_object_or_404(BuyTheLook.objects.select_details(), pk=object_id)
-p21
-I4402
-sVa.split(',')[:2]
-p22
-I9939
-sVsql = """SELECT c.*, COUNT(rr.id) FROM rr_criteria c
-p23
-I7723
-sV[ ''.join(('s', y, z)) for x in l for y in l]
-p24
-I9515
-sVf.pre_save()
-p25
-I2345
-sVWebsite.website_manufacturers
-p26
-I10085
-sVhtmlentitydefs.codepoint2name['&']
-p27
-I14692
-sVa.encrypt("hola mundito")
-p28
-I994
-sVfloat(100)/300
-p29
-I10748
-sVa2.split()
-p30
-I9090
-sVarticles._get_url(articles.result.search_params)
-p31
-I5335
-sVdef pepe2():
-p32
-I3018
-sVg.obnob_users.__dict__
-p33
-I20163
-sVu = User.objects.all()[0]
-p34
-I353
-sVs.send()
-p35
-I8449
-sVimport arrayfns
-p36
-I2731
-sVpq.games['matias'].dispaly()
-p37
-I16253
-sVurlparse.urlparse('http://mydeco.com/microsite/bestonlinesofas.com/th-magazine/pepe/le/pu')
-p38
-I8786
-sVhtml_content = '<html><body><h1>matias</h1><span>matias2</span></body></html>'
-p39
-I21258
-sVf2.readlines()
-p40
-I15795
 sVjson[-10:]
-p41
+p3
 I11607
-sVr = re.compile('(White|Black) (\u005cd) :')
-p42
-I16297
-sVi.title_master
-p43
-I11140
-sVstrip_tags(' <p>Hola mundo</p>'.lower().strip())
-p44
-I12417
-sVfor form in fs.forms:\u000a    print '\u005cn\u005cn\u005cn', form.as_table()
-p45
-I14453
-sVf.seek(0)
-p46
-I929
-sVl = t.nodelist[0]
-p47
-I9995
-sVxrange(10).next()
-p48
-I16259
+sVd = xml.dom.minidom.parse(lines)
+p4
+I20694
+sVf._get_related_query_name()
+p5
+I4577
+sVdef get_articles(catname):\u000a    return ArticleSearch(query=catname, count=17, display=display).get_result().get_items()
+p6
+I5362
+sVsys.maxint
+p7
+I12515
+sVf = WebsiteAffiliateScheme._meta.get_field('website')
+p8
+I12609
+sVdef pepe2():
+p9
+I3018
+sV':'.join('wallace-sacks'.split('/'))
+p10
+I10622
+sVa.encrypt("hola mundito")
+p11
+I994
+sVg.obnob_users.__dict__
+p12
+I20163
+sVf2.readlines()
+p13
+I15795
 sVGroup
-p49
+p14
 I19796
-sVbisect.bisect_right?
-p50
-I17047
+sVP.xxx()
+p15
+I20193
+sVf.seek(0)
+p16
+I929
+sVstrip_tags(' <p>Hola mundo</p>'.lower().strip())
+p17
+I12417
+sVl = t.nodelist[0]
+p18
+I9995
 sVp.tpl.whats_hot.render()
-p51
+p19
 I17333
-sVurlparse.urlunparse(('', '', '/a', '', 'a=1', ''))
-p52
-I20790
 sVs.query(PhotoTag).filter_by(tag_id == 1)
-p53
+p20
 I14741
 sVletters[:b]
-p54
+p21
 I5187
-sVf.is_multipart()
-p55
-I14458
-sVt = loader.get_template('cms/fragment/microsites_top_panel.html')
-p56
-I9988
-sVg.obnob_users.inactive()
-p57
-I20245
 sV%timeit '' + 'xxx'
-p58
+p22
 I16832
+sVm.goahead(len(html))
+p23
+I9730
+sVx.int / 62 / 62 / 62 / 62 / 62 / 62
+p24
+I21526
+sVdecorators.render_to
+p25
+I2879
+sVp = CmsPage.objects.get(pk=7904)
+p26
+I17466
+sVsql = """SELECT c.*, COUNT(rr.id) FROM rr_criteria c
+p27
+I7723
+sVround(round(a, 3))
+p28
+I2165
+sVserializers.get_serializer_formats()
+p29
+I11392
+sVvirtual_forms['file']
+p30
+I9110
+sVimport httplib
+p31
+I8148
+sVr = re.compile('(White|Black) (\u005cd) :')
+p32
+I16297
+sVbtl = get_object_or_404(BuyTheLook.objects.select_details(), pk=object_id)
+p33
+I4402
 sVmd5.md5('matiasaguirre@gmail.com')
-p59
+p34
 I18488
-sVl.tokenize()
+sVwpt = nltk.tokenize.WordPunctTokenizer()
+p35
+I6514
+sVMostPopularRooms({}, "rating")
+p36
+I3151
+sVbase64.b64encode('a)
+p37
+I21496
+sVf.is_multipart()
+p38
+I14458
+sVrange(0, 3)
+p39
+I9193
+sV@#(*!__{)_#^!{!&%_*@+*(&[^_(*$#!@_*}#+$_*${@!}*]!}@)$^@_@{^(++(%({[#$)!}!##%]&[{
+p40
+I13967
+sVWebsite.website_manufacturers
+p41
+I10085
+sVfor form in fs.forms:\u000a    print '\u005cn\u005cn\u005cn', form.as_table()
+p42
+I14453
+sVusertext('http://digg.com')
+p43
+I9898
+sVhtml_content = '<html><body><h1>matias</h1><span>matias2</span></body></html>'
+p44
+I21258
+sV]#&*^}&*}%+#()%()[+}([!$]#{%%+@@@{^^_#*]()^*^%]{+{$(][$])@}]{%]+]+*!!}^![#@*[@)+
+p45
+I13223
+sVupdate cms_fragment_template set content_names = "boxImage/image" where id = 130;
+p46
+I6723
+sVhtmlentitydefs.codepoint2name['&']
+p47
+I14692
+sVf.pre_save()
+p48
+I2345
+sV[ ''.join(('s', y, z)) for x in l for y in l]
+p49
+I9515
+sVdb = SqlSoup("sqlite:////home/omab/.config/f-spot/photos.db")
+p50
+I15193
+sVlist(c)[0]
+p51
+I11811
+sVt = loader.get_template('cms/fragment/microsites_top_panel.html')
+p52
+I9988
+sVimport arrayfns
+p53
+I2731
+sVpq.games['matias'].dispaly()
+p54
+I16253
+sVi.title_master
+p55
+I11140
+sVc = CharField()
+p56
+I8910
+sVroot = get_default_root_window()
+p57
+I7967
+sV!%${[&{@#%}^#_*$^+%&+{%)]^%##+{^@$[&_{++)_@_}#[[(_+!{&@[!%@*{_*][$$$###[!}%%&@(!
+p58
+I12982
+sVbisect.bisect_right?
+p59
+I17047
+sVurlparse.urlunparse(('', '', '/a', '', 'a=1', ''))
 p60
-I10050
+I20790
 sVp.match(t)
 p61
 I15024
-sV@#(*!__{)_#^!{!&%_*@+*(&[^_(*$#!@_*}#+$_*${@!}*]!}@)$^@_@{^(++(%({[#$)!}!##%]&[{
+sVxrange(10).next()
 p62
-I13967
-sVP.xxx()
-p63
-I20193
+I16259
 sVdef load_page():
-p64
+p63
 I1485
-sVimport httplib
+sV'oldsearch' in d or paid and 'fastsearch' not in d
+p64
+I12350
+sVa_img_re.match("hola mundo como <a href='http://google.com'><img src='hdai'></a> va todo?")
 p65
-I8148
-sVround(round(a, 3))
-p66
-I2165
-sVdecorators.render_to
-p67
-I2879
-sVx.registrationprofile_set.all()
-p68
-I16855
-sVusertext('http://digg.com')
-p69
-I9898
+I9855
 sVi = r.findall("gdjklgjdf&lt;ezghzkgrhrekgh&lkdjhgdljg{% rekjghrekgn lkdjsf=3&nkhn=1 %}kjdrhgerk{% article_tracked_url efh=2&jkhdg=4&fgjdfjk=blah%}khgfkjdhkjhg&amp;d")
-p70
+p66
 I4687
-sV]#&*^}&*}%+#()%()[+}([!$]#{%%+@@@{^^_#*]()^*^%]{+{$(][$])@}]{%]+]+*!!}^![#@*[@)+
-p71
-I13223
-sVp = CmsPage.objects.get(pk=7904)
-p72
-I17466
-sVc = CharField()
-p73
-I8910
 sVa = 5
-p74
+p67
 I60
-sVm.goahead(len(html))
-p75
-I9730
-sVdef g(self, name):\u000a    return self.__call__()
-p76
-I3681
-sVroot = get_default_root_window()
-p77
-I7967
-sVp = Page(url=u, template=t)
-p78
-I8611
-sVupdate cms_fragment_template set content_names = "boxImage/image" where id = 130;
-p79
-I6723
-sV':'.join('wallace-sacks'.split('/'))
-p80
-I10622
-sVserializers.get_serializer_formats()
-p81
-I11392
+sVa.split(',')[:2]
+p68
+I9939
 sVletters
-p82
+p69
 I1974
 sVlist(s.query(PhotoTag, pt_alias).outerjoin((pt_alias, pt_alias.c.photo_id==PhotoTag.photo_id & pt_alias.c.tag_id!=PhotoTag.tag_id)))
-p83
+p70
 I15373
-sVvirtual_forms['file']
-p84
-I9110
+sVt = Template('{{ cms_data.fragments.content }}')
+p71
+I12407
+sVv = Valoracion.objects.filter(area=1, criterio=1)[0]
+p72
+I10737
+sV^#!+{_(_$+!!%##{[{]($+@)#&$%)))&[&*!^%+]!#]^#{)][()**$^_!@)^}%$}+_]+{[]*_}[[*)*{
+p73
+I13937
+sVp = CmsPagePath.objects.get(http_path="/the-magazine/news/18823208")
+p74
+I4707
+sVpopen2.__doc__
+p75
+I2257
+sVfloat(100)/300
+p76
+I10748
+sVa2.split()
+p77
+I9090
+sVu = User.objects.all()[0]
+p78
+I353
+sVs.send()
+p79
+I8449
 sVc.request('GET', 'http://social.matiasaguirre.net/')
-p85
+p80
 I21159
-sVwpt = nltk.tokenize.WordPunctTokenizer()
+sVdef g(self, name):\u000a    return self.__call__()
+p81
+I3681
+sVx.int / 62 / 62 / 62 / 62
+p82
+I21524
+sVs = StringIO.StringIO()
+p83
+I15810
+sVl.tokenize()
+p84
+I10050
+sVurlparse.urlparse('http://mydeco.com/microsite/bestonlinesofas.com/th-magazine/pepe/le/pu')
+p85
+I8786
+sVg.obnob_users.inactive()
 p86
-I6514
+I20245
+sVp = Page(url=u, template=t)
+p87
+I8611
+sVx.registrationprofile_set.all()
+p88
+I16855
+sVarticles._get_url(articles.result.search_params)
+p89
+I5335
 s.

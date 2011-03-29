@@ -38,255 +38,261 @@ I10129
 sVclass X(object):
 p14
 I18597
-sVitertools.starmap?
+sVx.int / 62 / 62 / 62 / 62 / 62
 p15
+I21525
+sVitertools.starmap?
+p16
 I12502
 sVfrom django.template import Context, Template
-p16
+p17
 I17894
 sVmath.radians(330)
-p17
+p18
 I12301
 sVsum(x.product_price or 0 for x in p)
-p18
+p19
 I17546
 sVqs.filter(m1_id__isnull=True)
-p19
+p20
 I18912
 sVf.rel.__class__
-p20
+p21
 I18731
 sVurllib2.urlopen("http://googleabcd.com/").read()
-p21
+p22
 I2993
 sVfrom HTMLParser import HTMLParser
-p22
+p23
 I20684
 sVfd.fragments['article_items[0]'].fragment_id
-p23
+p24
 I835
 sVProduct.objects.filter(pk__in=p.products.values_list('guid', flat=True))
-p24
+p25
 I17540
 sVC(aref=a3, bref=b).save()
-p25
+p26
 I19419
 sVa = u"I\u005cxC2\u005cx92s time to"
-p26
+p27
 I10427
 sVp urlparse.urldefrag("http://a.com/b")
-p27
+p28
 I4294
 sV@(!%)*)^]![_^%#)}*#!_@_@)(#)(_(]!%@)!_+_)]!*@{&!^%_+*(%%$!!_^}@^^{[@#*&+[(%#[{({
-p28
+p29
 I12941
 sVfrom omniture.utils import get_omniture_account
-p29
+p30
 I14581
 sVbp = BtlPricepoint.objects.get(pk=2954)
-p30
+p31
 I4363
 sVurllib.urlencode({ 'a': '1,2' })
-p31
+p32
 I9047
 sVp.get('keys', 'APP_KEY')
-p32
+p33
 I16546
 sVfrom collections import chain
-p33
+p34
 I18945
 sVpepe(1, a=10)
-p34
+p35
 I8831
 sVwhile 1:
-p35
+p36
 I6324
 sVi[0].translations
-p36
-I11531
-sVSwitch.objects.all()
 p37
-I4212
-sVa.insert("p", 11)
+I11531
+sVimport zbase62
 p38
+I21492
+sVa.insert("p", 11)
+p39
 I2535
 sVp.say_hi()
-p39
+p40
 I4238
 sVurllib2.urlopen("http://google.com")
-p40
+p41
 I1055
 sVhpt = HtmlPhraseTokenizer()
-p41
+p42
 I6342
 sVt = Template("{% url supplier_details supplier_slug='somethingfromus' supplier_id='6912484' %}")
-p42
+p43
 I17912
 sVp SpecialOffer.add_to_class.__doc__
-p43
+p44
 I7153
 sVprint f.get_form(4)
-p44
+p45
 I3321
 sVr = RoomSearch(filters=['id,204834'], count=1)
-p45
+p46
 I11756
 sVi = models['image']
-p46
+p47
 I8624
 sVct = ContentType.objects.get(name="system user")
-p47
-I7378
-sVfrom functools import partial
 p48
+I7378
+sVfrom app.models import Item
+p49
+I10958
+sVfrom functools import partial
+p50
 I4607
 sVa.user.avatar
-p49
+p51
 I9468
 sVany((True for i in range(10)))
-p50
+p52
 I9543
 sVf = Page._meta.get_field('template')
-p51
+p53
 I18581
 sV)}%)+*]%#${(!&*&!$^){^})$#}}^%+@$*_])}%@(&!#&%@@+]]^^]_**)^]&+[$_%]*__*@}@)([[@^
-p52
+p54
 I13367
 sVi = i)=
-p53
+p55
 I8589
 sV[ s.name for s in Switch.objects.all()]
-p54
+p56
 I4213
 sVa.isupper?
-p55
+p57
 I14183
 sV()#](()]]_&)!}(][@_%{)*+^$[((){(#)(_#%+%!%}))}%@)#*}_)#$&}(*@][@}+##%+}}_[[%(!&@
-p56
+p58
 I13560
 sVdom = minidom.parseString(content)
-p57
+p59
 I20731
 sVcd.catslug
-p58
+p60
 I10495
 sVf = CmsUserRoleForm(user=u, data={})
-p59
+p61
 I6038
 sVdata['key1'].append('item 1')
-p60
-I21053
-sVfrom app.models import Item
-p61
-I10958
-sVb.props.style.get_properties('disabled')
 p62
+I21053
+sVb.props.style.get_properties('disabled')
+p63
 I8117
 sVbooks = ecs.ItemSearch('', SearchIndex='Books', MerchantId="84-666-1644-6")
-p63
+p64
 I6076
 sVStampImage.objects.filter()
-p64
+p65
 I3190
 sVarticles.orig_query
-p65
+p66
 I5330
 sVa.rstrip('/')
-p66
+p67
 I15090
 sVp.house = h
-p67
+p68
 I18751
 sV#&^#*&+$)&($]!+]&^$@)#*^_^]{#%)*_@^!_+*+*{](*&[}*[[]#*%!*(&!(@)[))!%%)&@_{{!@({#
-p68
+p69
 I13807
 sVhp.iso()
-p69
+p70
 I9244
 sVd = datetime.date(2010, 6, 5)
-p70
+p71
 I15718
 sVimg2 = img.rotate(40)
-p71
-I12310
-sVclass Hola(dict, list):
 p72
+I12310
+sVSwitch.objects.all()
+p73
+I4212
+sVclass Hola(dict, list):
+p74
 I5037
 sVrandom.rand()
-p73
+p75
 I7035
 sVsw.result.facets.filters
-p74
+p76
 I11449
 sVr = '(?P<microsite_domain>[a-zA-Z0-9][a-zA-Z0-9._-]*\u005c\u005c.(?:[a-zA-Z0-9][a-zA-Z0-9._-]*\u005c\u005c.)*[a-zA-Z]{2,5})'
-p75
+p77
 I8347
 sVreplace_amp("http://test.com/?x=1&y=2")
-p76
+p78
 I4645
 sVu.username in ('cleberry',)
-p77
+p79
 I9201
 sVdatetime.datetime.strptime("2009-06-03 00:21:40", "%Y-%m-%d %H:%M:%S")
-p78
+p80
 I11817
 sVa = Article.objects.all()[0]
-p79
+p81
 I857
 sV]@)+##@]^@}@[&#%_!*@]#]$+&+[%+!*}*+}_}]*^#+^#}!)#!}&#%({@[{#@$!)@!)!+%$&{[{(_$$!
-p80
+p82
 I13026
 sVdef gen(i):
-p81
+p83
 I11509
 sVa.add("xp")
-p82
+p84
 I10613
 sVfrom product.templatetags.product_utils import display_price
-p83
+p85
 I11939
 sVRoomCompetition.objects.all()[0]
-p84
+p86
 I20267
 sVkeys
-p85
+p87
 I7640
 sVct.tokenize_text(text)
-p86
+p88
 I6361
 sVg = groupby(options, lambda o: int(o.question_id))
-p87
+p89
 I19058
 sVfunc(1, 2, r=True, *(,))
-p88
+p90
 I18178
 sVdef count(t):\u000a    result = {}\u000a    for l in list(t):\u000a        result.setdefault(l, 0)
-p89
+p91
 I5219
 sVm.stack
-p90
+p92
 I9734
 sVI
 I11024
 sVa = input("Pepe: ")
-p91
+p93
 I2805
 sVa % { "key": "hola", "ppp": 10 }
-p92
+p94
 I3560
 sV[ a[i*6:i*6+6] for i in range(len(a)/6+len(a)%6-1) ]
-p93
+p95
 I488
 sVclient.profile.id
-p94
+p96
 I9355
 sVp.stem_word("complications")
-p95
+p97
 I5941
 sVi.image.readinto
-p96
+p98
 I17239
 sVu.get_avatar_url()
-p97
+p99
 I3509
 s.

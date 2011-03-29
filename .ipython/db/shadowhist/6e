@@ -8,54 +8,54 @@ I6976
 sVd + timedelta(604800)
 p4
 I20054
-sV[ '{%' + ''.join(('s', x, y)) + '%}' for x in l for y in l]
+sVmap(lambda x: x, xrange(10)) + map(lambda x: x, xrange(10, 20))
 p5
-I9517
-sVd = graph.digraph()
+I19518
+sV[ '{%' + ''.join(('s', x, y)) + '%}' for x in l for y in l]
 p6
-I7073
-sVch.
+I9517
+sV[ i.depth for n in x['blog_set'] for i in n]
 p7
-I10485
-sVfrom tipocms import dump
+I20982
+sVp s._collect_sub_objects.__doc__
 p8
-I8486
-sVFSet = forms.formsets.formset_factory(CForm, extra=2)
+I3305
+sVfrom tipocms import dump
 p9
-I14419
+I8486
 sVt = Template('{% with "hola \u005c\u005c"mundo\u005c\u005c"" as value %}{{ value|title }}{% endwith %}')
 p10
 I10286
-sVlen('oauth_token=uNjksRsvhMxm0D7o2y3BE0SOc3b5NaJPjAkH3i854&oauth_verifier=aU8j3s8KUqbNw225hvbNhnf1i9pt95NPVnXNMxkWxvA')
+sVgetattr(o, f.name).all()
 p11
+I18734
+sVlen('oauth_token=uNjksRsvhMxm0D7o2y3BE0SOc3b5NaJPjAkH3i854&oauth_verifier=aU8j3s8KUqbNw225hvbNhnf1i9pt95NPVnXNMxkWxvA')
+p12
 I18639
 sVset(UserSocialAuth._meta.get_all_field_names()) + [1, 2, 3]
-p12
+p13
 I19260
 sV[ c if a_img_re.match(c) for c in a_img_re.split(v) ]
-p13
-I9878
-sVc.credits
 p14
+I9878
+sVlen(h[:4])
+p15
+I21573
+sVc.credits
+p16
 I1322
 sVbrowser.get_snapshot()
-p15
-I18051
-sVpepe.func_code.co_names
-p16
-I3929
-sVprint a.decode('utf-16')
 p17
+I18051
+sVprint a.decode('utf-16')
+p18
 I10151
 sVp.parent.coords.length
-p18
-I19882
-sVp s._collect_sub_objects.__doc__
 p19
-I3305
-sVname = titulares.select('./h1[@class="titulo"]/text()').extract()
+I19882
+sVp.tagDetails(p)
 p20
-I16677
+I8328
 sV_@*!^_%}@[$)#%($+!]!)(!}]+%!+*{%]$^*][%({]@][}!%_*)^]}+)[[)(!&{]$(^%#_$!#!#!}&#(
 p21
 I13839
@@ -71,33 +71,33 @@ I6017
 sVlists(range(10), 8)
 p25
 I3038
-sVd.pre_save(1)
+sVd = graph.digraph()
 p26
+I7073
+sVd.pre_save(1)
+p27
 I7770
 sVh.reduced_fragments[0].items
-p27
+p28
 I1683
 sVimport pepe
-p28
+p29
 I2125
 sVn.render(Context())
-p29
+p30
 I10120
 sVr._get_url(params.get_args())
-p30
-I5266
-sVviews.
 p31
-I7902
-sVa.start, a.stop, a.step
+I5266
+sVi = Item.objects.all().get_translations(['es', 'pt']).set_language('pt')[0]
 p32
+I11291
+sVa.start, a.stop, a.step
+p33
 I655
 sVr = urllib.urlretrieve("http://www.google.com.uy/logos/tesla09.gif")
-p33
-I7336
-sVthumbnail(i.image, "width=80,height=80")
 p34
-I3812
+I7336
 sVfrom tipocms.models import CmsPage
 p35
 I825
@@ -143,72 +143,72 @@ I8800
 sVtitle = c[0]
 p49
 I1457
-sVr.findall(s)
+sVpepe.func_code.co_names
 p50
-I4477
-sV[ i.depth for n in x['blog_set'] for i in n]
+I3929
+sVFSet = forms.formsets.formset_factory(CForm, extra=2)
 p51
-I20982
-sVp.tagDetails(p)
+I14419
+sVname = titulares.select('./h1[@class="titulo"]/text()').extract()
 p52
-I8328
-sVgetattr(o, f.name).all()
+I16677
+sVp2 = p.deep_copy('/blogs/hola/mundo/2/', 'blogs blogs')
 p53
-I18734
+I582
 sVupdate cms_fragment_template set content_names = "image/image,linkText/text,linkUrl/text,status/text(enabled|disabled),text/largetext,title/text" where id = 99;
 p54
 I6692
 sVcgi.parse_qs(s)
 p55
 I7591
-sVmap(lambda x: x, xrange(10)) + map(lambda x: x, xrange(10, 20))
-p56
-I19518
 sViter
-p57
+p56
 I3009
 sVcur.execute('select id, name, category_id from tags')
-p58
+p57
 I7509
-sVA.__n
-p59
-I17435
 sV''.join(x.title() for x in 'hola mundo'.split())
-p60
+p58
 I18460
+sVos.path.isfile('/tmp/sock')
+p59
+I16585
 sVu.obnob_groups.filter(group__parent__isnull=True).order_by('group__name')
-p61
+p60
 I20475
+sVr.findall(s)
+p61
+I4477
 sVval = p.communicate()[0]
 p62
 I15816
 sVDES3.new("asdfghjklzxcvbnm")
 p63
 I947
-sVyield
+sVf.base_fields['raw'].verbose_name
 p64
-I3196
-sVmap(lambda i: i%2 == 0, a)
+I9117
+sVyield
 p65
-I8369
-sV+*({}{*&($(})@]+#_{!!@*%^_$+#($(}%}&[!*}[$^{(*#[#%+}%${}^*[#&{!&@(%^^{+_}@{*[%!!
-p66
-I13169
+I3196
 sVCandidato.objects.get(pk=7)
-p67
+p66
 I11205
 sVr.embed_images
-p68
+p67
 I19640
+sVqs.query.related_select_fields
+p68
+I12043
 sVw.node.nodelist[-1]
 p69
 I10250
 sV%^%{[{{}+&{*]*_[*$[%[)_{!*&*+@)_@@_!+*(#!}_[(!]@@*{#&#(_{]@&$[[&&(#^{)++}#(#&{+(
 p70
 I13559
-sVp2 = p.deep_copy('/blogs/hola/mundo/2/', 'blogs blogs')
+sVviews.
 p71
-I582
+I7902
 sVpepe(1, 2, a=1)
 p72
 I8736
@@ -230,70 +230,73 @@ I941
 sVr = c.request('GET', '/')
 p78
 I21145
-sVu.is_superuser
+sVopen('/usr/share/dict/words').readlines()
 p79
+I15547
+sVu.is_superuser
+p80
 I7104
 sVp = sgmllib.SGMLParser()
-p80
+p81
 I9742
 sVa = [ "h", "b", "a" ]
-p81
+p82
 I5077
 sVimport HTMLParser
-p82
+p83
 I5512
 sVurlparse.urlunparse(('', '', '/a', '', ''))
-p83
+p84
 I20785
 sVf.info
-p84
+p85
 I7871
 sVos.sep
-p85
+p86
 I17765
 sVprint f.fields["product"]
-p86
-I3388
-sVos.path.isfile('/tmp/sock')
 p87
-I16585
-sVopen('/usr/share/dict/words').readlines()
+I3388
+sVch.
 p88
-I15547
-sVissubclass?
+I10485
+sVmap(lambda i: i%2 == 0, a)
 p89
-I16289
-sVi = Item.objects.all().get_translations(['es', 'pt']).set_language('pt')[0]
+I8369
+sVissubclass?
 p90
-I11291
-sVfrom django.template.defaultfilters import escape
+I16289
+sV+*({}{*&($(})@]+#_{!!@*%^_$+#($(}%}&[!*}[$^{(*#[#%+}%${}^*[#&{!&@(%^^{+_}@{*[%!!
 p91
-I12647
-sVqs.query.related_select_fields
+I13169
+sVfrom django.template.defaultfilters import escape
 p92
-I12043
-sV'&' in htmlentitydefs.entitydefs.keys()
+I12647
+sVthumbnail(i.image, "width=80,height=80")
 p93
+I3812
+sV'&' in htmlentitydefs.entitydefs.keys()
+p94
 I4653
 sVvalue
-p94
+p95
 I2279
 sVf = IncorrectPriceForm(data={'product': 'GB69BB54REXC2P4NLCAMAZCHL65O6VWWQTGBU5PT'})
-p95
+p96
 I20858
 sVUser.obnob_groups.related.field.name
-p96
+p97
 I20177
 sV$]]%++!!^^[$@(&@(%^!@!$)[{[%@))&^#}*&+((]([_^&}%!&+^*@($}}$&[$(}__{)+][%!@{({$]&
-p97
+p98
 I13308
 sVfrom django.contrib import admin
-p98
+p99
 I7121
 sV%timeit dict((k, sum(y for x, y in data2 if x == k)) for k in dict(data2).iterkeys())
-p99
-I15616
-sVf.base_fields['raw'].verbose_name
 p100
-I9117
+I15616
+sVA.__n
+p101
+I17435
 s.

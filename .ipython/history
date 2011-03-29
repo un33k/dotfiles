@@ -53,3 +53,97 @@ t > (t - d)
 t >= (t - d)
 a = "facet=supplier_id,77&"
 len(a * 50)
+Thread
+qs = Thread.objects.all()
+qs2 = ThreadedComment.objects.filter(object_id__in=qs, content_type=ContentType.objects.get_for_model(Thread))
+from django.db.models.sql import compiler
+from django.db import connection
+c = compiler.SQLCompiler(qs.query, connection, qs._db)
+a, b = c.as_sql()
+print a % b
+c = compiler.SQLCompiler(qs2.query, connection, qs2._db)
+print a % b
+qs = Thread.objects.all()
+qs2 = ThreadedComment.objects.filter(object_id__in=qs, content_type=ContentType.objects.get_for_model(Thread))
+c = compiler.SQLCompiler(qs2.query, connection, qs2._db)
+a, b = c.as_sql()
+print a % b
+from obnob.apps.topic_board.models import Thread
+Thread
+qs = Thread.objects.all()
+qs2 = ThreadedComment.objects.filter(object_id__in=qs, content_type=ContentType.objects.get_for_model(Thread))
+c = compiler.SQLCompiler(qs2.query, connection, qs2._db)
+a, b = c.as_sql()
+print a % b
+try:
+    a = 1 / 0
+except Exception, e:
+    print e.message
+try:
+    a = 1 / 0
+except Exception, e:
+    print e.messages
+e
+e.__str__()
+e.message
+getattr(e, 'message)
+getattr(e, 'message')
+from social_auth.models import UserSocialAuth
+u = UserSocialAuth.objects.all()[0]
+u.extra_data
+u.extra_data.__class__
+u.extra_data['x'] = 'x'
+u.extra_data
+u.save()
+import uuid
+uuid.uuid5
+uuid.uuid5()
+uuid.uuid1()
+uuid.uuid3()
+uuid.uuid4()
+uuid.uuid4?
+import uuid
+uuid.uuid4()
+x = uuid.uuid4()
+x
+x.
+x.hex
+x.get_int()
+x.get_hex())
+len(x.get_hex())
+len(uuid4().get_hex())
+len(uuid.uuid4().get_hex())
+uuid.uuid4().get_hex()
+import convert
+base
+import zbase62
+from base64
+import base64
+base64?
+x
+base64.encodestring(x.get_hex())
+len(base64.encodestring(x.get_hex()))
+base64.b64encode?
+base64.b64encode('a)
+base64.b64encode('a')
+base64.b64encode(x.get_hex())
+len(base64.b64encode(x.get_hex()))
+base64.b32encode(x.get_hex())
+import encodings
+import 
+import snappy
+import pysnappy
+import snappy
+import sys
+sys.path
+sys.path.append('/home/omab/.virtualenvs/andres/lib/python2.6/site-packages/python_snappy-0.2-py2.6.egg-info/')
+import snappy
+snappy
+snappy.snappy
+snappy()
+snappy.__path__
+from snappy import snappy
+import sys
+sys.append('/home/omab/.virtualenvs/andres/lib/python2.6/site-packages/')
+sys.path.append('/home/omab/.virtualenvs/andres/lib/python2.6/site-packages/')
+import snappy

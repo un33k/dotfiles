@@ -1,97 +1,97 @@
 (dp1
-Viri_to_uri(y)
+VTemplate('{% url highend_designer %}').render(Context())
 p2
-I21410
-sVurllib.quote('&')
+I10772
+sVr[0]
 p3
-I14701
+I4077
 sVa.keys()
 p4
 I1992
-sVhtmllib.sgmllib.entityref.match("http://test.com/?x=1&y=2")
+sVs = "<html><head>hola mundo"
 p5
-I4648
-sVany(x in a for x in ['z', 'p', 't', 'r'])
+I4475
+sVhtmllib.sgmllib.entityref.match("http://test.com/?x=1&y=2")
 p6
-I17620
-sV@}$][([]*]&&%__*{*++!($#@$*+]^&!%)!)*@]$#]*@#*!^%+#(!^#{{#*(][)([&!@!*%^*(#{&{{[
+I4648
+sVp.values.get_or_create(name='title')
 p7
-I13541
-sVSpecialOffer.a
-p8
-I7157
+I17201
 sVdict([(a_username(c)[:a_username(c).find('/')], c) for c in purple.PurpleAccountsGetAllActive()])
-p9
+p8
 I5622
-sVu.obnob_groups.values('group__pk', 'group__name')
+sVqs = p.values.filter(name__startswith='get_the_look')
+p9
+I17197
+sVc.total_diff[0]
 p10
-I20483
+I2150
 sV[ a[i:i+6] for i in range(len(a)/6) ]
 p11
 I483
-sVr = entity_re_search = re.compile("(&(?![\u005cS]+?[;=]{1}))")
+sVp.stdin.write('a4\u005cn')
 p12
+I15785
+sVr = entity_re_search = re.compile("(&(?![\u005cS]+?[;=]{1}))")
+p13
 I4685
 sVPage.objects.filter(template='magazine.topten', state=LIVE)\u005c\u000a                        .select_related('path')\u005c\u000a                        .values_list('pk', 'path__path')\u005c\u000a                        .order_by('-path__path')
-p13
+p14
 I18618
 sV[ x for x in models.__dict__.values() if issubclass(x, Model)]
-p14
+p15
 I18286
 sVprint simplejson.dump.__doc__
-p15
+p16
 I4954
 sVfrom gtk import gdk
-p16
+p17
 I7963
 sVupdate cms_fragment_template set content_names = "stampImage/image,mainImage/image" where id = 54;
-p17
-I6649
-sVfrom schedule import periods
 p18
-I20398
-sVQMjTlCRgFcwJAXWU/sVKu8WSk0bKo+YC4DvJRGW2DFsh52WZWqIjCM4cuRAmXM7RQE5645H7WoPT
+I6649
+sVCurrentQuestion.objects.current()
 p19
+I18822
+sVQMjTlCRgFcwJAXWU/sVKu8WSk0bKo+YC4DvJRGW2DFsh52WZWqIjCM4cuRAmXM7RQE5645H7WoPT
+p20
 I19604
 sVprint d['s1']['header']['values'][0]
-p20
-I8950
-sVqs = p.values.filter(name__startswith='get_the_look')
 p21
-I17197
-sVwpt.batch_tokenize(wpt.tokenize(t))
+I8950
+sVfrom schedule import periods
 p22
-I6516
-sVi = Item.objects.all().set_language('en')[0]
+I20398
+sV{% endspaceless %}
 p23
-I11156
-sVTemplate('{% url highend_designer %}').render(Context())
+I10465
+sVi = Item.objects.all().set_language('en')[0]
 p24
-I10772
-sVph.section1.name0
+I11156
+sV@}$][([]*]&&%__*{*++!($#@$*+]^&!%)!)*@]$#]*@#*!^%+#(!^#{{#*(][)([&!@!*%^*(#{&{{[
 p25
+I13541
+sVph.section1.name0
+p26
 I5068
 sVtime_format("134964")
-p26
+p27
 I3224
 sVx = datetime.now().date() + timedelta(1)
-p27
+p28
 I18853
 sVp.__class__.__dict
-p28
-I17103
-sVr.result.items[0].supplier_logo_url
 p29
-I7498
-sVitr
+I17103
+sVurllib.os.pathsep
 p30
-I11312
-sVpage = CmsPage.objects.get(pk=pageid).select_related('template').\u005c
+I7885
+sVitr
 p31
-I9529
-sVos.path.split('/home/omab/job/personal/tasenelhorno/tasenelhorno/media/images/no_image.png')
+I11312
+sViri_to_uri(y)
 p32
-I816
+I21410
 sVi._width
 p33
 I12526
@@ -110,9 +110,9 @@ I15698
 sVr.entries.filter(breaks_rule__isnull=True, vote_count__gt=0).order_by('-vote_count')
 p38
 I20273
-sVc.total_diff[0]
+sVany(x in a for x in ['z', 'p', 't', 'r'])
 p39
-I2150
+I17620
 sVr.match('ab')
 p40
 I14868
@@ -128,9 +128,9 @@ I14059
 sVlink_re = re.compile(r'href=(?P<open>["\u005c'])(?P<address>[^/]*/search/)(?P<close>["\u005c'])')
 p44
 I1214
-sVs = "<html><head>hola mundo"
+sVwpt.batch_tokenize(wpt.tokenize(t))
 p45
-I4475
+I6516
 sVr = re.compile('.*value="[\u005cw\u005c+]+\u005c=\u005c=".*')
 p46
 I2794
@@ -140,24 +140,24 @@ I16015
 sVp.manualcategory
 p48
 I2816
-sVr[0]
+sVr.result.items[0].supplier_logo_url
 p49
-I4077
-sV})
+I7498
+sVe.__str__()
 p50
+I21472
+sV})
+p51
 I235
 sV@dec1
-p51
-I8734
-sV{% endspaceless %}
 p52
-I10465
-sVtimedelta.days
+I8734
+sVSpecialOffer.a
 p53
-I18848
-sVp = UncategorizedProduct.objects.all(searchquery="sofa&count=15&startrank=0")
+I7157
+sVtimedelta.days
 p54
-I2829
+I18848
 sVpd._path
 p55
 I2453
@@ -170,37 +170,40 @@ I9222
 sVb.set_property('visible', False)
 p58
 I8123
-sVfrom supplier.models import *
+sVu.obnob_groups.values('group__pk', 'group__name')
 p59
-I2744
+I20483
 sVSerializer().get_string_value(p, 'template.template_path')
 p60
 I11373
 sVfrom django.contrib.auth.forms import AuthenticationForm
 p61
 I18959
-sVp.values.get_or_create(name='title')
+sVurllib.quote('&')
 p62
-I17201
-sVCurrentQuestion.objects.current()
+I14701
+sVp = UncategorizedProduct.objects.all(searchquery="sofa&count=15&startrank=0")
 p63
-I18822
+I2829
 sVi0.text2
 p64
 I679
-sVf.image
+sVpage = CmsPage.objects.get(pk=pageid).select_related('template').\u005c
 p65
-I4184
-sVurllib.os.pathsep
+I9529
+sVf.image
 p66
-I7885
-sVurllib.urlencode(query, doseq=True)
+I4184
+sVfrom supplier.models import *
 p67
-I14983
-sVp.stdin.write('a4\u005cn')
+I2744
+sVurllib.urlencode(query, doseq=True)
 p68
-I15785
-sVimport tweepy
+I14983
+sVos.path.split('/home/omab/job/personal/tasenelhorno/tasenelhorno/media/images/no_image.png')
 p69
+I816
+sVimport tweepy
+p70
 I16397
 s.

@@ -1,67 +1,67 @@
 (dp1
-Vhxs.select('(//ol//text()|//p[@align="JUSTIFY"]//text())').extract()
+Vdatetime.
 p2
-I16803
-sVct.tokenize_html(text)
-p3
-I6349
+I11866
 sV)$%!#}@!*_[_%!^+[)}!#{}{)*]!@#)%{&*#(&_[$)&)@[_+][(${%%((}#+[)!+[*@+$$[^$[!]_!#&
-p4
+p3
 I12999
-sVsudo nodes.render(c)
-p5
-I10326
-sVp.get_image_url()
-p6
-I2633
+sVopen('/tmp/log')
+p4
+I7529
 sVlist(q2)
-p7
+p5
 I15348
 sVx = VoteAnswerForm()
-p8
+p6
 I20428
+sVa.upper ()
+p7
+I9380
 sVfor x in c:\u000a    x.room_template = r\u000a    x.save()
-p9
+p8
 I19979
 sVrange(0, 10392 + (500 - (10392 % 500)), 500)
-p10
+p9
 I6776
-sVsr.get_result().items[0]
-p11
-I11544
 sVtype('HolaMundo', (object,), {})
-p12
+p10
 I5757
 sVs.write('hola mundo cruel')
-p13
+p11
 I17318
-sVl.add(gtk.ListItem('button', gtk.Button()))
+sV%@_)%@([#{@$({[^*(${(}#*@[))+[^!([#]{$*^[)_^}*{$#&$$%+!%}($$!{+[$}&#^$&!^@^@{!**
+p12
+I13526
+sVlen(CmsPage.objects.get_last_live_pages())
+p13
+I1004
+sVfrom django.utils.encoding import force_unicode
 p14
+I10154
+sVl.add(gtk.ListItem('button', gtk.Button()))
+p15
 I7987
 sV$(()%}]#!])+#[]({{*!$&(@&#}[}#[]#[(![#{*})@^]*!})#*+}@}^}^%]^!}}#({[&!^(%}]}{$*}
-p15
+p16
 I13549
 sVf = CmsFragment.objects.get_data().filter(pk=10911)
-p16
+p17
 I834
 sVlist(CmsPage.objects.most_viewed('/the-magazine/"))
-p17
-I12193
-sV_&&^(#_])*)+_]!+&)$%+[](){)+_#*_#[[[%$!^#!!$(_^}(#%({%$!_}$}(()$]!&]}^^)+&+!@%$@
 p18
-I13192
-sVa = [False, False, True, True, False, True, False]
+I12193
+sVn.strftime?
 p19
-I18591
+I11842
 sVclass Fen(Command):
 p20
 I16346
 sVp.meta_title.__class__
 p21
 I5490
-sVaccount = ('matiasaguirre@gmail.com', '#op3m5a')
+sVf.field.rel.to
 p22
-I9328
+I18788
 sVa = '/a/b/c/d/'
 p23
 I17041
@@ -71,246 +71,249 @@ I19697
 sVwith closing(database.connect(PRODUCT2DB_RO)) as conn:\u000a    items = database.iteritems(conn, sql, database.DICT)\u000a    print list(items)
 p25
 I3609
-sVp.image
+sVweb.render
 p26
-I2632
-sVfor x in c:
+I18018
+sVp.image
 p27
-I19977
-sVimport pychess
+I2632
+sVpingomatic.pingomatic('pepe', 'http://pepe.com')
 p28
-I15576
-sV# DATABASE_NAME = 'site'
+I8441
+sVVideoIndex.search("peludo")
 p29
+I174
+sV# DATABASE_NAME = 'site'
+p30
 I4639
 sVlist(reversed(a))[-1]
-p30
+p31
 I9903
 sV]+!%*_!++[[+]]@+]@}$)$^)_#^@}%}#+[+%^*!!{+${$]*$!#@](@@$*#*^+@{^_+%#!^()*&(}+$_}
-p31
+p32
 I13482
 sVp urllib2.HTTPRedirectHandler.redirect_request.__doc__
-p32
-I7857
-sVimport rememberthemilk
 p33
-I15078
-sVlen(CmsPage.objects.get_last_live_pages())
+I7857
+sVCmsContentMapping.objects.filter(fragment__in=f).values('id', 'object_id')
 p34
-I1004
-sVc.stampimage_set.all()
+I9172
+sVfor x in c:
 p35
+I19977
+sVstr(y).decode('utf-8')
+p36
+I21407
+sVc.stampimage_set.all()
+p37
 I3737
 sVarr(9, 5) / 2
-p36
+p38
 I5658
 sVcsv.excel_tab
-p37
-I10679
-sVdatetime.
-p38
-I11866
-sVfrom django.utils.encoding import force_unicode
 p39
-I10154
+I10679
 sVthread.start_new(mainloop.run)
 p40
 I9433
 sVfor line in fd.readlines():\u000a    match = r.findall(line)\u000a    if match:\u000a        print match
 p41
 I1634
-sVint('329389182132')
+sVaccount = ('matiasaguirre@gmail.com', '#op3m5a')
 p42
-I16575
-sV{)@_&{_[^++^{[%*!(]]@_]}_})(%+_#!+]$$_&!+*[(])$(!^($)}^+{&!&__+_{@+}[((&%)$][^{&
+I9328
+sVint('329389182132')
 p43
-I13970
-sVmap(clone, zip(input, [keys.copy() for i in xrange(len(input))]))
+I16575
+sV_&&^(#_])*)+_]!+&)$%+[](){)+_#*_#[[[%$!^#!!$(_^}(#%({%$!_}$}(()$]!&]}^^)+&+!@%$@
 p44
-I7657
-sVpages = [ (p[0], p[1], p[2].strftime("%y - %m - %d %H:%M")) for p in pages ]
+I13192
+sVurllib.URLopener?
 p45
+I19430
+sVmap(clone, zip(input, [keys.copy() for i in xrange(len(input))]))
+p46
+I7657
+sVbase62_encode(1)
+p47
+I21515
+sVpages = [ (p[0], p[1], p[2].strftime("%y - %m - %d %H:%M")) for p in pages ]
+p48
 I1049
 sVWebsite.manufacturers
-p46
+p49
 I10072
-sVitem.extract?
-p47
-I16634
+sVp.get_image_url()
+p50
+I2633
 sVreverse('alerts_list', ('matias',))
-p48
+p51
 I12363
 sVi.image.readinto(x)
-p49
+p52
 I17241
 sV())&#@*[#}+#^}#%!![#&*}^{^(({+#*[!{!}){(!*@!+@[_(*^+*]$]+@+*_##)&)^(@$^]e@][#&)(
-p50
+p53
 I12904
 sVfrom categorizatio.models import *
-p51
+p54
 I3843
 sVs.query(PhotoTag).filter_by(PhotoTag.tag_id == t.id)
-p52
+p55
 I14739
 sVa[:-2]
-p53
+p56
 I5116
 sVfrom pp import models
-p54
+p57
 I19956
 sVprint nltk.tokenize.WordPunctTokenizer().batch_tokenize.__doc__
-p55
+p58
 I6479
+sV@)(}&*@+*$$*@&&^](+#%+)+@*]_%}*^@*_!#@%)$![*&#&[]&%@}_}$]{}&^{%+{})#%%$[+*#!@{*[
+p59
+I13891
 sVi.image.file.name
-p56
+p60
 I17317
 sVs
 I514
 sVitr = RoomCompetitionEntry.objects.all().iterator()
-p57
+p61
 I11406
 sVi.name
-p58
-I4001
-sVurllib.URLopener?
-p59
-I19430
-sVdatetime.datetime.strptime(s, '%Y-%m-%d %H:%M:%S %Z-%e')
-p60
-I17709
-sV%@_)%@([#{@$({[^*(${(}#*@[))+[^!([#]{$*^[)_^}*{$#&$$%+!%}($$!{+[$}&#^$&!^@^@{!**
-p61
-I13526
-sVVideoIndex.search("peludo")
 p62
-I174
-sV]{(&!!%+#^^!#}@@&+[{@@$^{+%%{{!}**%!*+_#!_([(!*%!@)(!@)[+*!!*_+_[%_}]&)$^{!)+!*]
+I4001
+sVsys.modules['os'] == x
 p63
+I17818
+sVdatetime.datetime.strptime(s, '%Y-%m-%d %H:%M:%S %Z-%e')
+p64
+I17709
+sVsock.connect('/home/omab/.t2chess/queue.sock')
+p65
+I16928
+sV]{(&!!%+#^^!#}@@&+[{@@$^{+%%{{!}**%!*+_#!_([(!*%!@)(!@)[+*!!*_+_[%_}]&)$^{!)+!*]
+p66
 I13161
 sVp = Permission.objects.filter(content_type=ContentType.objects.get_for_model(User), codename='add_user')[0]
-p64
+p67
 I7110
-sVstr(y).decode('utf-8')
-p65
-I21407
 sVr.values
-p66
+p68
 I3849
 sVsetattr(u, 'username', 'MatiasAguirre')
-p67
+p69
 I18636
 sVc.__class__.__subclasses__()
-p68
+p70
 I3578
 sVtime.strptime("07/27/2010", "%B/%d/%Y")
-p69
+p71
 I17185
 sVreverse('alerts_list', ())
-p70
-I12362
-sVsys.modules['os'] == x
-p71
-I17818
-sVsock.connect('/home/omab/.t2chess/queue.sock')
 p72
-I16928
-sVarticles._get_url(articles.result.search_params.search_args)
-p73
-I5336
+I12362
 sVstr(f.errors)
-p74
+p73
 I12582
-sVf.field.rel.to
-p75
-I18788
 sVfrom django.template.defaultfilters import iriencode
-p76
+p74
 I12643
-sVCmsContentMapping.objects.filter(fragment__in=f).values('id', 'object_id')
-p77
-I9172
+sVimport rememberthemilk
+p75
+I15078
+sV{)@_&{_[^++^{[%*!(]]@_]}_})(%+_#!+]$$_&!+*[(])$(!^($)}^+{&!&__+_{@+}[((&%)$][^{&
+p76
+I13970
 sV@}{[!&_%]{_{*+$#&#*$%!@]}[$]!!^#^&)#}#__[@$#(})(_!((*#){)$#+%_%[{+#_+&@}[}^*%$&#
-p78
+p77
 I13246
 sVf.contents_list[1].name
-p79
+p78
 I1725
 sVf = os.open("/tmp/file", '+rw')
-p80
+p79
 I11667
 sVC(aref=a1, bref=b).save()
-p81
+p80
 I19417
 sVt.img.save.__doc__
-p82
+p81
 I4901
-sVn.strftime?
-p83
-I11842
+sVct.tokenize_html(text)
+p82
+I6349
 sVr = RoomSearch(count=10)
-p84
+p83
 I12783
-sVa.iterkeys()
+sVarticles._get_url(articles.result.search_params.search_args)
+p84
+I5336
+sVbisect?
 p85
+I17045
+sVa.iterkeys()
+p86
 I8228
 sVx.get('k')
-p86
+p87
 I18208
 sVItem._translation_model._meta.pk
-p87
-I11518
-sVopen('/tmp/log')
 p88
-I7529
-sVAdminDateField.widget.Media.js
+I11518
+sVitem.extract?
 p89
+I16634
+sVAdminDateField.widget.Media.js
+p90
 I18414
 sV_(@%{}(%#]*^!@$[&^]}&*&}%%%^()]!((_%^{$[_[}_$$+&^%@@+%[(]+{$+$_^+#*%[#_!%)!#%_@%
-p90
-I13342
-sV@)(}&*@+*$$*@&&^](+#%+)+@*]_%}*^@*_!#@%)$![*&#&[]&%@}_}$]{}&^{%+{})#%%$[+*#!@{*[
 p91
-I13891
-sVurllib.urlcleanup("a?b=1&c=2&b=3")
+I13342
+sVa = [False, False, True, True, False, True, False]
 p92
-I2956
-sVbisect?
+I18591
+sVurllib.urlcleanup("a?b=1&c=2&b=3")
 p93
-I17045
-sVr.findall(s)[0].replace('\u005c\u005c', '')
+I2956
+sVsr.get_result().items[0]
 p94
+I11544
+sVr.findall(s)[0].replace('\u005c\u005c', '')
+p95
 I21360
 sVl = x.readlines()
-p95
+p96
 I21347
 sVisinstance(r, re._sre)
-p96
+p97
 I6234
 sVlist(a).reverse()
-p97
+p98
 I17501
 sVtype(t)
-p98
+p99
 I5859
 sV!%!!^&*^+{*(*@$((]_$_*+]!{%^$)#__]*+@(__$%&#]@#]%(}$*)#*!(^#_]&&))(+]@%(_{__+%)!
-p99
-I13174
-sVa.upper ()
 p100
-I9380
-sVre.S
+I13174
+sVsudo nodes.render(c)
 p101
-I6236
-sVweb.render
+I10326
+sVre.S
 p102
-I18018
-sVpingomatic.pingomatic('pepe', 'http://pepe.com')
+I6236
+sVimport pychess
 p103
-I8441
-sVp.easy_stem("given")
+I15576
+sVhxs.select('(//ol//text()|//p[@align="JUSTIFY"]//text())').extract()
 p104
+I16803
+sVp.easy_stem("given")
+p105
 I5927
 sVurlparse.urlunparse('?a=1&b=2')
-p105
+p106
 I11723
 s.

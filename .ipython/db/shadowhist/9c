@@ -1,85 +1,85 @@
 (dp1
-Vb.values[3].page
+V'download_link' in item
 p2
-I17513
-sV'download_link' in item
-p3
 I16752
-sVLIST_ITEM_RE = re.compile('\u005c[\u005cd+\u005c]$')
+sVu = SystemUser.objects.get(pk=104430)
+p3
+I12756
+sVsys.hexversion
 p4
-I9960
-sVa.category['path']
+I2053
+sVp._get_url()
 p5
-I5454
-sVu.obnob_groups.all(group__parent__isnull=True).distinct().order_by('created_date')
-p6
-I20497
+I5391
 sVfrom pickle import dumps
-p7
+p6
 I9792
+sVv[-1].name.type
+p7
+I8693
 sV[ n for n in nodes if hasattr(n.node, 'nodelist') ][0].node.nodelist
 p8
 I10223
-sVbase64.encodestring(x).replace('\u005cn', '')
+sVc = Category(name="pepe", enabled=True, included_in_search=True, show_search_form=True)
 p9
-I18225
-sVbinascii.unhexlify("'4d75636861732067726163696173206120746f646f7320706f7220656c20726567616c6f2e2053656775726f20717565207365206c6c6576612c20706f72206c656a6f732c20656c207072696d6572
+I3664
+sVv.filter_expression
 p10
-I14495
+I10109
 sVfrom tipocms.admin.forms import RichEditorImageUploadForm
 p11
 I12580
-sVposts = Post.objects.all()
-p12
-I21326
 sVu User.objects.get(username='matias')
-p13
+p12
 I18701
+sVop = MyOptionParser()
+p13
+I16279
 sV"%s" % (31238912)
 p14
 I2742
-sVtime_format("134964", NOne)
+sVPerson.objects.filter(address='pepe').filter('address'='marcos')
 p15
+I5851
+sVtime_format("134964", NOne)
+p16
 I3225
 sVPhotoTag.filter(tag_id=1).filter(~PhotoTag.tag_id.in_([6]))
-p16
+p17
 I15356
 sVet[2]
-p17
+p18
 I17305
 sVso = StringIO()
-p18
-I16027
-sVadmin.site._registry
 p19
-I14500
-sVf[0].errors.as_ul
+I16027
+sVfilter(lambda x: x>0, range(c - a, c + a))
 p20
-I18981
-sVsys.hexversion
+I12816
+sVadmin.site._registry
 p21
-I2053
-sVXMLGenerator?
+I14500
+sVupdate cms_fragment_template set content_names = "title/text,extraClass/text(active))" where id = 91;
 p22
-I17236
-sVp(**dict((("1", 1), ("2", 2))))
-p23
-I2331
+I6686
 sVdef p(**kw):
-p24
+p23
 I2326
-sVu = SystemUser.objects.get(pk=104430)
-p25
-I12756
+sVbase64.encodestring(x).replace('\u005cn', '')
+p24
+I18225
 sVfunc('a', 'b', 'c')
-p26
+p25
 I17385
+sVt = """{ "cms_competition_confirmation_text": "<p>Thanks for entering, good luck!</p> \u005cn\u005cn\u005cn  \u005cn<h4><strong>Find out more about <a href=\u005c"{% article_tracked_url \u005c"biomelifestyle.com\u005c"  \u005c"http://www.biomelifestyle.com/\u005c" %}\u005c" target=\u005c"_blank\u005c">Biome Lifestyle</a>, and their delightful Christmas gift ideas > </a></strong></h4><br/><br/>", "cms_competition_error_text": "Sorry, your entry did not work. Please press 'back' and try again.", "cms_competition_unsubscribe_text": "", "cms_contents_text": "<p><strong>We\u005cu2019ve teamed with <a href=\u005c"{% article_tracked_url \u005c"biomelifestyle.com\u005c"  \u005c"http://www.biomelifestyle.com/\u005c" %}\u005c" target=\u005c"_blank\u005c">Biome Lifestyle</a> to give Helen, Mick, Colette, and Derek the their Christmas hampers! </strong></p>\u005cn\u005cn<p>They will take home a \u005cu00a3250 hamper full of delightful Christmas decorations, including their fair trade Christmas wreath (right) and advent calendar, plus bestselling gifts including the Silk Scarf Cushion (right), Alpaca Slippers, Bulb Vase, Cotton Bathrobe and many more!   </p> \u005cn\u005cn<p>Like everything from Biome Lifestyle, the items have been carefully chosen to meet strict organic, sustainability and ethical standards \u005cu2013 without compromising on style. </p> \u005cn\u005cn<p>Biome Lifestyle know that being a conscientious consumer does not necessarily mean you are a hippy! Instead, they offer a unique range of gifts and homeware that unite style, design and ethics.</p>\u005cn\u005cn<p>Read the <a href=\u005c"/the-magazine/biome-lifestyle-terms\u005c">competition terms</a>.</p>\u005cn\u005cn<p><strong>For your chance to win, just tell us: Where are the artisans based who made the Recycled Fair Trade Christmas wreath (above)? HINT: <a href=\u005c"{% article_tracked_url \u005c"biomelifestyle.com\u005c"  \u005c"http://www.biomelifestyle.com/browse/ecogifts/christmas-at-home/recycled-fair-trade-christmas-wreath/\u005c" %}\u005c" target=\u005c"_blank\u005c">See the product page</a> to find out the answer. \u005cn\u005cn </strong></p>"\u000a}"""
+p26
+I11321
 sVfrom django.template import Context
 p27
 I9956
-sVPerson.objects.filter(address='pepe').filter('address'='marcos')
+sVp(**dict((("1", 1), ("2", 2))))
 p28
-I5851
+I2331
 sVfrom common.templatetags.filters import clean_link
 p29
 I14540
@@ -89,130 +89,133 @@ I10218
 sVv = list(p.values.all())[-1]
 p31
 I8661
-sVdatetime.datetime.strptime.__doc__
+sVg.add_edge('c', 'd')
 p32
-I5679
+I6899
 sVlocale.str()
 p33
 I7422
 sVf.fields['query'[]
 p34
 I12708
-sVop = MyOptionParser()
+sVposts = Post.objects.all()
 p35
-I16279
+I21326
 sVa.__new__
 p36
 I16352
 sVdef p(a):
 p37
 I1896
-sVodd
+sVlen(a) + len(h) > 20
 p38
-I10817
-sVp._get_url()
+I21567
+sVqs = Item._default_manager.all()
 p39
-I5391
-sVsha.sha("SINGULARITY").hexdigest()
+I11055
+sVodd
 p40
-I12085
-sVp.hostname = 'www.homebase.co.uk'
+I10817
+sVb.values[3].page
 p41
+I17513
+sVp.hostname = 'www.homebase.co.uk'
+p42
 I15057
 sVurlparse.urlunparse(('http', 'google.com', '/a', 'x', 'a=1', 'xxx'))
-p42
+p43
 I20795
 sVlibxml2.htmlParseDoc(t)
-p43
+p44
 I1789
 sVdef pepe(r):
-p44
-I19088
-sVcreate_wordmap(['sofa bed'])
 p45
+I19088
+sVw.load_uri?
+p46
+I18038
+sVcreate_wordmap(['sofa bed'])
+p47
 I6421
 sVprint out
-p46
+p48
 I10332
 sVResultRankCriteria.objects.get_global_stats()
-p47
-I7733
-sVv[-1].name.type
-p48
-I8693
-sVa.sort(lambda x, y: y + 2 > x)
 p49
-I2545
-sVupdate cms_fragment_template set content_names = "title/text,extraClass/text(active))" where id = 91;
+I7733
+sVf[0].errors.as_ul
 p50
-I6686
-sVa[a.rfind('(')+1:a.rfind(')')]
+I18981
+sVa.sort(lambda x, y: y + 2 > x)
 p51
+I2545
+sVa[a.rfind('(')+1:a.rfind(')')]
+p52
 I15574
 sVs[0][0]
-p52
-I16973
-sVqs = Item._default_manager.all()
 p53
-I11055
-sVnltk.tokenize.WordPunctTokenizer().tokenize(text.lower())
+I16973
+sVbinascii.unhexlify("'4d75636861732067726163696173206120746f646f7320706f7220656c20726567616c6f2e2053656775726f20717565207365206c6c6576612c20706f72206c656a6f732c20656c207072696d6572
 p54
-I6432
-sVp = a.split('/')
+I14495
+sVnltk.tokenize.WordPunctTokenizer().tokenize(text.lower())
 p55
-I14637
+I6432
 sVCity._meta.get_all_field_names()
 p56
 I20418
 sVfrom social_auth.backends import BACKENDS
 p57
 I19468
-sVt = """{ "cms_competition_confirmation_text": "<p>Thanks for entering, good luck!</p> \u005cn\u005cn\u005cn  \u005cn<h4><strong>Find out more about <a href=\u005c"{% article_tracked_url \u005c"biomelifestyle.com\u005c"  \u005c"http://www.biomelifestyle.com/\u005c" %}\u005c" target=\u005c"_blank\u005c">Biome Lifestyle</a>, and their delightful Christmas gift ideas > </a></strong></h4><br/><br/>", "cms_competition_error_text": "Sorry, your entry did not work. Please press 'back' and try again.", "cms_competition_unsubscribe_text": "", "cms_contents_text": "<p><strong>We\u005cu2019ve teamed with <a href=\u005c"{% article_tracked_url \u005c"biomelifestyle.com\u005c"  \u005c"http://www.biomelifestyle.com/\u005c" %}\u005c" target=\u005c"_blank\u005c">Biome Lifestyle</a> to give Helen, Mick, Colette, and Derek the their Christmas hampers! </strong></p>\u005cn\u005cn<p>They will take home a \u005cu00a3250 hamper full of delightful Christmas decorations, including their fair trade Christmas wreath (right) and advent calendar, plus bestselling gifts including the Silk Scarf Cushion (right), Alpaca Slippers, Bulb Vase, Cotton Bathrobe and many more!   </p> \u005cn\u005cn<p>Like everything from Biome Lifestyle, the items have been carefully chosen to meet strict organic, sustainability and ethical standards \u005cu2013 without compromising on style. </p> \u005cn\u005cn<p>Biome Lifestyle know that being a conscientious consumer does not necessarily mean you are a hippy! Instead, they offer a unique range of gifts and homeware that unite style, design and ethics.</p>\u005cn\u005cn<p>Read the <a href=\u005c"/the-magazine/biome-lifestyle-terms\u005c">competition terms</a>.</p>\u005cn\u005cn<p><strong>For your chance to win, just tell us: Where are the artisans based who made the Recycled Fair Trade Christmas wreath (above)? HINT: <a href=\u005c"{% article_tracked_url \u005c"biomelifestyle.com\u005c"  \u005c"http://www.biomelifestyle.com/browse/ecogifts/christmas-at-home/recycled-fair-trade-christmas-wreath/\u005c" %}\u005c" target=\u005c"_blank\u005c">See the product page</a> to find out the answer. \u005cn\u005cn </strong></p>"\u000a}"""
+sVLIST_ITEM_RE = re.compile('\u005c[\u005cd+\u005c]$')
 p58
-I11321
+I9960
 sV$&{(@*{_$$*)(^*[)+_{!+%}+)}!}$^#++@@^$@[${%+([+_[&]}_$]!^%_+$%*[!%(()%$%{!@{^*@#
 p59
 I13778
 sVurllib.quote_plus("http://www.argos.co.uk/static/Browse/ID69/10198115/c_1/1|category_root|Toys+and+games|10198115.htm?tag=PS6_1a".replace("+", " "), "+")
 p60
 I3340
-sVv.filter_expression
+sV)(}(+(&#$($$@$)){&*#($]&(@{+*+@)}+(_]()^)}@$^&]+}#**+(%+]_*]+}_}$%]%)]}{[$*&{$_^
 p61
-I10109
-sVCmsFragment.objects.filter(page_id=pageid).select_related('template').values(*[ 'id', 'name', 'template__template_path' ])
+I13004
+sVsha.sha("SINGULARITY").hexdigest()
 p62
+I12085
+sVCmsFragment.objects.filter(page_id=pageid).select_related('template').values(*[ 'id', 'name', 'template__template_path' ])
+p63
 I9535
 sVc.parent.parent
-p63
+p64
 I1318
 sVg.degree()
-p64
+p65
 I6913
 sVt.render(Context({ 'cat': { 'shortname': 'Sale' } }))
-p65
-I10868
-sVfilter(lambda x: x>0, range(c - a, c + a))
 p66
-I12816
-sVc = Category(name="pepe", enabled=True, included_in_search=True, show_search_form=True)
+I10868
+sVu.obnob_groups.all(group__parent__isnull=True).distinct().order_by('created_date')
 p67
-I3664
-sVg.add_edge('c', 'd')
+I20497
+sVp = a.split('/')
 p68
-I6899
-sVa[0:-1:6]
+I14637
+sVdatetime.datetime.strptime.__doc__
 p69
-I482
-sVw.load_uri?
+I5679
+sVa[0:-1:6]
 p70
-I18038
-sV)(}(+(&#$($$@$)){&*#($]&(@{+*+@)}+(_]()^)}@$^&]+}#**+(%+]_*]+}_}$%]%)]}{[$*&{$_^
+I482
+sVa.category['path']
 p71
-I13004
-sVff.label
+I5454
+sVXMLGenerator?
 p72
+I17236
+sVff.label
+p73
 I9120
 sVc = {}
-p73
+p74
 I3525
 s.

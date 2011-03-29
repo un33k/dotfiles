@@ -11,286 +11,295 @@ I19061
 sVp.__dict__
 p5
 I17102
-sVr.sub(' ', '  djkd   djaksj     dajkjk')
+sVbase62_decode(base62_encode(x.int))
 p6
+I21545
+sV]]
+p7
+I9993
+sVr.sub(' ', '  djkd   djaksj     dajkjk')
+p8
 I16732
 sVs = 'Black(1): Nf6'
-p7
+p9
 I16091
 sVurl = "http://site-1375-maguirre.users.dev.mydeco.com/quick-shop/top-ten/garden-accessories-under-£30"
-p8
+p10
 I2292
 sV{@(*_{*[}+${(!$]%![*}!#*%&)^&&@#{#&^{)#@_(%&}^[!@_^+__{_{){$_)&#(}(*+)%[)@+)}[}#
-p9
+p11
 I13011
 sVdef suming(value):
-p10
+p12
 I4860
 sVlong(23)
-p11
+p13
 I4050
 sVp.parse('sum 1 2 3 4 as "total"')
-p12
+p14
 I7244
 sVt = Template('{% with 'hola "mundo"' as value %}{{ value|title }}{% endwith %}')
-p13
+p15
 I10285
 sVdata = simplejson.decode(json)
-p14
+p16
 I11597
 sVmodels.__class__
-p15
+p17
 I8583
 sVapi.auth
-p16
+p18
 I16411
 sVimport twitter
-p17
+p19
 I16359
 sVs.result.results['product']
-p18
-I10667
-sVl.split('","')[2]
-p19
-I4024
-sVhal_manager = bus.get_object(hal_dot, hal_path+'/Manager')
 p20
+I10667
+sVRenderedData.objects.get(pk=59051)
+p21
+I14779
+sVhal_manager = bus.get_object(hal_dot, hal_path+'/Manager')
+p22
 I2189
 sVa = "butler\u2019s trays and tables"
-p21
-I3117
-sVint(0x16)
-p22
-I5200
-sVf = fs.forms[0]
 p23
+I3117
+sVf = fs.forms[0]
+p24
 I14430
 sVa.setdefault("hola", []).append("pepe2")
-p24
-I1614
-sVc.reset()
 p25
-I20741
-sVurl.split('/').index(domain+'i')
+I1614
+sVint(0x16)
 p26
-I9034
+I5200
 sV[ a[prev], a[actual], a[next] ]
 p27
 I3033
-sV)*@#}[}([%{[#^${[&)*[}#+(%^$@+]&@{$[^_^[*)@$]]+}{{^%&({](!&(%#^[!}&]$)+*@%%)_&{(
-p28
-I13713
 sVif(validCharset.indexOf(user.charAt(i))==-1){
-p29
+p28
 I9651
-sVr.items[0].guid
-p30
-I14321
 sVb_iface.GetAllProperties()
-p31
+p29
 I2262
 sVpingomatic.pingomatic('jose2', ['http://jose2.com', 'http://pepito2.com'])
-p32
+p30
 I8443
-sVgtk.Window.__doc__
-p33
-I7330
-sVarticles = ArticleSearch(query='cake stands', count=5, display=display).get_result().get_items()
-p34
-I5324
+sVmap(lambda x: x*x, range(10))
+p31
+I8711
+sVl.split('","')[2]
+p32
+I4024
 sVv.value
-p35
+p33
 I8637
 sV[s.text for s in r]
-p36
+p34
 I16377
 sVbot.send("cafe@insophia.com", "Hola")
-p37
+p35
 I4386
 sVa[s]
-p38
+p36
 I14164
 sVd2 = datetime.datetime(2009, 01, 4, 20, 4, 48)
-p39
+p37
 I4035
-sV}[([#}[}&&}+{@!@+}]){_)%_+({{!]*}}^(!])#*^)(#&!)_#$[%_#{!##%%+)@{**)%+&*[*#[+*$)
-p40
-I12940
 sVa.rsplit('/', 1)
-p41
+p38
 I16727
+sV@+$%_[(((!&{@^#[$#$@@)_}^){}%_**){^$+)*$+[%!)^%#}&)(@^_}}[+_[}&@#!*$+!&}[_})*[_)
+p39
+I13168
 sVfrom blogawards.models import *
-p42
+p40
 I15760
 sVProduct.objects.filter(guid__in=resolved)
-p43
+p41
 I4230
 sVg.transitive_edges()
-p44
+p42
 I6968
-sVRenderedData.objects.get(pk=59051)
-p45
-I14779
+sVimport urls
+p43
+I9022
 sVpepe = dec(pepe)
-p46
+p44
 I1453
+sVurl.split('/').index(domain+'i')
+p45
+I9034
 sVa[0] = a[0] + "bien"
-p47
+p46
 I1977
 sVBigIndexer.search("maraca")
-p48
+p47
 I157
-sVp.p.im_func.func_name
-p49
-I1470
-sVlen(list(CategoryImage.objects.all()))
-p50
-I3574
+sVprint virtual_forms['file']()
+p48
+I9112
 sVlocale
-p51
+p49
 I7428
 sVdef pepe(a, b, c):
-p52
+p50
 I4452
+sVan.as_list()[3][0]
+p51
+I11229
 sVos.path.basename("/a")
-p53
+p52
 I2713
 sVre.compile("^\u005c[font(?:=(?P<size>[-+][0-9]{1,2}))?\u005c](.*?)[/font]",
-p54
+p53
 I7093
 sVr = re.compile(r"/[^/]+(?=\u005c.[a-zA-Z]+$)")
-p55
+p54
 I2761
 sV((@#$$(#[(@!({{}#&$*]$[{+!@@[@*#+_#)(*_^_(%#%&[%!(+}$&&)%)[{^$(]*{++})@_[%*%]*^+
-p56
+p55
 I13673
 sV1 ~ 2
-p57
+p56
 I2366
-sVa = AmazonBook(asin='8466616446', title='Criptonomicon', author='Neak Stephenson')
+sVlen(list(CategoryImage.objects.all()))
+p57
+I3574
+sVr.items[0].guid
 p58
-I6130
-sVan.as_list()[3][0]
+I14321
+sVx.is_valid()
 p59
-I11229
+I18965
 sVt.show()
 p60
 I7989
-sVs = ServerProxy(PING_SERVER)
-p61
-I8433
 sVb.thumb_shopbystyle_small_url
-p62
+p61
 I9444
 sVurllib.quote_plus("http://www.argos.co.uk/static/Browse/ID69/10198115/c_1/1|category_root|Toys+and+games|10198115.htm?tag=PS6_1a".replace("+", " "))
-p63
+p62
 I3334
 sVbase64.encode?
-p64
+p63
 I12741
 sVa = '13232'
-p65
+p64
 I12654
+sVd.timetz()
+p65
+I17734
 sVd.strftime?
 p66
 I20088
-sVprint virtual_forms['file']()
-p67
-I9112
 sVurlparse.urldefrag?
-p68
+p67
 I8830
 sVurllib.unquote(y)
-p69
+p68
 I21395
 sVom django.utils.dateformat import time_format
-p70
+p69
 I3239
 sVurlparse.urlparse({})[1]
-p71
+p70
 I20949
 sVpepe.__doc__
-p72
+p71
 I3694
 sVf.comments
-p73
+p72
 I789
-sVfrom django.db.models import signals, sql
+sVa = AmazonBook(asin='8466616446', title='Criptonomicon', author='Neak Stephenson')
+p73
+I6130
+sVc1 = Car(name='auto1')
 p74
+I18744
+sVfrom django.db.models import signals, sql
+p75
 I7919
 sV@&*!$_#{!$_*_!{*()@]+_&%{#!$%^()$](^]&#@!$%))#]@*{@($#&(*&&@^%@{_({{*))+#)){$^+_
-p75
-I13636
-sVimport urls
 p76
-I9022
-sV<input type="text" id="EMAIL_FIELD" name="EMAIL_FIELD"
+I13636
+sVp.p.im_func.func_name
 p77
-I9690
-sV]]
+I1470
+sV<input type="text" id="EMAIL_FIELD" name="EMAIL_FIELD"
 p78
-I9993
-sVt.fragment
+I9690
+sVi[0].translations.all()
 p79
+I11532
+sVarticles = ArticleSearch(query='cake stands', count=5, display=display).get_result().get_items()
+p80
+I5324
+sVs = ServerProxy(PING_SERVER)
+p81
+I8433
+sVt.fragment
+p82
 I561
 sVfrom xml.sax.saxutils import XMLGenerator
-p80
+p83
 I17235
+sVa.user.get_absolute_url()
+p84
+I9471
 sVu.di
-p81
+p85
 I20334
 sVc.execute('update systemuser set username = "matias" where id=813')
-p82
-I11902
-sVmap(lambda x: x*x, range(10))
-p83
-I8711
-sVd.timetz()
-p84
-I17734
-sVa.user.get_absolute_url()
-p85
-I9471
-sVa.split(None, 6)
 p86
+I11902
+sV)*@#}[}([%{[#^${[&)*[}#+(%^$@+]&@{$[^_^[*)@$]]+}{{^%&({](!&(%#^[!}&]$)+*@%%)_&{(
+p87
+I13713
+sVa.split(None, 6)
+p88
 I11748
 sVnew.classobj()
-p87
+p89
 I8748
 sVwears.models
-p88
+p90
 I2850
+sVfrom django.utils.http import base36_to_int
+p91
+I21503
 sV_@[(%)])^!#(}_}!)$%@*+]@{&(^}!([!%$!!]@$$!}*%!_#{($*]+(!@@)_(+^]*#*)]){}!_^&&&]&
-p89
+p92
 I13748
 sVUserPoint.objects.filter(content_type=t, object_id=1048971)
-p90
+p93
 I18357
 sVfrom tipocms import signals
-p91
-I8482
-sV@+$%_[(((!&{@^#[$#$@@)_}^){}%_**){^$+)*$+[%!)^%#}&)(@^_}}[+_[}&@#!*$+!&}[_})*[_)
-p92
-I13168
-sVm.groups.add(Group.objects.get(name="CMS Administrators"))
-p93
-I12797
-sVc1 = Car(name='auto1')
 p94
-I18744
-sVv[0]
+I8482
+sVoperator.irepeat?
 p95
-I8934
-sVx.is_valid()
+I21520
+sVm.groups.add(Group.objects.get(name="CMS Administrators"))
 p96
-I18965
-sVRoom.objects.filter(**s)[0
+I12797
+sVc.reset()
 p97
-I17974
-sVi[0].translations.all()
+I20741
+sVv[0]
 p98
-I11532
-sVhaar
+I8934
+sV}[([#}[}&&}+{@!@+}]){_)%_+({{!]*}}^(!])#*^)(#&!)_#$[%_#{!##%%+)@{**)%+&*[*#[+*$)
 p99
+I12940
+sVRoom.objects.filter(**s)[0
+p100
+I17974
+sVgtk.Window.__doc__
+p101
+I7330
+sVhaar
+p102
 I10914
 s.

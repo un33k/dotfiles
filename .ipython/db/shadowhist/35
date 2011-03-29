@@ -2,186 +2,186 @@
 Vdata2 = urllib.urlencode(data)
 p2
 I20716
-sVany(i == 10 for i in range(13))
+sVtokenize = build_tokenizer(phrases, SingleTokenizer(stopwords=[None]))
 p3
-I3282
-sVm = HREF_RE.search(v)
-p4
-I9892
+I6488
 sVfrom wears import urls
-p5
+p4
 I2846
 sVa.expand_items("hola, como, andas")
-p6
+p5
 I519
-sVos.path.join(os.environ.get('HOME', ''), 'tmp/socket.sock')
-p7
-I19023
 sV'_'.join('1', '2', '3')
-p8
+p6
 I11136
 sVt = Template('{{ cms_data.fragments.title }}')
-p9
+p7
 I12405
 sVremote._retrieve("/pdbe/classification/ws/websites-list/")
-p10
+p8
 I2661
+sVr = RoomSearch()
+p9
+I3983
 sVu.obnob_groups.all().values('group__id')
-p11
+p10
 I20472
 sVp.easy_stem("cats")
-p12
+p11
 I5930
 sVch._meta._field_types
-p13
+p12
 I4588
+sVfd.options.list_template
+p13
+I638
 sVProduct._meta.verbose_name
 p14
 I14347
 sVactual = Decimal("1870")
 p15
 I2107
-sVph = get_helper(Page.objects.all()[1])
-p16
-I4873
 sVsys.modules
-p17
+p16
 I11173
 sVr.num_of_terms()
-p18
+p17
 I7690
 sVnew_values = []
-p19
+p18
 I4544
-sVloader.get_template('pepepepepe.html')
-p20
-I9972
+sVchain(xrange(10),)
+p19
+I17899
 sVf = CmsFragment.objects.select_related(1).get(pk=43732)
-p21
+p20
 I1997
 sVfrom poll.forms import *
-p22
+p21
 I18949
-sVa = '/a/b/c/'
-p23
-I15113
-sVet.items
-p24
-I17293
+sVp.cmspagemetacontent_set.values_list('name', 'text')
+p22
+I17467
 sVfrom room.feeds import *
-p25
+p23
 I3147
 sVd.__class__
-p26
+p24
 I4832
-sVfd.options.list_template
-p27
-I638
+sVos.path.join(os.environ.get('HOME', ''), 'tmp/socket.sock')
+p25
+I19023
 sVm.content_type
-p28
+p26
 I14914
-sVItem._meta.trans_model._meta.get_field('_master')
-p29
-I11044
 sVQuestion.objects.values_list('group', flat=True)
-p30
+p27
 I19798
 sVf.var_name
-p31
+p28
 I18793
 sVimport manage
-p32
+p29
 I17622
 sVc = GNUChess()
-p33
+p30
 I15962
-sVurllib.quote(y.split('?')[1].split('=')[1])
-p34
-I21412
 sVquery = cgi.parse_qs('a=1&b=2&c=3')
-p35
+p31
 I14978
 sVactual = 8
-p36
+p32
 I3025
 sVf.writelines(['3829321312'])
-p37
+p33
 I16572
 sVs.result.search_params.paginate_by()
-p38
+p34
 I14362
 sVHTMLParser.incomplete
-p39
+p35
 I9759
 sVb = A(2)
-p40
+p36
 I11246
 sV]$&@@&[!$(!+_^#*($(_]]{&+!]*_)!$_%)*}&][[+(^]_[{[^^$*^{*!#*))!{@+{#$[+(^+*%(+*++
-p41
+p37
 I13439
 sVp._meta.get_field_by_name('child')[0]
-p42
+p38
 I18770
 sVurllib.urlopen('http://123.com').read()
-p43
+p39
 I21185
 sVp.thumbnail_large_url
-p44
+p40
 I5291
 sVjson = json.strip()[len('blip_ws_results('):-2]
-p45
+p41
 I11606
 sVUser
-p46
+p42
 I18624
 sV!@_}^{*!$)@){#)_*{}@&]&(@()!&!#%_(]^[@$*{{{[#)*@%!@}^}+%^$!]+}$*(_&}}{(+)%(&{!!_
-p47
+p43
 I13014
 sVUserComment.objects.filter(content_type=ct, is_public=True).order_by("-date")[:2]
-p48
+p44
 I4269
 sVDotExpandedDict?
-p49
+p45
 I17768
 sVtokenize("I like the black sofa bed, but the blue sofa bed would be nice with the black out blinds")
-p50
+p46
 I6462
 sVpt.select().limit
-p51
+p47
 I15150
 sVt = Tag.get(1)
-p52
+p48
 I15287
-sVdatetime.strptime('Fri Feb 05 19:12:32 +0000 2010', '%a %b %d %H:%M:%S %z %Y')
-p53
-I11876
+sVany(i == 10 for i in range(13))
+p49
+I3282
 sVdatetime.isoformat?
-p54
+p50
 I11869
 sVe = f.errors['query'][0]
-p55
+p51
 I12714
 sV(^)${)%)]]$*!++[_(_($}(@++[^{]%{{!%#!%+*$)_&@&__#([__$[&^!}%$)(]}@+]+_@*]%%{&(@@
-p56
+p52
 I14049
 sVurllib.urlencode({'code': '2.dQHKTthSV1DL2u6p7Y3tmA__.3600.1301043600-100002200789926\u005c\u005cu00257CMgmuLIWeimhjFQ_5OZrnfGOYeDw'})
-p57
+p53
 I21401
-sVp.cmspagemetacontent_set.values_list('name', 'text')
-p58
-I17467
 sVdict(a)
-p59
+p54
 I6058
+sVfrom horno.models import *
+p55
+I24
 sV%&]!{{%*_!*}&)}$**_{*!#%[[#]!](^^$![#[[*}%(_#^^!%))!_^@)@**@}}(%%{#*%@(((]^%^![&
-p60
+p56
 I14092
+sVloader.get_template('pepepepepe.html')
+p57
+I9972
+sVet.items
+p58
+I17293
 sVclient = gdata.contacts.service.ContactsService()
-p61
+p59
 I19765
+sVdatetime.strptime('Fri Feb 05 19:12:32 +0000 2010', '%a %b %d %H:%M:%S %z %Y')
+p60
+I11876
 sVa.add(2)
-p62
+p61
 I663
+sVoperator.idiv?
+p62
+I21519
 sV2 > a >= 3
 p63
 I6270
@@ -212,73 +212,76 @@ I21150
 sVd.pre_save(1, 2)
 p72
 I7771
-sVlist(f.xreadlines())
+sVbatteries = hal.FindDeviceByCapability.__doc__
 p73
+I2178
+sVlist(f.xreadlines())
+p74
 I15550
 sVSQLCompiler(qs.query)
-p74
-I18905
-sVchain(xrange(10),)
 p75
-I17899
-sVr = RoomSearch()
+I18905
+sVm = HREF_RE.search(v)
 p76
-I3983
-sVfrom horno.models import *
+I9892
+sV1223/300 * 100 / 300
 p77
-I24
+I10742
 sVpages = getGroupByQuerySet(CmsPage.objects.simple_qs().filter(state="live").order_by("-live_date"), ["http_path",])
 p78
 I1039
 sVjoinpath
 p79
 I8668
-sV1223/300 * 100 / 300
-p80
-I10742
 sVa[:9]
-p81
+p80
 I1461
 sVprint img.render()
-p82
+p81
 I15486
+sVUserSocialAuth.objects.all().delete()
+p82
+I20285
 sVa.encode("utf-8")
 p83
 I3118
 sVoffers = SpecialOffer.objects.filter(retailer=6912901)
 p84
 I9822
-sVreverse("wears.buy-process")
+sVdatetime.datetime.strftime("2009-06-03 00:21:40")
 p85
+I11812
+sVreverse("wears.buy-process")
+p86
 I3399
 sV(*^(_@]_%(]+%_)@]&!{]@$[__)@[+$)%$!^{%^!)}]{[[(+*[&*(_^*{*^}]){[_))!(%!}$![#^$+&
-p86
+p87
 I13265
 sVopr.parse("tag xxx as yyy  zzz ttt".split())
-p87
-I428
-sVbatteries = hal.FindDeviceByCapability.__doc__
 p88
-I2178
-sVa = TopicCategory.objects.all()[2]
+I428
+sVItem._meta.trans_model._meta.get_field('_master')
 p89
-I9317
-sVtokenize = build_tokenizer(phrases, SingleTokenizer(stopwords=[None]))
+I11044
+sVa = TopicCategory.objects.all()[2]
 p90
-I6488
-sVdatetime.datetime.strftime("2009-06-03 00:21:40")
+I9317
+sVph = get_helper(Page.objects.all()[1])
 p91
-I11812
-sVo.parse('10')
+I4873
+sVurllib.quote(y.split('?')[1].split('=')[1])
 p92
-I7230
-sVUserSocialAuth.objects.all().delete()
+I21412
+sVo.parse('10')
 p93
-I20285
-sVls
+I7230
+sVa = '/a/b/c/'
 p94
+I15113
+sVls
+p95
 I2526
 sVobjects = ct.model_class().objects.filter(pk__in=objects_ids.keys())
-p95
+p96
 I1962
 s.

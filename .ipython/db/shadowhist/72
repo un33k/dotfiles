@@ -2,60 +2,60 @@
 Vv[-1].name = n
 p2
 I8698
-sVos.path.basename("/pepe/")
+sVt = ContentType.objects.filter(model='room')
 p3
-I2715
-sVa.__class__.y = property(p)
-p4
-I9000
+I18354
 sVp2.id
-p5
+p4
 I587
 sVord('u') - ord('q')
-p6
+p5
 I5195
 sVfrom django.template import Context, loader, RequestContext, TemplateDoesNotExist
-p7
+p6
 I15431
-sVopen?
-p8
-I15419
-sVa.__slice
-p9
-I2608
+sVB.__subclasses__
+p7
+I16281
 sVadmin.util.models
-p10
+p8
 I17826
 sVa = 'mydeco.com'
-p11
+p9
 I14264
 sVf.base_fields['raw'].formfield()
-p12
+p10
 I9116
 sVv.name.type
-p13
+p11
 I8648
+sVa.__class__.y = property(p)
+p12
+I9000
 sVc = Client()
-p14
+p13
 I20646
 sVos.execle('/usr/bin/mpc pause')
-p15
+p14
 I303
 sVi = BigIndexer.search("dia")
-p16
+p15
 I223
-sVos.exec('/usr/bin/mpc', 'pause')
+sV!!)&!]!+^$(}(@{#@${]{^&$^)[!*[@#]*{%)+^}@)(%$$*{{+@!!@{@{}@+@!*&{%]_@^)*$+&&@+)*
+p16
+I13580
+sV]%+({^)(+#(&*#%#]^^**+^}}+[$_(+&!_{%&{(@&*^[%[_]*]@#@&)$#+!${!_$[#@!)@}}+_^#%{}#
 p17
-I304
-sVimport wiki
-p18
-I20385
+I13225
 sVo.query
-p19
+p18
 I7741
-sVr.match("hole pepe")
+sV'400' in a
+p19
+I6847
+sVp = Page.objects.get(pk=20)
 p20
-I6185
+I17330
 sVpyflakes.messages
 p21
 I14822
@@ -65,147 +65,147 @@ I21256
 sVm2.save()
 p23
 I18881
-sV!!)&!]!+^$(}(@{#@${]{^&$^)[!*[@#]*{%)+^}@)(%$$*{{+@!!@{@{}@+@!*&{%]_@^)*$+&&@+)*
+sVt = Tag(id=None, name='Test tag 7', category_id=0)
 p24
-I13580
-sVB.__subclasses__
-p25
-I16281
+I15256
 sVfrom django.utils import simplejson
-p26
+p25
 I1045
 sVimport operator
-p27
+p26
 I9832
-sVt = Tag(id=None, name='Test tag 7', category_id=0)
+sVdef append_titles(model, value):
+p27
+I136
+sVimport wiki
 p28
-I15256
-sVx = r.get_result().get_items()
-p29
-I21283
+I20385
 sVh.items()
-p30
+p29
 I17772
-sVfrom django.db.models.fields import *
-p31
-I8909
+sVt = Tag("dia")
+p30
+I265
 sVprint a and None or "hola"
-p32
+p31
 I1475
 sVFROM `app_item` LEFT OUTER JOIN `item_translation` ON
-p33
+p32
 I10991
 sV(%{^}(@$$(^_]($)]_*}&+{^$%!%@$)!#$+(!*^}&(*!(+!$_^#}!*&@_%%{#!$+)]@{}((__$}{[!(@
-p34
+p33
 I13100
 sV'oauth_nonce=48480696&oauth_timestamp=1294974539&oauth_signature_method=HMAC-SHA1&oauth_consumer_key=anonymous&oauth_verifier=lOvZRgIP2lwG3DVmbZCa3Eun&xoauth_displayname=Social%20Auth&oauth_version=1.0&oauth_token=1%2Fdkl8EbkP3-B71e0Ia8u5onTH3Ti_VeWiqKqp1IJXLn4&oauth_signature=Q0VXZ%2BJ7eAMd0LfZbA8IN7re%2Bck%3D&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo%23email&oauth_callback=http%3A%2F%2Flocalhost%3A8000%2Fcomplete%2Fgoogle-oauth%2F'
-p35
+p34
 I19432
-sVt = ContentType.objects.filter(model='room')
-p36
-I18354
 sV^(_}{%%}+%](#+}^&@*){+]@]}{)!@[#{!(%{!&@({_}{_#&(^()[}[[%##*{}$}$$()}&@++[!%}@$_
-p37
+p35
 I13781
 sVtry:\u000a    a = []\u000a    a[0]\u000aexcept ValueError, KeyError, IndexError:\u000a    print "hola"
-p38
+p36
 I6163
 sVgetattr(s, 'cjakdjaadd')
-p39
+p37
 I15322
 sVdef dec1(fn):\u000a    def w(*args, **kwargs):\u000a        print "dec1"
-p40
+p38
 I8733
 sVa.index(4)
-p41
+p39
 I3413
 sVinspect.getmoduleinfo(conf)
-p42
+p40
 I2489
-sVp = Page.objects.get(pk=20)
-p43
-I17330
+sVw.node.nodelist[-1
+p41
+I10249
+sVdef date_to_str(date_or_string):
+p42
+I1095
 sVsys.getrefcount.__doc__
-p44
+p43
 I2059
-sVtoken
-p45
-I19782
 sVq = Question.objects.all()[:2]
-p46
+p44
 I12773
 sVr._user_cache.userpoint_set.all().count8)
-p47
+p45
 I11484
 sVrange(100, 200)
-p48
+p46
 I9233
 sVp = SiteCategoryProducts.objects.all().values('product')
-p49
+p47
 I10547
+sVopen?
+p48
+I15419
 sVfd.name
-p50
+p49
 I842
 sVs.width
-p51
+p50
 I12538
 sVapply(lambda i**k: sum([ i for i, j in k ]), a.items())
-p52
+p51
 I7031
 sVg.info()
-p53
+p52
 I21088
 sV(@%@[]+%{)+([!(!@){!^_$]&*(+@#]#]{#)#+][#*#![[_)&@(&+$#*!_*[{&)](}!%+$&{#${}]^{+
-p54
+p53
 I13155
 sV[ n for n in nodes if hasattr(n.node, 'nodelist') ][0].node.nodelist[2].node
-p55
+p54
 I10227
 sVDateField.get_db_prep_lookup?
-p56
+p55
 I15744
 sVpages.__file__
-p57
+p56
 I17519
+sVfrom cms.models import Name, Value
+p57
+I8921
 sVc.image.file
 p58
 I17408
 sVitems = groupby(qs, lambda x: x.competition)
 p59
 I19110
-sVdef append_titles(model, value):
-p60
-I136
 sVUser.obnob_groups.related.field.rel.field_name
-p61
+p60
 I20179
 sVcontents = CmsContentMapping.objects.filter(page__in=pages_ids, name='heading').values('id', 'page_id', 'object_id')
-p62
+p61
 I8857
 sVu.obnob_groups.get(group=2)
-p63
+p62
 I21005
 sVp.display("eschew obfuscation")
-p64
+p63
 I7248
 sVfor words, bounds in ct.tokenize_html(text, with_indices=True, only_matches=True):
-p65
+p64
 I6419
 sVfrom cms.admin import *
-p66
+p65
 I14499
 sVpage.template
-p67
+p66
 I18653
 sVDateField().db_type()
-p68
+p67
 I15743
 sVconnection.cursor()
-p69
+p68
 I11796
 sVand?
-p70
+p69
 I11270
+sVos.exec('/usr/bin/mpc', 'pause')
+p70
+I304
 sVrepr(pepe)
 p71
 I3683
@@ -215,67 +215,70 @@ I14890
 sVPhotoTag.filter(PhotoTag.tag_id==t)
 p73
 I15259
-sVr = opr.start_parse("tag xxx as yyy from mmm ppp tttt lll eee".split())
+sVuuid.uuid4
 p74
+I21478
+sVr = opr.start_parse("tag xxx as yyy from mmm ppp tttt lll eee".split())
+p75
 I450
 sVc.items
-p75
+p76
 I11265
 sVa.pop(7)
-p76
+p77
 I12737
 sVos.path.split('/home/omab/job/personal/tasenelhorno/tasenelhorno/media/images/no_image.png')[-1]
-p77
+p78
 I817
 sVa.match('_').span()
-p78
+p79
 I14282
 sVurlparse.("hola%20mundo")
-p79
+p80
 I4515
 sVserializers.register_serializer?
-p80
+p81
 I11389
 sVp = CmsPage.objects_aux.page_status()
-p81
+p82
 I596
 sVp.stem_word('blinds')
-p82
+p83
 I5954
 sVr = RoomSearch(count=3, order_by='-update')
-p83
-I9307
-sV]%+({^)(+#(&*#%#]^^**+^}}+[$_(+&!_{%&{(@&*^[%[_]*]@#@&)$#+!${!_$[#@!)@}}+_^#%{}#
 p84
-I13225
+I9307
 sVs = MydecoSearch(r, extended_filters=True, paid_search=False)
 p85
 I10634
-sVdef date_to_str(date_or_string):
+sVa.__slice
 p86
-I1095
-sVfrom cms.models import Name, Value
+I2608
+sVr.match("hole pepe")
 p87
-I8921
-sVt = Tag("dia")
+I6185
+sVx = r.get_result().get_items()
 p88
-I265
-sVos.path.walk.__doc__
+I21283
+sVfrom django.db.models.fields import *
 p89
-I4739
-sVw.node.nodelist[-1
+I8909
+sVos.path.walk.__doc__
 p90
-I10249
-sV{% endfor %}
+I4739
+sVtoken
 p91
+I19782
+sV{% endfor %}
+p92
 I21049
 sVw.disconnect(1)
-p92
+p93
 I8033
 sV]+%^+%))]+%$]+!%@[#@[@@[*#!+$#}}*#()$_*$[^}+)@#^^$(^+)^@%](!+)^[#!#_*{^^]&[_[_+}
-p93
-I14075
-sV'400' in a
 p94
-I6847
+I14075
+sVos.path.basename("/pepe/")
+p95
+I2715
 s.

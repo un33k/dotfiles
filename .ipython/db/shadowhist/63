@@ -11,167 +11,167 @@ I11615
 sVPermission._meta.get_field('codename')
 p5
 I7924
-sVdir(hal)
+sV[ s.encode('utf-8') for s in a.split() ]
 p6
+I10456
+sVdir(hal)
+p7
 I2177
 sVa.split('/')[1]
-p7
+p8
 I17395
 sVp = CmsPage.objects.get(pk=7259)
-p8
+p9
 I17487
 sV}_{%]]$)(#@![!(_]!)+&$&^(){$%_(_%+}%*%&%!!^^)(_*@{^#())[{^&@}#{{^_$[*()*$&%^_{)%
-p9
+p10
 I12949
 sV%ps ax
-p10
-I2527
-sVr.match("abdkjasdjaskab")
 p11
-I3936
+I2527
 sVb
 I557
 sVan.as_list()[3]
 p12
 I11228
-sVfrom aff.utils import valid_article_url
-p13
-I14903
 sVphrases = ["sofa", "roman blind", "dim out blind", "black"]
-p14
+p13
 I6499
-sV[ s.encode('utf-8') for s in a.split() ]
+sVp._state.db
+p14
+I18811
+sVos.environ.keys()
 p15
-I10456
-sVp._get_url
-p16
-I5390
+I4227
 sViter({})
-p17
+p16
 I21251
 sVmath.fmod?
-p18
+p17
 I10705
 sVx = RoomCompetition()
-p19
+p18
 I19972
 sVs = "2010-09-16 23:59:00 GMT-0400"
-p20
+p19
 I17701
 sVa.reverse()
-p21
+p20
 I8387
 sVpq.move('matias', 'e3')
-p22
+p21
 I16296
 sVt = Thumbnail('http://cdn.mydeco.com/media/data/rooms/images/_thumbs/6aei47252ccaslyt.jpeg')
-p23
+p22
 I19737
 sVr = re.compile("(((ht|f)tp(s?):\u005c/\u005c/)|(www\u005c.[^ \u005c[\u005c]\u005c(\u005c)\u005cn\u005cr\u005ct]+)|(([012]?[0-9]{1,2}\u005c.){3}[012]?[0-9]{1,2})\u005c/)([^ \u005c[\u005c]\u005c(\u005c),;&quot;'&lt;&gt;\u005cn\u005cr\u005ct]+)([^\u005c. \u005c[\u005c]\u005c(\u005c),;&quot;'&lt;&gt;\u005cn\u005cr\u005ct])|(([012]?[0-9]{1,2}\u005c.){3}[012]?[0-9]{1,2})")
-p24
+p23
 I1618
 sVlist(q.filter(PhotoTag.tag_id==[6]))
-p25
+p24
 I15349
 sVg.contents.example
-p26
+p25
 I1854
 sVcgi.parse_qs(p.query)['website'].__class__
-p27
+p26
 I14776
+sVb.show_now()
+p27
+I18066
 sVfor(i=0;i<user.length;i++){
 p28
 I9650
-sVb.show_now()
-p29
-I18066
-sVa, b, c = range(1, 4)
-p30
-I3247
-sVbf = BtlEditForm(b)
-p31
-I4340
 sVfrom django.core.management.color import no_style
-p32
+p29
 I8353
 sVf.template_path
-p33
+p30
 I784
 sVx = u'asd\u005cxe9asdfj'
-p34
+p31
 I18579
-sVtt.contents
-p35
-I10019
+sVCmsTextContent.objects.count()
+p32
+I9794
 sVimport cStringIO
-p36
+p33
 I15813
 sVp = Person.objects.lang('es').all()[0]
-p37
+p34
 I5845
 sVf = p.cmsfragment_set.all()[0]
-p38
+p35
 I9147
 sVlocale.str
-p39
+p36
 I7421
 sVs[0].form()
-p40
+p37
 I17009
 sVmicrosite_articles.get_contents(p)
-p41
+p38
 I9181
-sVf = [ f for f in Article._meta.fields if hasattr(f.rel, 'to') ][0]
-p42
-I11965
+sVlen(uuid.uuid4().get_hex())
+p39
+I21488
+sVr.match("abdkjasdjaskab")
+p40
+I3936
 sVreverse('shopping_site_design_boutique', args=('abc',))
-p43
+p41
 I20850
 sVt.render(Context({'x': 108}))
-p44
+p42
 I18284
 sVcategories = ['bedroom', 'bathroom']
-p45
+p43
 I10534
 sVfrom cms.plugins import PLUGINS
-p46
+p44
 I12827
-sVitem two
-p47
-I11924
+sVfrom article.models import *
+p45
+I465
+sVa, b, c = range(1, 4)
+p46
+I3247
 sVImage.objects.all().delete()
-p48
+p47
 I10905
-sVbot.conn.sendInitPresence.__doc__
-p49
-I4392
+sVbf = BtlEditForm(b)
+p48
+I4340
 sVr.result.items[0].type
-p50
+p49
 I9297
 sVq.children[0]
-p51
+p50
 I11007
+sVtt.contents
+p51
+I10019
 sV[ p.name for p in r.result.items]
 p52
 I21268
-sVfrom article.models import *
+sVfrom aff.utils import valid_article_url
 p53
-I465
-sVimport gz
+I14903
+sVnew.classobj
 p54
-I17224
-sVclass Mm(models.Model):
+I8745
+sVimport gz
 p55
-I706
-sVfrom django.template.loader import *
+I17224
+sVf = [ f for f in Article._meta.fields if hasattr(f.rel, 'to') ][0]
 p56
-I9824
-sVr == r2
+I11965
+sVclass Mm(models.Model):
 p57
-I15572
-sVos.environ.keys()
+I706
+sVr == r2
 p58
-I4227
+I15572
 sVbooks[0].isbn
 p59
 I6086
@@ -214,30 +214,30 @@ I6616
 sV]_}!%$+_$}#&_%)%[*&%_@}+&+&$]]#(([+([{*[{$+!@[%{#^#$_]#){+$%*_&%(+##$_}%[}!%!&{[
 p72
 I13409
-sVp._state.db
+sVp._get_url
 p73
-I18811
-sVCmsTextContent.objects.count()
-p74
-I9794
+I5390
 sVu.set_password('123456')
-p75
+p74
 I12359
 sVx = digraph.digraph()
-p76
+p75
 I19163
 sVContentType.get_object_for_this_type(Room)
-p77
+p76
 I11782
 sVsimplejson.dump?
-p78
+p77
 I12587
-sVnew.classobj
-p79
-I8745
+sVfrom django.template.loader import *
+p78
+I9824
 sVr.match('Black (1) :')
-p80
+p79
 I16301
+sVitem two
+p80
+I11924
 sVmeta.tables
 p81
 I15157
@@ -250,13 +250,16 @@ I11567
 sVlist(Website.objects.all())
 p84
 I2657
-sVc['catdata'].browse_view
+sVbot.conn.sendInitPresence.__doc__
 p85
+I4392
+sVc['catdata'].browse_view
+p86
 I5457
 sVc = fd.content_list
-p86
+p87
 I667
 sVg.example[0].name
-p87
+p88
 I1861
 s.

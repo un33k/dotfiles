@@ -1,166 +1,166 @@
 (dp1
-Vupdate cms_fragment_template set content_names = "image/image,linkText/text,linkUrl/text,title/text"
+Vupdate cms_fragment_template set content_names = "sectionName/text,sectionImage/image,articleDescription/largetext,articleLinkUrl/text,articleLinkText/text,sectionLinkUrl/text,sectionLinkText/text" where id = 71;
 p2
-I6762
-sV%#}&)#%*]!@#_&@!^{@]#)_&@){*#]@{@}%@]!(}$*)%#[)^{)}&#[]@}%+)@@}#^#_[]*(%@)!)#+@{
+I6666
+sVc.acquire*(
 p3
-I13429
-sVt.token_type
+I16069
+sV%#}&)#%*]!@#_&@!^{@]#)_&@){*#]@{@}%@]!(}$*)%#[)^{)}&#[]@}%+)@@}#^#_[]*(%@)!)#+@{
 p4
-I10064
-sVPAGES['shopping.s'].DESCRIPTION
+I13429
+sVc.model_set.all()
 p5
-I17779
-sV@$}]%(%&_&&*))&%$![}[$%}@!]^*}*)_{^$_!(%]^}!_#_$$^__)}[#^(]+@&^!&*($_[_$%])]*%%!
+I2886
+sVa.field.widget.id_for_label
 p6
-I13734
-sVdict((k, sum(y for x, y in data if x == k)), for k, v in data)
+I18973
+sV*_{^}$#!+]{[^&++*#!]*)]%$!{#^&%(%^*}@^+__])_$@_^#[{{})}$*]#%]{}{][@^!@)_[}{())%)
 p7
-I15604
-sVslugify('\u044b\u0432\u0430\u0444\u044b\u0432\u0430')
+I12903
+sVt.token_type
 p8
-I20240
-sVdivmod(10, 1(
+I10064
+sVs.stdout.readline()
 p9
-I17562
-sV^@[_&$&[_*&^}+__&%[#+#+})[+#!$*#^}[#&*}(+(]+!*]*(+(^_#_+^%]]@!][@%!+{{_%_*$!@{!^
+I15979
+sVlist(aaa())
 p10
+I3017
+sVp.standard_option_list
+p11
+I12449
+sV^@[_&$&[_*&^}+__&%[#+#+})[+#!$*#^}[#&*}(+(]+!*]*(+(^_#_+^%]]@!][@%!+{{_%_*$!@{!^
+p12
 I12994
 sVp.btl_id
-p11
+p13
 I17547
 sVp.date.month + 1
-p12
-I15715
-sVc.acquire*(
-p13
-I16069
-sVurllib.urlencode(filter="cake stands & carriers")
 p14
+I15715
+sVurllib.urlencode(filter="cake stands & carriers")
+p15
 I5259
 sV[ f.name for f in CmsPage._meta.fields ]
-p15
-I4173
-sV@}]}*!#@%{{)**)&!#@#{}(_*^))[{](@!(#!)}]}$]++]_$!+(!)[&}^])+(]#$[%&]#@%^](&&#+]{
 p16
-I13761
-sVa = AES.new("hola mundo")
+I4173
+sVi._meta.fields[-1]
 p17
+I8594
+sVa = AES.new("hola mundo")
+p18
 I984
 sVlen(texts.keys())
-p18
-I3833
-sVa.sort(key="k")
 p19
-I2554
-sVr.match('"hola mundo"')
+I3833
+sV'_'.join(('1', '2', '3'))
 p20
-I14930
-sVfor i in r.result.items:
+I11137
+sVModel1.objects.exclude(m3__name=3)
 p21
-I9302
-sVx = CmsPage.objects.filter(http_path__startswith='/the-magazine/')
-p22
-I19792
+I18924
 sVgetattr?
-p23
+p22
 I15012
-sVos.path.commonprefix(['/a/', '/a/b/c/'])
+sVf.image.__class__
+p23
+I4189
+sVfrom scrapy.cmdline import execute
 p24
-I18564
+I15519
 sVd.strftime('%H')
 p25
 I20089
-sVs.AsDict()
-p26
-I16372
 sVimport softwareproperties
-p27
+p26
 I12057
 sVa.rfind('maie')
-p28
+p27
 I12561
 sVurllib.splitquery(u)
-p29
+p28
 I6329
-sVfrom emailvision.views import get_valid_ev
+sVprint UserSocialAuth._meta.get_field('extra_data').max_length
+p29
+I21485
+sVdict((k, sum(y for x, y in data if x == k)), for k, v in data)
 p30
-I8256
-sVp.standard_option_list
+I15604
+sVlist(xrange(1, 10))
 p31
-I12449
-sVroom.url
+I3058
+sVr = ProductSearch(query='sofa', count=10, display=['name']) #, filter=['view_only,design_boutique'])
 p32
-I9273
+I14628
 sVTranslateableModel.objects.lang
 p33
 I5826
-sVr = ProductSearch(query='sofa', count=10, display=['name']) #, filter=['view_only,design_boutique'])
-p34
-I14628
-sVs.stdout.readline()
-p35
-I15979
 sVp = get_categories_products(['bedroom', 'bathroom'], 1)
-p36
+p34
 I10531
-sVct = ClassificationTokenizer({ 'article': 'html' }, phrases=['seat'])
+sVet(ResultRankCriteria.objects.filter(QJoins(ranked_count=('result_rank', 'left join', 'ranked_count.query_id = rr_criteria.query_id'))).extra(select={'rrcount': 'count(ranked_count.id)'}), ['rr_criteria.id'])
+p35
+I7719
+sVroom.url
+p36
+I9273
+sVd = D.objects.get(pk=1)
 p37
-I6385
-sVp.productos.select_related('producto').all()
-p38
-I7444
+I19410
 sVcount =+ 1
-p39
+p38
 I16293
-sVt = Tag(name='Test tag 4', category_id=0)
-p40
-I15243
+sVct = ClassificationTokenizer({ 'article': 'html' }, phrases=['seat'])
+p39
+I6385
 sVlist(r)
-p41
+p40
 I4079
 sV%time trans("hola")
-p42
+p41
 I4861
 sVc = CatInfo(classification="cake stands & carriers")
-p43
+p42
 I5167
-sVi._meta.fields[-1]
+sVp.productos.select_related('producto').all()
+p43
+I7444
+sVdivmod(10, 1(
 p44
-I8594
-sVf.image.__class__
-p45
-I4189
+I17562
 sVraise NotImplemented, "hsdad"
-p46
+p45
 I5135
 sVt=p.tags
-p47
+p46
 I45
 sVa.push(a.pop())
-p48
+p47
 I2653
-sVet(ResultRankCriteria.objects.filter(QJoins(ranked_count=('result_rank', 'left join', 'ranked_count.query_id = rr_criteria.query_id'))).extra(select={'rrcount': 'count(ranked_count.id)'}), ['rr_criteria.id'])
+sVb.get_property('disable')
+p48
+I8105
+sVslugify('\u044b\u0432\u0430\u0444\u044b\u0432\u0430')
 p49
-I7719
+I20240
 sV1 ^ 2
 p50
 I2371
 sV[ -10 ** 10, 10 ** 10 ]
 p51
 I5474
-sVt.replace('k', 'm').replace('o', 'q').replace('e', 'g')
+sVCategory._meta.get_data_holders
 p52
-I9907
+I2334
 sVa = "(hola mundo)"
 p53
 I4496
-sV*_{^}$#!+]{[^&++*#!]*)]%$!{#^&%(%^*}@^+__])_$@_^#[{{})}$*]#%]{}{][@^!@)_[}{())%)
+sV@$}]%(%&_&&*))&%$![}[$%}@!]^*}*)_{^$_!(%]^}!_#_$$^__)}[#^(]+@&^!&*($_[_$%])]*%%!
 p54
-I12903
-sVd = D.objects.get(pk=1)
+I13734
+sVfor i in r.result.items:
 p55
-I19410
+I9302
 sVupdate cms_fragment_template set content_names = "" where id = 154;
 p56
 I6747
@@ -170,58 +170,61 @@ I18766
 sVa = "   a   "
 p58
 I15126
-sV'_'.join(('1', '2', '3'))
+sVos.path.commonprefix(['/a/', '/a/b/c/'])
 p59
-I11137
+I18564
 sVos.path.splitext('a.jpg')[1]
 p60
 I291
-sVimport Image
+sVt = Tag(name='Test tag 4', category_id=0)
 p61
-I1375
-sVModel1.objects.exclude(m3__name=3)
+I15243
+sVimport Image
 p62
-I18924
-sVlist(aaa())
+I1375
+sVx = CmsPage.objects.filter(http_path__startswith='/the-magazine/')
 p63
-I3017
-sVget_password("./passfile", "tag2", "omab")
+I19792
+sVr.match('"hola mundo"')
 p64
+I14930
+sVget_password("./passfile", "tag2", "omab")
+p65
 I923
 sVos.path.dirname(os.path.abspath("/home/omab/Desktop/"))
-p65
+p66
 I3428
 sV)$)@+[(}(*%^%$](_)#*_+*%#+{{&^@*!@&([#}{+_#{(@&_%}(]]}^_}+^+@*)_(&}]$($&+@]&[!@{
-p66
-I13845
-sVwalk('/home/omab/job/insophia/mydeco/mydeco_site/cmsv2/bydesign/cms/pages')
 p67
-I17526
-sVa.field.widget.id_for_label
+I13845
+sVPAGES['shopping.s'].DESCRIPTION
 p68
-I18973
-sVCategory._meta.get_data_holders
+I17779
+sVt.replace('k', 'm').replace('o', 'q').replace('e', 'g')
 p69
-I2334
-sVc.model_set.all()
+I9907
+sVupdate cms_fragment_template set content_names = "image/image,linkText/text,linkUrl/text,title/text"
 p70
-I2886
-sVb.get_property('disable')
+I6762
+sVfrom emailvision.views import get_valid_ev
 p71
-I8105
-sVa.get?
+I8256
+sVs.AsDict()
 p72
-I16524
-sVfrom scrapy.cmdline import execute
+I16372
+sVa.get?
 p73
-I15519
-sV[%]@@++#$@^_^[(+)@%_^_%+^^^*![@{+%_{[(([]@][)&^^*#&[@*^+}&$+@*_!!^}{)&_!!$]@^))]
+I16524
+sVa.sort(key="k")
 p74
-I13007
-sVlist(xrange(1, 10))
+I2554
+sV[%]@@++#$@^_^[(+)@%_^_%+^^^*![@{+%_{[(([]@][)&^^*#&[@*^+}&$+@*_!!^}{)&_!!$]@^))]
 p75
-I3058
-sVupdate cms_fragment_template set content_names = "sectionName/text,sectionImage/image,articleDescription/largetext,articleLinkUrl/text,articleLinkText/text,sectionLinkUrl/text,sectionLinkText/text" where id = 71;
+I13007
+sV@}]}*!#@%{{)**)&!#@#{}(_*^))[{](@!(#!)}]}$]++]_$!+(!)[&}^])+(]#$[%&]#@%^](&&#+]{
 p76
-I6666
+I13761
+sVwalk('/home/omab/job/insophia/mydeco/mydeco_site/cmsv2/bydesign/cms/pages')
+p77
+I17526
 s.

@@ -1,232 +1,232 @@
 (dp1
-Vupdate cms_fragment_template set content_names = "itemTitle/text,itemText/largetext,itemImage/image,itemThumbnail/image" where id = 9;
+Vf = f[0]
 p2
-I6606
-sVf = f[0]
-p3
 I1515
-sVclient.GetPhoto()
-p4
-I19786
 sVARTICLES_DISPLAY = ArticleSearchResult.FIELDS[:]
-p5
+p3
 I5478
 sVexcept Exception, e:
-p6
+p4
 I2685
 sVa.split(None, 5)
-p7
+p5
 I11747
 sVct = ClassificationTokenizer({ 'article': 'html' }, phrases=['cushions'])
-p8
+p6
 I6388
+sVArticle.content_type()
+p7
+I19632
 sV{{(^[!&{!]$&(]]+%^%%{@}_{%@+%+[(^}&@#+^^@^])&!@}])$+$}[)![^%$@_[}(%@$![!+}#@+{&)
-p9
+p8
 I13198
 sV@{}#^^^*]{_%]+@*)$*[$@]#]{%_$_^}$&$]@]))#((*(&_@$[)]!%_$#]({&&[)])@_}*@]^!@}}%[{
-p10
+p9
 I13295
 sVb.__class__.__bases__
-p11
+p10
 I11102
 sVProduct.objects.filter(pk__in=x)
-p12
+p11
 I18542
 sVb.get_snapshot?
-p13
+p12
 I18058
 sVf[3].name
-p14
+p13
 I1936
 sVdatetime.datetime.__doc__
-p15
+p14
 I4060
 sVo.parse('ttp 123 as pp and 32').values
-p16
+p15
 I7203
 sVx.website_about = """
-p17
+p16
 I19841
 sVa.find("mundoa")
-p18
+p17
 I1573
-sVfor k in i.exifKeys():\u000a    print i[k]
-p19
-I5541
+sVr = re.compile(r'\u005cbmundo', re.I)
+p18
+I6153
 sVm3.save()
-p20
+p19
 I18883
 sVItem._translation_model._translation_meta.transleteable_fields
-p21
+p20
 I10983
 sVfrom buythelook.modes import *
-p22
+p21
 I4401
 sVa.__getitem__(2)
-p23
+p22
 I636
 sVa.tag.add(t)
-p24
+p23
 I875
-sVs = StringIO(['hola mundo'])
-p25
-I17314
+sVforms.models.modelform_factory?
+p24
+I12594
 sViriencode('?a=1&b=2')
-p26
+p25
 I12646
 sVclass Encoded(str):
-p27
+p26
 I10381
 sVs = MydecoSearch(r)
-p28
+p27
 I10632
 sVf.fields.keys()
-p29
+p28
 I5462
 sVupdate cms_fragment_template set content_names = "linkUrl/text,linkClass/text,linkText/text" where id = 78;
-p30
+p29
 I6673
 sVbase64.decodestring("""
-p31
+p30
 I14506
-sVi.url.path
-p32
-I4450
 sVr = re.compile('window.location.replace\u005c("')
-p33
+p31
 I21356
 sVs.len
-p34
+p32
 I16008
-sV$@]&&_)^((}{}&^(_}@[]_^%&^)^)_@#%_*]&&[!}()*!_(@@+}@($!%^)$!]$%{[^[#({[*^^#{@_^}
-p35
-I13303
+sVclient.GetPhoto()
+p33
+I19786
 sVc.attrs()
-p36
+p34
 I1708
 sVbuiltins[0]
-p37
+p35
 I10371
 sVdata = simplejson.decode(json2)
-p38
+p36
 I11629
 sVint8a)
-p39
+p37
 I2167
 sVst.st_dev
-p40
+p38
 I16592
 sVc.move('o-o-o')
-p41
+p39
 I16085
 sVg = graph.digraph()
-p42
+p40
 I6885
 sVforms.ChoiceField?
-p43
+p41
 I12856
 sVfrom special_offers.forms import SpecialOfferProductForm
-p44
+p42
 I4105
-sVValueError?
-p45
-I19819
+sVassert('b' in a)
+p43
+I11515
 sVtime.time?
-p46
+p44
 I12652
 sV','.join(map(str, a))
-p47
+p45
 I5137
-sVforms.models.modelform_factory?
-p48
-I12594
 sVfield.widget.id_for_label
-p49
+p46
 I731
+sVValueError?
+p47
+I19819
 sVContentType.objects.get_for_model(Room).values('id')
-p50
+p48
 I11785
-sVthis.i
-p51
-I5
+sVp.stdin.readlines()
+p49
+I15778
 sVWear.objects.filter(model=m)
-p52
+p50
 I2888
 sVb = bus.get_object("org.freedesktop.Hal", batteries[0])
-p53
+p51
 I2194
-sVp.stdin.readlines()
-p54
-I15778
 sVdatetime.datetime.strptime(n, "%Y-%m-%d %H:%M:%S")
-p55
+p52
 I11841
 sVb = b[0]
-p56
+p53
 I6113
 sVr2.match("122296572a.32").group()
-p57
+p54
 I2782
 sVcoords, haar = facedetect.recognize("/home/omab/img_5198.jpg")
-p58
+p55
 I10912
 sVg.display()
-p59
+p56
 I16218
+sV$@]&&_)^((}{}&^(_}@[]_^%&^)^)_@#%_*]&&[!}()*!_(@@+}@($!%^)$!]$%{[^[#({[*^^#{@_^}
+p57
+I13303
 sVfor m in Microsite.objects.select_related().all():\u000a    articles = get_articles(m.category.classification_name)\u000a    if not articles or len(articles) < 17:\u000a        print m.domain, m.category.classification_name, "doesn't have articles (%s)" % len(articles)
-p60
+p58
 I5365
 sVy = r'%s' % y
-p61
+p59
 I21391
 sVqs = RoomCompetition.objects.filter(hide_from_homepage=False, hide_existing_rooms=False)
-p62
+p60
 I19093
 sVf = [x for x in Post._meta.fields if isinstance(x, ForeignKey)]
-p63
+p61
 I20910
 sVp.slug
-p64
+p62
 I7953
 sVzip(slugs, ids)
-p65
+p63
 I15123
+sVlen(uuid4().get_hex())
+p64
+I21487
 sVF.fields["is_valid"].widget
-p66
+p65
 I4352
-sVArticle.content_type()
-p67
-I19632
+sVupdate cms_fragment_template set content_names = "itemTitle/text,itemText/largetext,itemImage/image,itemThumbnail/image" where id = 9;
+p66
+I6606
 sVint(1)
-p68
+p67
 I895
 sVtime.ctime(long('1285830000000'))
-p69
+p68
 I17497
 sVceil(random.random() * 100)
-p70
+p69
 I2551
 sVu.uid = 'google'
-p71
+p70
 I20579
-sVassert('b' in a)
+sVi.url.path
+p71
+I4450
+sVfor k in i.exifKeys():\u000a    print i[k]
 p72
-I11515
+I5541
 sVdirname("a/b/c")
 p73
 I11189
 sVr.sub("{% article_tracked_url \u005cg<1>\u005cg<2>\u005cg<1> \u005cg<3>\u005cg<4>\u005cg<3> %}", """{% article_tracked_url "argos.co.uk""http://www.argos.co.uk/static/Browse/ID69/10244273/c_1/2|category_root|Home+and+furniture|10197552/c_2/3|cat_10197552|Clearance+home+and+furniture|10244273/r_1/1|Price+Cut|Yes|1.htm "%}"target="_blank"      {% article_tracked_url "argos.co.uk""http://www.argos.co.uk/static/Browse/ID69/10244273/c_1/2|category_root|Home+and+furniture|10197552/c_2/3|cat_10197552|Clearance+home+and+furniture|10244273/r_1/1|Price+Cut|Yes|1.htm "%}""")
 p74
 I14953
-sVr = re.compile(r'\u005cbmundo', re.I)
-p75
-I6153
 sVa.rsplit('/', 2)
-p76
+p75
 I19999
 sVstr(opr.left.left)
-p77
+p76
 I416
+sVs = StringIO(['hola mundo'])
+p77
+I17314
 sVr = range(10)
 p78
 I4797
@@ -248,19 +248,25 @@ I13688
 sVd.do_expose_event(d, 2)
 p84
 I8088
-sVx = o.open(u, data)
+sVa + h[:8]
 p85
+I21570
+sVx = o.open(u, data)
+p86
 I21107
 sVd['section1'].items
-p86
-I5060
-sVa % 8
 p87
+I5060
+sVthis.i
+p88
+I5
+sVa % 8
+p89
 I1119
 sVw.show_all()
-p88
+p90
 I7992
 sV{#@+}@^@([++{^%$^@@}}*{!$*&^&)$)$$$}[#[%!_]+]]*_)!!&[]}+$!}%+{!(&^!#{##}!}&@(])+
-p89
+p91
 I13630
 s.

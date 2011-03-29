@@ -1,251 +1,254 @@
 (dp1
-Vs = parse('', example['content'])
+Vf = t2.formfield()
 p2
-I16992
-sVw = SpecialOfferWebsiteForm()
+I704
+sVforms.ImageField
 p3
-I4121
-sVILLEGAL_RE.match('Illegal move try again')
+I14388
+sVt = TranslateableModel.objects.select_related()
 p4
-I15960
-sVsettings.PRODUCT_WS_URL
+I5858
+sVp = [ (slugify(l).strip(), l.strip()) for l in f.readlines() ]
 p5
+I3923
+sVx.int / 62 / 62 / 62 / 62 / 62 / 62 / 62 / 62
+p6
+I21528
+sVsettings.PRODUCT_WS_URL
+p7
 I17552
 sVitertools.tee?
-p6
-I12503
-sVdef clone(d, k):
-p7
-I7651
-sVa.strip('/').split('/')
 p8
-I17644
-sVtruncatewords_html(str(a), 590)
+I12503
+sVf.obj.get_contents(as_list=True)[0]
 p9
-I9073
-sV*_[)+)*((]!{@^!@]%(%@[]^%[&$+^}$$@&{_(!*}$]%_#_!%*++}_])]}$@+&#(]$*[+[)&)([@+])_
+I1293
+sVdef clone(d, k):
 p10
-I13916
-sVf.related
+I7651
+sVx.supplier
 p11
-I18774
-sVf.add_prefix.__doc__
+I11942
+sV*_[)+)*((]!{@^!@]%(%@[]^%[&$+^}$$@&{_(!*}$]%_#_!%*++}_])]}$@+&#(]$*[+[)&)([@+])_
 p12
-I8225
-sV!_${]*[+]}&$}@[[_}{#_^*#&}!+^{}#+)^%]{*+($({}^*^]#$+%+]#}({]{{*}{]&#_@&+[+]${)})
+I13916
+sVr = re.compile('hola mundo como va')
 p13
-I13272
-sVundumper.page
+I6141
+sVv.parse('n')
 p14
+I7222
+sVundumper.page
+p15
 I12344
 sVr = re.compile(r'["\u005c']?(?P<address>[^"\u005c']*%s[^"\u005c']*)["\u005c']?' % "/search/")
-p15
+p16
 I1587
 sVfrom account.models import User
-p16
-I10470
-sVd.title_en
 p17
-I11154
-sVos.path.splitext('a.b.c')
+I10470
+sVp.easy_stem("fullness")
 p18
+I5921
+sVos.path.splitext('a.b.c')
+p19
 I19679
 sVrandom.randint(1, 10000)
-p19
+p20
 I371
 sVlen([\u000a    'D5F0FE', 'D7E2FD', 'D3C8FC', 'E6C8FC', 'EED2DF', 'F5D9D7', 'F7E1D6',\u000a    'FAECD5', 'FBF1D5', 'FEFCDD', 'F8FADC', 'E3EDD4', 'AEE2FD', 'B0C4FC',\u000a    'A68BFA', 'CF90FB', 'E0A2BE', 'EEB4AD', 'F1C3AB', 'F5D8A9', 'F7E3AA',\u000a    'FEFBBB', 'F3F7B9', 'D4E8B6', '88D4FB', '84A5FC', '794FF9', 'B957F9',\u000a    'D2709B', 'E78B81', 'EAA47E', 'F0C57A', 'F4D77C', 'FDF999', 'ECF394',\u000a    'BDDD8F', '6CC5FA', '5A86FA', '5532E6', 'A439EF', 'C73E77', 'E16252',\u000a    'E5854C', 'ECB24A', 'F1CA4D', 'FDF775', 'E6EF6F', 'A9D267', '59A1D5',\u000a    '3761FA', '4626AF', '842DB8', '9F315C', 'DF431D', 'E36A18', 'EAA925',\u000a    'EFC62C', 'FEFC55', 'DDEB4C', '8DBA4C', '4C8BB1', '3156D1', '341F90',\u000a    '6A259A', '84294F', 'C32A00', 'BE520F', 'C1831C', 'C49C22', 'F2EB35',\u000a    'C6D037', '789B40', '3C6D8C', '2644A5', '2B1974', '541D79', '68203F',\u000a    '9B2100', '96400C', '986816', '9A7B1B', 'C0BB2A', '9CA42B', '5E7932',\u000a    '2B4E64', '1C3278', '1D1252', '3D1558', '4B182D', '701800', '6B2E08',\u000a    '6E4B10', '6F5813', '8A851E', '70761F', '445824', '20394A', '142356',\u000a    '160D3D', '2B0F3F', '360F20', '501000', '4F2206', '50370C', '50400E',\u000a    '656116', '525615', '32401A', 'F7F7F7', 'FFFFFF', 'E4E4E4', 'CBCBCB',\u000a    'AFAFAF', '909090', '717171', '525252', '363636', '1D1D1D', '090909',\u000a    '000000'])
-p20
-I21425
-sVr2 = re.compile('.*(?P<guards>[A-Z]{3})(?P<letter>[a-z])[A-Z]{3}.*')
 p21
-I14203
+I21425
 sVgroupby(options, lambda o: list(o.question_id))
 p22
 I19056
-sVobject()
+sVupdate cms_fragment_template set content_names = "title/text" where id = 163;
 p23
-I1709
-sVclass CForm2(forms.Form):\u000a    def __init__(self, *args, **kwargs):\u000a        self.base_fields['custom_name'] = forms.CharField()\u000a        super(CForm2, self).__init__(*args, **kwargs)
-p24
-I14401
+I6756
 sVfrom bookmarks.models import BookmarkInstance
-p25
+p24
 I20389
+sVimport urllub
+p25
+I20727
 sVround(a, 2, 2)
 p26
 I2161
 sVurlparse.urlparse(None)[1]
 p27
 I20948
-sVr = re.compile('hola mundo como va')
+sVa.strip('/').split('/')
 p28
-I6141
-sVIMAGE_UPLOAD_TO="cms/images"
+I17644
+sVp.flush()
 p29
-I4910
-sVNotice.objects.in_chatterbox().filter(receivers=u)
-p30
-I21120
+I16117
 sV})_%())]{(]^+)[+)#^{*_^([%]&*+_)][%^&*)++^&{]+]$&_+[@!%$_([&%%!@!%*)+(}]+)()!#}{
-p31
+p30
 I14008
-sVt = TranslateableModel.objects.select_related()
+sVfrom tipocms.models import CmsPa
+p31
+I3469
+sVtruncatewords_html(str(a), 590)
 p32
-I5858
+I9073
 sVlist(p.count().execute())
 p33
 I15172
-sV[{(%!{(*_)_[@^&_+&}@{#+^$^*$[+!+(!@+*[@!+%]_^{[][#^)([}&!_@_#_&_)!+*{$[{#^_$&&+&
+sVgtk.DrawingArea.set_scroll_adjustments.__doc__
 p34
+I7999
+sV[{(%!{(*_)_[@^&_+&}@{#+^$^*$[+!+(!@+*[@!+%]_^{[][#^)([}&!_@_#_&_)!+*{$[{#^_$&&+&
+p35
 I13153
 sVItem._default_manager.select_related('item_translation').extra({'title_es': 'item_translation.title_es'})
-p35
+p36
 I10987
 sVan.mejor
-p36
-I11219
-sVx.supplier
 p37
-I11942
-sVf = t2.formfield()
+I11219
+sVr2 = re.compile('.*(?P<guards>[A-Z]{3})(?P<letter>[a-z])[A-Z]{3}.*')
 p38
-I704
-sVPage.objects.filter(state=LIVE).values_list('pk', 'meta_title')
+I14203
+sV_)}}%+}&[+%%#_}]!%_$%#([#*](({(_$[!!}^{$_@^+(*_[#)]!$_^)*)!_}*$*$&(]!_[+*+&_*)*(
 p39
-I18606
-sVn = group(notices)
+I13328
+sVPage.objects.filter(state=LIVE).values_list('pk', 'meta_title')
 p40
-I20976
-sVvalues_d = dict(((v['id'], v['text']) for v in values.all()))
+I18606
+sVUser.objects.create_superuser('omab', 'omab@omab.com', 'omab')
 p41
+I20228
+sVids = [p['id'] for p in pages]
+p42
+I8837
+sVvalues_d = dict(((v['id'], v['text']) for v in values.all()))
+p43
 I8851
 sV%timeit pepe()
-p42
+p44
 I4795
 sVDateField().get_prep_lookup('month', p)
-p43
+p45
 I15740
 sVtitle("hola mundo cruel")
-p44
+p46
 I8990
 sVjar = cookielib.CookieJar()
-p45
-I21095
-sVgtk.DrawingArea.set_scroll_adjustments.__doc__
-p46
-I7999
-sVupdate cms_fragment_template set content_names = "title/text" where id = 163;
 p47
-I6756
-sV[ (k, r[k]) for k in sorted(r, lambda a, b: cmp(r[b], r[a])) ]
+I21095
+sVw = SpecialOfferWebsiteForm()
 p48
-I5225
-sVf.obj.get_contents(as_list=True)[0]
+I4121
+sVd.title_en
 p49
-I1293
-sVw.node.nodelist
+I11154
+sVdb
 p50
+I15194
+sV[ (k, r[k]) for k in sorted(r, lambda a, b: cmp(r[b], r[a])) ]
+p51
+I5225
+sVs = parse('', example['content'])
+p52
+I16992
+sVw.node.nodelist
+p53
 I10248
 sVlist(os.walk("/tmp"))
-p51
+p54
 I4742
-sVforms.ImageField
-p52
-I14388
+sVILLEGAL_RE.match('Illegal move try again')
+p55
+I15960
 sVi.__class__
-p53
+p56
 I4688
 sVa = re.compile('\u005cw+')
-p54
+p57
 I14273
+sVPost.objects.annotate(num_posts=Count('id')).group_by('date')
+p58
+I15692
 sVEntryType.live_entries()
-p55
+p59
 I19815
 sVp.parent.coords.y
-p56
+p60
 I19884
-sVUser.objects.create_superuser('omab', 'omab@omab.com', 'omab')
-p57
-I20228
-sV_)}}%+}&[+%%#_}]!%_$%#([#*](({(_$[!!}^{$_@^+(*_[#)]!$_^)*)!_}*$*$&(]!_[+*+&_*)*(
-p58
-I13328
+sVf.add_prefix.__doc__
+p61
+I8225
 sVv = ''.join([ y.strip() for y in item.select('./span[@class="secundario"]/text()').extract() ])
-p59
+p62
 I16653
 sVd.get_propert('width')
-p60
+p63
 I8097
-sVp.easy_stem("fullness")
-p61
-I5921
+sVclass CForm2(forms.Form):\u000a    def __init__(self, *args, **kwargs):\u000a        self.base_fields['custom_name'] = forms.CharField()\u000a        super(CForm2, self).__init__(*args, **kwargs)
+p64
+I14401
 sVpq.new()
-p62
+p65
 I16272
 sV[x.friend_a for x in u.friendships_requested.select_related('friend_a')]
-p63
+p66
 I20080
 sV"g fmnc wms bgblr rpylqjyrc gr zw fylb. rfyrq ufyr amknsrcpq ypc dmp. bmgle gr gl zw fylb gq glcddgagclr ylb rfyr'q ufw rfgq rcvr gq qm jmle. sqgle qrpgle.kyicrpylq() gq pcamkkclbcb. lmu ynnjw ml rfc spj.".encode('rot13')
-p64
+p67
 I12858
 sVupdate cms_fragment_template set content_names = "mainImage/image,buttonUrl/text,buttonText/text" where id = 34;
-p65
+p68
 I6629
 sVbasestring?
-p66
-I12601
-sVp = [ (slugify(l).strip(), l.strip()) for l in f.readlines() ]
-p67
-I3923
-sVt = Template.objects.all()[0]
-p68
-I4725
-sVids = [p['id'] for p in pages]
 p69
-I8837
-sVsorted(a, key=lambda x: -a[x])
+I12601
+sVNotice.objects.in_chatterbox().filter(receivers=u)
 p70
+I21120
+sVt = Template.objects.all()[0]
+p71
+I4725
+sVobject()
+p72
+I1709
+sVsorted(a, key=lambda x: -a[x])
+p73
 I19308
 sV{+_!{+^$!_&}%(]+}_}@**(&}(+@^%#+!#{#*@@{+!)}^{^+#(!&}[+*%+@}_+&+&]&+(+)_)((!{%*)
-p71
-I14055
-sVfrom tipocms.models import CmsPa
-p72
-I3469
-sVreadline.insert_text(a)
-p73
-I3250
-sVp.flush()
 p74
-I16117
-sV([)_+_[]&}}[{{+[)]!%{&&__&$+${_+#]_$}!&#%[@^^]!)#)_+#$]((*@+#$#)@[)*{[}(()$(@{*[
+I14055
+sV!_${]*[+]}&$}@[[_}{#_^*#&}!+^{}#+)^%]{*+($({}^*^]#$+%+]#}({]{{*}{]&#_@&+[+]${)})
 p75
+I13272
+sVreadline.insert_text(a)
+p76
+I3250
+sV([)_+_[]&}}[{{+[)]!%{&&__&$+${_+#]_$}!&#%[@^^]!)#)_+#$]((*@+#$#)@[)*{[}(()$(@{*[
+p77
 I14056
 sVthreading.Timer?
-p76
+p78
 I9382
 sVItem._meta.trans_model._meta.get_field('_master').column
-p77
-I11045
-sVPost.objects.annotate(num_posts=Count('id')).group_by('date')
-p78
-I15692
-sVx = 'http://www.socialbuy.com/api/v1/deals.php?public_key=EL2GzDccWd&page=los-angeles&link_id=215&format=json'
 p79
-I17976
-sVdb
+I11045
+sVIMAGE_UPLOAD_TO="cms/images"
 p80
-I15194
-sVv.parse('n')
+I4910
+sVx = 'http://www.socialbuy.com/api/v1/deals.php?public_key=EL2GzDccWd&page=los-angeles&link_id=215&format=json'
 p81
-I7222
-sVimport urllub
+I17976
+sVf.related
 p82
-I20727
-sVs = RoomSearch(order_by='-rating_rank', count=3, display=['name', 'username', 'thumbnail', 'last_updated', 'url'])
+I18774
+sVn = group(notices)
 p83
+I20976
+sVs = RoomSearch(order_by='-rating_rank', count=3, display=['name', 'username', 'thumbnail', 'last_updated', 'url'])
+p84
 I15451
 sVItem._meta.get_all_field_names()
-p84
+p85
 I11293
 s.

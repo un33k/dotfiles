@@ -8,84 +8,84 @@ I19256
 sVurllib.urlencode
 p4
 I3468
-sVp.kill()
-p5
-I15797
 sVdef uncipher_text(key, text):
-p6
+p5
 I1129
-sVpq.pqueue.end()
-p7
-I16944
 sVTemplate('{{ value|title }}').render(Context({ 'value': "hola mundo" }))
-p8
+p6
 I10344
+sVparser.option_list[1]
+p7
+I7057
 sVplain(r)
-p9
+p8
 I7003
 sVimg = Image.open('/home/omab/pyfacescode/maie/img_5468.jpg')
-p10
+p9
 I12282
-sV$[@@}#[*%%_@}({##)[]%&]_]_[#(](}#)_]*#_)}%$[&}!^!)@#&*)&@%^{@#{@@)}{$)+&%%%](^${
+sVp.kill()
+p10
+I15797
+sVfrom pychess.Players.engineNest import discoverer
 p11
-I13311
-sV[ i for n in range(10) for i in range(n) ]
+I15575
+sV$[@@}#[*%%_@}({##)[]%&]_]_[#(](}#)_]*#_)}%$[&}!^!)@#&*)&@%^{@#{@@)}{$)+&%%%](^${
 p12
-I8741
-sV__import__('account.views', level=-1)
+I13311
+sVsuper(True)
 p13
+I1661
+sV__import__('account.views', level=-1)
+p14
 I8271
 sVa and (b or c)
-p14
-I1478
-sVs.is_active
 p15
-I15306
-sVa.items.append(2)
+I1478
+sVif q:
 p16
-I18211
-sVsr = ProductSearch(display=['guid', 'image'], count=1000)
+I12775
+sVs.is_active
 p17
-I11541
-sVcatdata
+I15306
+sVf = os.open('/tmp/tmp2m1eNe')
 p18
-I5444
-sVfrom twitchess import playqueue
+I15415
+sVsr = ProductSearch(display=['guid', 'image'], count=1000)
 p19
-I16931
-sVbool([None])
+I11541
+sVp.easy_stem("dogs")
 p20
-I6485
-sVurllib.unquote_plus.__doc__
+I5933
+sVfrom twitchess import playqueue
 p21
+I16931
+sVurllib.unquote_plus.__doc__
+p22
 I1541
 sVa = str(1)
-p22
+p23
 I7217
 sVF.fields
-p23
-I4348
-sVhasattr(pepe, '__callable__')
 p24
-I15068
+I4348
 sVBaseSearch({ 'simid': 'a6060d24a1a7f59cf5d2b52cc931a7023639ef3b', 'db': 'product' })
 p25
 I10625
 sV!&@@$][{)_{$_)[&+]^!$*]}]+[$$#+@*_}$*!#]()*[[&{*!#)(@%+%[{)@@@}}[}&[+)[}{_^}*{+[
 p26
 I13743
-sVb_iface.GetProperty("battery.charge_level.design")
+sV[ i for n in range(10) for i in range(n) ]
 p27
-I2252
-sVfrom django import db
+I8741
+sVxml.dom.minidom?
 p28
+I20693
+sVfrom django import db
+p29
 I2827
 sVlocale.setlocale('en-GB')
-p29
-I5738
-sVxml.dom.minidom?
 p30
-I20693
+I5738
 sVValue.objects.filter(id__lte=5)
 p31
 I4870
@@ -95,9 +95,9 @@ I20987
 sVan.criterios
 p33
 I11226
-sVp.easy_stem("dogs")
+sVpprint.pprint(f.fields)
 p34
-I5933
+I14431
 sV7200 / 60
 p35
 I17432
@@ -113,21 +113,21 @@ I15903
 sVtzinfo.tzname(datetime.now())
 p39
 I17449
-sVq.answer
+sVResultRating.objects.filter(user=s)
 p40
+I7674
+sVq.answer
+p41
 I7369
 sVp = PersonForm()
-p41
+p42
 I20403
 sVb.simple_tag
-p42
-I10374
-sVapp = QApplication(sys.argv)
 p43
-I18008
-sVlist(q.filter(~PhotoTag.tag_id.in_([6])))
+I10374
+sVhasattr(pepe, '__callable__')
 p44
-I15354
+I15068
 sVct.tokenize_text.wordmap['sofa'].__class__
 p45
 I6368
@@ -149,118 +149,121 @@ I4306
 sVresult.wait?
 p51
 I20362
-sVf.obj.get_contents(as_list=True)
+sVb_iface.GetProperty("battery.charge_level.design")
 p52
+I2252
+sVf.obj.get_contents(as_list=True)
+p53
 I1291
 sVSiteCategoryProducts.objects.filter(category__slug__in=categories)
-p53
+p54
 I10539
 sVch
-p54
+p55
 I4529
 sV{^{]{@*(%##[#$[$&^][_}]}!&{_!&[^&)[%&+*[+#_*)*+$]**%$]{_%**#+{]+}^_)@{{}]}{[+&@&
-p55
+p56
 I13239
 sVa = 2
-p56
+p57
 I6273
 sVRenderedData(page=p, name=n, value="%s" % a).save()
-p57
+p58
 I10450
 sVr.match('aacc')
-p58
-I18269
-sVpprint.pprint(f.fields)
 p59
-I14431
+I18269
 sVfrom categorization.models import CategoryAZ
 p60
 I8155
 sVContentType.objects.all()[0]
 p61
 I21129
-sVzlib.compress('hola mundo cruel', 9)
+sVcatdata
 p62
+I5444
+sVzlib.compress('hola mundo cruel', 9)
+p63
 I17232
 sVobjects = ct.model_class().objects.filter(pk__in=obj_id_page.keys())
-p63
-I1971
-sVitems = groupby(qs, lambda x: x.competition_id)
 p64
-I19105
-sVif q:
+I1971
+sVlen(int_to_base36(x.int))
 p65
-I12775
-sV(x for x in range(10)).next()
+I21506
+sVitems = groupby(qs, lambda x: x.competition_id)
 p66
+I19105
+sVa.items()
+p67
+I3962
+sV(x for x in range(10)).next()
+p68
 I16263
 sVr = re.compile(r'\u005cbhola\u005cb', re.I)
-p67
+p69
 I6149
 sVq = playqueue.QueueServer()
-p68
-I16932
-sVfrom pychess.Players.engineNest import discoverer
-p69
-I15575
-sVprint __line__
 p70
-I2492
-sVfrom tipocms.admin.views.simple_edit import *
+I16932
+sVbool([None])
 p71
-I12493
-sVsuper(True)
+I6485
+sVprint __line__
 p72
-I1661
-sVrange(1, 5)
+I2492
+sVpq.pqueue.end()
 p73
-I3791
+I16944
 sVr.href_name()
 p74
 I7686
-sVparser.option_list[1]
+sVlist(q.filter(~PhotoTag.tag_id.in_([6])))
 p75
-I7057
-sVfrom django.db.models.query_utils import Q
+I15354
+sVrange(1, 5)
 p76
-I10994
-sVa.items()
-p77
-I3962
+I3791
 sVd.strftime('%Y-%m-%d %H:%M')
-p78
+p77
 I20093
-sVcheck_links("/search/", CmsTextContent.objecsts.filter(text__icontains="/search/"))
-p79
-I1537
+sVapp = QApplication(sys.argv)
+p78
+I18008
 sVthreading.Thread(mainloop.run, 'msn').start()
-p80
+p79
 I9431
 sVu.set_password("omab")
-p81
+p80
 I4471
+sVfrom django.db.models.query_utils import Q
+p81
+I10994
 sVbooks[0].Isbn
 p82
 I6085
-sVf = os.open('/tmp/tmp2m1eNe')
+sVfrom tipocms.admin.views.simple_edit import *
 p83
-I15415
-sVany([1, 2, 3])
+I12493
+sVcheck_links("/search/", CmsTextContent.objecsts.filter(text__icontains="/search/"))
 p84
-I18448
+I1537
 sVe = e.replace('\u005cn\u005cn', '\u005cn')
 p85
 I16904
-sVResultRating.objects.filter(user=s)
+sVa.items.append(2)
 p86
-I7674
+I18211
 sV' '.join(tokenized_text) == text
 p87
 I6455
 sVfrom django.template.loader import get_template, get_template_from_string, find_template_source
 p88
 I8334
-sV^(+{+_%%])}(*!*+@+^$*#})+&{}%)(@%[{#^+&@)_[(+[@@&{@){#({++_@(((*&&{@$&[[%($}^{(+
+sVany([1, 2, 3])
 p89
+I18448
+sV^(+{+_%%])}(*!*+@+^$*#})+&{}%)(@%[{#^+&@)_[(+[@@&{@){#({++_@(((*&&{@$&[[%($}^{(+
+p90
 I13631
 s.

@@ -2,235 +2,241 @@
 Vd1-d2 < 0
 p2
 I1110
-sVr2.match("122296572.32").group()
-p3
-I2781
 sVb = Blowfish.new("jdksaj", Blowfish.MODE_PGP)
-p4
+p3
 I978
-sVx[1] = 1
+sVimport snappy
+p4
+I21577
+sVjson[-20:]
 p5
+I11603
+sVx[1] = 1
+p6
 I15600
 sVraise Warning, "Not implemented"
-p6
+p7
 I3518
 sVurlencode(a=1, b=2)
-p7
-I12169
-sVThumbnail?
 p8
-I19735
-sVq.put('2')
+I12169
+sVCmsPage._meta.module_name
 p9
+I17350
+sVq.put('2')
+p10
 I16172
 sVp.logo
-p10
-I7490
-sVh.reduced_fragments
 p11
+I7490
+sVp = u.user_permissions.all()[0]
+p12
+I8132
+sVh.reduced_fragments
+p13
 I1681
 sVn = pynotify.Notification("title", "message", 'stock-delete')
-p12
+p14
 I7276
 sV}$[*{+&+&}[#_#}_(}){^#{[_%*!$+[#)%]@&&_{)#[+*&+#!&)%)%++$_}){%%*@!*&%__(_!]#$*(_
-p13
+p15
 I12898
 sVpexpect.spawn?
-p14
-I15839
-sVprint unicode(x)
-p15
-I21374
-sVvalid_article_url('{% article_tracked_url "grahamandgreen.co.uk/"  "http://www.grahamandgreen.co.uk/"%}" target="_blank"')
 p16
+I15839
+sVd.form()
+p17
+I4833
+sVvalid_article_url('{% article_tracked_url "grahamandgreen.co.uk/"  "http://www.grahamandgreen.co.uk/"%}" target="_blank"')
+p18
 I18499
 sVp = CmsFragmentMapping.objects.get_with_shared()[0]
-p17
-I738
-sVi.image.height
-p18
-I4429
-sV__import__
 p19
+I738
+sVtokenize("I like the black sofas beds, but the blue sofas beds would be nice with the black out blinds")
+p20
+I6464
+sV__import__
+p21
 I2477
 sVpagination.pagination(10, 4, 4)
-p20
+p22
 I3081
 sVa = ^1
-p21
+p23
 I2368
 sVt = CmsTextContent.objects.get(pk=526921)
-p22
+p24
 I11338
 sVfrom tipocms.state import max_since
-p23
-I4994
-sVtokenize("I like the black sofas beds, but the blue sofas beds would be nice with the black out blinds")
-p24
-I6464
-sVd.strftime('%a')
 p25
-I17965
-sVf = F('hola')
+I4994
+sV[ a[:prev], [ a[prev], a[actual], a[next] ]
 p26
-I4877
-sVi = x.images[0]
+I3034
+sVd.strftime('%a')
 p27
+I17965
+sVprint unicode(x)
+p28
+I21374
+sVi = x.images[0]
+p29
 I19596
 sVm.category.cls
-p28
+p30
 I5312
+sVxt):
+p31
+I1128
 sVu.obnob_groups.active().filter(group__slug='group_1')
-p29
+p32
 I20253
 sVimprot patches
-p30
+p33
 I17612
 sVparsed.update(((k, [ i for i in v if i not in parsed.get(k, []) ]) for k, v in args.iteritems()))
-p31
-I9105
-sVint(0.5)
-p32
-I18866
-sVd.form()
-p33
-I4833
-sVfrom site_categories.helpers import contemporary-storage
 p34
+I9105
+sVb = range(15, 30)
+p35
+I11035
+sVr2.match("122296572.32").group()
+p36
+I2781
+sVfrom site_categories.helpers import contemporary-storage
+p37
 I10526
 sVfrom search.models import ShopSearch, ShopWizard, ArticleSearch
-p35
+p38
 I5315
 sV&@&&(%*#$!^)*_({))]*(^)_^_%_@%(@)]]!_!)&%{[(]*+^+#*#^%)*[]#[[}@$%#{{^#_+[[@+)@+)
-p36
+p39
 I13062
 sVh.feed(lines)
-p37
+p40
 I20689
 sVFSPOT_SP_GCONF_KEY = '/apps/f-spot/import/storage_path'
-p38
+p41
 I15412
 sVb.props.sensitive
-p39
+p42
 I8110
 sVdatetime.now().ctime()
-p40
+p43
 I11872
-sV[ purple.PurpleConvImSend(c, '.') for c in [ purple.PurpleConvIm(i) for i in purple.PurpleGetIms() ]]
-p41
-I5604
 sVx.images[0].__class__
-p42
+p44
 I19595
 sVos.urandom()
-p43
+p45
 I19223
 sVr2.match("1222965720.13").group()
-p44
+p46
 I2775
 sVPage._meta.get_field_by_name('pepe')
-p45
+p47
 I8895
 sVr.match('AAAzBBB')
-p46
+p48
 I14116
 sVp = sr.result.items[0]
-p47
-I11559
-sVb = range(15, 30)
-p48
-I11035
-sVg.parent.obnob_users.memberships().officer().exclude(user=u)
 p49
+I11559
+sVi.image.height
+p50
+I4429
+sVg.parent.obnob_users.memberships().officer().exclude(user=u)
+p51
 I20522
 sVsys.stdout.flush()
-p50
+p52
 I11791
 sVp.goahead()
-p51
-I9774
-sVjson = ''.join(urllib2.urlopen('http://mydeco.blip.tv/posts/?skin=json&no_wrap=1').readlines())
-p52
-I11616
-sVu.friendships_requested.select_related('friend_a').values_list('friend_a', flat=True)
 p53
+I9774
+sVf = F('hola')
+p54
+I4877
+sVu.friendships_requested.select_related('friend_a').values_list('friend_a', flat=True)
+p55
 I20079
 sVprint q.query.group_by = [('book_post', 'date')]
-p54
+p56
 I15710
 sV_traversal
-p55
+p57
 I6986
 sVfor path, in Path.objects.all().values_list('path'):
-p56
+p58
 I17393
 sVp.p
-p57
-I7956
-sVCmsPage._meta.module_name
-p58
-I17350
-sVt.sections.all()[0].names.all()
 p59
+I7956
+sVjson = ''.join(urllib2.urlopen('http://mydeco.blip.tv/posts/?skin=json&no_wrap=1').readlines())
+p60
+I11616
+sVt.sections.all()[0].names.all()
+p61
 I4761
 sVx.pk
-p60
+p62
 I18615
 sVfor i in range(4):
-p61
+p63
 I7398
 sVr.get('1000')
-p62
+p64
 I18265
 sVd = datetime.datetime.now()
-p63
+p65
 I7456
 sVExpiredSpecialOffer._meta.fields.pop()
-p64
+p66
 I10594
 sVs.pr
-p65
+p67
 I20306
 sVcontents = ["""<h4>1.  The Conran Shop &ndash; 75% off </h4>
-p66
+p68
 I1532
 sVh.body.template
-p67
-I1166
-sVr = ProductSearch(search_params={'filter': 'category_id,bathroom'}, count=4)
-p68
-I10785
-sVtop + orphans >= count
 p69
-I14990
-sVf = RichEditorImage({}, {})
+I1166
+sVThumbnail?
 p70
+I19735
+sVbase62_encode(10)
+p71
+I21516
+sVf = RichEditorImage({}, {})
+p72
 I12578
 sVim = Image.open("/tmp/pppp.jpg")
-p71
+p73
 I1381
 sV)]!)(*(@]#@{%_*+@_&(&*$+&$$$$)+}+@$&)@}}+_*}!(){@@@]%]$}@%@())$^]!]*{!^!$&!([*%*
-p72
-I14000
-sVp = u.user_permissions.all()[0]
-p73
-I8132
-sVos.removedirs.__doc__
 p74
-I1910
-sV[ a[:prev], [ a[prev], a[actual], a[next] ]
+I14000
+sVr = ProductSearch(search_params={'filter': 'category_id,bathroom'}, count=4)
 p75
-I3034
-sVroom.original_image
+I10785
+sVos.removedirs.__doc__
 p76
-I9280
-sVjson[-20:]
+I1910
+sVtop + orphans >= count
 p77
-I11603
-sVurlparse.urljoin("a", "b", "c")
+I14990
+sVroom.original_image
 p78
-I4285
-sVxt):
+I9280
+sV[ purple.PurpleConvImSend(c, '.') for c in [ purple.PurpleConvIm(i) for i in purple.PurpleGetIms() ]]
 p79
-I1128
+I5604
+sVurlparse.urljoin("a", "b", "c")
+p80
+I4285
+sVint(0.5)
+p81
+I18866
 s.
