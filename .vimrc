@@ -22,7 +22,7 @@ set encoding=utf-8           " default encoding
 set scrolloff=5              " 5 lines of context when moving
 set ttyfast                  " faster tty I/O
 set number                   " display numbers
-set norelativenumber         " relative numbering
+"set relativenumber          " relative numbering
 set laststatus=2             " always show status line
 set showmatch                " show matching brackets
 set wildmenu                 " improved completion option showing
