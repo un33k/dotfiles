@@ -1,0 +1,15 @@
+#!/bin/bash
+[[ $1 = '-h' || -z $1 && -d ~/.dotfiles.git ]] && {
+    echo "curl -s https://github.com/omab/dotfiles/raw/master/.bin/dotfiles-bootstrap | bash -"
+    echo "wget --no-check-certificate -nv -O - https://github.com/omab/dotfiles/raw/master/.bin/dotfiles-bootstrap | bash -"
+    exit
+}
+
+set -e -x
+[[ -d dotfiles/.git ]] || git clone git@github.com:omab/dotfiles.git || git clone https://omab@github.com/omab/dotfiles.git
+export GIT_DIR=${1:-~/.dotfiles.git}
+export GIT_WORK_TREE=${2:-~}
+mv dotfiles/.git $GIT_DIR
+rm -rf dotfiles
+echo '*' >>$GIT_DIR/info/exclude
+git reset --hard
