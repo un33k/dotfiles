@@ -1,0 +1,212 @@
+(dp1
+Vassert('a' in a)
+p2
+I11514
+sVfs.as_p()
+p3
+I14444
+sVp = InputParser()
+p4
+I9750
+sVurllib2.urlopen.__doc__
+p5
+I2313
+sVp itertools.__doc__
+p6
+I5303
+sVp.save()
+p7
+I87
+sVlen(d['section1'])
+p8
+I5064
+sVfrom django.db.models import *
+p9
+I15687
+sVfrom django.core.exceptions import ValidationError
+p10
+I17321
+sVopr.parse('load pepe'.split())
+p11
+I405
+sVmi
+p12
+I9199
+sVqn = connection.ops.quote_name
+p13
+I12180
+sVa = set()
+p14
+I661
+sVg.add_edge("b", "c")
+p15
+I6889
+sVu.membership_set
+p16
+I20434
+sVfrom poll.models import Vote
+p17
+I18836
+sVReceiverNotice.objects.all().filter(receiver=u)
+p18
+I21198
+sVfrom django.template import VariableDoesNotExist:
+p19
+I10347
+sVContentType.objects.get(model='room')
+p20
+I19549
+sVa[:a.find('m')]
+p21
+I4692
+sVurllib.urlencode({ 'a': [1, 2, 3]})
+p22
+I8135
+sVa = 'people/maie/img1.jp'
+p23
+I12559
+sVall(s.query(PhotoTag, pt_alias).outerjoin((pt_alias, (pt_alias.c.photo_id==PhotoTag.photo_id, pt_alias.c.tag_id!=PhotoTag.tag_id))))
+p24
+I15371
+sVr = re.compile("(&(?![\u005cS]+?[;=]{1}))")
+p25
+I4676
+sVr = re.compile('window.location.replace("\u005c(.*\u005c)");')
+p26
+I21353
+sVv = Vote.objects.all()[0]
+p27
+I18837
+sVt2
+p28
+I16379
+sVp = subprocess.Popen('/usr/games/gnuchess')
+p29
+I15774
+sV(#[@!$[+{_{^%+&}($[^^}${^_[#)({)++&_%*{@+(^+_%!_)%)^+@#(${)*]&!)^{[#%+[*))(${&{#
+p30
+I13925
+sVu.has_perm('a_permission')
+p31
+I6590
+sVtweepy.Cursor(api.mentions).pages()
+p32
+I16471
+sVc[1]
+p33
+I6805
+sVp.fragments.top_panel
+p34
+I3784
+sVprint __name__.__class__
+p35
+I10893
+sVgraph.add_node('marcos')
+p36
+I6992
+sVp.stdout.seek(0)
+p37
+I15789
+sVp.is_digivate()
+p38
+I2473
+sVv.virtual_instance().raw
+p39
+I8938
+sVlen(l)
+p40
+I1060
+sVemailAddressValue=emailAddress.value.toLowerCase();
+p41
+I9627
+sVimg2.im
+p42
+I12311
+sVcomb(7, 15)
+p43
+I5566
+sVf.rel
+p44
+I2347
+sVtokens = l.tokenize()
+p45
+I10034
+sVu.obnob_groups.filter(group__parent__isnull=True).order_by('name')
+p46
+I20474
+sVa = { 1: [2, [10, 14, 16]], 2: [3, [10, 14, 16]] }
+p47
+I11499
+sVpath_parents('a/b/c/d/e')
+p48
+I15077
+sV"%s" * 10
+p49
+I4540
+sVr.request.PATH
+p50
+I20671
+sVparse_qs(b)
+p51
+I5901
+sVev_form(ev)[0]
+p52
+I8183
+sVurlparse.urlsplit("a=b&b=c")
+p53
+I2574
+sVimport landing
+p54
+I12139
+sVimg.rotate(30).save
+p55
+I12293
+sVa[a.find('narcotr'):]
+p56
+I9086
+sVuuid.uuid5()
+p57
+I4804
+sVupdate cms_fragment_template set content_names = "productsId/text[15]" where id = 143;
+p58
+I6736
+sV'\u005cn'.join([ '{% ' + ''.join(('s', x, y)) + ' %}' for x in l for y in l])
+p59
+I9519
+sVx = BigIndexer.search("ayer peludo", "or")
+p60
+I196
+sVc.move('a4')
+p61
+I16042
+sVposts
+p62
+I21332
+sVa = range(200)
+p63
+I9492
+sV}}&&[(%*]*[_]])$%}^)!#!*&_@(%$@_[_]$*)+)}+*+]#!^)_@#%(&(#}&([[${(+_{{!}#]+$@^]{}
+p64
+I13231
+sVdatetime.datetime.isocalendar?
+p65
+I11888
+sVrewrite_url('bestonlinesofas.com', '/the-magazine', force_rewrite=True
+p66
+I8809
+sVf.cmsfragmenttemplatecontentname_set.all()
+p67
+I8144
+sVu.is_authenticated()
+p68
+I20331
+sVmd5.new('hola mundo cruel y malvado').hexdigest
+p69
+I9548
+sVlinks_re.findall(s)
+p70
+I1250
+sVresult.wait()
+p71
+I20364
+s.

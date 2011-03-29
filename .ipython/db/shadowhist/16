@@ -1,0 +1,305 @@
+(dp1
+Vlist(g.traversal('37535'))
+p2
+I6945
+sVisinstance(forms.BooleanField(), forms.Field)
+p3
+I14439
+sV%timeit o.__dict__.get('attr', None)
+p4
+I16326
+sV**#$_##%([*#%(*+^(@&_((*)*$%%+_@])}&$%+*$$+{#^&}[#$^*_][}]@](]+#&*[#+*%(&*&(%*[]
+p5
+I13905
+sVi.objects
+p6
+I10961
+sVmap(lambda a: a[0], zip(input, [keys]*len(input)))
+p7
+I7649
+sVContentType.objects.get_for_id(s.last_activity_content_type)
+p8
+I11918
+sVfrom tipocms.models import CmsTextContent
+p9
+I1636
+sVd.strftime('%J')
+p10
+I17945
+sVuser.groups
+p11
+I6572
+sV{{@]+](@&@$_^^(*@})$!}{@$_^+{*)[({^}_!#[@$[*%!%^_*@@}#_{[{_@**++)!]!@{_#]&&*{+&$
+p12
+I13945
+sVp = get_category_products(['bedroom', 'bathroom', 'office'], 1)
+p13
+I10530
+sVparams = BaseParams({'prefdb':'product', 'db':['product'], 'collapse':'similar'})\u000a    params.filter(filter='category,%s' % 1793)\u000a    params.paginate_by(count)
+p14
+I5249
+sVq.run()
+p15
+I16933
+sVe - s
+p16
+I9805
+sV{{%$^)#^+[+^}#+^&}}{%%+*(+}(&%}%}){_&$]+)+)^#^*+@[@^[!^&)^!@(}{$*{*&_{@$&@!@#{!{
+p17
+I13263
+sVPAGES['shopping.s'].NAME
+p18
+I17778
+sVResultRank.objects.filter(user=s)
+p19
+I7675
+sVj.data[-1][-1]
+p20
+I20561
+sVretrieve("http://site-4306.maguirre.users.dev.mydeco.com/the-magazine/?2")
+p21
+I9813
+sValert('The Email address doesn\u005c't seem to be correct,\u005cnplease check syntax.');
+p22
+I9644
+sVclient = oauth.Client(consumer)
+p23
+I16428
+sVRoomCompetition.objects.active_competitions(type='3d')
+p24
+I19079
+sVid(a)
+p25
+I559
+sVprint pprint.__doc__
+p26
+I3328
+sVn = Name.objects.all()
+p27
+I8916
+sVgrouped.items[0]
+p28
+I672
+sVa, b = c.as_sql()
+p29
+I20902
+sVtitulares.select('./h1')
+p30
+I16690
+sV^@]]*$*_#+$!^{$&[$_+#^@@}#)(#*&)$#&+#}+{{&@$^%+{++[&}#}[*#]^^()+(#![]^$)^#*])%((
+p31
+I13922
+sVdata = []
+p32
+I15602
+sVet['cms-page']
+p33
+I17291
+sVd.month.numerator
+p34
+I17962
+sVlibxml2.htmlParseDoc(t, "ascii")
+p35
+I1791
+sVclass FForm(forms.Form):
+p36
+I18219
+sVq.except_?
+p37
+I15343
+sVf.obj
+p38
+I1283
+sVch.__dict__
+p39
+I4593
+sVfrom product.wsmodel import *
+p40
+I12410
+sVc[0].user.get_avatar_thumbnail_url()
+p41
+I4277
+sVf.node
+p42
+I10260
+sV__import__('account.views', fromlist=[''], level=0)
+p43
+I8265
+sVfrom highend.models import *
+p44
+I18310
+sVr = re.compile(r'([\u005c'"])([^\u005c1]+)\u005c1')
+p45
+I14944
+sVProduct.objects.all()[:4]
+p46
+I4235
+sVreverse('social:auth')
+p47
+I18827
+sV]*$[$^$^+%&*!&[(%(^+&{+&]+*&$_!+{)#]#}{+***)+}&@%!^{{@+#^&*$)&^_&!@!#%^%!@]){{+]
+p48
+I13835
+sVupdate cms_fragment_template set content_names = "" where id = 69;
+p49
+I6664
+sVi._meta.fields
+p50
+I8592
+sVfrom oauth import oauth
+p51
+I18524
+sVp = g.permissions.all()[0]
+p52
+I6586
+sVf.rel.related_name
+p53
+I4565
+sVg.has_edge('c', 'a')
+p54
+I6906
+sVisinstance('', a)
+p55
+I16608
+sVc.get_image_filename()
+p56
+I1321
+sVconnection.options
+p57
+I11833
+sVsock.send(simplejson.dumps({'user': 'matias', 'msg': 'fen'}))
+p58
+I16953
+sVsetattr(p, 'hola', 1)
+p59
+I8739
+sVCAPLETTERS.sub(' \u005c1', 'abcde')
+p60
+I17153
+sVfrom steam import *
+p61
+I5910
+sVQueryDict(dict((x, x) for x in range(10))
+p62
+I18192
+sVRequest?
+p63
+I21167
+sV%#**%{@_)%{@{*[@#(+&+%[]{+&{}_*[%#!!**+{{_^+@[[@^}[$@(}@[${@@}!*@!(%{}!#*_[&^@[%
+p64
+I13999
+sV)$&]_+#[+}({#+}*{)[+[[([@})+^{^{*%[#{^$@#@]][}{{%&]#_{(%#@${)]]*(}(]$}&&@*&+@](#
+p65
+I13090
+sValert('The Email address doesn\u005c't seem to be correct,\u005cnplease check the username.');
+p66
+I9657
+sVhxs.select('(//div[@id="Contextual"]//a/@href|//div[@id="navlinks2"]//a/@href)').extract()
+p67
+I16707
+sVACCESS_TOKEN = '6756647'
+p68
+I16447
+sVb import ServerProxy
+p69
+I8431
+sVc.entries.order_by('-id')[0]
+p70
+I19391
+sVimport dj_lib
+p71
+I1808
+sVu.obnob_groups.filter(group__poll__isnull=True)
+p72
+I20487
+sVstr(y).encode('utf-8')
+p73
+I21406
+sVf[0].id
+p74
+I1514
+sVh.body.loaded = False
+p75
+I1176
+sV{&_}}{*){)_*^_[!)$]^%%]&]_*]&*_@}]_{+@!!$@(]$))!+#)*!](@[@*&!+%}@$+@*@_(_!)_[]}!
+p76
+I13522
+sVItem._meta.pl
+p77
+I11014
+sVquestions
+p78
+I9142
+sVa[:a.find('_')]
+p79
+I17366
+sVs = "(Adicionado: 5ªf Ago 20 2009 | Visitas: 0 | Colocação: 10.00 | Votos: 3) "
+p80
+I16755
+sVimport sorl
+p81
+I18424
+sVprint os.removedirs.__doc__
+p82
+I1911
+sVu = SystemUser.objects.filter(pk=3929)
+p83
+I7406
+sVw.base_fields["special_offers"]
+p84
+I4129
+sVp.easy_stem("glowing")
+p85
+I5928
+sVrandom.randint(20)
+p86
+I12132
+sVi = Image.objects.order_by('-id')[0]
+p87
+I10902
+sVt.img.save
+p88
+I4900
+sVs.handle_field
+p89
+I11386
+sVRoom.objects.all().select_related().get(pk=736777)
+p90
+I17583
+sVo = ResultRankCriteria.objects.get_global_stats()
+p91
+I7734
+sVr.match("pepe hole mundo como va?")
+p92
+I6177
+sVclass Parser(HTMLParser.HTMLParser):
+p93
+I9771
+sVCAPLETTERS.sub(' \u005c1', 'AbCde')
+p94
+I17154
+sVobj_id_page = dict(((x[1].object_id, x[0]) for x in pages.values()))
+p95
+I1970
+sV[^%]]+@}_%){$%&[@!*{){)%##(_{!#(![#*(^@{$$))#}@_]{#_@{)]#!]!#&^]!@^_++(^($)^#^%}
+p96
+I13988
+sVdo_search('red sofa',supplier=5,category=10,**{})
+p97
+I3758
+sVsp.process_special_offers({})
+p98
+I8764
+sVr.show_next
+p99
+I4082
+sVupdate cms_fragment_template set content_names = "mainTitle/text,mainImageLinkUrl/text,mainText/largetext,mainImage/image" where id = 81
+p100
+I6676
+sVcelery.VERSION
+p101
+I20009
+sVd = minidom.parse('/home/omab/p.html')
+p102
+I20762
+s.

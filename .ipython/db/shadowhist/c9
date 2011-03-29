@@ -1,0 +1,284 @@
+(dp1
+Va[-1:1]
+p2
+I17502
+sV!&(_&^+[(!#+{@#[[%[_)_*]%+)!@[(%#&^+{#$)$]]![(@+@(]*%#{@#$&#&*&!#_)*[@*+++{+}@](
+p3
+I13532
+sVfrom djang.db.models.fields.related import RelatedField
+p4
+I11396
+sVa = '123'
+p5
+I11743
+sVhxs.select('(//div[@id="Contextual"]//a/@href|//ul[@id="navlinks2"]//a/@href)').extract()
+p6
+I16709
+sVtime.time(10)
+p7
+I2127
+sVa = "top_splash::list_template"
+p8
+I9968
+sVx = defaultdict(0)
+p9
+I15597
+sVgroupby(x, key=lambda q: q.question_id)
+p10
+I19043
+sVa = filter(None, [1, 2, None, 3, '', 4])
+p11
+I11368
+sVjson[589]
+p12
+I11619
+sVlist(CategoryImageType.objects.filter(name="image_big"))
+p13
+I3626
+sVCategorySynonym.objects.get(pk=1369)
+p14
+I4616
+sVprint "%01f" % (e - s,)
+p15
+I9807
+sVc = sqlite3.connect('/home/omab/photos.db')
+p16
+I7507
+sVb.userbook_set.all()
+p17
+I6174
+sVItem._default_manager.all().filter(QJoins(trans=('item_translation', 'left outer join', 'trans._master_id=app_item.id AND trans._language="es"')))
+p18
+I11052
+sVbtl = get_object_or_404(BuyTheLook.objects.select_details(), pk=2285)
+p19
+I4403
+sVthread.start_new?
+p20
+I9370
+sVnltk.tokenize.WordPunctTokenizer().batch_tokenize.__doc__
+p21
+I6478
+sVv.get_nodes_by_type()
+p22
+I10115
+sVThreadedComment().can_edit(u)
+p23
+I20945
+sVUserExtraInfoForm.base_fields
+p24
+I3361
+sVx = 'oauth_nonce=48480696&oauth_timestamp=1294974539&oauth_signature_method=HMAC-SHA1&oauth_consumer_key=anonymous&oauth_verifier=lOvZRgIP2lwG3DVmbZCa3Eun&xoauth_displayname=Social%20Auth&oauth_version=1.0&oauth_token=1%2Fdkl8EbkP3-B71e0Ia8u5onTH3Ti_VeWiqKqp1IJXLn4&oauth_signature=Q0VXZ%2BJ7eAMd0LfZbA8IN7re%2Bck%3D&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo%23email&oauth_callback=http%3A%2F%2Flocalhost%3A8000%2Fcomplete%2Fgoogle-oauth%2F'
+p25
+I19438
+sVprint f.widget
+p26
+I15463
+sVf.formfield
+p27
+I3549
+sVisinstance(A(), A)
+p28
+I17353
+sVclass B(A): pass
+p29
+I19721
+sVany(not a.get(i) for i in ('a', 'b', 'c', 'c'))
+p30
+I19542
+sVNone.__class__.__dict__['pepe'] = lambda slf: 1
+p31
+I6293
+sV^}{&*{*}_$%&((#&}%($*%]#+!*)@{$@#^+}([[*%)+%$@]}@]%({(]$$__+!}}+@@!${%(])+{}![@{
+p32
+I13581
+sVtime.clock?
+p33
+I14708
+sVimport backend
+p34
+I19473
+sVc.execute('update systemuser set username = "matias2" where id = 813')
+p35
+I11830
+sVmicrosite_articles.get_articles(None)
+p36
+I9192
+sVany([1, 2])
+p37
+I2512
+sVp = CmsPage.objects.filter(state="work_in_progress")
+p38
+I12224
+sV[getattr(f, 'original_name', f.name) for f in s.facets.filters]
+p39
+I20634
+sVa.encode('utf-8').encode('ascii')
+p40
+I9984
+sV("%s " * 10)[:-1]
+p41
+I2702
+sVbasename(mod.__file__)
+p42
+I19496
+sVos.walk(os.getcwd())
+p43
+I14809
+sVany(i == 14 for i in range(13))
+p44
+I3283
+sVprint g.node_incidence
+p45
+I6962
+sVfrom obnob.apps.bookmarks.models import BookmarkInstance
+p46
+I20390
+sVapply(lambda *i: i, range(10))
+p47
+I10686
+sVtry:\u000a    a = []\u000a    a[0]\u000aexcept (ValueError, KeyError, IndexError):\u000a    print "hola"
+p48
+I6164
+sVany(x.isdigit() for x in a)
+p49
+I14644
+sVg.headers.getheaders?
+p50
+I21091
+sVpq.move('matias', 'b4')
+p51
+I16321
+sVa[(1, 0)] = 10
+p52
+I9487
+sVi0
+p53
+I678
+sVa = "%(hola)s %(como)s"
+p54
+I4279
+sVIP
+p55
+I3292
+sVjar.extract_cookies
+p56
+I21097
+sVp.parse('sum 1 2 as "total"')
+p57
+I7241
+sVunicode(a))
+p58
+I10162
+sVbase64.encodestring('la verdad que no, cuando?')
+p59
+I14491
+sVdatetime.date()
+p60
+I3233
+sVupdate cms_fragment_template set content_names = "picture/image" where id = 43;
+p61
+I6638
+sVexceptions.__file__
+p62
+I16210
+sVurllib.splitquery('http://gooogle.com')
+p63
+I14711
+sV__import__('hp_splash', fromlist=['bydesign.cms.plugins'])
+p64
+I12835
+sVretrieve("http://site-4306.maguirre.users.dev.mydeco.com/")
+p65
+I9811
+sVcount = '2'
+p66
+I14991
+sVfunctools.wraps.__doc__
+p67
+I2569
+sVr.GET
+p68
+I10631
+sVHREF_RE  = re.compile(r'href=([\u005c'"][\u005c'"]+[\u005c'"])', re.I)
+p69
+I9886
+sV$$)*@&[%@((#**]*][{(@+#%_+_++!&[$%&#_#!#{_(^^@[}@&#$[[*!]+^{$]!}+[}$!$!&#$__$%]!
+p70
+I13858
+sVb.medium_image
+p71
+I6175
+sVm.window
+p72
+I8060
+sV}!)$]&($)@](+(#{$)_%^%_^^#][{*[)%}+[##(##^{$}^]#&(&*{)%)&][&{]&#]}[[^^&[!#}${@_(
+p73
+I14093
+sVIt's actually surprisingly difficult to define the term sofa bed. This is partly because of the difficulty in defining the word "sofa" itself. The definition of "sofa bed" is more complex. You can buy sofa beds in all sizes, including single seat versions. These should, strictly speaking be called "chair beds". However they are often simply called "sofa beds". And what about the Western futon? The spread of interpretations underlines how important it is to know what you are purchasing before you buy, be it online or in a store. The simplest thing is probably to define a sofa bed as a convertible multi-functional piece of furniture that can be used as a seat during the day and reconfigured as a bed at night.
+p74
+I6336
+sVbase64.decode(s, "/tmp/out.jpg")
+p75
+I14110
+sVlen(set(x.split(',', 1)[0] for x in f.xreadlines()))
+p76
+I18002
+sVpepe(1, 2, 3, 4)
+p77
+I18461
+sVimport oauth2
+p78
+I18432
+sVprint c.wait(2)
+p79
+I16070
+sVCmsContentMapping.objects.filter(fragment__in=f)
+p80
+I9169
+sV)]^_!#]%&#[}}(][+}^^_}{@+%^[)$@%+_(&{*%*)]_@+]($!@*[)%#$]}#[_$!%_}*)(*_+}_&%&{})
+p81
+I13441
+sVreadline("jkj")
+p82
+I3256
+sVl.get_a
+p83
+I8363
+sV__import__(".")
+p84
+I2478
+sV[ x*3 for x in range(10)]
+p85
+I17586
+sVc.model
+p86
+I21021
+sVi.image.save?
+p87
+I17377
+sVf = Folder.objects.order_by('-id')[10]
+p88
+I19645
+sVfrom cms import plugins
+p89
+I14213
+sVp(1, 2)
+p90
+I6543
+sVprint str(a.encode('utf-8')).decode('ascii')
+p91
+I10429
+sVlist(CategoryImageType.objects.filter(name="big_image"))
+p92
+I3625
+sVCmsPage.objects.filter(state="live", live_date__not=None).order_by("-live_date")
+p93
+I1008
+sVlen(a * 50)
+p94
+I21466
+sVv = list(Page.objects.all()[0].values.all())[-1]
+p95
+I8679
+s.

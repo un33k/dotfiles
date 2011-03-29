@@ -1,0 +1,257 @@
+(dp1
+Vd.do_expose_event(d, gtk.gdk.Event)
+p2
+I8090
+sVs.query(PhotoTag).filter_by
+p3
+I15268
+sVrc
+p4
+I3853
+sVitems = [(x, list(y)) for x, y in items]
+p5
+I20955
+sV*{*&$}$+@[!@&)])[{%]^($]%&#^+&{[[(&^]#{}{}*!{_!*+_&)(]%_&__$@{]_)^#_+{*[+[^($^[@
+p6
+I13183
+sVrewrite_url('bestonlinesofas.com', 'http://mydeco.com/microsite/bestonlinesofas.com/the-magazine')
+p7
+I8804
+sVSendInfoForm.base_fields
+p8
+I3419
+sVletter = lambda o: txt(o)[0].lower()
+p9
+I1967
+sV]!{][@$}@)$__*_]}^(#*!#!_!**@{(&![]$_+_%^#_!%!$&@](!%%((%[#]&&}_{]+[+*##])(]%^(+
+p10
+I14079
+sVrandom.randrange(10)
+p11
+I15656
+sVfd = urllib2.urlopen('http://localhost:8000/tipocms/sync/live-pages/list/')
+p12
+I1067
+sV__import__('hp_splash', fromlist=['cms.plugins'])
+p13
+I12831
+sVfrom categorization.remote import *
+p14
+I2658
+sVdatetime.__class__
+p15
+I9576
+sVopr = Id('tag') + Var('xxx_name') + Optional(Id('manolo') + Var('hola')) + Id('x') + Var('z')
+p16
+I422
+sVa.split()
+p17
+I2112
+sVPLUGINS
+p18
+I12828
+sVset(x for x in range(10))
+p19
+I17994
+sVa.index(3)
+p20
+I1255
+sVset(1, 2) & set(3, 4)
+p21
+I11112
+sVd = DatedItem.objects.all().set_language('es')[0]
+p22
+I11145
+sVr = re.compile('pid=(\u005cd+)')
+p23
+I16510
+sVp max.__doc__
+p24
+I7068
+sVdl = '(//div[@id="Contextual"]//a/@href|//ul[@id="navlinks"]//a/@href|//ul[@id="navlinks2"]//a[contains(.//text(), "Descargar")]/@href)'
+p25
+I16828
+sVhashlib.md5("hola")
+p26
+I1814
+sVTag.search = classmethod(Tag.search)
+p27
+I77
+sVp = urlparse.urlparse('http://www.mydeco.com')
+p28
+I9843
+sVx.type_name
+p29
+I9313
+sVr.get_result().__class__
+p30
+I12785
+sV_#}$[^[@^+_&}*#$}%^)(#*}%_+]@_%]%&&()[^(}[*[}#@(%%$}]_)^(!#%]#@(#+!#{#$]^!}))_]*
+p31
+I14074
+sVkw = {'count': 15, 'order_by': '-updated', 'filters': [u'type,decorated-photo', u'category,Dinning room'], 'offset': 0}
+p32
+I4209
+sVg.next()[-1]
+p33
+I19215
+sVt.tag
+p34
+I4716
+sVimport ExifTags
+p35
+I8304
+sV@)[$#+[}#[}^!)$+!_[}@&}**{+&%$](_&](&[]){($_^}}*!_*!]@$+($%]){[_^^_%([)_$@(*###@
+p36
+I13766
+sVfor z, (x, y) in enumerate(a.iteritems()):
+p37
+I11838
+sVtokenized_text[b[0]:b[1]]
+p38
+I6459
+sVvalues_d
+p39
+I8853
+sVimport urllin2
+p40
+I2271
+sVp.usage()
+p41
+I12447
+sVc.move('O-O')
+p42
+I16058
+sVr = productsInCategorySearch([c.catid], count=4).items
+p43
+I10802
+sVTemplate('{% static_url "room_explorer/?imagetype=3d%20rooms" %}').render(Context())
+p44
+I10616
+sVimport chess
+p45
+I15859
+sVreduce(lambda x, y: x + y, (p.split('.') for p in a))
+p46
+I19821
+sVp.count().execute()
+p47
+I15171
+sVurllib2.urlopen("http://direccionalazar.com")
+p48
+I2986
+sV{&&&{]%$^_%_!+#%@$%_}#{_*!%@+^+{%&&![*%(]#]$![)#)***${*)#!()+{}+*($($*)%*)%([(!^
+p49
+I13483
+sVp.meta_title.obj
+p50
+I5488
+sVd = { 'oldsearch': True, 'fastsearch': True }
+p51
+I12348
+sVrepeat?
+p52
+I19103
+sVos.execle(('/usr/bin/mpc', 'pause', 'mpc'))
+p53
+I307
+sVres.read()
+p54
+I8422
+sVhasattr(c.obj, "credits") and getattr(c.obj, "credits") or "Pepe"
+p55
+I1328
+sVb_iface.GetProperty("battery.charge_level.capacity_state")
+p56
+I2206
+sVprint(1, sep=' ', end='\u005cn')
+p57
+I6552
+sV<ul>
+p58
+I21045
+sVquote("hola mundo")
+p59
+I6053
+sVe.message
+p60
+I2301
+sVp urlparse.urlparse('http://www.homebase.co.uk/webapp/wcs/stores/servlet/ProductDisplay?langId=-1&storeId=20001&partNumber=8421519')
+p61
+I15053
+sVprint h.whats_hot.form()[1]
+p62
+I17116
+sVfrom qa.forms import VoteAnswerForm
+p63
+I20425
+sVint(True)
+p64
+I2078
+sVbatteries = hal.help()
+p65
+I2185
+sVmongoengine.connect('mongoengine.django.sessions')
+p66
+I19818
+sVtokenize("I like the blacks sofas beds, but the blue sofas beds would be nice with the black out blinds", True)
+p67
+I6497
+sVfrom face_recognition import facedetect
+p68
+I10899
+sVadd_parameter(u, 'pepe=1')
+p69
+I1231
+sVmodels.models
+p70
+I8586
+sVfor m in Microsite.objects.select_related().all():\u000a    articles = get_articles(m.category.classification_name)\u000a    if articles:\u000a        print m.domain, m.category.classification_name, "has articles", len(articles)\u000a    else:\u000a        print m.domain, m.category.classification_name, "hasn't articles"
+p71
+I5363
+sVq.options.get(pk=1).votes.count()
+p72
+I19018
+sVp.website.supplier_type.name
+p73
+I2476
+sV2^32
+p74
+I18868
+sVhxs.select('//ol//a//text()').extract()
+p75
+I16749
+sVsys.copyright
+p76
+I2044
+sVp.readlines()
+p77
+I1057
+sV$#[()}}%)@)*([(!$+*^__]!!+}&+$*^+}{^@]!)!*{[^&_^)%{!^##}[#$!+&}$[]&_]#_%$(@^{^)}
+p78
+I13605
+sVfrom cms.views import grouped_content
+p79
+I8941
+sVModel1.objects.exclude(m3__name=1)[0].name
+p80
+I18921
+sVProduct.objects.filter?
+p81
+I17554
+sVd = defaultdict(lambda: { 'names': { 'grouping': {}, 'nogrouping': {} }, { 'values': { 'grouped': {}, 'nogroup': {} } }, 'section': None })
+p82
+I4772
+sVUserSocialAuth._meta.get_field('user').rel_to
+p83
+I18627
+sVCategory._meta.object_name
+p84
+I4439
+sVPage.objects.filter(state=LIVE).values_list('pk', 'meta_title', flat=True)
+p85
+I18605
+sVhxs.select('//comment()/contains(text(), 'CUERPO')').extract()
+p86
+I16874
+s.

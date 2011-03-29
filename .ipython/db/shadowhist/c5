@@ -1,0 +1,269 @@
+(dp1
+Vp.get_language_display()
+p2
+I11997
+sVs = 'Sale'
+p3
+I10875
+sV^[&[}#]_}{)#}_[#]+}@$[(%+&${[[+%&%]!&*(^(#)%%[+]@[+]#}#@#]}+_+}__[^$#+^)$$!^!)!+
+p4
+I13864
+sVreverse('social:complete')
+p5
+I18828
+sVstr(datetime.date.today())
+p6
+I7748
+sVurllib.urlencode({ 'facet': 'colour,32'})
+p7
+I9094
+sVset((1, 2)) | set((3, 4))
+p8
+I11114
+sVttf = ImageFont.truetype("/usr/share/fonts/truetype/unfonts/UnDotumBold.ttf", 16)
+p9
+I1393
+sVu.photo_room_count
+p10
+I20104
+sVfrom registration.models import User
+p11
+I16852
+sVReverse("wears.buy-process", kargs=["10"])
+p12
+I3403
+sVSpecialOffer._meta.fields[1].name
+p13
+I7163
+sVd.split()[1:]
+p14
+I16662
+sVpt.columns
+p15
+I15143
+sV[ (x, len(list(y))) for x, y in groupby(Post.objects.values('date'), lambda x: (x['date'].year, x['date'].month))]
+p16
+I15757
+sVi._language
+p17
+I11029
+sV&[[*+]&{[$_}*#@!{]}__!+!!@$@#}+@!%^(^_^{}]+^({)*[**%!@[^)#$%{&[[_!(^(}}{!}!)@###
+p18
+I14036
+sVfor k, v in a.iteritems():\u000a    clauses.append("%s IN (%s)" % (k, ", ".join("%s" for i in xrange(len(v)))))
+p19
+I4542
+sVf.list_ex
+p20
+I1836
+sVrandom.randrange(10, 20)
+p21
+I19808
+sVlibxml2.parseDoc.__doc__
+p22
+I1787
+sVa = "facet=supplier_id,77&"
+p23
+I21465
+sVpychess.__file__
+p24
+I15579
+sVu.obnob_groups.filter(group__slug='')
+p25
+I20480
+sVCountry().importdata(
+p26
+I801
+sVrandom.randint.__doc__
+p27
+I7044
+sVimport nee
+p28
+I5829
+sVp = [ a[i*4:i*4+4] for i in range(len(a)/4) ]
+p29
+I5378
+sVhash((1, 2, 3))
+p30
+I12241
+sVv._meta.get_field('value')
+p31
+I8560
+sVs[2].name
+p32
+I16995
+sV* Por Gabriel Vega, especial para Universo Ágora AC"""
+p33
+I9069
+sV''.join(reversed(a))
+p34
+I16584
+sVa = "http://hr.kpmg.com.cn/experienced/opportunities/financial_details/advisory_58(HKF736).htm"
+p35
+I15573
+sV$(+({[({@&{^)+@]]$_(%_&^%_&%!^(]_!{*@*+[#}}[}{@&&#(}@#^[^{(@_})_*!+{*]_(&+]#)*[@
+p36
+I13545
+sVwears
+p37
+I2852
+sVt.__class__
+p38
+I4710
+sVcv.cvOpenFileStorage
+p39
+I10840
+sVprint str(bool(a))
+p40
+I6286
+sVttf = ImageFont.truetype("UnDotumBold.ttf", 16)
+p41
+I1392
+sVw.node
+p42
+I10275
+sVurllib.quote("%7E")
+p43
+I3957
+sVfilter(lambda i: i%2 == 0, a)
+p44
+I8374
+sVitem['program'] = hxs.select('//ol//a/text()').extract()
+p45
+I16715
+sVa.a
+p46
+I16336
+sVfd.get_fragments()
+p47
+I625
+sVx = c.category['facets'][:]
+p48
+I20539
+sVupdate cms_fragment_template set content_names = "text/largetext" where id = 120;
+p49
+I6713
+sVval = c.valoracion_set.all()[0]
+p50
+I11213
+sVprint g.node_incidence.__doc__
+p51
+I6961
+sVurllib.unquote(y.split('?')[1].split('=')[1].decode('utf-8'))
+p52
+I21414
+sVLexer(*s)
+p53
+I10032
+sVimport lxml
+p54
+I20775
+sVfrom django.template.defaultfilters import date
+p55
+I17931
+sVclass Product(models.WSModel, ProductType):\u000a    guid = models.StringField(primary_key=True, param_name='guid')\u000a    price = models.NumberField() # price\u000a    class Meta:\u000a        ws_url = settings.PRODUCT_WS_URL
+p56
+I17553
+sVmicrosite_articles.get_content(p).keys()
+p57
+I9177
+sVa = "xxx"
+p58
+I20607
+sVphotos.select().execute()
+p59
+I15135
+sVp.fields
+p60
+I7783
+sVProductCountForm.base_fields["product"]
+p61
+I3364
+sVapi.mentions.pagination_mode.count()
+p62
+I16391
+sVlinks = list(SEOLandingLink.objects.filter(parent=None).order_by('term'))
+p63
+I12161
+sVf = open('/tmp/test', '+rw')
+p64
+I16560
+sVfd.closed
+p65
+I2090
+sVgoto
+p66
+I8408
+sVd = False
+p67
+I5709
+sVfrom shopping.views import get_shopping_context
+p68
+I5423
+sVd = {{}
+p69
+I12354
+sVModel1.objects.filter(model2__isnull=True)[0].name
+p70
+I18917
+sVct.document_tokenizers
+p71
+I6352
+sV@@+[+&%&$[%[@@(@!_&&%#__!@{$#&@[*($]*](&&{}#!^^$[%&{+%}]_}!#([}^{{**@*($[[#[%}*#
+p72
+I12969
+sVi0 = grouped.items[0]
+p73
+I673
+sVmap(lambda a, b: a, *zip(input, [keys]*len(input)))
+p74
+I7646
+sVg.breadth_first_search.__doc__
+p75
+I6972
+sVres[-1].size
+p76
+I12157
+sVf.data = { 'template_path': "/tmp/es" }
+p77
+I7356
+sVfrom django.contrib.auth.models import *
+p78
+I812
+sVs.query(PhotoTag).filter_by(tag_id=t.id).filter(PhotoTag.photo_id != [1, 2])
+p79
+I14753
+sVurllib2.__doc__
+p80
+I1052
+sVos.path.abspath?
+p81
+I15427
+sVs + 10
+p82
+I394
+sVu.folder
+p83
+I20109
+sVvotes = item.select(votes_xpath).extract = '//ul[@id="Monos"]/li')
+p84
+I16774
+sVv._meta.fields[-1]
+p85
+I8568
+sVdef handler(*args, **kwargs): pass
+p86
+I8035
+sVfor i in input:\u000a    mk = list(set(r.keys()) - set(i.keys()))\u000a    r.update(dict((k, [None]*len(r[k]) + r[k] + [v]) for k, v in i.iteritems()))\u000a    r.update(dict((k, r[k] + [None]) for k in mk))
+p87
+I7630
+sVr.startrank
+p88
+I4088
+sVforce_unicode(y)
+p89
+I21408
+sVct.tokenize_text._get_phrase_tokens
+p90
+I6364
+s.

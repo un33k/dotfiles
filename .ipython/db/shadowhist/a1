@@ -1,0 +1,311 @@
+(dp1
+Vfrom cms.dtypes import *
+p2
+I17477
+sVp.link_set.all()
+p3
+I20943
+sVos.walk("/tmp/")
+p4
+I1898
+sV^$!%@{_]@%%+$]%[)]#_#**_(_*@!_(({(&&^$#]@+{&]]{$)]$)*}^+_($#$_*][@^%&$(_+}&]${(%
+p5
+I13598
+sVr =  re.compile("var product_price\u005cs*=\u005cs*\u005c"(.*?)(?!Ranging)\u005c";")
+p6
+I18696
+sVb = "holaPepe"
+p7
+I1649
+sVi._translation_model._transmeta.master_language
+p8
+I17877
+sVt = Template('{{ f.name.errors.as_text }}')
+p9
+I18136
+sVQuestion.objects.filter(group__in=[1])
+p10
+I19801
+sVPage._meta.get_latest_by('update')
+p11
+I5144
+sVt.render(Context({ 'value2': 'hola' }))
+p12
+I10466
+sV*%($)_@]%)_!$_*!*@(_$_^^^$)}{&!@)%({(+(&[+%&+%}_)(#]$!!)%[!&+)*@%+}])$}#&)*[!++}
+p13
+I13421
+sV%timeit (a.attr if 'attr' in a.__dict__ else None)
+p14
+I16328
+sVaccount = ('pytest@live.com', 'pass(testpy).6')
+p15
+I9436
+sVurllib.quote(urllib.quote("http://www.argos.co.uk/static/Browse/ID69/10198115/c_1/1|category_root|Toys+and+games|10198115.htm?tag=PS6_1a"))
+p16
+I3356
+sVpaths
+p17
+I9541
+sVxml.sax()
+p18
+I9946
+sVconnection.connection.autocommit()
+p19
+I11900
+sVdecimal.Decimal(10.323232)
+p20
+I10709
+sVh.id
+p21
+I18779
+sVos.system("echo 100 > /tmp/osd/bat")
+p22
+I2259
+sVs.__hash__
+p23
+I11566
+sVs.query(PhotoTag).filter_by(tag_id=t.id).filter(~PhotoTag.photo_id.in_([31, 29, 28])).all()
+p24
+I14756
+sVexcept e:
+p25
+I2687
+sVp.loc
+p26
+I12669
+sVsr.get_result().items[0].image
+p27
+I11545
+sVroom.thumbnail
+p28
+I9271
+sVclass CForm(forms.Form):\u000a    def __init__(self, *args, **kwargs):\u000a        super(CForm, self).__init__(*args, **kwargs)\u000a        self.fields['custom_name'] = forms.CharField()
+p29
+I14397
+sVf.childNodes
+p30
+I20701
+sVf.changed_data
+p31
+I7360
+sVfor i in a:
+p32
+I666
+sVc.image.name
+p33
+I17412
+sVh.iso({})
+p34
+I9227
+sVcomponents = a.split('/')
+p35
+I9933
+sVct = ClassificationTokenizer({ 'article': 'html' }, phrases=['beds'])
+p36
+I6389
+sVsites.site
+p37
+I11401
+sVitem.title_default
+p38
+I11074
+sVp = CmsPage.objects.get(http_path='/new/', state='live')
+p39
+I9527
+sVa.split(',')[:2] + ['0']
+p40
+I19135
+sVp.X
+p41
+I18306
+sVurlparse.urlsplit(x).netloc.split('.', 1)[0]
+p42
+I19445
+sVfrom systemuser_cache s
+p43
+I11825
+sVSEOLandingLink.objects.filter(parent=None)[0]
+p44
+I12144
+sVclass Product(models.WSModel, ProductType):
+p45
+I17551
+sVr.entries.filter(breaks_rule__isnull=True, vote_count__gt=0).order_by('-vote_count')[0]
+p46
+I20274
+sVc.result[0]
+p47
+I5179
+sVlist(s.query(PhotoTag).outerjoin((pt_alias, pt_alias.c.photo_id==PhotoTag.photo_id & pt_alias.c.tag_id!=PhotoTag.tag_id)))
+p48
+I15376
+sVt = Template('{% article_tracked_url "www.habitat.co.uk" "http://www.habitat.co.uk/fcp/categoryhome/browse/sale/" %}')
+p49
+I11238
+sVpepe(None)
+p50
+I16526
+sVget_dropdowns(None)['living_area']
+p51
+I9475
+sVp = Product.objects.filter(pk__in=['GB69BE8CXKUM6OXHNIXJBJEDNAR3BLFHWIP7XVBI', 'GB697D09X5XDAZHWJRQ2UWTBM5ZP54PBEI5YVP2B',])
+p52
+I19591
+sVt.fmap.all()[0]
+p53
+I14909
+sVf = FindTalentForm(None, data={})
+p54
+I12706
+sVa.update(dict((i, i) for i in xrange(400, 4000)))
+p55
+I9236
+sVpq.new('matias2', Crafty)
+p56
+I16270
+sVos.path.dirname("/hola/mundo/como/va.jpg")
+p57
+I4021
+sVcgi.parse_qs("a=b&b=c&1=2")
+p58
+I2593
+sVp.stdout.readinto(a)
+p59
+I15835
+sVparser = OptionParser(usage='%prog [options]', description='')
+p60
+I7049
+sVCategory.objects.creat.__do
+p61
+I2311
+sV#$)&$!]!^**[)^!!@(][^$$$(*@*(*{(&##%_%}]%^)*^%#$_($_@(&+#@{){{{_^!#!!*#$#$_]}*^#
+p62
+I13282
+sVreverse('highend_action', args=('dajdkasj',))
+p63
+I14302
+sVtweepy.Cursor?
+p64
+I16466
+sVe.sent
+p65
+I20298
+sVtakewhile.__doc__
+p66
+I5300
+sVprint c
+p67
+I14398
+sVdb.photo_tags.primary_key
+p68
+I15213
+sVp urlparse.urlparse("http://a.com/b")
+p69
+I4295
+sVp pyexiv2.Image.__doc__
+p70
+I8318
+sVa = dict((x, x) for x in range(20))
+p71
+I19306
+sVroom.get_absolute_url8)
+p72
+I9281
+sVr.translations.get_query_set()
+p73
+I5794
+sVt.own_photos()
+p74
+I15401
+sV+}&(%*!]][!&)$}([)$@{*{{##+&&@_]%(*+(&@_@)*$}^#[+!@%_$@{&!]+&){{(&{]#&*!@}*[%[@+
+p75
+I13175
+sVx = open('/tmp/out.jpg', 'bw')
+p76
+I17249
+sV64 - 10
+p77
+I14664
+sVp.stdin.read()
+p78
+I15779
+sVCmsFragment.objects.filter(page=pageid).select_related('template').values(*[ 'id', 'name', 'template__template_path' ])
+p79
+I9536
+sVRenderedData.objects.filter(value__contains='{%').values('page')
+p80
+I11492
+sVa.__getitem__('hola2')
+p81
+I6783
+sVAutoCategorized._meta.get_field("id2", None)
+p82
+I3088
+sVq = Post.objects.annotate(num_posts=Count('id'))
+p83
+I15694
+sVct.rateditem_set.all()
+p84
+I329
+sVlist(xrange(3))
+p85
+I14554
+sVlist(xrange(500, 2000, 500)
+p86
+I6538
+sVNotice.objects.in_chatterbox()
+p87
+I21195
+sV{!!!]_}#&+^&)&[^@#)[[}}]@+$#_^@}*%#++_)_&*)#*}][&@*_%_!#*^!}[[}]*}}+*_{!#%(&&)+$
+p88
+I13894
+sVselect (select concat(id, "/", max(last_updated)) from room where user_id = s.id group by user_id) room,
+p89
+I11806
+sVfrom django.forms import models as fmodels
+p90
+I8626
+sVcalculate_cloud(tags, steps=3)
+p91
+I12152
+sVx = 'azbff'
+p92
+I15553
+sVf.get_filename()
+p93
+I14235
+sV. P P P P P P P
+p94
+I15935
+sVd.modify_bg?
+p95
+I8076
+sVp.values.values_list('pos')
+p96
+I14407
+sVv = V('m')
+p97
+I7221
+sVfor i in "hola":
+p98
+I10137
+sVlist(a.__iter__())
+p99
+I17210
+sVf = models.ImageField(upload_to='cms/images/%Y/%m/%d')
+p100
+I14225
+sVr = re.compile(r'.*name="__VIEWSTATE" value="\u005c([^"]+\u005c)"')
+p101
+I2251
+sVdatetime.datetime(*rfc822.parsedate('Fri Feb 05 19:12:32 +0000 2010')[:6])
+p102
+I11894
+sVfrom obnob.apps.polls.models import Poll, Question, Choice, Group, Vote
+p103
+I20384
+sVp.template.path.file
+p104
+I5026
+s.

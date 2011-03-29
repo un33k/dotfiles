@@ -1,0 +1,272 @@
+(dp1
+Viter(l)
+p2
+I1841
+sVItem._translation_model._transmeta.languages
+p3
+I17852
+sVg.obnob_users.through
+p4
+I20132
+sV}&#(({#%$^(()^}^^{$][)+![}%}[!()@%_^][)@+]+@!!%+^#@++$%(@*$]^*{]!+###)^#&@[^[(#}
+p5
+I13570
+sVt.fragment.source_col_name
+p6
+I565
+sVpermutations(a)
+p7
+I15530
+sVr.match(" ")
+p8
+I4670
+sVa = u'\u005cxf1\u005cx84\u005cxf0\u005cxb5\u005cxf0\u005cxb2'
+p9
+I11998
+sVimport gdata
+p10
+I19690
+sVdatetime.timedelta(day=31)
+p11
+I21319
+sVpv
+p12
+I7177
+sVEntry.objects.values('name', 'value').filter(group='/the-magazine/', expiration__lt=0)
+p13
+I9598
+sVs = SystemUserCache.objects.get(user=813)
+p14
+I11913
+sVbrowers.open('http://google.com')
+p15
+I18053
+sVbuiltins
+p16
+I10370
+sVp.xxx()
+p17
+I20192
+sVf.write?
+p18
+I15870
+sVurllib.quote("x^2%2B(y-(x^2)^(1/3))^2%3D1")
+p19
+I20112
+sVa[::,2]
+p20
+I2680
+sVr = re.compile('beds?')
+p21
+I19446
+sVp.special_offer()
+p22
+I4505
+sVhal
+p23
+I2175
+sVTag.all()[0]
+p24
+I14729
+sVout =  nodes.render(c)
+p25
+I10328
+sVfrom setuptools import setup, find_packages
+p26
+I19313
+sVh.body
+p27
+I1154
+sVan = Analisis(Area.objects.get(pk=4))
+p28
+I11194
+sVa.pop("pp", None)
+p29
+I4605
+sVurllib2.urlopen("http://google.com", headers={ "Content-type": "application/json" })
+p30
+I3296
+sVa.pepe()
+p31
+I17891
+sVa[:b]
+p32
+I12489
+sVstart = a.find('[']
+p33
+I1690
+sVtypes.FunctionType == type(pepe)
+p34
+I3442
+sVp(**{ "1": 1, "2":2})
+p35
+I2329
+sV1 + ""
+p36
+I21217
+sVCmsPage.objects.most_viewed('/the-magazine/', '')
+p37
+I12187
+sVdef fff(a):
+p38
+I17057
+sVu.notice_set.all()
+p39
+I21015
+sVset(a)
+p40
+I1650
+sVupdate cms_fragment_template set content_names = "linkText/text,linkUrl/text" where id = 112;
+p41
+I6705
+sVarticles.search_params
+p42
+I5331
+sV)^%({{%_^_+@%%+#[#$$@#_&%##{+)+$%*((!{{}{]+%%+^_!+{@]{^^+^}{[_([_^)!%_[+%@!%!@(+
+p43
+I13828
+sVa[start+1:end]
+p44
+I1694
+sVStampImage.objects.all()
+p45
+I3189
+sVs = re_words.findall(a)
+p46
+I9084
+sVd.time()
+p47
+I7545
+sV<p><strong>We really don't want the January sales to end so we've teamed up with <a href="{% article_tracked_url "339"  "http://mydeco.com/aff/?article=60381&website=339&url=http%3A%2F%2Fwww.habitat.co.uk%2Ffcp%2Fcategoryhome%2Fbrowse%2Fsale%2F" %}" target="_blank">Habitat</a> to offer you an exclusive discount!</strong></p>
+p48
+I14878
+sVserialize("hola")
+p49
+I2692
+sVu = PhpListUserUser.objects.get(email=email)
+p50
+I1180
+sVp._meta.get_field_by_name('name')
+p51
+I18769
+sVbrowers.get_snapshot(1)
+p52
+I18069
+sV%hist
+p53
+I4406
+sVm.cars.add(c)
+p54
+I18708
+sVp.get('deals').__class__
+p55
+I17981
+sVx.value = 'design_boutique,kitchen_marketplace,retailer,supplier_id,supplier'
+p56
+I18326
+sVSIMPLE_TOKENIZER
+p57
+I2074
+sV''.join(i for i in xrange(10))
+p58
+I9896
+sVProductSearch(search_params={'category': 'bathroom'}, count=4)
+p59
+I10782
+sVg.objects
+p60
+I20155
+sVPH.hola()
+p61
+I20184
+sVf = CmsUserRoleForm(user_id=32)
+p62
+I6031
+sVfrom
+p63
+I4091
+sVdef always_save(f):
+p64
+I19
+sVChatterboxThread.objects.all()
+p65
+I21338
+sVupdate cms_fragment_template set content_names = "" where id = 125;
+p66
+I6718
+sVarticles = ArticleSearch(query=['cake stands', 'carriers'], filter="buyers-guide", count=5, display=display)
+p67
+I5339
+sVsettings.TO_M_QUOTIENTS
+p68
+I18656
+sV[ [i for i in item] for item in cd.hierarchy()]
+p69
+I10513
+sVd datetime.now()
+p70
+I7129
+sV[ f.required for f in si.base_fields.values() ]
+p71
+I3425
+sVLogEntry.objects.change_entries()[0]
+p72
+I2976
+sVj.getDomain()
+p73
+I4321
+sVc = f.cmscontentmapping_set.filter(name__in=['text'])[0]
+p74
+I17470
+sVfrom search.views import do_search_results
+p75
+I7481
+sVurlparse.urlsplit("a=b&b=c&1").params
+p76
+I2576
+sV%)[*+_[)^]+(+{#&_([^)^}!_*}#}^]}^]}^@&($@[!&#]{$%$}_#(^^[%@]%_}]+%&&%$}]){@}}]{@
+p77
+I12986
+sVr.match('bbbbbc')
+p78
+I14873
+sVhxs.select('//div[@id="Contextual"]//a/@href').extract()[0]
+p79
+I16701
+sV)^(())(){+@]&+_){(_%!{^^*^!)$+{+^#!}}]_[}^**(}*%($(+_%]))${)_*%&&]$!%^))&#({]$^$
+p80
+I13284
+sVm.input
+p81
+I9724
+sVbin(1010101)
+p82
+I18112
+sVprint h.whats_hot.include_form()
+p83
+I17139
+sVx[0[
+p84
+I18549
+sVclient.profile.get_properties()
+p85
+I9351
+sVdjango.VERSION[1] > 97
+p86
+I53
+sVd.isoformat()
+p87
+I7458
+sVd2.strptime()
+p88
+I4037
+sVPIL
+p89
+I8285
+sVF.fields["is_valid"].required
+p90
+I4350
+sVKEY    = 'yK9iKbmVoJ7k0tqqMbCrww'
+p91
+I16417
+s.

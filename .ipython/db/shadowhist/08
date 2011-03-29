@@ -1,0 +1,281 @@
+(dp1
+V(^][&}$]##({[)^$[*}@*)(^]$+($$+]+[]&!&*(}$]&[}{_^}#]*+!!}{__^+${%%!*{*}})&](+^{^
+p2
+I13107
+sVuuid.uuid4().hex
+p3
+I5082
+sVp.user_set.all()
+p4
+I6011
+sV)[^!^^^!$^$^_*#}#&{{}*}}[$#!$#(&_(_}^+]@#{]}_^]^}{&_[)[&_##_#*$[_]&}$_&]()+&$_{]
+p5
+I13523
+sV<input type="hidden" id="COMPETITIONS_FIELD" name="COMPETITIONS_FIELD" value="Newsletter_Competitions">
+p6
+I9698
+sVi = Image.objects.all()
+p7
+I805
+sV{%for content, product in contents|zip:products%}
+p8
+I10421
+sVa.decode()
+p9
+I10157
+sVmod = __import__(name, module)
+p10
+I19484
+sVhtml.split()
+p11
+I9763
+sVcm.move('d3')
+p12
+I15892
+sVs = "hola/text, como/image(a|b|c), andas/text[2], bien/text(d|e)[3],    "
+p13
+I534
+sVtype(b)
+p14
+I19717
+sVa = 'A'
+p15
+I14186
+sVmemcache()
+p16
+I7559
+sVph.thankyou
+p17
+I1506
+sVi = CategoryImage._default_manager.all()[0]
+p18
+I4444
+sVUserForm(u)
+p19
+I3372
+sVu = User.objects.all()[4]
+p20
+I19938
+sVpq.move('matias', 'p3')
+p21
+I16267
+sVpurple.__str__()
+p22
+I1441
+sV@)[[){&(#[#{&@&(_]@##])}#&%*)_&!(}_^^$_)))}}}+&&$%&]}}$)![&{#_!(!![[![&(+{{++!}}
+p23
+I14052
+sVupdate cms_fragment_template set content_names = "title/text" where id = 47;
+p24
+I6642
+sVx[r1]
+p25
+I19066
+sVCrypto.Cipher.Blowfish.MODE_CFB
+p26
+I962
+sV__import__('hp_splash', fromlist=['.'])
+p27
+I12838
+sVadmin.site._registry(Page)
+p28
+I14501
+sV[x.friend_b for x in u.friendships_requested.select_related('friend_b')]
+p29
+I20081
+sVgetattr(a, 'name')
+p30
+I5892
+sVa = u"To enter, <a href=\u201chttp://mydeco.com/rooms/detail/telegraph-week-2-template-444714/\u201dclass="c1">copy the 3D template into your own profile</a>.  Once completed, enter it into 'Room Rescue Week 2' competition and it will appear below."
+p31
+I8756
+sVr._get_url(r.params)
+p32
+I5262
+sVBOARD_RE = re.compile('[ \u005c|1-8<>\u005c+\u005c-a-h\u005c.RNBQKP]+\u005cr\u005cn')
+p33
+I16123
+sVfrom django.template import Lexer, loader
+p34
+I10056
+sVf =
+p35
+I1873
+sVp = CmsPage.objects.get(pk=
+p36
+I3778
+sVe.get_locale_display()
+p37
+I14498
+sVlist(languages('en-gb'))
+p38
+I12007
+sVo = []
+p39
+I20989
+sVd.do_expose_event(1, 2)
+p40
+I8087
+sVa.extend([ 1, 2, 3])
+p41
+I3973
+sVdef pepe(*args, **kwargs):
+p42
+I3128
+sVbp.thumb_small_url
+p43
+I4365
+sVa = '"hola"'
+p44
+I1585
+sVinfo.values()
+p45
+I12324
+sV{{)#*%@*[(^(}!%}@*}@+]^_}&&&}&{[$(@[#*+%[&%{$$**]]%(!$+$!]^+[^_(&*{#_^%[[#+{]#_[
+p46
+I14064
+sVlist(Item.objects.set_language('es'))[0]
+p47
+I11106
+sVfrom pprint import pprint
+p48
+I10
+sVreverse("wears.buy-process", "10")
+p49
+I3401
+sVfor dsc, path, names in [ ('Highend - Homepage Top panel list', 'cms/fragment/highend_home_top_panel_list.html', 'bgImage/image'), ('Highend - Homepage Top panel list item', 'cms/fragment/highend_home_top_panel_list_item.html', 'header/text, text/largetext, redHeader/text, linkUrl/text, linkText/text'), ('Highend - Homepage 3 Column list', 'cms/fragment/highend_home_columns_list.html', 'title/text'), ('Highend - Homepage 3 Column item', 'cms/fragment/highend_home_columns_list_item.html', 'rowsLinkUrl/text[3], rowsHeader/text[3], rowsImage/image[3], rowsLinkText[3], rowsText/largetext[3]') ]:
+p50
+I6767
+sVbool(x.value.strip())
+p51
+I17993
+sV[ i['id'] for i in c.child_categories ]
+p52
+I5577
+sV$^+$#&*+*)!!+_*}&$&^#^*+*_}{%$*][#!$!{#*%%(}*%*@[](}][+)]@{#]($)[_#@^[!]%}%#[+[{
+p53
+I13309
+sVq = Post.objects.annotate(total=Count('date__month')).values('date', 'total')
+p54
+I15706
+sV<body>
+p55
+I9681
+sVTaggedItem.objects.filter(content_type=ct, content_object=p)
+p56
+I4713
+sVp = SearchParams({ 'prefdb': 'product', 'db': 'product', 'query': 'blue sofa', 'count': 10, 'display': ['image', 'name'. 'guid'] })
+p57
+I14325
+sVp._meta._field_cache[-1]
+p58
+I6802
+sVct.tokenize_text.wordmap['sofa'][0].__class__
+p59
+I6369
+sVf.obj.name
+p60
+I1284
+sV'10/10/10'.replace('/', '')
+p61
+I18119
+sVF.base_fields[None]
+p62
+I719
+sVfrom django.template import Template
+p63
+I10021
+sVp = Product.objects.get(pk=x)
+p64
+I19911
+sVurllib2.unquote("%C2%A3")
+p65
+I2232
+sVb.props.style.get_properties('1')
+p66
+I8115
+sVa.extra_dataq
+p67
+I477
+sVp = CmsPage.objects.filter(state='live')[5]
+p68
+I8455
+sVtuple(d2)
+p69
+I4046
+sVg.name
+p70
+I6575
+sVfrom tipocms.feed_utils import *
+p71
+I3979
+sVimport .*
+p72
+I18089
+sVc = RoomCompetition.objects.all()[10]
+p73
+I19120
+sVos.exec('mpc pause')
+p74
+I299
+sVf = open('/home/omab/out.diff', 'rw')
+p75
+I19561
+sVp = Post.objects.all()[0]
+p76
+I81
+sVcv.cvHaarDetectObjects(["/home/omab/img_5631.jpg"], "/home/omab/haarcascade_frontalface_alt.xml", m)
+p77
+I10835
+sVupdate cms_fragment_template set content_names = "categoryTitle/text,categoryDescription/largetext,categoryLinkUrl/text,categoryLinkText/text,categoryImage/image" where id = 75;
+p78
+I6670
+sVs.expand()
+p79
+I9083
+sVsuper(C, c).pepe
+p80
+I1712
+sVv = nodes[1].node
+p81
+I10213
+sVt.not_done_objects.__all__
+p82
+I902
+sVforms.CharField().widget
+p83
+I14218
+sVlist(reversed(enumerate(reversed(board))))
+p84
+I15956
+sVfrom tipocms import exceptions
+p85
+I8478
+sV[^_(@[!*%*$][+@)^]+#$!_)@}!*_&$&%^@{*%)!(*[*)(}^&{{}_[$%)*()@%)#}_)#}{}##&]{$](#
+p86
+I13663
+sV__import__('account.views', fromlist=['.'], level=0).escapejs
+p87
+I8279
+sV^$(!$}[(_^^}(&#*[[@]*[[_#]+__+*{_*)_&()@!@}#[++^!#^!!&^*((@%%(^^{{*[&+#(+&][{*){
+p88
+I13332
+sVu.obnob_groups.filter(group__name='Group 1')
+p89
+I20462
+sVvar domArr=domain.split('.');
+p90
+I9659
+sVu.obnob_groups.values_list('id', flat=True)
+p91
+I20486
+sVr.searchall("pepe hole mundo como va")
+p92
+I6182
+sV@{)%_]#*{%^&@%$[@((*)_%!#+*^]]!}$]+}^]&$#[}{$*#^$$_{{}}@[@+@+&}}^^@[[@@})()(@&)[
+p93
+I13361
+sVurllib2.urlopen("http://google.com/")
+p94
+I2988
+s.

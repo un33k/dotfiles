@@ -1,0 +1,224 @@
+(dp1
+VGroup.objects.filter(obnob_users=u)
+p2
+I20890
+sVdef 404():
+p3
+I5020
+sVp.expect([BOARD_RE])
+p4
+I16119
+sVq.user_url
+p5
+I9460
+sVf =t._meta.get_field("text")
+p6
+I1639
+sVp.tpl['talent']['more']
+p7
+I17799
+sVtraversal_pages(possible_paths("/the-magazine/"), "live")
+p8
+I2459
+sVf = tarfile.open('/tmp/pepe.tar.gz', 'w:gz')
+p9
+I12376
+sVgraphs['00202'].cycles
+p10
+I7014
+sVimport constnts
+p11
+I5824
+sVo._meta.get_fields()
+p12
+I18728
+sVurlparse.urlsplit(x).netloc
+p13
+I19443
+sVi = r.result[0]
+p14
+I3871
+sVcf.facet
+p15
+I2395
+sVStampImage.objects.filter().all()
+p16
+I3191
+sVdef add_parameter(link, new_parameter):
+p17
+I1230
+sVi.get_image_url
+p18
+I3808
+sVfrom django import settings
+p19
+I230
+sVan = Analisis(a)
+p20
+I11193
+sVs.delete?
+p21
+I15282
+sVch.child_id
+p22
+I4532
+sVa = [False, False, True, True]
+p23
+I19731
+sVLOCAL_TYPES
+p24
+I18099
+sVb.image.size
+p25
+I9441
+sVmax([])
+p26
+I2506
+sVt = Template("{% url supplier_details somethingfromus 6912484 %}")
+p27
+I17914
+sVACCESS_TOKEN = '7453475'
+p28
+I16444
+sVDES.new("djaksdj")
+p29
+I950
+sVimport app
+p30
+I11133
+sVp({ 1: 1, 2:2})
+p31
+I2327
+sVmap(str.encode, a.split())
+p32
+I10455
+sVclass RedirectHandler(urllib2.HTTPRedirectHandler):\u000a    def __init__(self):\u000a        self.max_redirections = 0\u000a    def http_error_302(self, req, fp, code, msg, headers):\u000a        print req, fp, code, msg, headers
+p33
+I7861
+sVCategory._meta.get_field("pepe")
+p34
+I3123
+sVu = User.objects.get(username='syadykin')
+p35
+I18686
+sVx.is_active
+p36
+I16860
+sVsys.stdin.readline()
+p37
+I907
+sVid(c._meta)
+p38
+I1343
+sVf.db_
+p39
+I2358
+sVresult.wait(1)
+p40
+I20363
+sVjson.loads('{"a": new Date(Date.UTC(1,0,1,5,0,0,0))}')
+p41
+I18504
+sVfor pos, i in enumerate(xrange(100)):
+p42
+I16176
+sVx = VoteAnswerForm(data={'value': None})
+p43
+I20429
+sVprint r.sub.__doc__
+p44
+I2640
+sVlinks = SEOLandingLink.objects.filter(parent=None).order_by('term')
+p45
+I12160
+sV_traversal('37328')
+p46
+I6956
+sVfrom django.db.models.fields import Field
+p47
+I11394
+sVr = re.compile(r'\u005cbva\u005cb', re.I)
+p48
+I6151
+sVdict((i, i) for i in xrange(10))
+p49
+I2318
+sVp.p.im_func
+p50
+I1469
+sVfrom django.template import Lexer, Parser
+p51
+I10006
+sVv.name.section
+p52
+I5041
+sVd[0].append(1)
+p53
+I17128
+sVmeta.bind(engine)
+p54
+I15168
+sVrange(a[max(i-2, 0)], a[min(i+3, len(a)-1)]+1)
+p55
+I2933
+sVparse_room_id('http://localhost:8000/3d-design/my-room/1411045/')
+p56
+I20846
+sVclass _DummyImageModel(models.Model):\u000a    image = models.ImageField(upload_to=IMAGE_UPLOAD_TO)\u000a    class Meta:\u000a        abstract = True
+p57
+I4912
+sVMYMOVE_RE.findall(x)
+p58
+I16105
+sVa.match('jdkajsd_djakdjas')
+p59
+I14276
+sVf.as_text()
+p60
+I705
+sVu.email
+p61
+I14526
+sVtuple([1, 2] + [3, 4])
+p62
+I4734
+sVRenderedData.objects.get(page=p)
+p63
+I10447
+sV%timeit '%s' % 'xxx'
+p64
+I16831
+sVa = pepe(**kw):
+p65
+I3531
+sVa.lstrip('-')
+p66
+I16528
+sVimport json
+p67
+I15674
+sVsha.sha("YES").hexdigest()
+p68
+I12067
+sVd.month.imag
+p69
+I17960
+sVurllib2.splitvalue("a=b&c=3")
+p70
+I1246
+sVfrom search.models import ArticleSearch, productsInCategorySearch, ShopWizard
+p71
+I5475
+sVfrom search.views import search_redirect
+p72
+I15488
+sVi = r[0]
+p73
+I258
+sVa[:i], a[i+1:]
+p74
+I8503
+sVj.data[0] = 2
+p75
+I20567
+s.

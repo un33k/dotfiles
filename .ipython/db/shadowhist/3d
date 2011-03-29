@@ -1,0 +1,185 @@
+(dp1
+Vname, module
+p2
+I19481
+sVc = Category.objects.get(pk=2317)
+p3
+I3669
+sVPH.hola2()
+p4
+I20187
+sVt.votes.get_down_votes()
+p5
+I20445
+sVr = re.compile("\u005cbhole mundo\u005cb", re.I)
+p6
+I6176
+sVCmsContentMapping.objects.filter(page__http_path__startswith="/the-magazine/", page__state="live", name="heading")
+p7
+I1948
+sVu =User.objects.order_by('-pk')[1]
+p8
+I20292
+sVupdate cms_fragment_template set content_names = "searchUrl/text"
+p9
+I6720
+sV# DATABASE_USER = 'root'
+p10
+I4640
+sVprint 'https://api.twitter.com/oauth/authenticate?' + urllib.urlencode({'session[password]': 'pass(twitter).7', 'authenticity_token': '740834dacc2833d473945f510148b63985716934', 'oauth_token': 'JoWupdZa3xErqKk8MJnb3uxAoqoOi75hLZAQagewUc', 'session[username_or_email]': 'social_auth'})
+p11
+I21344
+sVf.__nonzero__()
+p12
+I12259
+sVr.sub("{% article_tracked_url \u005cg<1>\u005cg<2>\u005cg<1> \u005cg<3>\u005cg<4>\u005cg<3> %}", """{% article_tracked_url "argos.co.uk""http://www.argos.co.uk/static/Browse/ID69/10244273/c_1/2|category_root|Home+and+furniture|10197552/c_2/3|cat_10197552|Clearance+home+and+furniture|10244273/r_1/1|Price+Cut|Yes|1.htm "%}"target="_blank" """)
+p13
+I14952
+sVv = Value.objects.select_related('name', 'name__section')
+p14
+I8903
+sVr = do_subscribe('matiasaguirre@gmail.com', 'matias')
+p15
+I7880
+sVa.pop(2)
+p16
+I16175
+sVt = Template('hola {{ x }} {% if "mundo" not in x %} mundo {% endif %}')
+p17
+I18496
+sVid(c2)
+p18
+I8970
+sVfrom ctegorization.models import *
+p19
+I3159
+sVdir(l.source[0])
+p20
+I9999
+sVm._d_di
+p21
+I8040
+sVc = Category(path='lighting/1125')
+p22
+I10488
+sVSerializer().get_string_value(p, p._meta.get_field('template.template_path'))
+p23
+I11376
+sVfrom calificacion.models import *
+p24
+I10732
+sVctx = get_shopping_context(path="/1")
+p25
+I8519
+sVos.walk('/home/omab/tmp/a')
+p26
+I17760
+sVdef t_trans():
+p27
+I4862
+sVurlparse.urlparse('h')[1]
+p28
+I20950
+sVo.parse('ttp 123 as pp')
+p29
+I7198
+sVw = Product.objects.filter(guid__in=[u'2a8b152dbef21b9b9b9695ed02ed6a353b880507', u'409bc01a254b23639600601bd7abbf7bd98c77f5', u'000adf4ad62ede4853643a893dc6f3a7b5dcdcef', u'248329976311497ce7cd31b359a3ba55de5fb561', u'3413686bfca89348648052e9ac427312260ed21b', u'140bf11744a2a5a1fcc4fe7562eda4e77577ce3b', u'b1896bc816b9613a7a7c99f8d9bf122baef7e749', u'e38dd5cc28c393a52165a978f5a23cf717dd5a0f', u'8cbb13f1ecfccde12627793d5a5c52a37859841c'])
+p30
+I5693
+sVfrom django.template import VariableDoesNotExist
+p31
+I10348
+sVet = modelformset_factory(StampImage, max_num=2, fields=["name", "image"])
+p32
+I3273
+sVapply(lambda *k: sum([ i for i, j in k ]), a.items())
+p33
+I7033
+sVp.easy_stem("puppies")
+p34
+I5934
+sVitem['language']
+p35
+I16816
+sVt = Template('{{ f.errors.name.as_text }}')
+p36
+I18134
+sVupdate cms_fragment_template set content_names = "" where id = 60;
+p37
+I6655
+sVs.result.items[0].pk
+p38
+I14372
+sVf.list_ex[0].has_next
+p39
+I1863
+sVprint t.widget_attrs({})
+p40
+I20032
+sVreverse("wears.buy")
+p41
+I3398
+sVa.append({'name': 'e'})
+p42
+I14656
+sVdatetime.datetime.ctime
+p43
+I4040
+sVa.expand_items("hola,\u005ctcomo,\u005cr\u005cn\u005cnandas")
+p44
+I522
+sVCmsPage.objects.values().get(pk=1559)
+p45
+I12206
+sVpepe(1, x=1, y=2)
+p46
+I20639
+sVs.commit)(
+p47
+I15255
+sVdict((k, sum(filter(lambda x: x[0] == k, data))) for k in dict(data).iterkeys())
+p48
+I15611
+sVimport future
+p49
+I8169
+sVi = xrange(10)
+p50
+I16261
+sVfrom itertools import groupby
+p51
+I15751
+sVxml.startDocument('page')
+p52
+I17255
+sVpprint.pprint.__doc__
+p53
+I3326
+sVu.obnob_groups.filter(group_parent__isnull=True)
+p54
+I20467
+sVreverse('groups', args=('Mi Mer',))
+p55
+I20119
+sVV = values_form(v)
+p56
+I8923
+sVimg.convert?
+p57
+I12558
+sVslugify('&amp;')
+p58
+I14714
+sVa[:-3]
+p59
+I5117
+sVtime_format("134964", "G:i")
+p60
+I3232
+sVg.read('/home/omab/.sheep/00202.dot', 'dot')
+p61
+I6919
+sVr.search_args
+p62
+I4094
+s.

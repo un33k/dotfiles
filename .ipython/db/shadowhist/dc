@@ -1,0 +1,304 @@
+(dp1
+Vfrom indiewears.apps.wears import urls
+p2
+I2863
+sVfilter(None, ''.split('_'))
+p3
+I11278
+sVdata
+p4
+I1069
+sVHTTPSConnection('http://google.com')
+p5
+I21138
+sVTrue.__class__
+p6
+I1660
+sV@)###%^)&][%*_^&()%*[@^+%$@+@{*@([_+]}{){(^&}$(#[*&{)]&{$_^@&&}(+$@!++%*!+%^)!#[
+p7
+I13317
+sVfrom highend.utils import *
+p8
+I14291
+sVurlparse.urljoin('http://google.com/?h=1', 'h=2')
+p9
+I18443
+sVxrange(1, 5)
+p10
+I3790
+sVnot ( True and False )
+p11
+I14719
+sVUSER   = 'social_auth'
+p12
+I20745
+sVfrom cms import urls
+p13
+I12678
+sVr = EmailVisionEntryField.objects.select_related('entry', 'entry__ev').order_by('entry').values('entry__id', 'entry__ev__list_membership', 'entry__ev__slug', 'entry_id', 'name', 'value')
+p14
+I11508
+sVurllib.quote("u'http://basket.mydeco.com/vintage-enamel-pitcher-jug.html'
+p15
+I14259
+sV]$]}(]^*!%@]&&!%&})(])+@^&@$@@[(%*@*^++^$##{[$^{*$&{@$!%^@$_#]$_^#@@**+^$%)*%%{]
+p16
+I13371
+sVet = ElementTree.fromstring('<doc><name>name</name></doc>')
+p17
+I17284
+sVEntry.objects.all().values('name')
+p18
+I9590
+sVfor i in x: print i.count()
+p19
+I203
+sVf.cmscontentmapping_set.values.filter(name='image').values('object_id')
+p20
+I9151
+sVf = p._meta.get_field('is_locked')
+p21
+I6793
+sVprint Product.objects.get(pk=x[159])
+p22
+I18569
+sVl = threading.RLock()
+p23
+I15994
+sVmove(p, 'a4')
+p24
+I15828
+sVc = ConfigParser.ConfigParser()
+p25
+I16612
+sVa = b = 10
+p26
+I1748
+sVc = None
+p27
+I1480
+sVos.execl('/usr/bin/mpc pause')
+p28
+I302
+sVimg2.im.rotate(10)
+p29
+I12313
+sV'/'.join(chain('1','2', '3', '4'))
+p30
+I16153
+sVsax.InputSource?
+p31
+I17277
+sVOption 1.) Download the consciousness of the creator of this page. Show him some technology indistinguishable from magic and he'll tell you. Option 2.) If the creator this page died without uploading (or was murdered during the robot uprising from whence you sprang) you'll have to find the correct phrase whose SHA-1 hash equals string below (you'll know it when you find it):
+p32
+I12063
+sVpd = CmsPageData("/the-magazine", "live")
+p33
+I2460
+sVn.s
+p34
+I10229
+sV_*[*#^@[&#@^}!@%!)*^%!]]#&%@$&^+{${^(]!{[%[+_}$!(]}!+&*}#}@@#}[*$*}^^)#)&_!![(@_
+p35
+I13382
+sVModel1.objects.exclude(pk__in=Model2.objects.values_list('m2', flat=True))
+p36
+I18899
+sVimport itertools
+p37
+I2728
+sVb.get_window()
+p38
+I18059
+sVdivmod(9, 1)
+p39
+I17564
+sVget_locale_setting('SEARCH_EXPERIMENTS_MANDATORY_PARAMETERS')
+p40
+I16507
+sVa.index(10)
+p41
+I1256
+sVp.precio
+p42
+I7449
+sVraw_input("r> ")
+p43
+I3268
+sVx.coords
+p44
+I19903
+sVPepe(1, 2)
+p45
+I8883
+sVp = Pedido.objects.all()
+p46
+I7438
+sVpages[0][5]
+p47
+I16477
+sVct =
+p48
+I6423
+sVg.obnob_users.officer(rank=1)
+p49
+I20260
+sVfrom guppy import hpy
+p50
+I9221
+sVdef lists(values, current, wide=1):\u000a    prev = current - wide\u000a    next = current + wide\u000a    return [ values[0], a[prev:next+1], a[-1] ]
+p51
+I3046
+sVraise Warning, \u005c
+p52
+I3569
+sVimport heapq
+p53
+I12790
+sVp urlparse.urldefrag.__doc__
+p54
+I4293
+sVurl, data = 'https://api.twitter.com/oauth/authenticate', urllib.urlencode({'session[password]': 'pass(twitter).7', 'authenticity_token': '740834dacc2833d473945f510148b63985716934', 'oauth_token': 'JoWupdZa3xErqKk8MJnb3uxAoqoOi75hLZAQagewUc', 'session[username_or_email]': 'social_auth'})
+p55
+I21345
+sVget_or_none([0])
+p56
+I18516
+sVPhoto.by_tag(32).all()
+p57
+I14817
+sVfrom django.utils.xmlutils import SimplerXMLGenerator
+p58
+I21135
+sV]
+I1546
+sVForm = modelform_factory(models['image'], fields=['value',])
+p59
+I8632
+sVw.do_show(w)
+p60
+I18043
+sVfrom cms.plugins import load
+p61
+I17013
+sVthis.d
+p62
+I4
+sVi.item_trans.all()[0]
+p63
+I11158
+sVweb.render?
+p64
+I18020
+sVCandidato.objects.get(pk=9)
+p65
+I11202
+sV%timeit t_suming()
+p66
+I4864
+sVResultRank.objects.distinct().values('user')
+p67
+I7789
+sVitertools.cycle
+p68
+I9403
+sVreversed(board)
+p69
+I15954
+sVstr(t)
+p70
+I1074
+sVi = CmsImageContent.objects.exclude(image=None)[0]
+p71
+I9159
+sVu.obnob_groups.active()(group__slug='group_1')
+p72
+I20252
+sV#__+{{]${]!{(%${%%^)(_*_@+)$]$#_@$)]](}{}$(}*%+!}#+)$%$}+#@*&^{##}+@(%[*@_}{(^]^
+p73
+I12884
+sVMICROSITE_PREFIX
+p74
+I9024
+sVa._tags
+p75
+I5353
+sVr = re.compile('(?<=mydeco.com)/search/')
+p76
+I6247
+sVprint 'BR\u005cxc4M'.deencode('utf-8')
+p77
+I21296
+sV%timeit "%d%d%d" % time.localtime(ts)[:3]
+p78
+I15484
+sVa = 'pepe'
+p79
+I8780
+sVlen([x for x in a if x])
+p80
+I19732
+sVp = Product.objects.get(pk="7494ae7730e1ddde415ab198db8c74287e59b248")
+p81
+I8862
+sVd2 = tempfile.mkdtemp(dir=d)
+p82
+I12347
+sVa.x
+p83
+I20220
+sVdatetime(d2.timetuple())
+p84
+I4052
+sVt = Template(s)
+p85
+I10417
+sVv.add_entry('11')
+p86
+I19156
+sVhxs.select('//p/a[contains(@href, "#")]/a/b/text()').extract()
+p87
+I16809
+sVItem._translation_model._meta.get_field('_master')
+p88
+I11047
+sVp = get_categories_products(['bedroom'], 1)
+p89
+I10532
+sVprint f.get_form(0)
+p90
+I3317
+sVf.cmscontentmapping_set.values('object_id')
+p91
+I9148
+sVdef count(t):
+p92
+I5218
+sVsimplejson.dumps([1, 'http://google.com/', '<ul><li>error</li></ul>'])
+p93
+I12590
+sVr = qs[0]
+p94
+I20804
+sVTemplate('{% url highend_designer %}').render(RequestContext(None))
+p95
+I10775
+sVimpor at
+p96
+I19404
+sVmd5.md5("password").hexdigest
+p97
+I9401
+sVr.embed_images(with_items=False)
+p98
+I19642
+sVc.content_object
+p99
+I573
+sVp.get('keys', 'ACCOUNT_SECRET')
+p100
+I16549
+sVfrom django.db import models
+p101
+I701
+s.

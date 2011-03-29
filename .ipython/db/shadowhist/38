@@ -1,0 +1,224 @@
+(dp1
+Vwhile a:
+p2
+I15076
+sVx = g.obnob_users.active()
+p3
+I20144
+sVh._meta.get_all_field_names()
+p4
+I18803
+sVimport tagging
+p5
+I25
+sVa += 'pepe'
+p6
+I6230
+sVc.end()
+p7
+I16037
+sVBROKEN_ARTICLE_TRACKED_URL_RE.findall(t)
+p8
+I15046
+sVx = dict((x.split('=', 1)[0], x.split('=', 1)[1]) for x in 'oauth_nonce=48480696&oauth_timestamp=1294974539&oauth_signature_method=HMAC-SHA1&oauth_consumer_key=anonymous&oauth_verifier=lOvZRgIP2lwG3DVmbZCa3Eun&xoauth_displayname=Social%20Auth&oauth_version=1.0&oauth_token=1%2Fdkl8EbkP3-B71e0Ia8u5onTH3Ti_VeWiqKqp1IJXLn4&oauth_signature=Q0VXZ%2BJ7eAMd0LfZbA8IN7re%2Bck%3D&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo%23email&oauth_callback=http%3A%2F%2Flocalhost%3A8000%2Fcomplete%2Fgoogle-oauth%2F'.split('&'))
+p9
+I19434
+sVvar
+p10
+I10041
+sVc2.save()
+p11
+I18750
+sVisinstance(c, A)
+p12
+I16332
+sVopen.__doc__
+p13
+I905
+sV[ id(a) for a in articles ]
+p14
+I1783
+sVr.pending
+p15
+I448
+sV[ v.inc_form() for x in PAGES['shopping.s']().values() for v in x.values() ]
+p16
+I17783
+sVpages[0].id
+p17
+I1019
+sVp = Pepe(1)
+p18
+I15
+sVcommands.getstatus('/bin/ls')
+p19
+I317
+sVm.hexdigest()
+p20
+I8403
+sVp = [ a[i:i+4] for i in range(len(a)/4+len(4)%4) ]
+p21
+I5374
+sVa = "/shopping/style/modern/coffe-tables"
+p22
+I9932
+sVprint 1,2,3,4
+p23
+I6557
+sVf = open(os.path.join(tmp, "pepe"), "w")
+p24
+I1925
+sV&*+!^%@]^&&++[[$}+@_%)]$_}*@*[%&*$}%&$)*#*%[^@!#@%!)}_![_%(}!$(*_$!*]+)@]}@(@{#^
+p25
+I13067
+sVd.timez?
+p26
+I17729
+sVFacet.categoryfacet_set.all()
+p27
+I2384
+sVstr(x)
+p28
+I18389
+sVpepe.func_code.co_name
+p29
+I3928
+sVboard.append('1 2 3 4 5 6 7 8')
+p30
+I15947
+sVu.has_perm('add_user')
+p31
+I7111
+sVs.identity_map
+p32
+I15302
+sV[[user.id, user.get_full_name()] for user in users]
+p33
+I20495
+sVw2 = w._get_next_or_previous_by_FIELD(w._meta.get_field('priority'), is_next=True)
+p34
+I6313
+sVfrom products.models import *
+p35
+I3762
+sV!(+}(*!(&_[}}{}+#{!#)_[!)&))%%#}_!]${*}@})_)}%+&#$]&(^*[^+&{)}+@((&]])%$@((_(^$[
+p36
+I13968
+sVforms.CharField
+p37
+I8170
+sVdatetime.datetime(*d2.timetuple()[:-1])
+p38
+I4055
+sVWebsite._meta.get_field('manufacturers').through
+p39
+I10081
+sVt = 'article_tracked_url "homebase.co.uk"  "http://www.homebase.co.uk/webapp/wcs/stores/servlet/ProductDisplay?langId=-1&storeId=20001&partNumber=8421519" %" target="_blank"'
+p40
+I15041
+sVprint redirect_page
+p41
+I20761
+sVwith '1' as a:
+p42
+I15499
+sVp = Page.objects.get(pk=14091)
+p43
+I14406
+sVq.last_activity
+p44
+I9454
+sVs = json2.replace('\u005c\u005c\u005c\u005c\u005c\u005c', '\u005c\u005c')[15230 - 20: 15230 + 20]
+p45
+I11632
+sVx = unicode('a')
+p46
+I17969
+sV$[]]@@+!(_$$([#_%_$#(%!#[+)[_&!_*]+!&%}&*[{]*+[!!]+_})[)]))(}_$+{{){[#}^+[{@$[![
+p47
+I13047
+sVp = CmsPage.objects.get(pk=1883)
+p48
+I1500
+sVTranslateableModel.objects.__dict__
+p49
+I5811
+sVprint p.add_option.__doc__
+p50
+I4599
+sVc = get_shopping_context({'design_boutique': True})
+p51
+I14555
+sVtype(((,)))
+p52
+I2404
+sVa.join('')
+p53
+I9948
+sVx = a.get('aaa')
+p54
+I16523
+sVlo.dirs
+p55
+I10030
+sVa = set([1, 2, 3, 4])
+p56
+I17379
+sVu.user_permissions.filter(app_label='tipocms')
+p57
+I5992
+sVfrom gdata.auth import AuthSubToken
+p58
+I19709
+sVq = Question.objects.get(pk=1146)
+p59
+I11298
+sVclass RedirectHandler(urllib2.HTTPRedirectHandler):\u000a    def __init__(self):\u000a        self.max_redirections = 0\u000a    def http_error_302(self, req, fp, code, msg, headers):\u000a        print req, fp, code, msg, headers\u000a        return fp
+p60
+I7870
+sVa = "hola mundo como va"
+p61
+I4691
+sVMicrosite.DoesNotExist
+p62
+I8715
+sVres = calculate_cloud(links, 3, LINEAR)
+p63
+I12166
+sVtokenize = build_tokenizer(phrases, base_tokenizer=HtmlPhraseTokenizer(stopwords=[None]))
+p64
+I6491
+sVurllib.unquote('hola%20mundo')
+p65
+I11125
+sVp._meta.get_field_by_name('id')
+p66
+I18768
+sVt.strftime?
+p67
+I18377
+sVs[0][0][0][0][1]
+p68
+I16999
+sVcv.CvImage().load("/home/omab/img_5631.jpg")
+p69
+I10852
+sVp = re.compile(r'[^\u005c{](%\u005cs*article_tracked_url\u005cs+.+?%})')
+p70
+I15026
+sVnotices
+p71
+I20957
+sVsimplejson.loads('"{ \u005c\u005c"hola\u005c\u005c": 2312 }"')
+p72
+I10314
+sVf.widget_attrs()
+p73
+I3369
+sVu.set_password('1234')
+p74
+I12358
+sVf.storage.path
+p75
+I14228
+s.

@@ -1,0 +1,272 @@
+(dp1
+Vhaar.this.own
+p2
+I10921
+sVc.entries.order_by('-id')
+p3
+I19390
+sVv.add_entry('8')
+p4
+I19149
+sVs.GetPhoto?
+p5
+I19754
+sVr = cur.execute('select id, name, category_id from tags')
+p6
+I7510
+sVp.__doc__
+p7
+I17106
+sVa = "file.jpg"
+p8
+I10883
+sVs = 'a;b;c
+p9
+I15102
+sV($@&^}_@^+%$($_${$[+@]#*#[}]&#!!{&@!&@(!&#{[+]#*)@)[&[}))^[[@#!*}+(&)(*_*%%#!(]_
+p10
+I13032
+sVi = Item.objects.all().get_translations(['es', 'pt']).set_language('pt').set_language('es')[0]
+p11
+I11290
+sVfor i in Image.objects.all():
+p12
+I117
+sVARTICLE_TRACKER_URL.findall(s)
+p13
+I14880
+sVb_iface.GetProperty("battery.rechargeable.is_discharging")
+p14
+I2218
+sVroom.user
+p15
+I9276
+sVfrom django.db.models.fields.files import ImageField
+p16
+I4903
+sVxapian.Database.__doc__
+p17
+I99
+sVr = Room.objects.order_by('-id')[100]
+p18
+I19847
+sVdb.photo_tag
+p19
+I15212
+sVa = list(a)
+p20
+I1448
+sVresolve('cms_edit', '10')
+p21
+I12672
+sVa = """
+p22
+I1195
+sVreverse('alert_list')
+p23
+I12360
+sVph.
+p24
+I4788
+sVxml.startElement('page', {})
+p25
+I17257
+sVpage_data(Page.objects.get(pk=1))
+p26
+I8965
+sVv2._value
+p27
+I8690
+sVct = ContentType.objects.get_for_model(Video)[0]
+p28
+I350
+sVu.variant
+p29
+I5088
+sVb.Label
+p30
+I6126
+sVsearch.views.search_redirect
+p31
+I15490
+sVf.cleaned_data
+p32
+I20857
+sVa.expand_items(s)
+p33
+I516
+sVEntry.objects.values('name', 'value').filter(group='/the-magazine/', expiration__gte=n)
+p34
+I9601
+sVp property.__doc__
+p35
+I9004
+sVr = c.get('/login/twitter/', SERVER_NAME='myapp.com', SERVER_PORT='8000')
+p36
+I20665
+sVa.__class__.pepe = pepe
+p37
+I17890
+sV_+%){{}(#_}&{&++!@_)(_+}%_#+]&^)+]_[@]+$!+{@}$^!&)#%#^&+$@[+&+{^{*[@]#!{_*[)(#[[
+p38
+I12906
+sVr.status_code, 'class="blog-post"' in r.content
+p39
+I19668
+sVHTMLParser.tagfind.findall(html)
+p40
+I9755
+sVValue._meta.get_field('page')
+p41
+I8973
+sV{_]+[&&@%%(#{(^%)++%)!&!)+&)&]&}[&[^*!${&!#&&*^)[&$]!]%@{%%!&@@+}{#*]+%&!#^_]!_@
+p42
+I13582
+sVProduct.objects.get(guid="00004ac6fb3f2d87de7821645f82d8e35c2568d0")
+p43
+I4424
+sVfrom django.contrib import session
+p44
+I4327
+sVlist(CmsPage.objects.most_viewed("/the-magazine/'", ''))
+p45
+I12201
+sVlen(c)
+p46
+I4554
+sVclean_link("""hola mundo <a href="http://google.com">google</a> y esto <a href="http://yahoo.com">yahoo</a> y <a href="/forum/">forum</a>""")
+p47
+I14541
+sVa = 'hola mundo'
+p48
+I12602
+sVurlparse.urlparse(h_
+p49
+I20778
+sVa = r'.*'
+p50
+I4699
+sVuser = get_object_or_404(join_stats(user, comment_count='usercomment_count'), username=username)
+p51
+I11742
+sVurlresolvers.reverse('highend_action', 'dasjdkas',)
+p52
+I14297
+sVs[2]
+p53
+I16993
+sVp contextlib.closing.__doc__
+p54
+I3002
+sVa[p.__class__]
+p55
+I4823
+sVField?
+p56
+I12736
+sVF = forms.form_for_fields([f])
+p57
+I717
+sV^&&+[!_$*)}{]{!}_@_]*__*)]}(]_(]#_!_)#^!!$#**#^](!++*[)(]+(&*(!_^@*#]{!!}^$(_#(_
+p58
+I13136
+sVATTR_NAMES_RE = re.compile(r'%\u005c(([^\u005c)]+)\u005c)s')
+p59
+I16497
+sVs.result.search_params.paginate_by(20)
+p60
+I14364
+sVx.parent.states.all()
+p61
+I19905
+sVg.fields['link'].data
+p62
+I17810
+sVimg.past(img2)
+p63
+I12459
+sVq.query.group_by = 'date__month'
+p64
+I15701
+sVu.obnob_groups.all().filter(group__status='A', group__parent__isnull=True)
+p65
+I20507
+sVdatetime.datetime.strptime(d+"00", "%y-%m-%d %H:%M:%S")
+p66
+I1081
+sVurllib.urlcleanup("http://www.google.com//hola//mundo/")
+p67
+I3523
+sVhaar.delta_elems?
+p68
+I10916
+sVr.match('A')
+p69
+I16920
+sVa.strip()
+p70
+I8165
+sVg.obnob_users.officer(rank=2)
+p71
+I20261
+sVrooms[0].username
+p72
+I11478
+sVunicode(' '.join(a.split()))
+p73
+I9785
+sVpingomatic.pingomatic('gg', 'http://google.com')
+p74
+I8430
+sVb = ' '.join(response.body.split())
+p75
+I16882
+sVt = Tag.get(13)
+p76
+I15288
+sVtpl.render(Contex())
+p77
+I10340
+sV[a[x*50:x*50+50] for x in xrange(r)]
+p78
+I17570
+sVprint u"\u005cu0003"
+p79
+I21366
+sVr.match(a)
+p80
+I6198
+sVos.path.abspath("/home/omab/Desktop/")
+p81
+I3427
+sVsr = ProductSearch(display=['guid', 'image'], count=10)
+p82
+I11542
+sVfor i in lr:\u000a    if i.content.id not in texts:\u000a        texts[i.content.id] = i.content
+p83
+I3832
+sVp = CmsPage.objects.filter(http_path__istartswith="/the-magazine/style/articles/c", state="live")
+p84
+I3145
+sVtype("a")
+p85
+I2014
+sVa = Pepe("aaa")
+p86
+I381
+sVitertools.tee(iter(a), 2)
+p87
+I5306
+sVSpecialOffer.__new__.__doc__
+p88
+I7145
+sVstr(a.encode('utf-8')).decode('utf-8')
+p89
+I10428
+sVfrom search import views
+p90
+I12387
+sVfrom twitchess improt playqueue
+p91
+I16938
+s.

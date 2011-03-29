@@ -1,0 +1,278 @@
+(dp1
+Vos.path.exists("/tmp/pepe")
+p2
+I4356
+sVhash(a.items())
+p3
+I1361
+sVf.cover_url
+p4
+I19635
+sVf = fd.fragments_list()[0]
+p5
+I783
+sVct.tokenize_text.['sofa']
+p6
+I6366
+sVs = t[0]
+p7
+I16384
+sVch.add_to_class.__doc__
+p8
+I4585
+sVprint A.__dict__['a']
+p9
+I16341
+sVfor i in x:\u000a    print i.count()\u000a    for l in i:\u000a        print l.get_object()
+p10
+I189
+sVif(input.value.trim()==''||input==null){
+p11
+I9671
+sVp = Place.objects.filter(name__icontains='Montevideo')[0]
+p12
+I19877
+sVitem.title_en
+p13
+I11070
+sVcodecs.decode?
+p14
+I16912
+sV[ x.product_price for x in p]
+p15
+I17545
+sV$**!_$!#&+%@^@@#@%!#__(#[})^(}@{(]$%!@&&@*++)((@#[@]]+@@{*++$$(%}&_[*%#(](_!*}[#
+p16
+I13116
+sVWebsite.objects.filter(name="Modenza")
+p17
+I9254
+sVr.get_result().get_items()[0].get_absolute_url()
+p18
+I18365
+sVget_gwo_experiments("gts", 'localhost')
+p19
+I14962
+sVcapfirst("hola mundo")
+p20
+I14716
+sVfrom django import newforms as forms
+p21
+I692
+sVs.user
+p22
+I16367
+sVs.cache.last_activity.__class__
+p23
+I11947
+sVt = Template("""{% for key, items in data %}\u000a<h2>{{ key }}</h2>\u000a<ul>\u000a{% for item in items %}\u000a<li>{{ item }}</li>\u000a{% endfor %}\u000a</ul>{% endfor %}""")
+p24
+I21065
+sVfrom toolbox.classification.category_phrases import category_phrases
+p25
+I6345
+sVlist(reversed(a))
+p26
+I16582
+sVraise NotImplementedError
+p27
+I3446
+sVsettings.ROOT_CATEGORY
+p28
+I8533
+sV&&!]+++^^#{#__$@&([)*}]%$+@##}[&[*]_{*@]%&!)$}@&}!^)&@$+@#&!%#+*%[*[]$)##)##_+{{
+p29
+I13802
+sVu.membership_set.all()
+p30
+I20354
+sVos.path.dirname("http://pdb1.mydeco.com/product_images/full/06c99e658cc69850968456768f73a0b27fa6f1dd.jpg")
+p31
+I4634
+sVr._user_cache.userpoint_set.all()
+p32
+I11483
+sVm = p.cmspagemetacontent_set.all()[0]
+p33
+I5495
+sVurlresolvers.reverse("indiewear.wears")
+p34
+I2862
+sVCmsPage.objects.exclude(simple=None).count()
+p35
+I11976
+sV@^)[{#%&$*}$[*}#_^}%+}#^_+)^+$!_*#+)^_((^^+(*+[]][^(^^^&^}}}^*!(^]]*&+}[(#%)+(#!
+p36
+I13681
+sVPhotoTag.join(PhotoTag).filter(tag_id=1).filter(~PhotoTag.tag_id.in_([6]))
+p37
+I15357
+sVp.template.path
+p38
+I5025
+sVdb.map
+p39
+I15200
+sVos.tempnam
+p40
+I1902
+sVb = main.get_widget('start')
+p41
+I8012
+sVg.obnob_users.active
+p42
+I20137
+sVslugify("facet=cat1%2C105")
+p43
+I8495
+sVnot a or a == 1
+p44
+I20014
+sVisinstance(a, unicode)
+p45
+I3949
+sVa.__class__.__index__(2)
+p46
+I4141
+sVtest(10, recursive=True, args=*[10, 20])
+p47
+I18154
+sVfrom django.utils.datastructures improt DotExpandedDict
+p48
+I17766
+sVdata2[:1+1]
+p49
+I15634
+sV@@@$]&@{_#[{!&$!%##+&(%@)^_}+^%#@{^{%[*%{&#[}(^}%((@#&_)}^][#})[%%}(_)_+*%{^*{}_
+p50
+I13814
+sVreverse("/")
+p51
+I3397
+sVdatetime.datetime.tzinfo.__class__
+p52
+I9562
+sVt = Type()
+p53
+I17341
+sVTr717thDbzLw4RWuwSYoi0z3cdvdY6m7DPy1VNoWibu9TDocB4eKeCxOwvgxGYxHg/F9/xiYXfAA
+p54
+I19602
+sVconnection.ops.quote_name('a')
+p55
+I7934
+sV)%*@_]+][&{@$$]]+*}&+*{+$)$}^)!{+**!@[(])@)^*%@^@]}%^^!!$&!}^{&^@_+]_]$)*#({%]#*
+p56
+I13714
+sVsimplejson.loads('{"a": 1')
+p57
+I16922
+sVtitulares.select('./h1/text()').extract()
+p58
+I16692
+sVitem.current_language
+p59
+I11039
+sVWebsite.objects.values_list('scraped', 'indexed', flat=True)
+p60
+I12612
+sVfor id, text, created in votes:
+p61
+I19003
+sV_##)#^*%#}{$}$[!!__$)}(%+[^(^$(%_)#!$[$@+]${$({)[^$+&$($]*!+$^{_(_%}(^)(!_))![*^
+p62
+I12932
+sVt.sections
+p63
+I4726
+sVd = { 'fastsearch': True}
+p64
+I12355
+sVclass P(object):
+p65
+I879
+sVsearch[3].count()
+p66
+I166
+sVt.replace('V', 'l').replace('I', 's').replace('T', 'n').replace('G', 'd')
+p67
+I5231
+sVImageDraw
+p68
+I4014
+sVbase64.encodestring("cosas lacteas de las tetas de natalia ahora...")
+p69
+I14516
+sVctx = { 'cms_fragment': { 'contents': { 'name': { 'text': 'name' } },
+p70
+I10198
+sV$)!_%&*^*#!{%&+%#^![%$)*@%*+}+%_#[&_&+}(#$+#@!#!!#!%$@&+[@[#+@@+[_^#}$&)}$#]]&*#
+p71
+I13418
+sVfor n in g.nodes():
+p72
+I6893
+sVurlparse.urlunparse(('', '', '/a', 'a=1', '', ''))
+p73
+I20787
+sVfrom question.models import *
+p74
+I7350
+sVdef pepe(r, x, *args, **kwargs):
+p75
+I18667
+sVurllib.urlencode((("a", 1),("b", 2)))
+p76
+I2571
+sV[ x.user for x in UserSocialAuth.objects.all()]
+p77
+I18671
+sVurlparse.urlunparse?
+p78
+I8826
+sVnotices = items[0][1]
+p79
+I20956
+sVf = subscribe_ev_form(ev, data={ 'EMVADMIN1_FIELD': 'violet' })
+p80
+I8196
+sVpq.new('matias', Crafty)
+p81
+I16245
+sVg = Group.objects.get(pk=3)
+p82
+I20244
+sVurljoin('matias', '')
+p83
+I17651
+sV' '.join([ s.encode('utf-8') for s in a.split() ])
+p84
+I10457
+sVy.options.all()
+p85
+I19032
+sVv.attrib
+p86
+I17311
+sV]^!]})@%_([{)(+$^{{_+_&_^&!+}*(}%&)+(^}{)@*^#(%[{]_+^!%!_++_[{}(_[}@$@]!^*_+{&{]
+p87
+I13760
+sVfrom search.models import ShopWizard
+p88
+I11442
+sVs.get_visible()
+p89
+I7308
+sVt.render(Context({ '_raw_enabled': True, 'value': "hola mundo" }))
+p90
+I10403
+sV'/'.join(url.split('/')[3:])
+p91
+I9029
+sVf.get_attname
+p92
+I2359
+sVr = re.compile(r'[\u005cw-]+')
+p93
+I20815
+s.

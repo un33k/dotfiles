@@ -1,0 +1,254 @@
+(dp1
+V{}[_(}*$$)@!{@]{+&!+#@*}_]^[}&%&_^^({}{]!![^}+^(!{+[%})@][}]}[#)}]%{{%&!#^#_^[+^
+p2
+I13901
+sV[{10:2}] * 10
+p3
+I2442
+sVs.has_images()
+p4
+I1116
+sVstr(val.decode('ascii'))
+p5
+I10413
+sVj.data[-1][-1]['x'] = 1
+p6
+I20563
+sVim = Image.open("./pppp.jpg", "n")
+p7
+I1378
+sVfrom django import conf
+p8
+I2480
+sVa = [0]
+p9
+I1464
+sVlist(EmailAddress.objects.values_list('email', flat=True))
+p10
+I20290
+sVissubclass("hola", Pepe)
+p11
+I18295
+sVa == b
+p12
+I2560
+sVb_iface.GetProperty("battery.charge_level.percentage")
+p13
+I2267
+sVnodes = p.parse()
+p14
+I10178
+sVr.match("cbb")
+p15
+I4928
+sVd = ph.sections_data()
+p16
+I4960
+sVseen_models
+p17
+I8359
+sVimport threadd
+p18
+I16066
+sVlist.__iter__.__doc__
+p19
+I645
+sVrange(-1)
+p20
+I19676
+sVp = CmsPage.objects.get(pk=14146)
+p21
+I12397
+sVq2 = QueryDict("a=4&c=1")
+p22
+I18199
+sVa.startswith()
+p23
+I1483
+sVhxs.select('//comment()')
+p24
+I16872
+sVf = tempfile.TemporaryFile('w')
+p25
+I12276
+sVset(['cms_producer']) - set([ up.split('.')[-1] for up in u.get_all_permissions() ])
+p26
+I5979
+sVp = CmsParser(l.tokenize())
+p27
+I10196
+sVu =User.objects.order_by('-pk')
+p28
+I20280
+sVdom.documentElement.getElementsByTagName('form')[0].getAttribute('id')
+p29
+I20736
+sVf.has_previous()
+p30
+I1271
+sVp = CmsPageTemplate.objects.get(pk=61)
+p31
+I744
+sVgetattr(c.obj, "credits")
+p32
+I1326
+sVb = B(1)
+p33
+I15002
+sVtime.strptime("07/27/2010", "%M/%d/%Y")
+p34
+I17184
+sVTemplate('{% static_url "room_explorer/?imagetype=buythelook" %}').render(Context({}))
+p35
+I11243
+sVdatetime.datetime.fromtimestamp(t)
+p36
+I18402
+sVgen_word = lambda size: "".join(string.letters[random.randrange(51)] for _ in range(size))
+p37
+I15658
+sVimport fuse
+p38
+I62
+sVdef _traversal(n):
+p39
+I6953
+sVtype(A)
+p40
+I12012
+sVr.count()
+p41
+I216
+sVfrom special_offers.admin import *
+p42
+I6046
+sVpepe(r=1, x=2, z=3)
+p43
+I18668
+sVd.modify_bg.__doc__
+p44
+I8074
+sVlist(enumerate("hola"))
+p45
+I2008
+sVItem._translation_model._meta.pk.db_column
+p46
+I11521
+sVget_helper(p)
+p47
+I4768
+sVp.pepe = 10
+p48
+I5760
+sVu.has_perms([''])
+p49
+I5965
+sVurlparse.urlparse('http://digg.com')
+p50
+I8819
+sVcStringIO?
+p51
+I15814
+sVb = BlogAwardItem.objects.with_stats().all()[0]
+p52
+I15763
+sVf = h.search_box
+p53
+I1720
+sVm = matches[0]
+p54
+I14900
+sV}_]*$$*_@+])&{$(+*+]!_[#&_)}{#)!^^}[%^+*})!(@}*@}$]))((@$(@[$_{@$^^@^*_%@%]_++(#
+p55
+I13857
+sVurllib.urlencode((("a", 1),("a", 2)))
+p56
+I2572
+sV'map'.translate(t)
+p57
+I12874
+sVshared = mmap.mmap(0, 16384, "PySharedMem")
+p58
+I15438
+sVfrom tipocms.models import CmsImageM
+p59
+I17315
+sVfields = list(f)
+p60
+I18952
+sV#@^%+(!{$}+_+]!#^[]_&!{]_]]]&($}^)}&*}}(#(%&$%*__{)!])[(%)#})$*$_]^($*[^{+(^}}&[
+p61
+I13884
+sVb_iface.GetProperty("battery.is_")
+p62
+I2209
+sVlist(LINK_RE.finditer("hola mund [url 10]"))
+p63
+I1598
+sVall([False])
+p64
+I12248
+sVrot13(t).replace('k', 'm').replace('o', 'q').replace('e', 'g')
+p65
+I9915
+sVg.order('37948')
+p66
+I6932
+sVlen(data)
+p67
+I15613
+sVa.user.avatar.url
+p68
+I9469
+sVprint o
+p69
+I7215
+sVprint 'BR\u005cxc4M'.decode('utf-8')
+p70
+I21297
+sVt.today()
+p71
+I18384
+sVs = SingleTokenizer()
+p72
+I6406
+sVs.add?
+p73
+I15182
+sVlist(f)[0]
+p74
+I1767
+sVimport django.generic.simple import redirect_to
+p75
+I16843
+sVfrom scraping.models import *
+p76
+I11362
+sV10500 / 500 + (int(bool(10500 % 500)))
+p77
+I6772
+sVb = Article.objects.all()[0]
+p78
+I15677
+sVimport xcb.xproto
+p79
+I17918
+sVr.result.items[2].type
+p80
+I9299
+sVu[0]
+p81
+I5727
+sVapi.home_timeline()
+p82
+I16449
+sVsr = ProductSearch(display=['guid', 'thumbnail_110'], count=10)
+p83
+I11563
+sVurllib2.unquote(u)
+p84
+I5436
+sVb.tags
+p85
+I10376
+s.

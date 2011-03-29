@@ -1,0 +1,245 @@
+(dp1
+Vb.props.visible
+p2
+I8120
+sVbase64.encode("solo un pedo azúl\u005cn")
+p3
+I14486
+sVurllib.urlencode({ 'a': 1, 'b':2 })
+p4
+I6044
+sVmod = __import__(module + '.' + name)
+p5
+I19488
+sV(}_%$#)^*&+[([@*!!{@*[{%@[__)&*&@{__+_}[_#{]!@*%(^&^_$_+[([(($@)])]))%_{(^@!{!#@
+p6
+I14069
+sVupdate cms_fragment_template set content_names = "optionText/text[20],optionUrl/text[20]" where id = 119;
+p7
+I6712
+sVpk
+p8
+I19034
+sVf = open("/home/omab/paises")
+p9
+I3921
+sVfrom products.models import Product
+p10
+I4231
+sV^+&)^@)$%}]!(%^%(]+!^&_}_*%@]((%%&!)[*_([#{&!)@$!!!$){(&$}&!%*$]%&{})^+}@]@(*(*!
+p11
+I13432
+sVurllib.urlencode({ 'id'='{E3D49B2F-2778-48B4-BC5B-979FCEA6D092}' })
+p12
+I11989
+sVItem.objects.all().set_language('es')[0].title_master
+p13
+I11138
+sVr = ProductSearch(query='blue')
+p14
+I7483
+sVpyflakes.ast
+p15
+I14823
+sVt = TaggedItem.objects.order_by('?')[0]
+p16
+I11778
+sVabsolute_reverse('tv.video', args=('312312',))
+p17
+I11652
+sV%%@%)]**%+_^${$(}]}^{]])@!%+@!$#!})!($%$@)+*[![}]&__[$%!&$^})%]^&%(+^+#@&^$]{{!)
+p18
+I13730
+sVEncoded
+p19
+I10382
+sVtextwrap?
+p20
+I18229
+sVurlparse.urljoin
+p21
+I3880
+sVd.draw()
+p22
+I8071
+sVtpl = Template('{% article_tracked_url "biomelifestyle.com"  "http://www.biomelifestyle.com/" %}')
+p23
+I11360
+sVSELECT p.* FROM model_counter c FORCE INDEX (content_type_id) LEFT JOIN
+p24
+I12194
+sVt.add()
+p25
+I15189
+sV$!$(#[*}+}*__$]!])#$!}]&{]_&#*_[^&}(@*[##^*!{)[+[(}_&@+&+&_(#@[{^*[]}${^*{!@+$^$
+p26
+I13097
+sVm.groups
+p27
+I4480
+sVbooks[0].DetailPageURL
+p28
+I6094
+sVa = dict((user, 1) for user in SystemUser.objects.all()[:10])
+p29
+I14162
+sVt = datetime.datetime.now()
+p30
+I1073
+sVmodels.get_app('tipocms')
+p31
+I18301
+sVq.put(4)
+p32
+I16186
+sVc = service.ContactsService()
+p33
+I19702
+sVreadline()
+p34
+I3255
+sVt = tags[0]
+p35
+I4709
+sVr.thumbnail_url
+p36
+I11468
+sVm.expand
+p37
+I14279
+sVt = Template('{% var cms_value %}"hola mundo"{% endvar %}{% with cms_value|make_list as value %}<ul>{% for i in value %}<li>{{ i }}</li>{% endwith %}')
+p38
+I10295
+sVu'\u005cxa10'
+p39
+I9974
+sVfrom omniture.utils import get_google_analytics_account
+p40
+I14586
+sV#_!&_)^[[#$(^#+}@#&[!##_{!^![}@#+))&**$((*^[#]^!%^]_(_#$+^[]{)*+]!%@+@&+$++}((]]
+p41
+I13122
+sVprint data['section1']['nousednames']['grouping'].form()
+p42
+I4847
+sVfrom lib import pingomatic
+p43
+I8428
+sVf.fields['EMAIL_FIELD']
+p44
+I8204
+sVl.tokenize()[0]
+p45
+I10193
+sVurlresolvers.resolve("dtt.about-us")
+p46
+I2870
+sVc == c2
+p47
+I8971
+sVv = Video.objects.all()
+p48
+I178
+sVurllib2.splitvalue("a=b")
+p49
+I1245
+sVt = r.terms()[0]
+p50
+I7693
+sVlen(ist(CategoryImage.objects.all()))
+p51
+I3573
+sVfor w in tokenize(t, True):\u000a    if isinstance(w, tuple):\u000a        s, e = w[1]\u000a        print t.split()[s:e]
+p52
+I6506
+sVfor line in fd.readlines():\u000a    find = r.findall(line)
+p53
+I1616
+sVp.search("hola")
+p54
+I113
+sVf.cleaned_data['product'].guid
+p55
+I20863
+sVpage_value.find("__VIEWSTATE")
+p56
+I2245
+sVa["/the-magazine/garden-&-eco/articles/alfresco-party"]
+p57
+I2018
+sVstrip_tags(''.lower().strip())[0]
+p58
+I12419
+sVord('h') - ord('u')
+p59
+I5193
+sVprint (t)
+p60
+I7478
+sVi.image.size
+p61
+I17245
+sVurl = "k: http://site-1375-maguirre.users.dev.mydeco.com/quick-shop/top-ten/garden-accessories-under-£30
+p62
+I2289
+sVp.stem("usefull")
+p63
+I5943
+sVm = Model1(name='ismael')
+p64
+I18929
+sVOptional(None)
+p65
+I7234
+sVinput
+p66
+I2800
+sVunquote("http://%2Ea")
+p67
+I3437
+sVf._get_related_query_name(2)
+p68
+I4581
+sVdict("x=3".split("="))
+p69
+I2969
+sVB(dref=d).save()
+p70
+I19411
+sVv[0].name.section
+p71
+I8905
+sVcm = CmsContentMapping.objects.filter(content_type=75)[2000]
+p72
+I17460
+sVraise Warning
+p73
+I17830
+sVfrom rank.models import UserPoint
+p74
+I18353
+sVg.field_names
+p75
+I20454
+sVfrom obnob_groups.models import User
+p76
+I20066
+sVf.next
+p77
+I1272
+sVimport vim
+p78
+I19505
+sVp.parent.coords
+p79
+I19881
+sVr.sub("""{% article_tracked_url "argos.co.uk""http://www.argos.co.uk/static/Browse/ID69/10244273/c_1/2|category_root|Home+and+furniture|10197552/c_2/3|cat_10197552|Clearance+home+and+furniture|10244273/r_1/1|Price+Cut|Yes|1.htm "%}"target="_blank" """, "{% article_tracked_url \u005c1\u005c2\u005c1 \u005c3\u005c4\u005c3 %}")
+p80
+I14950
+sVfrom django.core.managment import execute_manager
+p81
+I2080
+sVa+b
+p82
+I383
+s.

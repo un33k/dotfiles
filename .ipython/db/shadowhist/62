@@ -1,0 +1,167 @@
+(dp1
+Vtest(10, *(10, 20), recursive=True)
+p2
+I18156
+sVa = [ 1, 2, 3]
+p3
+I5114
+sVv.filter_expression.filters[0][0]('a')
+p4
+I10114
+sVf = d.fragments.galleryitems
+p5
+I12258
+sVGetParamsHelper({ 'a': [ 1, 2, 3] })
+p6
+I7814
+sVs.split()[:2:]
+p7
+I14174
+sVos.stat('/jds/dakj')
+p8
+I16604
+sVos.open('/home/omab/.sheep/', os.O_RDONLY)
+p9
+I6856
+sVdatetime.timedelta(milliseconds=37133700 / 1000 / 60 / 60
+p10
+I17601
+sVwhile True:
+p11
+I9500
+sVctx = { 'cms_fragment': { 'contents': { 'name': { 'text': 'name' } }, 'items': { 'noempties': { 'attr__value': map(str, range(10)) } }, 'url': { 'text': 'http://google.com' } } }
+p12
+I10201
+sVp int.__doc__
+p13
+I6139
+sVop.msg
+p14
+I19284
+sVupdate_last_activity_cache.CT_IDS
+p15
+I11911
+sVos.TMP_MAX
+p16
+I1905
+sVqs
+p17
+I17437
+sVb_iface.GetProperty("battery.charge_level.last_full")
+p18
+I2253
+sVr.next()
+p19
+I20651
+sVp = urlparse.urlparse('http://www.homebase.co.uk/webapp/wcs/stores/servlet/ProductDisplay?langId=-1&storeId=20001&partNumber=8421519')
+p20
+I15054
+sVreverse('')
+p21
+I6007
+sVfield.widget.id_for_label()
+p22
+I732
+sVdatetime.date.today()
+p23
+I3879
+sVtemplate.loader.get_template?
+p24
+I11943
+sVprint u"\u005cu003"
+p25
+I21365
+sVhyde.__package__
+p26
+I17904
+sVr.supplier
+p27
+I19178
+sVph.values_grouped().items()
+p28
+I4771
+sVs.write('hola\u005cn')
+p29
+I16034
+sVqs = "a=1&b=2&c=3"
+p30
+I2959
+sVtest(10, recursive=True, args=[*10, 20])
+p31
+I18153
+sVj = JSONTest()[1]
+p32
+I20554
+sVd.image.instance.name
+p33
+I4916
+sVopr.left.left.left.left.left.left
+p34
+I439
+sVc.template_name.get_choices()
+p35
+I1348
+sVi.id
+p36
+I11536
+sVfrom django.db import models, Q
+p37
+I19076
+sVl = gtk.List()
+p38
+I7984
+sVTopicCategory.objects.all()
+p39
+I9315
+sVhp_splash.CONFIG
+p40
+I14222
+sV{@@*!!}*_&)#[&{)]**$!_!_*&)+![&+)&^[$#&&!%])@]$_+&+)))!&@}[$+!&**%&*!+(^&[%!*}@$
+p41
+I13250
+sVfunc('z', *['a', 'b', 'c'])
+p42
+I17389
+sVimport binascii
+p43
+I14493
+sVfrom app import get_version
+p44
+I11134
+sVg.next
+p45
+I19047
+sVd = a.ft_expand_names(s)
+p46
+I528
+sVfrom website.models import *
+p47
+I12606
+sVa = { 332L: "pepe" }
+p48
+I2561
+sVg.add_node('a')
+p49
+I6898
+sVa[:-len(" with stats")]
+p50
+I11753
+sV_^]}#&(%^@^+[*{^}{_*)%@)$$#[(+(&^]#![{^_{([+&(!*^#&{$}@#(&!!(!{({^%%@!{+{)])^^({
+p51
+I13394
+sVgetattr.__doc__
+p52
+I3209
+sVq.get_absolute_url()
+p53
+I9457
+sVWebsite._meta.fields
+p54
+I10076
+sVp.set_font("-xos4-terminus-medium-r-normal--32-140-72-72-c-80-iso8859-1")
+p55
+I7252
+sVdoc = libxml2.parseDoc(page_value)
+p56
+I2244
+s.

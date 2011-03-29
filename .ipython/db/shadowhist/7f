@@ -1,0 +1,296 @@
+(dp1
+Vt = Template('{% static_url "img/common/embed-folder.png" %}')
+p2
+I19845
+sVp = CmsPage.objects.all()[0]
+p3
+I5399
+sVprint unicode(unichr(2665))
+p4
+I6830
+sVurllib2.quote("http://www.argos.co.uk/static/Browse/ID69/10198115/c_1/1|category_root|Toys+and+games|10198115.htm?tag=PS6_1a".replace("+", " "))
+p5
+I3337
+sVr.user.name
+p6
+I9293
+sVd = datetime.datetime.strptime(s, '%Y-%m-%d %H:%M:%S')
+p7
+I17726
+sVs[0][0][0][0][0]
+p8
+I16987
+sVlocale.setlocale('en-GB.UTF8')
+p9
+I5742
+sVf = open("/home/omab/copy.csv")
+p10
+I15100
+sVx.data['text']
+p11
+I17798
+sV(&*}]{%{#!^!**+}[(}^}!%){(!&#^[+![*$&${]^(])#&[#](}[%%*${[)(*@_@_(((+@(({]%#})%)
+p12
+I13806
+sVdefaultdict()
+p13
+I12222
+sVurllib2.Request("http://mydeco.com/ws/search/search?count=12&getfacets=8&collapse=similar&requirefacet=tags&requirefacet=view_only&expandfacets=1&db=product&sv=default&facet_count=5&facet_count=image_colour%2C120&facet_count=tags%2C10&facet_count=width%2C1&facet_count=height%2C1&facet_count=depth%2C1&facet_count=length%2C1&facet_count=diameter%2C1&locale=en-gb&query=blue+sofa&display=path&display=name&display=thumbnail_110&display=thumbnail_150&display=thumbnail_270&display=special_offers2&display=price&display=price_before_discount&display=url&display=locale&display=supplier&display=supplier_type&display=supplier_id&display=out_of_stock&display=logo&display=is_chartered&display=is_3d&display=category&display=description&display=description%2C200%2C%3Cstrong+class%3D%22highlight%22%3E%2C%3C%2Fstrong%3E&display=%3Fcolour&api_version=2&prefdb=%2Bpages%2Cproduct
+p14
+I19298
+sVsha.sha("is the singularity here yet?").hexdigest()
+p15
+I12087
+sVpages = getGroupByQuerySet(CmsPage.objects.filter(state="live").order_by("live_date"), ["http_path",])
+p16
+I1033
+sVimport dbus, gobject
+p17
+I1419
+sVf.data = { 'live_date': '10/10/2009' }
+p18
+I7359
+sV@^%@@}]]}%#%]{{#(#**[#(_#(#$]]*)_*#+[_#+}{&!]@&[]+{*^]!%^*_@)]^%#++$&@[)([+}!*](
+p19
+I13961
+sVprint u'\u005cuxa'
+p20
+I11693
+sVpickled = pickle.dumps({ "1": "hola", "p": p }, pickle.HIGHEST_PROTOCOL)
+p21
+I3169
+sVPermission.objects.get(codname='cms_editor')
+p22
+I6001
+sVuser.obnob_groups.filter(group__parent__isnull=True).order_by('name')
+p23
+I20473
+sVi.tile
+p24
+I8299
+sVp = reduce(or_, a)
+p25
+I18599
+sVlen('contents__')
+p26
+I10052
+sVa || b
+p27
+I5710
+sVgraph.add_edge('37723', 'pepe')
+p28
+I6991
+sVgdata.auth.OAuthToken(urllib.unquote(u.extra_data))
+p29
+I19770
+sVb_iface.GetProperty("battery.reporting.current")
+p30
+I2204
+sVfor i in a:\u000a    print i
+p31
+I15000
+sVa = { Pepe: "hola", Martin: "mundo" }
+p32
+I4820
+sVupdate cms_fragment_template set content_names = "image/image,linkTarget/text(_blank|_self),linkUrl/text" where id = 122;
+p33
+I6715
+sVabsolute_reverse('highend_action', ('dajdkasj',))
+p34
+I14295
+sVtempfile.mktemp
+p35
+I12331
+sVfrom cms.plugins import *
+p36
+I14215
+sVt = loader.get_template_from_string('{{ "hola mundo"|title }}')
+p37
+I10069
+sVremote._retrieve("http://localhost:9001/pdbe/classification/ws/manual/category/137/products/")
+p38
+I2667
+sVpages = getGroupByQuerySet(CmsPage.objects.filter(state="live").order_by("-live_date"), ["http_path",])
+p39
+I1014
+sVbase64.encodestring(u"solo un pedo azul\u005cn")
+p40
+I14489
+sVhp = hpy()
+p41
+I9239
+sVr = Room.objects.filter(image__isnot='')[0]
+p42
+I19129
+sVv._meta.fields
+p43
+I8559
+sVr.path[0:9]
+p44
+I8796
+sV(^@^&^@&!+#&(@%!)[]%((##@(}]_*#_*@%(_{$_#](#_
+p45
+I13691
+sVp._meta._field_name_cache
+p46
+I6799
+sVresult.lowerbound
+p47
+I9058
+sVprint h.whats_hot.form()
+p48
+I17110
+sVurllib.urlencode(query)
+p49
+I14982
+sVstrip_tags(' <p>Hola mundo</p>')
+p50
+I12416
+sVg = ph.sections_data()['section'1]['values']['grouping']
+p51
+I4890
+sV})+$)#]](#!{+)(${$*)[)$_&)[_%)+@*_]]{[{&_!}%%*$+]@%#^}^+*_}$!}@$]@&[{%(&%](}!)&*
+p52
+I13750
+sValert('The Email address doesn\u005c't seem to be correct,\u005cnplease check domain suffix.');
+p53
+I9665
+sVfrom twitchess import exceptions
+p54
+I16204
+sVn = n[0:2]
+p55
+I21308
+sVbinascii.hexlify?
+p56
+I14494
+sVt.formfield
+p57
+I699
+sVreverse('shopping_browse_category', 'furniture/258')
+p58
+I12738
+sVquestion = Question.objects.all()[0]
+p59
+I18840
+sVord('u') % len(letters) % 10
+p60
+I5191
+sVbool('')
+p61
+I17638
+sVg.obnob_users_m
+p62
+I20127
+sVprint r.subn.__doc__
+p63
+I6222
+sVp.values.get_or_create(name='get_the_look/title/title')
+p64
+I17202
+sVg[0][1]
+p65
+I19331
+sVa = 'a,b,c'
+p66
+I9936
+sVp._meta.db_table
+p67
+I8133
+sVm.category
+p68
+I5310
+sVprint u'\u005c2764'
+p69
+I6825
+sVpartial(Pepe.__init__, a=10)
+p70
+I7460
+sVurllib.quote('a(band)')
+p71
+I19564
+sVp.parse("hola marcos as marquitos")
+p72
+I7239
+sVs = SpecialOffersShopSearch(request, 'any', 'chairs').get_result()
+p73
+I20626
+sVp.primary_image_url
+p74
+I11552
+sVa.append(a.pop(0))
+p75
+I2655
+sVim = Image.new("RGB", [300, 300], color=(255,255,255))
+p76
+I1403
+sVp.manualcategory_id
+p77
+I2817
+sVarr(9, 1)
+p78
+I5640
+sV]{{{%[@_%)^&]{#($]&&$}#%++)*+&#__}&$*{]@}@}{{+*}!&{&#{[++*)}&{%*)!)_@@}%#@@+{)[!
+p79
+I13825
+sVc._meta.get_all_field_names()
+p80
+I18816
+sVuf = UserForm(u)
+p81
+I3373
+sVmodels.Image
+p82
+I8576
+sV[ i.name for i in f.cmsfragmenttemplatecontentname_set.all() ]
+p83
+I8145
+sVa.valor.a
+p84
+I9018
+sV%^^(}^#&@!_#*%)^}{&&*]+(^{({+$^]()@[)&&[&[##[][%]*&!_}&[}{{[$@}+!{[$[^++}]}[#[^#
+p85
+I13510
+sVt.id = ''
+p86
+I15251
+sVb.users
+p87
+I6169
+sV!+)&_)*}{!!#$_&%%*]&}+*&&}%}))&#($##!$!#**@^%]{##$!)*#+@(%))}]__[^$^})_@)]@*{&[$
+p88
+I13440
+sVATTR_NAMES_RE.findall('hola %(mundo)s %(cruel)s todo %(bien)s?')
+p89
+I16494
+sVIOError.__bases__
+p90
+I2940
+sVx.index('d')
+p91
+I17690
+sVn = f.fields["name"]
+p92
+I2906
+sVjson = urllib2.urlopen('http://mydeco.blip.tv/posts/?skin=json')
+p93
+I11591
+sVstr.new_trans = new_trans
+p94
+I2015
+sVtempfile.mktemp?
+p95
+I12332
+sVmystery(20)
+p96
+I20725
+sVd.timetz(t)
+p97
+I17733
+sV#^]$}((&){#@^*}_#]##&@@![@$[#^@{{#@](+^+^[)}^@%)@}{*_{&+[&}}{@+(#+{#]@#^!(%}))}^
+p98
+I13098
+sVpickle.load?
+p99
+I12570
+s.

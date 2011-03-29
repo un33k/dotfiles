@@ -1,0 +1,287 @@
+(dp1
+Vct = ClassificationTokenizer({ 'article': 'html' }, phrases=['sofa beds'])
+p2
+I6353
+sVp.voucher
+p3
+I4510
+sVhaar.first.this
+p4
+I10934
+sV{@((&@&)]!&{}@#])$($}#}@)#[+$^{%%&*]&_!+{$+[*{()_&&(}%[})}!}(}[!%@$#!*(^^![+(^@{
+p5
+I14066
+sVt = template.Template('{% if a = 1 %}not in{% else %}it\u005c's in{% endif %}')
+p6
+I11970
+sV''.join(str(i) for i in xrange(10))
+p7
+I9897
+sVl.split('","')
+p8
+I4023
+sVr = re.compile('(?<=http://mydeco.com)?/search/')
+p9
+I6254
+sVfrom django.db.models.related import ForeignKey
+p10
+I20908
+sV"a-b-c"[-1]
+p11
+I1982
+sVx.name
+p12
+I11936
+sVos.path.basename('a/b/c')
+p13
+I12568
+sVlen(set(r2.findall(s2)))
+p14
+I14193
+sVfromjson(tojson({ 'hola': "mundo" }))
+p15
+I10322
+sVget_website_id("duvetandpillowwarehouse.co.uk")
+p16
+I14785
+sVurllib.urlcleanup()
+p17
+I2957
+sVp = Page.objects.all()[0]
+p18
+I4755
+sVint("a")
+p19
+I8556
+sVr.num_of_products()
+p20
+I7689
+sV[ f.name for f in fd.options ]
+p21
+I622
+sVu = SystemUser.objects.get(pk=3929)
+p22
+I7385
+sVValue._meta.get_field('page').related_name
+p23
+I8974
+sVb = 11
+p24
+I546
+sVr = c.execute("select * from systemuser where id = 813");
+p25
+I11797
+sVSendInfoForm.base_fields["first_name"]
+p26
+I3420
+sVw2
+p27
+I10252
+sVt.choices = range(10)
+p28
+I688
+sV+!&}^%)%})#&*{]{%}^)^$+})*[&#$*&!]_]{$#)+&[(]$)@(+)&))^_{[_&&@%#{%}}_!++#!@{)}$}
+p29
+I13237
+sVcalendar.timegm(rfc822.parsedate('Fri Feb 05 19:12:32 +0000 2010'))
+p30
+I11885
+sVSITE-1892
+p31
+I3904
+sVd = datetime.datetime("134964", "G:i")
+p32
+I3230
+sVi.count
+p33
+I103
+sVs = "hola /* comment */ mundo /* comment2 */ cruel"
+p34
+I11610
+sVB is A
+p35
+I16285
+sVclass Bar(Foo):
+p36
+I10936
+sVre.findall?
+p37
+I16232
+sVc = Category()
+p38
+I3533
+sVtext_content = strip_tags(html_content)
+p39
+I21259
+sVurlparse.urljoin?
+p40
+I9210
+sVa = ArticleForm(Article.objects.all().order_by('-id')[0])
+p41
+I21208
+sVfrom site_categories.models import *
+p42
+I10546
+sV$(@^*)@!^^!}#*@]%!^(@{}_!@]&^#({}{](*){+}[_}_($+@}+]@[^*!@]++_%*{^*&+[%*{})%_+&&
+p43
+I13069
+sVfrom operator import mul
+p44
+I17588
+sVp.query
+p45
+I2581
+sVi.get_content_cache_object()['___image_url']
+p46
+I19638
+sVfrom phplist.views import do_subscribe
+p47
+I7833
+sVadmin.site._registry[Item]
+p48
+I17827
+sVfrom pychess.Savers import pgn
+p49
+I15584
+sVu.obnob_groups.all().values('group__pk')
+p50
+I20470
+sVimport __future__
+p51
+I2030
+sVw.token.raw_bit
+p52
+I10277
+sVupdate cms_fragment_template set content_names = "btlImage/image,btlImageLi
+p53
+I6701
+sVfor x in et:
+p54
+I17302
+sVx = (100.0 / (1223.0 / 300.0)) * (100.0 / 300.0)
+p55
+I10759
+sVfrom search.models import ShopSearch
+p56
+I8530
+sVresolve("mydeco_tv", '')
+p57
+I3955
+sVr.user.usertype.is_labs()
+p58
+I18080
+sVa.title()
+p59
+I1460
+sVdbus.dbus_bindings
+p60
+I2268
+sVp = c.manualcategorized_set.all()
+p61
+I2565
+sVpq.end()
+p62
+I16221
+sV(comb(5, 1) * comb(5, 2) * comb(5, 4)) / comb(15, 7)
+p63
+I5554
+sVget_menu_data().keys()
+p64
+I5151
+sVhaar.storage
+p65
+I10917
+sVretrieve("http://site-4306.maguirre.users.dev.mydeco.com/the-magazine/?5")
+p66
+I9814
+sV[ a[i*6:i*6+6:] for i in range(len(a)/6) ]
+p67
+I486
+sVimport tzin
+p68
+I17444
+sVo.parse('ttp 123 as pp and 32').items()
+p69
+I7209
+sVa = (x for x in xrange(10))
+p70
+I19220
+sVs.query(PhotoTag, PhotoTag2).outerjoin((PhotoTag2, PhotoTag.photo_id==PhotoTag2.photo_id))
+p71
+I15359
+sVp2.hola
+p72
+I1357
+sVupdate cms_fragment_template set content_names = "storesImage/imag
+p73
+I6733
+sVresult
+p74
+I15648
+sVtestauth = {'username':'test1', 'password':'test1'}
+p75
+I20011
+sVa.remove(a[0])
+p76
+I7005
+sV^!{_!!%])[__^)^%}_^))_($@&$*#&+#)!}[@%+%(&&$$%#++%^%}+$_%%!_(@(+!@$[}^]]!*^}#_{{
+p77
+I13182
+sVmap(lambda x: urljoin('matias', x), ['1', '2', '3'])
+p78
+I17649
+sVParent.objects.first()
+p79
+I18820
+sVre.search('/(\u005cd+)-', url)[0]
+p80
+I16228
+sVp.populate()
+p81
+I8538
+sVa.encode('utf-8').decode('ascii')
+p82
+I7572
+sVarticles = Article.objects.filter(tag__slug__in=['axxi-digital'], extra_data!='')
+p83
+I472
+sVrewrite_url('bestonlinesofas.com', '/microsite/bestonlinesofas.com/', force_rewrite=True)
+p84
+I8813
+sVr.child_categories)
+p85
+I3884
+sVp g.accessibility()['37948']
+p86
+I6979
+sVisinstance(s.avatar, ImageFieldFile)
+p87
+I17420
+sVf = SendToFriendsForm({})
+p88
+I5460
+sVr = re.compile(r'<input type="hidden" name="__VIEWSTATE" value="([^"]+)" />')
+p89
+I2246
+sV&!]}(}]{#^##}#@[!){*!%^()!{_@{*+%_$+#*{@}]_]^}[]*[#%_!%{*(*({!)+]{})!{[!{[!#}@)}
+p90
+I13134
+sVapi.user_timeline()
+p91
+I16382
+sVfrom a import *
+p92
+I1354
+sVw = Website.objects.get(pk=8)
+p93
+I4431
+sVx = User.objects.create_user('omab', 'omab@omab.com', 'omab')
+p94
+I20573
+sVPermission.objects.all()
+p95
+I7105
+sVf = SendToFriends()
+p96
+I3766
+s.

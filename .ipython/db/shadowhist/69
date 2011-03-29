@@ -1,0 +1,271 @@
+(dp1
+Vimport dis
+p2
+I4149
+sVstyles = SiteCategoryHierarchy.objects.select_related().filter(enabled=True, parent__slug='shop-by-style').order_by('-priority', 'site_category2.name')
+p3
+I3863
+sVfrom cms.dtypes import Text, BigText, Image
+p4
+I18102
+sVEl supuesto papel paternalista que asume el Estado excede sus atribuciones cuando avasalla las garantías constitucionales. Es de aplaudir que, como unánimemente se pronunció nuestra Corte, se haya exhortado a los otros poderes del Estado a luchar contra el narcotráfico en vez de criminalizar una vez más a las víctimas del flagelo de la narco dependencia.
+p5
+I9068
+sVclient.profile.personal_message
+p6
+I9333
+sVci = CategoryImage.objects.filter(categorization_id=2221)
+p7
+I3540
+sVbot.command
+p8
+I4376
+sVqs.values_list?
+p9
+I17198
+sVfrom tipocms import pdf
+p10
+I8490
+sVHREF_RE.search(v)
+p11
+I9885
+sVx = """var product_price="<font class=ListPricewoSale ><BR>Our Price&nbsp;Ranging from&nbsp;$246.00 &nbsp;to&nbsp; $390.00</font>";"""
+p12
+I18688
+sVi.user.username
+p13
+I4007
+sVshove.Shove.__doc__
+p14
+I3138
+sVfrom cms.models import LIVE
+p15
+I18641
+sVr.get
+p16
+I20656
+sVdivmod(10, 1)
+p17
+I17563
+sVfrom phplist.actions import *
+p18
+I8199
+sVfrom obnob.apps.likeable.management import *
+p19
+I20998
+sVu2 = User.objects.get(username="ddogadaylo")
+p20
+I7114
+sVf.cmscontentmapping_set.flter(name__in=['text'])
+p21
+I17468
+sVp2 = p.deep_copy('/blogs/hola/mundo/2/', None)
+p22
+I580
+sVu.provider = 'google'
+p23
+I20578
+sV[c[0] for c in c.category['facets']]
+p24
+I20623
+sVos.stat?
+p25
+I10620
+sVconnection.ops.prep_for_like_query("hola \u005c" mundo")
+p26
+I12184
+sVx = p[0]
+p27
+I19592
+sVidx.search("dia")
+p28
+I244
+sV3 / 10
+p29
+I5666
+sVimport backends
+p30
+I19474
+sVdatetime.datetime(*list(d2.timetuple()[:-1]))
+p31
+I4058
+sV_@$)[[+(!@]_()}*]*+[{&@&[##}[&]%$](+*{]!%)]_&%^$+%_@!#&+@[(&{){)(]+[]{)!^}+!}{[$
+p32
+I13969
+sVfrom site_navigation.templatetags.navigation import *
+p33
+I5148
+sVdef decorate(cls):
+p34
+I1879
+sV{!!+!^+{@$(^^@#(]$($#]_]!%[*#%&_[%]]]*@^(})){!_@_#(*![@}}}$[$]^@_%%}{(&[})!!#}!)
+p35
+I13077
+sVcsv.writer?
+p36
+I10677
+sVint(False)
+p37
+I2079
+sVimport pyflakes
+p38
+I14793
+sVr = ProductSearch(count=4, filter=['category_id,1049'], sort='-price')
+p39
+I10806
+sVgetGroupByQuerySet(ResultRankCriteria.objects.filter(QJoins(ranked_count=('result_rank', 'left join', 'ranked_count.query_id = rr_criteria.query_id'))), ['ranked_count.object_id'])
+p40
+I7708
+sVr.search('silkcurtains').groups()
+p41
+I19386
+sVr2 = ResultRank.objects.select_related('rating').get_or_create(pk=1)
+p42
+I7667
+sVsys.exc_info()
+p43
+I8743
+sVsr.get_result().items
+p44
+I11543
+sVcm.move('a1')
+p45
+I15879
+sVt = Template('{% var cms_value %}"hola mundo"{% endvar %}{% with cms_value as value %}{{ value|title }}{% endwith %}')
+p46
+I10290
+sVr = re.compile("[\u005cw\u005cd][\u005cw\u005cd\u005c ]+[\u005cw\u005cd]")
+p47
+I4511
+sVx.match('3')
+p48
+I14856
+sVa = range(19)
+p49
+I9900
+sVModel1.objects.exclude(pk__in=Model2.objects.values_list('m2_id', flat=True))
+p50
+I18898
+sVc.html = """\u000a<p>\u000a	&nbsp;</p>\u000a<p style="font-family: georgia, 'times new roman', times, serif; margin-top: 0px; margin-right: 25px; margin-bottom: 10px; margin-left: 25px; font-size: 13px; color: rgb(0, 0, 0); ">\u000a	Barnaby The Bear&#39;s my name, never call me Jack or James, I will sing my way to fame, Barnaby the Bear&#39;s my name. Birds taught me to sing, when they took me to their king, first I had to fly, in the sky so high so high, so high so high so high, so - if you want to sing this way, think of what you&#39;d like to say, add a tune and you will see, just how easy it can be. Treacle pudding, fish and chips, fizzy drinks and liquorice, flowers, rivers, sand and sea, snowflakes and the stars are free. La la la la la, la la la la la la la, la la la la la la la, la la la la la la la la la la la la la, so - Barnaby The Bear&#39;s my name, never call me Jack or James, I will sing my way to fame, Barnaby the Bear&#39;s my name.</p>\u000a<p style="font-family: georgia, 'times new roman', times, serif; margin-top: 0px; margin-right: 25px; margin-bottom: 10px; margin-left: 25px; font-size: 13px; color: rgb(0, 0, 0); ">\u000a	Ulysses, Ulysses - Soaring through all the galaxies. In search of Earth, flying in to the night. Ulysses, Ulysses - Fighting evil and tyranny, with all his power, and with all of his might. Ulysses - no-one else can do the things you do. Ulysses - like a bolt of thunder from the blue. Ulysses - always fighting all the evil forces bringing peace and justice to all.</p>\u000a<p style="font-family: georgia, 'times new roman', times, serif; margin-top: 0px; margin-right: 25px; margin-bottom: 10px; margin-left: 25px; font-size: 13px; color: rgb(0, 0, 0); ">\u000a	Hong Kong Phooey, number one super guy. Hong Kong Phooey, quicker than the human eye. He&#39;s got style, a groovy style, and a car that just won&#39;t stop. When the going gets tough, he&#39;s really rough, with a Hong Kong Phooey chop (Hi-Ya!). Hong Kong Phooey, number one super guy. Hong Kong Phooey, quicker than the human eye. Hong Kong Phooey, he&#39;s fan-riffic!</p>"""
+p51
+I20837
+sVt = template.Template("""\u000a{% spaceless %}\u000a<p>\u000a  <ul>\u000a    <li>item 1</li>\u000a    <li>item 2</li>\u000a  </ul>\u000a  <a href='#'>google</a>\u000a</p>\u000a{% endspaceless %}\u000a""")
+p52
+I18243
+sVp = HTMLParser.HTMLParser()
+p53
+I5514
+sVf = FormWizard(a)
+p54
+I3312
+sV1 | 2 | 3 | 4 | 5 | 6 | 7
+p55
+I18596
+sV<li>{{ item }}</li>
+p56
+I21047
+sVx.slug
+p57
+I19981
+sVhaar.delta_elems
+p58
+I10923
+sV+_%_([_&$*{^$*)_)#*@^_+#({$][)%@$^@$[&!+}*^$(^!)()){&&^{)]&)]{@)$_]*^@]&)@$#%#](
+p59
+I13677
+sVh
+I1153
+sVinspect.getclasstree(models.CmsPage)
+p60
+I14804
+sV{}+${&@{}]]$%[^%%!(![}]}[)@(_%+&[}^#(@[^#&[[(+){+$[)(}*+{&}%{+_#_]#+}([^*}!$)&^!
+p61
+I13236
+sVa = ~1
+p62
+I2367
+sVa.decode("utf-8")
+p63
+I3119
+sV[ b.tags.keys() + b.filters.keys() for b in builtins ]
+p64
+I10377
+sVs.p()
+p65
+I399
+sVurllib.unquote("http://google.com/h%20b")
+p66
+I3671
+sVimport envirom
+p67
+I9373
+sVt = Template('{% if lst|length %}todo bien{% endif %}')
+p68
+I10467
+sVd.strftime('%A')
+p69
+I17966
+sVp.count().execute().fetchone()
+p70
+I15173
+sVr.rating_count
+p71
+I11464
+sVimport sqlalchemy
+p72
+I15127
+sV[ f for f in Article._meta.fields if hasattr(f.rel, 'to') ]
+p73
+I11964
+sVurllib.addinfo.__doc__
+p74
+I6040
+sVa[:None]
+p75
+I361
+sVModel1.objects.filter(model2__isnull=True)[0]
+p76
+I18916
+sVq.query.group_by = [('book_post', 'date__month')]
+p77
+I15721
+sVprint a.has_key
+p78
+I4524
+sVs = "hola(3), como(2), andas, hola(\u005cn2)"
+p79
+I525
+sVWebsite.objects.values_list('scraped', 'indexed')
+p80
+I12613
+sVw._get_next_or_previous_by_FIELD('priority', is_next=True)
+p81
+I6311
+sVtime.ctime("1265818877")
+p82
+I11973
+sVff.label.translate()
+p83
+I9123
+sVs.get_images()
+p84
+I378
+sVrandom.choice?
+p85
+I15659
+sVroom.rating.__class__
+p86
+I11757
+sVmd5.md5('home.main').hexdiges
+p87
+I12026
+sVqs.query.join?
+p88
+I18897
+sVd = gtk.DrawingArea
+p89
+I8061
+sVClassType
+p90
+I18289
+s.

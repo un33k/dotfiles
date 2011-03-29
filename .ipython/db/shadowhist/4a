@@ -1,0 +1,218 @@
+(dp1
+V&$+#])%@_*}{[}$!{#}!^%*)++$]&]!_{_+_]%#&@&$&)*!(]+_+}}]_+#){[^]#^+)$#!)&)[+#[)}}
+p2
+I13926
+sVlines = fd.readlines()
+p3
+I12325
+sV[@**!)^[#^^%#*(!_{((&!*%!!+&+%)_{$}+^@[)[@]$_$*+&(&{)^%]}(()*){[{]@}[]]*%!#](*%@
+p4
+I13609
+sVProduct.objects.filter(pk__in=products)
+p5
+I7413
+sVxxx(1, 2, 3, 4, 5, 3, h=4)
+p6
+I19922
+sVp = urlparse.urlparse('http://extranet.mydeco.com/')
+p7
+I9850
+sVa = Person.objects.filter(address='pepe')
+p8
+I5853
+sVclass HM(object):
+p9
+I4600
+sVcmp(-1, 1)
+p10
+I19986
+sVa % ("ho", "12" )
+p11
+I4282
+sVall.__doc__
+p12
+I1747
+sVM = class M(object):\u000a    __metaclass__ = MetaClass
+p13
+I16964
+sVt.replace('V', 'l')
+p14
+I5230
+sVclass Ff(forms.Form):\u000a    name = forms.CharField()\u000a    label = forms.CharField()\u000a    def __init__(self, fname, *args, **kwargs):\u000a        self.fields[fname] = forms.CharField()\u000a        super(F, self).__init__(*args, **kwargs)
+p15
+I4882
+sVpaid = True
+p16
+I12349
+sVp open.__doc__
+p17
+I6916
+sVt.widget.value_from_datadict()
+p18
+I20036
+sVi.user.get_avatar_url()
+p19
+I4009
+sVn.order_by('-created')
+p20
+I21309
+sVt = Template('{% article_tracked_url "23131" "http://google.com/" %
+p21
+I15010
+sVfrom functools import wraps
+p22
+I11127
+sVfrom social_auth.backends.facebook import FacebookAuth
+p23
+I21070
+sVx.image
+p24
+I19840
+sVclass MyOptionParser(optparse.OptionParser):\u000a    def error(self, values, *args, **kwargs):\u000a        print values.__dict__
+p25
+I16280
+sVd._round_floor(2)
+p26
+I10723
+sVfrom search.results import RefineOption
+p27
+I8877
+sVItem.objects.set_language('es').set_language('ru')[0].title_p
+p28
+I11123
+sVp = subprocess.Popen(['/usr/games/gnuchess'], stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+p29
+I15776
+sVw = Wear.objects.get(62)
+p30
+I6294
+sV+@*_*[&%%(_++!{]*+&(*%%@{!!*%!*^}]}$&}#[+*&+@((#](@(&*{+](#%!%[%]@#+[_+(^[*&[}${
+p31
+I13931
+sVs.result.startrank
+p32
+I14355
+sVo.takes_value
+p33
+I7059
+sVprint u'\u005c\u005c0x262e'
+p34
+I4611
+sVf.f_back.f_trace
+p35
+I4259
+sVb = dict(((i, a[i]) for i in len(a))
+p36
+I5684
+sVa[:0]
+p37
+I358
+sVfrom django.utils.dateformat import time_format
+p38
+I3223
+sVa = 'Dez'
+p39
+I16771
+sV[m.user for m in x]
+p40
+I20151
+sVRoomCompetition.objects.filter(community_judged=True)
+p41
+I20264
+sVItem.objects.set_language('es').get(pk=1).title
+p42
+I11104
+sVst.headers.dict
+p43
+I7850
+sVr.search('silk curtains').groups()
+p44
+I19384
+sVdatetime.datetime.strptime(s, '%Y-%m-%d %H:%M:%S %Z')
+p45
+I17703
+sVzip('87654321', board)
+p46
+I15950
+sVx = uuid.uuid4()
+p47
+I18475
+sVr.regex.match('')
+p48
+I8248
+sVt = TranslateableModel.objects.select_related().lang('es')
+p49
+I5860
+sVCmsComment.objects.full_page_comments(20).count()
+p50
+I748
+sVg.parent.obnob_users.officers
+p51
+I20519
+sV_cache_values()
+p52
+I4984
+sVprint urllib2.quote.__doc__
+p53
+I3338
+sVitem.select('./img[contains(@src, "/img/default/images/stars")]/@title').extract()
+p54
+I16644
+sVPepe().xxx()
+p55
+I20199
+sV__file__
+p56
+I5031
+sVforms.CharField?
+p57
+I14386
+sVx = 'http://linuxaddict.livejournal.com'
+p58
+I19440
+sVp FunctionType.__doc__
+p59
+I6298
+sVr.split(quote(a))
+p60
+I14679
+sVub.save()
+p61
+I6173
+sVf.list_ex[0].next_obj.name
+p62
+I1868
+sVqs = u.obnob_groups.active()
+p63
+I20176
+sVt =
+p64
+I14816
+sV]*%!]!&{%+%@{_}*#_@$)^{{]&&^]{+)@(&+!&@_*@}^@}%(]@$}${_}{#*)!@!*)@%(%$*}(]#&&{&+
+p65
+I13078
+sVprint smart_unicode(a)
+p66
+I7577
+sVbooks[0].ASIN
+p67
+I6087
+sVp = subprocess.Popen(['/usr/games/gnuchess', '-e'], stdin=subprocess.PIPE, stdout=subprocess.PIPE)
+p68
+I15852
+sVrandom.random()
+p69
+I367
+sVrange(sr, max, by)
+p70
+I6531
+sVa*10
+p71
+I9796
+sVf = p._meta.get_field_by_name('child')[0]
+p72
+I18785
+sVctx = get_shopping_context(path='/0')
+p73
+I8526
+s.

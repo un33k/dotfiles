@@ -1,0 +1,212 @@
+(dp1
+Vp = optparse.OptionParser()
+p2
+I4597
+sVf.stamptext
+p3
+I3753
+sVfROM CATEgorization.models import *
+p4
+I4625
+sVd.title
+p5
+I11146
+sVa = range(5)
+p6
+I5292
+sVinspect.ismodule(conf)
+p7
+I2488
+sVa.push
+p8
+I20531
+sVreverse('paid_search_results')
+p9
+I15498
+sVOSError.__doc__
+p10
+I2938
+sVparams = BaseParams({'prefdb':'product', 'db':['product'], 'collapse':'similar'})
+p11
+I5263
+sVItem._meta.trans_model._meta
+p12
+I11043
+sVr = add.delay()
+p13
+I20365
+sV<a href="http://mydeco.com/search/?query=1">link2</a>
+p14
+I1197
+sVfor x in p:
+p15
+I6020
+sV+^_$@{^+_{[+^#@)&+%_+)[^}}*{$)![#][!^@{}&[^]&@}@{%+@}{+([{(](}&%}%+&^]+(}{][_[&@
+p16
+I13019
+sVv.id
+p17
+I8647
+sVlist(Photo.by_tag(t.id))
+p18
+I14814
+sVcgi.parse_qs(p.query)
+p19
+I14774
+sVdatetime.fromordinal(d.toordinal())
+p20
+I19277
+sVr.find('super bedding eh?')
+p21
+I19074
+sV"%s = %%s" % "hdajd %%s"
+p22
+I2706
+sVr.match('bedding')
+p23
+I19070
+sVfrom room_competition.models import RoomCompetition
+p24
+I19967
+sVhxs.select(dl).extract()[0]
+p25
+I16823
+sVs = Section.objects.all()[0]
+p26
+I4729
+sVgraph.readwrite.write_dot_digraph.__doc__
+p27
+I6877
+sVr.split(quote(a))[1::2]
+p28
+I14684
+sVNotice.objects.all().delete()
+p29
+I21325
+sV{($#[#+_%}^)_^!#%*&#[_#_)_[#+&%_!*{[!**@}($!+(!__(^}%#{)^%}[)[){^!*{@}]!+{]){]*_
+p30
+I12991
+sVdatetime.timedelta(19816)
+p31
+I17675
+sVlen("laminateflooringshoponline")
+p32
+I5951
+sVt = Template('{% var cms_value %}"hola mundo"{% endvar %}{% with cms_value|make_list as value %}<ul>{% for i in value %}<li>{{ i }}</li>{% endfor %}{% endwith %}')
+p33
+I10296
+sVr.items[0].image
+p34
+I14322
+sVp.load('talent')
+p35
+I17797
+sVCategoryImage.objects.filter(categorization_id=2221)
+p36
+I3539
+sVp = SpecialOfferProduct.objects.all()[0]
+p37
+I4507
+sVp = Prod()
+p38
+I14964
+sVr = urllib2.Request('https://www.googleapis.com/userinfo/email')
+p39
+I19431
+sVletters[:20]
+p40
+I5188
+sVf = subscribe_ev_form(ev, data={ 'EMVADMIN1_FIELD': 'violet' }, prefix='ev')
+p41
+I8224
+sVchars = set(list(s))
+p42
+I14098
+sVqs.query.select_related
+p43
+I12040
+sVp.password
+p44
+I20798
+sVf.is_valid)
+p45
+I18129
+sVc.formfield()
+p46
+I8912
+sV(1223.0/300.0) * (100.0 / 300.0)
+p47
+I10749
+sVp.values.all
+p48
+I4757
+sVb.values[4].page
+p49
+I17514
+sVt[1].append(5)
+p50
+I21192
+sVf = ope.open(req)
+p51
+I7865
+sVfor(i=0;i<len;i++){
+p52
+I9661
+sVo = ResultRankCriteria.objects.get_global_stats()[0]
+p53
+I7739
+sVcd.result?
+p54
+I11438
+sVt.votes.up_votes()
+p55
+I20446
+sVClient?
+p56
+I20800
+sVget_gwo_experiments(['search', 'product'])
+p57
+I16538
+sVtype(models.CmsPage)
+p58
+I18290
+sVs.identity_key
+p59
+I15304
+sVItem.objects.all()
+p60
+I10959
+sV(@@)]#)#{}@&#{{&@_^&$+$@**{(][&]#{@+{#*$_)#_!&{#]%#(%!*()+)%#&{!+*^[[[{*))$!*__}
+p61
+I13513
+sV})]#]({][*%)_&^+}]!@&]&_{($^($*!%&#&[!(^@+@!}%]{@_@}[_$_@@^_&![@$+^+^^$!*#*{$[]!
+p62
+I13255
+sVr = re.compile('%[A-F0-9]{2}')
+p63
+I14676
+sVp.website_name
+p64
+I2635
+sVless
+p65
+I2524
+sVPermission.objects.filter(codename="cms_admin")
+p66
+I6023
+sV@_%]^@}))}*&){!%^{_(!]&+*%!*)@)@%$%{[@**!)#!%@+&!)@{[})*@)*[+}((])*)[{!@#[[}}*!+
+p67
+I13754
+sV#]@(&}]!@[}+_]!{]%+&)^{[@[__}}$$&!]#)_!(**@(+*!^}+#)}!)@$^![^){!#$[*{%&![!^^^_{[
+p68
+I13592
+sV'the' in set(nltk.corpus.stopwords.words('english')) | set(['amp'])
+p69
+I6436
+sVos.execle.__doc__
+p70
+I309
+sVCmsPage.objects.get(pk=4904).delete()
+p71
+I12751
+s.

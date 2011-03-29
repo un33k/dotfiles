@@ -1,0 +1,224 @@
+(dp1
+VPhotoTag.join?
+p2
+I15358
+sVpurple.PurpleAccountsGetAllActive()
+p3
+I5611
+sVc = SQLCompiler(qs.query, connection, qs.using)
+p4
+I18907
+sVpepe((32))
+p5
+I8407
+sV!^$(()[*&{]&&_}]+]#[[^]#}+#+($^&$[^!+$^!}+*[]%+]@]*^)}(%$}(+)^#[@}}[*!@]*[}[]^&_
+p6
+I13867
+sVpagination.pagination(10, 8, 2)
+p7
+I3071
+sVmax_since()
+p8
+I4995
+sVp = re.compile(r'^?[^{]%\u005cs*article_tracked_url')
+p9
+I15030
+sVtruncatewords_html(a, 590)
+p10
+I9072
+sVplain(trav(graphs['00202'], n))
+p11
+I7008
+sVlist(set([ p['http_path'] for p in CmsPage.objects.values('http_path') ]))
+p12
+I7345
+sVfor x in input:
+p13
+I7602
+sVa.__class__.valor = property(lambda slf: AClass(x, y))
+p14
+I9017
+sVconnection.ops.value_to_db_date(p.date.month)
+p15
+I15750
+sVbase36decode(base36encode(u.int))
+p16
+I21456
+sVdatetime.datetime.time
+p17
+I9571
+sVlink_re = re.compile(r'href=(?P<open>["\u005c'])(?P<address>[^"\u005c']+/search/)(?P<close>["\u005c'])')
+p18
+I1217
+sVa._meta.get_field('text')
+p19
+I861
+sVl = string.letters
+p20
+I12861
+sVr.next_url
+p21
+I4092
+sVdatetime.datetime.strptime(s, '%Y-%m-%d %H:%M:%S') + t
+p22
+I17725
+sV[ x for x in s if x in sc]
+p23
+I15565
+sVp = urlparse.urlparse('mydeco.com')
+p24
+I9845
+sVr2.match(s2).span()
+p25
+I14205
+sVp.new('matias')
+p26
+I16242
+sVlist(CmsPage.objects.most_viewed('/the-magazine/'))
+p27
+I12189
+sVqs = CmsPagePath.objects.with_page(state="live")
+p28
+I12118
+sVfor p in CmsPage.objects.filter(http_path__startswith='/rooms/detail/'):
+p29
+I17643
+sVprint urllib2.urlopen
+p30
+I3295
+sVpgn.load
+p31
+I15586
+sVdef decorate(cls):\u000a    setattr(cls, "pepe", lambda slf: "pepepepepe")
+p32
+I1880
+sVd.get_properties(1)
+p33
+I8065
+sVimg = Image.new("RGBA", "200x200", color="#fff")
+p34
+I1408
+sV[ [x, y, z] for (x, y, z) in sub if (x[-1].isupper() and y[-1].islower() and z[-1].isupper()) or (x[0].isupper() and y[0].islower() and z[0].isupper())]
+p35
+I14188
+sVfrom django.template import TemplateDoesNotExist
+p36
+I12261
+sVfrom calificacion.helpers import *
+p37
+I11190
+sVlist(CmsPage.objects.most_viewed("/the-magazine/", ''))
+p38
+I12202
+sVbool("hola")
+p39
+I4422
+sVd = { 'oldsearch': False, 'fastsearch': True }
+p40
+I12351
+sVset(range(10)) | set(range(10))
+p41
+I11236
+sVdef pepe(*args):
+p42
+I3129
+sVr.path
+p43
+I8789
+sVmd5.md5("password")
+p44
+I9400
+sVp = CmsPagePath.objects.create(http_path="/testing/", locale="")
+p45
+I12232
+sVp = Product.objects.get('GB0002FAEGLAQVRGBJRYTOJJRKOSLHLYX4D6CTJG')
+p46
+I18217
+sVfor i in [ 'Exif.Image.ImageDescription', 'Exif.Image.Make', 'Exif.Photo.MakerNote', 'Exif.Photo.UserComment', 'Exif.Photo.InteroperabilityTag', 'Exif.Iop.InteroperabilityIndex', 'Exif.Iop.InteroperabilityVersion']:
+p47
+I5547
+sVabsolute_reverse('highend_action', 'dajdkasj')
+p48
+I14296
+sVhxs.select('//ul[@id="Monos"]/li')
+p49
+I16631
+sVhal.set_context("default")
+p50
+I2181
+sVclass M(object):
+p51
+I16960
+sVlist(enumarate(a))
+p52
+I2533
+sVfrom collections import deque
+p53
+I7975
+sVt.id = 7
+p54
+I15236
+sV]]${!@&![@&+&](#}@(@{&@@!!#_(_)&^!_}@^$$+_(@%_[{##%@*]}[##@${$*(${(#${)}{}%#!%#$
+p55
+I13402
+sVNone.pepe = lambda slf: 1
+p56
+I6291
+sVemail = 'matias@insophia.com'
+p57
+I14289
+sVos.getlogin()
+p58
+I10947
+sVc = CategoryHierarchy.objects.filter(parent=129))
+p59
+I4552
+sVfs
+p60
+I14455
+sV^^*(}&$]{*()!#]([%$^$[)+)!%{(__!{$$&%}+!*(}%#[[+}]+$$%[]*_{(^@}&@%@+((*!@[%+[+)#
+p61
+I13143
+sV%[)[+$$*}#[*${$)[%$!$)*(]([%@%#)!(^#!)[]@]{)}*(#(){^%)@${$#}])@^(@#!}^(&]%_]^@@$
+p62
+I13158
+sVn = [ n for n in nodes if hasattr(n.node, 'nodelist') ][0].node.nodelist[2].node
+p63
+I10228
+sVu.has_perms()
+p64
+I5962
+sVsimilar_sized_columns(a)
+p65
+I8385
+sVcallable()
+p66
+I8886
+sVx = "\u005c\u005cbegin{displaymath}\u005c\u005coint_{\u005c\u005cpartial A}\u005c\u005cvec H\u005c\u005c;\u005c\u005ccdot\u005c\u005cmathrm{d}\u005c\u005cvec s=\u005c\u005ciint_A\u005c\u005cvec J\u005c\u005c;\u005c\u005ccdot\u005c\u005cmathrm{d}\u005c\u005cvec A+\u005c\u005cfrac{\u005c\u005cmathrm{d}}{\u005c\u005cmathrm{d} t}\u005c\u005ciint_A\u005c\u005cvec D\u005c\u005c;\u005c\u005ccdot\u005c\u005cmathrm{d}\u005c\u005cvec A\u005c\u005cend{displaymath}"
+p67
+I18223
+sVnotices = Notice.objects.chatterbox().filter(group__in=user_groups).order_by('-created')
+p68
+I20968
+sVparents_sql(landing_pages.landingpages)
+p69
+I12138
+sVmodels.
+p70
+I8579
+sV&{[([}&!]{_%%$+}+!%!({_]&+@]@[@^*)_+_(%#}*#_#%[#*+(!)}]^$)%**}]@&]%++#})[_((@[}(
+p71
+I13568
+sVlen(os.urandom(4))
+p72
+I19228
+sVfrom app import *
+p73
+I11135
+sVf = open('/tmp/log', 'a')
+p74
+I7534
+sVr = re.compile("<[^>]+?>.{,10}")
+p75
+I4494
+s.

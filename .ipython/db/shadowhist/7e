@@ -1,0 +1,269 @@
+(dp1
+VProduct.objects.filter(guid=[u'2a8b152dbef21b9b9b9695ed02ed6a353b880507', u'409bc01a254b23639600601bd7abbf7bd98c77f5', u'000adf4ad62ede4853643a893dc6f3a7b5dcdcef', u'248329976311497ce7cd31b359a3ba55de5fb561', u'3413686bfca89348648052e9ac427312260ed21b', u'140bf11744a2a5a1fcc4fe7562eda4e77577ce3b', u'b1896bc816b9613a7a7c99f8d9bf122baef7e749', u'e38dd5cc28c393a52165a978f5a23cf717dd5a0f', u'8cbb13f1ecfccde12627793d5a5c52a37859841c'])
+p2
+I5690
+sVx, y = c.as_sql()
+p3
+I19083
+sVr.num_of_products
+p4
+I7688
+sVo[0].count
+p5
+I7735
+sVsettings.SITE_ID
+p6
+I14544
+sVCmsPage.objects.filter(state='live').values("http_path", "id", "state", 'since')
+p7
+I4971
+sVc = f.drawerheading
+p8
+I1329
+sVclient.profile.chain()
+p9
+I9346
+sVa = dict((r, r) for r in range(10))
+p10
+I7027
+sVs.contents['description'].__class__
+p11
+I17073
+sVValueForm?
+p12
+I15507
+sVa.insert(0, 20)
+p13
+I16482
+sVa.index(0)
+p14
+I1445
+sVo._meta.get_all_related_objects_with_model()
+p15
+I18721
+sVcontents.append("href='/search/?query=littlewoods&prefdb=#query%3Dlittlewoods%26startrank%3D0%26prefdb%3Dproduct%26sort%3D%252Brating'")
+p16
+I1524
+sVquery.insert_values(values.items(), raw_values=True)
+p17
+I7923
+sVet.items()
+p18
+I17294
+sVp,
+p19
+I12513
+sV+#@$%^@^#%}+)*!+!$%(}](&)##$+&[[#&^*!^$]*!#}{%#{*+&[]$)]%}*[*_)*#@^{%)}{+$^)_{$(
+p20
+I13943
+sVr.regex.sub
+p21
+I8240
+sVa.pop(3)
+p22
+I2530
+sVa = u'To enter, <a href=\u201chttp://mydeco.com/rooms/detail/telegraph-week-2-template-444714/\u201dclass="c1">copy the 3D template into your own profile</a>.  Once completed, enter it into 'Room Rescue Week 2 competition and it will appear below.'
+p23
+I8758
+sVget_categories_products(['classic-beds',], count=1)
+p24
+I9485
+sVBOARD_RE   = re.compile('[ \u005c|1-8<>\u005c+\u005c-a-h\u005c.RNBQKP]+')
+p25
+I16120
+sVp[0:len(p)/2], p[len(p):]
+p26
+I14639
+sVr.winner_id is None
+p27
+I20277
+sVx = [(x, x) for x in range(10)]
+p28
+I19713
+sVp.input_tags
+p29
+I9780
+sVa = Area.objects.all()[0]
+p30
+I11084
+sVp = CmsPage.objects.filter(http_path__startswith='/article/')[0:2]
+p31
+I9180
+sVf = h.fragments[0]
+p32
+I1766
+sVprint str(a)
+p33
+I10153
+sVprint uf
+p34
+I3374
+sV}[}^*{+]@_)]@)_#*+]+$}+]{]!+&}}}@@)&{*+&#*}#*)__*@@!]!]}}#{!$}*@@@}#^{{!}##^!&@!
+p35
+I14006
+sVm.sort(lambda a, b: cmp(len(a), len(b)))
+p36
+I5950
+sVRoomSearch(order_by='-rating_rank', count=3, display=['name', 'username', 'thumbnail', 'last_updated', 'url'])
+p37
+I15450
+sVreduce(lambda (x1, x2), (y1, y2): (x1 + y1, x2 + y2), a)
+p38
+I17220
+sVhash(threading.currentThread())
+p39
+I19305
+sVimg = Image.open('/home/omab/misc/img/msn/shit.jpg')
+p40
+I12575
+sVfrom obnob.apps.topic_board.forms import TopicSelectForm, CreateForumForm, EditForumForm, CreateTopicForm, EditTopicForm, ReplyForm, CreateThreadForm
+p41
+I20394
+sVdef rot13(text):
+p42
+I9909
+sVa = dict(x=1, y=2, z=3)
+p43
+I17165
+sVfrom django.db.models import CharField
+p44
+I8966
+sVf=print f.fields['tags']
+p45
+I36
+sVany([ 1, 2, 3], lambda i: i> 5)
+p46
+I9127
+sVp.translations.core_filters
+p47
+I5890
+sVp = Pp()
+p48
+I5047
+sVa.index('b')
+p49
+I16908
+sVd[0] = 1
+p50
+I17127
+sVs.height
+p51
+I12537
+sVfrom __future__ import division
+p52
+I7095
+sVa.strip('/').split('/')[-1]
+p53
+I17645
+sVos.urandom(2)
+p54
+I19225
+sVcgi.parse_qs(x.split('?')[1])
+p55
+I21417
+sVcmp(1, 1)
+p56
+I19984
+sVPage.objects.filter(path__path__startswith='/the-magazine/', state='live').values_list('updated', flat=True).order_by('-updated')[0]
+p57
+I18617
+sVo = N('ttp') + V('id') + N('as') + V('as')
+p58
+I7197
+sVitem['author'] = titulares.select('./div[@id="Autor"]/strong/a/text()').extract()
+p59
+I16712
+sVimg.crop((1350, 815, 1816, 1280))
+p60
+I12550
+sVfrom pyflkes
+p61
+I14819
+sVf = Value._meta.fields[0]
+p62
+I8931
+sV!%$+}+&[[{[![!{(_@_(^^#]+!&%([_[*}^}}%!^&^&#)&#[)*@$+$%(@+*][}}(#@%!++^_!*[+#%&_
+p63
+I13512
+sVimport webkit
+p64
+I18034
+sVset(x for x in f.readlines())
+p65
+I17998
+sVt = l.tasks()[0]
+p66
+I888
+sVEmailAddress.objects.values('email', flat=True)
+p67
+I20288
+sV[ f.name for f in sw.result.facets.filters]
+p68
+I11450
+sVprint u"\u005c02665"
+p69
+I6813
+sVfrom folder.models import *
+p70
+I19625
+sVNotice.objects.chatterbox().filter(receivers__in=[u])
+p71
+I21009
+sVe = EmailConfirmation.objects.order_by('-id')[0]
+p72
+I20297
+sVurllib.urlcleanup
+p73
+I3522
+sVreturn NotImplemented
+p74
+I3515
+sVresult.state
+p75
+I20359
+sV[ (i['url'], i.get('image', '')) for i in v.values() if i.get('image', '') ]
+p76
+I9190
+sVimport xap
+p77
+I80
+sVchars = "".join( [random.choice(string.letters[:26]) for i in xrange(15)] )
+p78
+I10305
+sVc2 = ctx['catdata']
+p79
+I8527
+sVfrom tipocms import models_helpers
+p80
+I3777
+sVdownload_link = hxs.select('//div[@id="Contextual"]//a/@href').extract()[0]
+p81
+I16697
+sVcgi.parse_multipart.__doc__
+p82
+I8136
+sVf.contents_list
+p83
+I1722
+sVfor w in tokenize("I like the children blacks sofas beds, but the blue sofas beds would be nice with the black out blinds", True):
+p84
+I6503
+sVdef comb(r, n):
+p85
+I5560
+sVc.next
+p86
+I9408
+sVb.get_property('visible')
+p87
+I8106
+sVr.sub(s)
+p88
+I6155
+sVurlparse.urljoin('a/', 'b/c/d')
+p89
+I14483
+sVQueryDict(dict((x, x) for x in range(10)))
+p90
+I18194
+s.

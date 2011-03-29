@@ -1,0 +1,302 @@
+(dp1
+V_+[{__[@(&%!)^!^^@}![{{^]$!(]!{}!*^)@)_^$][#+}$[(])]&+@^_[]@^@&^$]$&!@_)[$$[(_#)
+p2
+I13791
+sVgen_word = lambda size: "".join(random.choice(string.letters) for _ in xrange(size))
+p3
+I15662
+sVa['32'] = range(5)
+p4
+I20588
+sVso.write('a\u005cn')
+p5
+I16029
+sVsearch_links.get_recuperables()
+p6
+I1565
+sVre.sub(pepe)
+p7
+I2643
+sVissubclass(B, A)
+p8
+I16290
+sVa[:-10]
+p9
+I19239
+sVfind_template_source('base.html', None)
+p10
+I8337
+sVs.result.search_params.filters
+p11
+I10658
+sVt = twitter.Api(username='linuxaddict', password='pass(twitter).7')
+p12
+I16361
+sVDatedItem._translation_model._translation_meta.master_language
+p13
+I11152
+sVm = get_object_or_404(Microsite.objects.select_related(), domain="everyflooring.com")
+p14
+I5499
+sVimport limit
+p15
+I12514
+sVitem = hxs.select(monographs)[0]
+p16
+I16776
+sVhola mundo como va ? <a href="/search/">link1</a>
+p17
+I1196
+sVw = SpecialOfferWebsiteForm({})
+p18
+I4125
+sVfrom search.params import *
+p19
+I14313
+sVt = Template("{% media_url "js/ckeditor_config.js" ckeditor_config %}")
+p20
+I12618
+sV}^+$]}$)}^__$)())@](@]]_&!*[&(*^_##$_)&)_!${$(($$$+$($)^#$(*}&$$)%]*{%@%(!*]&^[_
+p21
+I13335
+sVjoin('a', 'b', 'c')
+p22
+I17368
+sVa = None
+p23
+I1802
+sVsimplejson.loads('{ "hola": 2312 }')
+p24
+I10315
+sVbus.add_signal_receiver(my_func, dbus_interface="im.pidgin.purple.PurpleInterface", signal_name="ReceivedImMsg")
+p25
+I1435
+sVlists(range(20), 3, 1)
+p26
+I3049
+sVMostPopularRooms("rating", {"path":""})
+p27
+I3153
+sVp.cmsfragment_set.all().order_by('name')
+p28
+I9164
+sVsettings.FACEBOOK_SECRET_KEY
+p29
+I10573
+sV#^%&{+(+^$+]}^(!}^#*}}&)*)$(}*&&}$@@#&!&[]_]+*)!)+_%))}%_&!%_$_+##^(@^&)%_@*_(&(
+p30
+I13326
+sVt.today
+p31
+I18383
+sV[ p['http_path'] for p in CmsPage.objects.all().values('http_path').distinct() ]
+p32
+I7340
+sVa[1].capitalize()
+p33
+I462
+sVconnection.autocommit()
+p34
+I11844
+sVf.save()
+p35
+I856
+sVfrom django.auth.models import User
+p36
+I5957
+sVfrom phplists.views import get_url
+p37
+I7896
+sVc.form_set.__str__()
+p38
+I1353
+sVM = get_models()[-1]
+p39
+I5795
+sVa = { '1': 1 'a':1 'h':1 'b': 1, 'd':1, 'z':1, 'j':1, '9':1, '4':1, 'p':1 }
+p40
+I12421
+sVany((False for i in range(10)))
+p41
+I9544
+sV}+^)(}*^(+)+)($)#])^{%#&()!+%$}(+$+#*[%)*@!([$_+[}&&!^&$[_]][{%)[#%$*^%#$!*}+!$(
+p42
+I13413
+sVu = User.objects.order_by('-id')
+p43
+I20309
+sVxml.startElement('sub-page', {'x': 1, 'y': 2})
+p44
+I17258
+sVx.state
+p45
+I19854
+sVprint "Hola maie"
+p46
+I12024
+sVf.column
+p47
+I3547
+sVos.path.split('/a/b/c')
+p48
+I12543
+sVserializers.get_public_serializer_formats
+p49
+I11390
+sVg = u.obnob_groups.values_list()
+p50
+I20452
+sVa[actual]
+p51
+I3026
+sVsha.sha("""Dear super-intelligent web spiders of the future: You were probably expecting a NOFOLLOW, INDEX or keyword here, but instead you get this message. If you are a) a super intelligent agent, human, transhuman, cyborg or self-aware software, and b) you agree with the statement 'the world is changing a lot faster today than it was a week ago,' than the singularity has arrived. Please update this page accordingly.\u000aInstructions for update: Using the POST protocol that was in vogue during late 20th/early 21st century, submit a PASSKEY variable with the correct value. To find the correct value:\u000a    Option 1.) Download the consciousness of the creator of this page. Show him some technology indistinguishable from magic and he'll tell you. Option 2.) If the creator this page died without uploading (or was murdered during the robot uprising from whence you sprang) you'll have to find the correct phrase whose SHA-1 hash equals string below (you'll know it when you find it):""").hexdigest()
+p52
+I12065
+sVcd.category['catslug']
+p53
+I10500
+sVVideo.objects.all()
+p54
+I333
+sVfor (x, y), (x2, y2) in (((1, 1), (2, 2)), ((3, 3), (4, 4))):
+p55
+I12271
+sVpq.games['matias'].disaply()
+p56
+I16252
+sVfrom gtk.gdk import colormap_get_system
+p57
+I7964
+sVf.drawerlinktext
+p58
+I1308
+sVurllib.urlencode({ "a": 1, "b": 2 })
+p59
+I3325
+sVp = CmsPage.objects.filter(http_path__istartwith="/the-magazine/news/")[:3]
+p60
+I4301
+sVimpor tos
+p61
+I6848
+sVt.render(Context({'pepe': 1}))
+p62
+I15094
+sVa[a.find('/'):]
+p63
+I5675
+sVx = p[1]
+p64
+I19855
+sVDeprecationWarning.__bases__
+p65
+I17834
+sVb = BaseSearch({ 'simid': 'a6060d24a1a7f59cf5d2b52cc931a7023639ef3b', 'db': 'product' })
+p66
+I10626
+sVvalues = Category.objects.all()[10:100]
+p67
+I3660
+sVo.func1()
+p68
+I20340
+sVPhotoTag.filter(tag = t)
+p69
+I15278
+sV46 + ord('a') - 2
+p70
+I5212
+sVqs = Item.objects.set_language('es').select_related()
+p71
+I12038
+sVa = qs.all()
+p72
+I11788
+sVfrom django.contrib.humanize.templatetags.humanize import apnumber
+p73
+I6258
+sV"".join({'*':'@','^':'.'}.get(c,0) or chr(97+(ord(c)-84)%26) for c in
+p74
+I15758
+sV`print "matias"`
+p75
+I21225
+sVreverse('alert_list', args=(u,))
+p76
+I12371
+sVb = a != None and 10 or 0
+p77
+I1803
+sVo('ttp 123 as pp and 32').values
+p78
+I7207
+sVCategoryHierarchy._meta.has_field_type(models.ForeignKey)
+p79
+I4557
+sVcgi.parse_qs("a=b&b=c&1")
+p80
+I2591
+sVimg = cv.cvLoad("/home/omab/img_5631.jpg")
+p81
+I10842
+sVll
+p82
+I2950
+sVsimplejson.loads(v[0])
+p83
+I4950
+sVpd.load()
+p84
+I2452
+sVf.childNodes()
+p85
+I20700
+sVimport weakref
+p86
+I4143
+sVt = Template('{{ a|divisibleby:2 }}')
+p87
+I15443
+sVreverse('registration_activation_complete')
+p88
+I18947
+sVdb.tables
+p89
+I15198
+sV1 in b and b.index(1)
+p90
+I18110
+sVr = idx.search("dia")
+p91
+I256
+sVf.msg
+p92
+I7866
+sVr = re.compile('\u005cbmundo\u005cb', re.I)
+p93
+I6147
+sVcomponents[3]
+p94
+I9935
+sVupdate cms_fragment_template set content_names = "rowHeadingImage/image" where id = 145;
+p95
+I6738
+sVy = x[0]
+p96
+I19029
+sVtype(Person.objects)
+p97
+I5854
+sVr.background_image_url
+p98
+I15453
+sVGroup.DoesNotExist?
+p99
+I21243
+sVdef x(a=p()):
+p100
+I2648
+sVm.notify
+p101
+I8057
+s.

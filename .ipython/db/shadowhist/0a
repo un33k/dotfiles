@@ -1,0 +1,260 @@
+(dp1
+V_#$))}!+&&#(^[^(}%(%%$%+}{$^^)&^[@}#$]{!}+*}]{_}}*(*@]}#+{}@@!$(}])%+^!#@(_^(@[(
+p2
+I14073
+sVfor idx, i in enumerate(input):
+p3
+I7616
+sVabs(None)
+p4
+I366
+sVtime.mktime(time.localtime())
+p5
+I7555
+sVimg2.save(o)
+p6
+I12269
+sVmodul
+p7
+I19486
+sVimport magic
+p8
+I848
+sVstrip_tags('<p>Hola mundo</p>')
+p9
+I12415
+sVd2 > d1
+p10
+I1112
+sVserializers.register_serializer('csv', 'lib.serializers.csv.Serializer')
+p11
+I11393
+sVurllib.splitquery("a.php?a=1&b=2&c")
+p12
+I2584
+sVItem._meta.get_field('id')
+p13
+I11013
+sVpt.select().limit(1)
+p14
+I15151
+sVlist(os.walk('/home/omab/tmp/a'))
+p15
+I17761
+sVb.get_state()
+p16
+I18060
+sVupdate cms_fragment_template set content_names = "linkText/text,linkUrl/text,title/text" where id = 168;
+p17
+I6761
+sVa.insert.__doc__
+p18
+I773
+sVgraph.add_node('jose')
+p19
+I6994
+sVd.strftime('%N')
+p20
+I17948
+sVabsolute_reverse('tv.video', '312312')
+p21
+I11655
+sV_^!_^*]@_%$(]^$!}{*]&!+*+#!+(+^[%}*(}](%%{]##)_}*(]++]#*}]$^%({*{$+&@@#^!()&)%_{
+p22
+I13489
+sVa = p[0]
+p23
+I2566
+sVget_template.__module__
+p24
+I21280
+sVglob.__doc__
+p25
+I8303
+sVs._delete
+p26
+I15300
+sVSELECT (`page`.`since`) AS `page_since`,
+p27
+I12123
+sVp.read_nonblocking()
+p28
+I16116
+sVItem._translation_model._meta.fields
+p29
+I10980
+sVdate.fromtimestamp(float(str(y))
+p30
+I18396
+sVf = open("/home/omab/cms_fragment.sql")
+p31
+I3448
+sVl.tokenize()[0].render
+p32
+I10194
+sVr.match('bcc')
+p33
+I18271
+sVzip(**items)
+p34
+I7608
+sVa = h.article_items
+p35
+I1760
+sVw.special_offers.errors
+p36
+I4128
+sVstring.letters[:string.letters.find('A')]
+p37
+I9510
+sVset([ p.id for p in pages ]) == ids_sql
+p38
+I1037
+sVc = get_shopping_context(path='lighting/1125')
+p39
+I10476
+sVconnection.cursor.execute
+p40
+I11792
+sVupdate cms_fragment_template set content_names = "moodboards/largetext,moodboardtool_description/text[2],moodboardtool_heading/text,moodboardtool_seemoretext/text,moodboardtool_text/text,photos
+p41
+I6759
+sVa = Person.objects.filter(address='pepe').filter(address='p')
+p42
+I5856
+sVc.get_image_url
+p43
+I1313
+sVb.decrypt(b.encrypt("12345678"))
+p44
+I972
+sV'.'.join(sp)
+p45
+I10889
+sVre.compile("([0-9]{1,3}\u005c\u005c.[0-9]{1,3}\u005c\u005c.[0-9]{1,3}\u005c\u005c.[0-9]{1,3}|(((news|telnet|nttp|file|http|ftp|https)://)|(www|ftp)[-A-Za-z0-9]*\u005c\u005c.)[-A-Za-z0-9\u005c\u005c.]+)(:[0-9]*)?/[-A-Za-z0-9_\u005c\u005c$\u005c\u005c.\u005c\u005c+\u005c\u005c!\u005c\u005c*\u005c\u005c(\u005c\u005c),;:@&=\u005c\u005c?/~\u005c\u005c#\u005c\u005c%]*[^]'\u005c\u005c.}>\u005c\u005c),\u005c\u005c\u005c"]")
+p46
+I1606
+sVa.update(((1, 0), (2, 1)))
+p47
+I17101
+sVfd.is_empty()
+p48
+I840
+sVPepe.name
+p49
+I17077
+sVb.dislike_count
+p50
+I15765
+sVimport ctypes
+p51
+I2417
+sVlist(Item.objects.set_language('es'))[0].title
+p52
+I11107
+sVp.parse?
+p53
+I17276
+sVa = '/boutique/'
+p54
+I17909
+sVitertools.cycle('a', 'b')
+p55
+I9404
+sVa.parent_ids
+p56
+I5440
+sVos.environ['PATH']
+p57
+I5032
+sVDateField().get_db_prep_lookup()
+p58
+I15746
+sVo.headers.keys()
+p59
+I7842
+sVupdate cms_fragment_template set content_names = "" where id = 110
+p60
+I6703
+sVclass P:\u000a    def h(self):\u000a        print P.h.func_name
+p61
+I5280
+sVfrom microsite.utils import rewrite_url
+p62
+I8802
+sVupdate cms_fragment_template set content_names = "pageTitle/text,video/video,flv/video,skin/video,linkTarget/text,image/image,imageStyle/text,flashHeight/text,flashWidth/text,extraStyle/text" where id = 79;
+p63
+I6674
+sVp.jfkw
+p64
+I15174
+sVa = '-require'
+p65
+I16527
+sVfloat(250)/float(6435)
+p66
+I5572
+sVParent.__class__
+p67
+I18796
+sVdict(op.headers)
+p68
+I19293
+sVProduct.objects.filter(name="table")[:10]
+p69
+I14305
+sVarr(1, 2)
+p70
+I5635
+sV[p.id for p in t.own_photos()]
+p71
+I15402
+sVlist(s.query(PhotoTag).outerjoin((pt_alias, (pt_alias.c.photo_id==PhotoTag.photo_id) & (pt_alias.c.tag_id!=PhotoTag.tag_id))).filter(PhotoTag.tag_id==1).filter(~pt_alias.c.tag_id.in_([6])))
+p72
+I15390
+sVbooks = ecs.ItemSearch('', SearchIndex='Books', MerchantId="8466616446")
+p73
+I6077
+sV"%s, " * 10
+p74
+I2699
+sVi.save_form_data
+p75
+I4906
+sVurlparse.urlparse("/community")
+p76
+I9925
+sVItem.objects.set_language('es').all()[0].title_en
+p77
+I12036
+sVPage._meta.get_latest_by('updated')
+p78
+I5145
+sVurljoin('/x/b/c/', 'name', '/')
+p79
+I20209
+sVp = SearchParams({ 'prefdb': 'product', 'db': 'product', 'query': 'blue sofa', 'count': 10, 'display': ['image', 'name', 'guid'] })
+p80
+I14326
+sVresp
+p81
+I16430
+sV"%s " * 10[:-1]
+p82
+I2701
+sVStampCategory.objects.all()
+p83
+I3735
+sVimport pysqlite2
+p84
+I7502
+sVfor line in f.readlines():
+p85
+I15101
+sVKEY          = 'yK9iKbmVoJ7k0tqqMbCrww'
+p86
+I16445
+sVt.GetFriends()
+p87
+I16362
+s.

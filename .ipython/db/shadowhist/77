@@ -1,0 +1,247 @@
+(dp1
+Vp = adm.get_urls()
+p2
+I17856
+sVp.communicate()
+p3
+I15857
+sVa.__getitem__?
+p4
+I10125
+sVa.update([(1, 1), (2, 2)])
+p5
+I14479
+sVfrom cms.dtypes import Text, BigText, Image, Article, Room
+p6
+I18100
+sVnot a
+p7
+I277
+sVfunction isEmail(emailAddress){
+p8
+I9626
+sV!#%^%^(@*&$(!$#$^(}+[&##(})$+#!(*]!]#!^{+%$(&**#^{!+_#}&%^{]$+[!&}^@@+*#_+#)@]$$
+p9
+I13119
+sVclass InputParser(HTMLParser.HTMLParser):
+p10
+I9749
+sVprod.thumbnail
+p11
+I14329
+sVrcs.result
+p12
+I3862
+sVdl = '(//div[@id="Contextual"]//a/@href|//ul[@id="navlinks"]//a/@href|//ul[@id="navlinks2"]//a/@href)'
+p13
+I16820
+sVs.query(PhotoTag).filter_by(tag_id == t)
+p14
+I15270
+sVfor k, v in .iteritems():\u000a    clauses.append("%s IN (%s)" % (k, ", ".join("%s" for i in xrange(len(v)))))
+p15
+I4541
+sV]{&[+&$@[+%@^$%(#!+$*^]^{#!&{^@]]@@*[@^%#%(_+{}&@(_)+)(+++^#})}!+@)^_#}_[{^&]#%(
+p16
+I13407
+sVa.__dict__
+p17
+I16333
+sVf = open('/tmp/log')
+p18
+I7530
+sVt = template.Template('{% if a == 1 %}not in{% else %}it\u005c's in{% endif %}')
+p19
+I11969
+sVpepe.__call__
+p20
+I1472
+sVp = Photo.get(1)
+p21
+I15325
+sVimport scra
+p22
+I15520
+sVp.parse(c)
+p23
+I10169
+sVr = re.compile('(pid=\u005cd+)')
+p24
+I16512
+sV<input type="button" value="Submit Form" onClick="javascript:validForm();">
+p25
+I9700
+sV!!!$+]&@})%%[@[&%!($_)@[}({_[$#}^}@)(%%^^*&&+]%]&$_#^!$!(_$%}*_$_!#!_@^^)${*)%+!
+p26
+I13194
+sVv.created.year
+p27
+I18839
+sVg[0]
+p28
+I19330
+sVt = Tag.all()[0]
+p29
+I14757
+sVt.render(template.Context())
+p30
+I10387
+sVa[::10]
+p31
+I9491
+sVimport patches
+p32
+I9987
+sVl.add(gtk.ListItem('hola'))
+p33
+I7985
+sVd = defaultdict(list, x)
+p34
+I19714
+sV[ t.name for t in h.body.template.cmsfragmenttemplatecontentname_set.all() ]
+p35
+I1169
+sVpagination.pagination(10, 10, 4)
+p36
+I3080
+sVset(UserSocialAuth._meta.get_all_field_names())
+p37
+I19259
+sVbot.send("matias", "Hola")
+p38
+I4384
+sVr1 = re.compile('.')
+p39
+I14597
+sVlxml.__path__
+p40
+I20776
+sVEntry.objects.all()
+p41
+I9588
+sVos.open.__doc__
+p42
+I6855
+sVr.findall(l)
+p43
+I2798
+sVg.read('/home/omab/.sheep/00202.dot', 'xml')
+p44
+I6920
+sVm = md5.md5('template.cache.navigation_bar')
+p45
+I17426
+sVapi.send_direct_message?
+p46
+I16461
+sVdatetime.tzinfo.tzname()
+p47
+I17717
+sVfrom django.conf improt settings
+p48
+I18415
+sVp = CmsPage.objects_aux.page_status(974)
+p49
+I595
+sV#_{+[)^}))%%#!*{+[+}&%_$@!_)@$)*{]*[&^!{&}$%([$]+)}#$@#]}&*@$+_($])#_(#+[+@*${*^
+p50
+I13173
+sVtime.mktime(x)
+p51
+I18390
+sVgroupby(options, lambda o: o.question_id)
+p52
+I19053
+sVItem.objects.all().set_language('es')[0]
+p53
+I11030
+sVx.children.values_list('id', 'name')
+p54
+I18330
+sVt.strftime('%s')
+p55
+I18381
+sVa = getattr(t, 'id')
+p56
+I15242
+sVp.after
+p57
+I16112
+sVw.token.split_contents
+p58
+I10282
+sVCmsPage.objects.filter(state="live").order_by("-live_date")
+p59
+I1009
+sVet[2].type
+p60
+I17306
+sVp = get_page(14146)
+p61
+I12639
+sVmatches = list(ARTICLE_TRACKED_URL_RE.finditer(s))
+p62
+I14898
+sVgroup(notices)['blog_set'|
+p63
+I20970
+sVsetattr(a, "lazy", True)
+p64
+I11498
+sV)]$%]*[*$(}&}%)}{&(_^}{_*[^}$(+*}(!_{[_!@*[+}*&+^^]]@@{^+]^%}!^{)_}!%%&@)$]_(*@@
+p65
+I13878
+sVg.edges('37328')
+p66
+I6946
+sV_{*{+(#)#!@+${+$@]&*%}_+_@](%(*_}}+^(}$${}^!%}*#&*__(${(]}%^[^(!}##@@&)}*]%)[%$+
+p67
+I13301
+sVw.logo.str
+p68
+I5100
+sVr.page
+p69
+I4083
+sVx.dencode('utf-8')
+p70
+I21305
+sVItem.translations.related.field
+p71
+I17847
+sVf.contents_list[0]
+p72
+I1723
+sVv
+I179
+sVzip(splited[::2], splited[1::2])
+p73
+I14686
+sVo.num_per_page
+p74
+I2838
+sVredirect_to?
+p75
+I16846
+sVforms.form_for_instance(c)
+p76
+I2423
+sVfrom model_i18n.managers import QJoins
+p77
+I11050
+sVfrom book.models import *
+p78
+I6127
+sVa += [None for x in range(l - len(a))]
+p79
+I21435
+sVfile = open("/home/omab/dictionary.txt")
+p80
+I12075
+sVprod.pk
+p81
+I14334
+sVs.result.search_params.ranges()
+p82
+I14366
+s.

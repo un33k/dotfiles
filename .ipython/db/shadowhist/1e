@@ -1,0 +1,269 @@
+(dp1
+Vr.result.search_params
+p2
+I7495
+sVy = u'%s' % y
+p3
+I21390
+sVp = QPainter(pix)
+p4
+I18026
+sVr.regex.pattern
+p5
+I8249
+sV[^]^_*#[!^+#$!_{[}&&])#$_@!#]&_{{[[+*()#{*}&#(+}}_@@(@&^+$@&}*!^!_*[%](%[$)_[]&_
+p6
+I13563
+sVa[(0, 1)] = 1
+p7
+I9488
+sVlist(c.total_diff)
+p8
+I2144
+sVdoctest.run_docstring_examples()
+p9
+I9216
+sV(datetime.datetime.now() + datetime.timedelta(milliseconds=algo)).isoformat()
+p10
+I17611
+sVi[0].translation
+p11
+I11530
+sVMostPopularRooms("rating", 1)
+p12
+I3150
+sV'refresh' in ''.join(x)
+p13
+I21110
+sVtextwrap.dedent?
+p14
+I18230
+sVfloat(comb(1, 5) * comb(2, 5) * comb(4, 5)) / float(comb(7, 15))
+p15
+I5562
+sVcgi.parse_multipart
+p16
+I7594
+sVuser = join_stats(user, comment_count='usercomment_count').get(username="matias")
+p17
+I7403
+sV]#)}]&#}&%^$]%!#$!{)[*%))!!%_%*%%#@@*}&[&@([[})$&($*}+*&((%$}+$})(^^_%!+%+(@#]#)
+p18
+I13769
+sVrender_to_response?
+p19
+I12584
+sV#%[^{#(_}!+!$)%@{}&^#+_](]+)}_([*@[^#$@&}]}*!@{@[++$++(&]_}@{+}#%)}+&_$[}%[%{+@)
+p20
+I13816
+sVf = open('/tmp/matias', 'rw')
+p21
+I15864
+sVnltk.corpus.brown.words()
+p22
+I2038
+sVi = CmsImageContent.objects.filter(image!='')
+p23
+I17989
+sVfff()
+p24
+I629
+sVimport load
+p25
+I17011
+sVr.findallmatch("/search/?query=sofa")
+p26
+I1591
+sVreverse('alert_list', u.username)
+p27
+I12367
+sVProduct.objects.get(category_id=1793)
+p28
+I5238
+sVfunc(1, 2, True, 1)
+p29
+I18170
+sValert('The Email address doesn\u005c't seem to be correct,\u005cnplease check missing hostname.');
+p30
+I9669
+sVa+(4, 5)
+p31
+I10551
+sVgc.get_referrers(a)
+p32
+I4157
+sVf.next()
+p33
+I1273
+sVp.get_url()
+p34
+I2830
+sVg.obnob_users()
+p35
+I20523
+sVrepr(purple)
+p36
+I1439
+sVr.findall('/search/')
+p37
+I6245
+sVp = Name('sum') + Value('var1') + Value('var2') + Optional(Value('var3')) + Name('as') + Value('as_name')
+p38
+I7242
+sVCmsPage.objects_aux.shared_pages()
+p39
+I593
+sVg.headers
+p40
+I21086
+sVp = SearchParams({ 'prefdb': 'product', 'db': 'product', 'query': 'blue sofa', 'count': 10, 'display': ['thumbnail_110', 'name', 'guid'] })
+p41
+I14343
+sVs.query(PhotoTag).filter_by(tag_id==1
+p42
+I14743
+sVf.obj.get_contents(as_list=True)[0].name
+p43
+I1294
+sVModel1.objects.filter(m3__isnull=True)[0].name
+p44
+I18918
+sVvalues.append((Permission._meta.get_field('codename'), 'pepe'))
+p45
+I7925
+sV[]}+^+*{[)}![}@[#$)}_^}#$!#%{([*_^+!#}$@{{&)!#*$#*@&)@&]^}!+{!}{)%}^[}]}[$&)^$)$
+p46
+I12946
+sV]))^)^][&$+)[!(#!()(&[%(&[@$*!{]+{{$(#^&_!!%@)%[@_(+^]#@$]#*!$%#()@++&}+%[[_#(*]
+p47
+I13983
+sVFacet.objects.get(name="category")
+p48
+I3632
+sVCategory.objects.all()[10:100]
+p49
+I3659
+sVgetattr.__d
+p50
+I3208
+sVht = HtmlTokenizer()
+p51
+I6376
+sVh.body.template.cmsfragmenttemplatecontentname_set.all()
+p52
+I1168
+sVv[-1].value.__class__
+p53
+I8703
+sVtime.sleep(10)
+p54
+I2129
+sVpychecker.MAIN_MODULE_VERSION
+p55
+I14808
+sVp.variant_count
+p56
+I21272
+sV@[)+)%}]){)[##&+#_)(*(#&)}_&(()){*_!}*^[$^*+$@{++@_#%_^($*}_+([]*&^$()$+])&)!]}}
+p57
+I13656
+sV@%_%*%)(}&%!%]%]$)&!]!}+)*(^&+&}@}}+]{^@^]^!$)+{!{(@]}]$@}])}}{%^@]#*&!!!%^&_&@@
+p58
+I13274
+sVpexpect?
+p59
+I15838
+sVi.view_count
+p60
+I4012
+sVfloat(arr(1, 1) * arr(9, 1) * arr(9, 3)) / float(arr(9, 5))
+p61
+I5648
+sVj.data = [1, 2, 3, 4, {"a": "a"}]
+p62
+I20551
+sVv.filter_expression.filters[0][0]()
+p63
+I10113
+sVt.votes.down_votes()
+p64
+I20447
+sVfrom lib.decorators import render_to
+p65
+I18332
+sVb_iface.GetProperty("battery.is_charged")
+p66
+I2213
+sV^+*#!**[_@#@))@@$!!)#%$%${[(&#(&_#[{*{%@##!^@*)_!{^{%[]+%]}}()[$%(_{$[[^{(]]@%{_
+p67
+I13662
+sVhxs.re(re.compile('<!-- CUERPO -->(.*)<!-- FIN CUERPO -->')
+p68
+I16877
+sVm = LIST_ITEM_RE.match('article_list[10]')
+p69
+I10597
+sVurllib.quote("http://www.argos.co.uk/static/Browse/ID69/10198115/c_1/1|category_root|Toys+and+games|10198115.htm?tag=PS6_1a")
+p70
+I3331
+sVg.headers.getheaders()
+p71
+I21089
+sVi.save_form_data.__class__
+p72
+I4905
+sVg = Group.objects.filter(parent__isnull=False)[0]
+p73
+I20509
+sVt = Template('{% static_url "room_explorer/?imagetype=buythelook" %}').render(Context({}))
+p74
+I11242
+sVa[a.find('['):]
+p75
+I17480
+sVa and None
+p76
+I1473
+sVe = e.replace('</p>', '\u005cn')
+p77
+I16901
+sVd.normalize?
+p78
+I10716
+sVarticles = ArticleSearch(query='cake stands|carriers', count=5, display=display).get_result().get_items()
+p79
+I5328
+sVr.result.items[0].logo
+p80
+I7485
+sVi.manual_classified_count
+p81
+I3182
+sVconnection.ops.field_cast_sql.__doc__
+p82
+I7936
+sVrandom.randint(range(10), 1)
+p83
+I7042
+sVf = inspect.currentframe()
+p84
+I4251
+sVa = range(10) + range(10)
+p85
+I7101
+sV'%02x' % 200
+p86
+I6264
+sVdo_subscribe('matiasaguirre@gmail.com', 'matias')
+p87
+I7834
+sVfor f in f.errors:\u000a    print f
+p88
+I3899
+sVFForm._meta.model
+p89
+I3708
+sVr = trav(graphs['00202'], n)
+p90
+I7002
+s.

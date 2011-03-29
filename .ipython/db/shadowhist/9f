@@ -1,0 +1,233 @@
+(dp1
+Vsock.send(simplejson.dumps({'user': 'matias', 'msg': 'a4'}))
+p2
+I16940
+sVb = BlogAwardItem.objects.all()[0]
+p3
+I15761
+sV_%})%@__@$_@+)#+(^@^{^@_!](*]%_^^**@_#(*]_)$^]&}_**(+!}@}}}+@*]])&^_[$!!_*&)$)^[
+p4
+I13249
+sVos.getenv()
+p5
+I10950
+sVfrom facebook import minifb
+p6
+I10570
+sVscrapy.__file__
+p7
+I15521
+sVout
+p8
+I10331
+sVclass A(object):\u000a    a = 1\u000a    b = 2\u000a    def print_out(self, x):
+p9
+I16335
+sVtime.ctime("1228428288")
+p10
+I4026
+sVretrieve("http://site-4306.maguirre.users.dev.mydeco.com/the-magazine/")
+p11
+I9812
+sVa.setdefault("hola", []).append("pepe")
+p12
+I1613
+sV" Tag.all()
+p13
+I14728
+sVsha.sha("Is the singularity here yet?").hexdigest()
+p14
+I12089
+sVhaar.elem_size
+p15
+I10924
+sVf.truncate()
+p16
+I15867
+sVs.query(PhotoTag).filter_by(PhotoTag.tag_id == 1)
+p17
+I14742
+sVMAT)
+p18
+I1096
+sVcsv.Dialect
+p19
+I10674
+sVp = CmsPage.objects.get(pk=767)
+p20
+I826
+sVparser.add_options
+p21
+I7051
+sVws = Product.objects.filter(name="table", count=10)
+p22
+I14307
+sV= "hola mundo cruel y despiadado"
+p23
+I11745
+sVfrom datetime import tzinfo
+p24
+I17446
+sVfrom django.template import add_to_builtins
+p25
+I17923
+sVreturn false;
+p26
+I9646
+sVp.hola("1", b=2)
+p27
+I1366
+sVfrom urlparse import urlsplit, urlunsplit
+p28
+I9041
+sVf = open('/tmp/xxx', 'w')
+p29
+I20529
+sVv = list(v)
+p30
+I8657
+sV[ i if i == 1 ]
+p31
+I8753
+sV[ (x, y) for x in xrange(10) for y in xrange(10, 20) ]
+p32
+I12499
+sVCmsContentMapping.object.filter(fragment_id__in=[i.id for i in f])
+p33
+I9167
+sVs = """<p><strong>The first Christmas tree I bought was neon blue so I love this <a href="{% article_tracked_url "464" "http://www.diy.com/diy/jsp/bq/nav.jsp?action=detail&fh_secondid=10627599&ecamp=aff-p9-buyat-001&_requestid=198421" %}" target="_blank">blue LED fibre optic Christmas tree</a> at B&Q &ndash; especially with its 50% discounted price tag!</strong></p>"""
+p34
+I14945
+sVnltk.download()
+p35
+I7015
+sVqs.filter(slug='design-boutique')
+p36
+I14562
+sVfrom cms.models import Image
+p37
+I8577
+sVdecimal.Decimal('10.323232')
+p38
+I10710
+sVfor page in tweepy.Cursor(api.direct_messages).pages():\u000a    print page
+p39
+I16468
+sVdatetime.timedelta()
+p40
+I19278
+sVr.sub(pepe, "pepepepepepepepepe")
+p41
+I2645
+sVSpecialOfferProduct.objects.all()
+p42
+I4498
+sVfrom toolbox.twistedtools.web import site
+p43
+I2430
+sVappend_titles([Image], "maraca")
+p44
+I153
+sVhxs.select('//h1[@class="titulo"]/text()').extract()[0]
+p45
+I16741
+sVa = { 'hola': 'mundo', 'como': 'le va' }
+p46
+I6060
+sVa.index("unpublished")
+p47
+I1447
+sVtype(pepe) == type(lambda)
+p48
+I3440
+sVc.url
+p49
+I5168
+sVitem.http_path
+p50
+I12204
+sVu.has_perms('cms_producer')
+p51
+I5974
+sVa._model
+p52
+I5806
+sVTemplate('{% templatetag openblock %}').render({})
+p53
+I14385
+sVu.user_permissions.filter(content_type_id=83)
+p54
+I5994
+sV%timeit 'a ' + 'xxx' + ' b'
+p55
+I16835
+sVsimplejson.loads(v)[0]['description'].__class__
+p56
+I4947
+sVt.render(Context({'x': 'mundo'}))
+p57
+I18498
+sVScoredItem.objects.create(content_type=ct, object_id="3929", user_id="813", uuid="vQRo3cCoZM4AAAczEhkAAAAA", score=u"1", rate_type="rating")
+p58
+I7384
+sVv = Valoracion.objects.filter(area_id=1)
+p59
+I10733
+sVt.substitute(name='matias')
+p60
+I18529
+sV#_)}}@^${#%)@@[]]}]%$_#&}[@%{{(+{@%)_^%}*^}$#]$!{)#])&#^(]]#}^^*])*#$#@()^!)$$!@
+p61
+I13819
+sVo._meta.local_many_to_many()
+p62
+I18724
+sV*#+}+^)&)^+&{)^$*}}%@^+@%^)}!!%#+_@*(*]+)+_@#
+p63
+I13895
+sVc[0].description
+p64
+I1745
+sVp = Permission.objects.get(codename="cms_admin")
+p65
+I6010
+sVf = i.image.read(i.image.size)
+p66
+I17247
+sVr = RoomCompetition.objects.get(pk=2)
+p67
+I20269
+sVp = CmsPagePath.objects.get(http_path="/the-magazine/")
+p68
+I4706
+sVthumbnail("/media/" + i.image, "width=80,height=80")
+p69
+I3814
+sVlen(contents)
+p70
+I1547
+sVMicrosite.objects.values('domain').filter(domain__startswith='www')
+p71
+I8726
+sVfor i in range(10):
+p72
+I9851
+sV^]^(}${[(^!*{}!(_[{^*&{&})]]&}![}$!}*+])}[@(_&)[}*@_$_{%[+&#(*_#+)^)!&@!%($!}#[%
+p73
+I14032
+sVprint urllib2.unquote("%C2%A3")
+p74
+I2233
+sVpages = CmsPage.objects.most_viewed('/the-magazine/')
+p75
+I12211
+sVst2.st_mode & os.path.stat.S_IFSOCK
+p76
+I16601
+sVp.address
+p77
+I5846
+sVt.choices
+p78
+I683
+s.

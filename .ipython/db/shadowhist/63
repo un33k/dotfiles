@@ -1,0 +1,262 @@
+(dp1
+Vi.translations.filter(_language=es)
+p2
+I17865
+sVi.image.instance
+p3
+I10525
+sVjson = ''.join(urllib2.urlopen('http://mydeco.blip.tv/posts/?skin=json&no_wrap=1').readlines(), '')
+p4
+I11615
+sVPermission._meta.get_field('codename')
+p5
+I7924
+sVdir(hal)
+p6
+I2177
+sVa.split('/')[1]
+p7
+I17395
+sVp = CmsPage.objects.get(pk=7259)
+p8
+I17487
+sV}_{%]]$)(#@![!(_]!)+&$&^(){$%_(_%+}%*%&%!!^^)(_*@{^#())[{^&@}#{{^_$[*()*$&%^_{)%
+p9
+I12949
+sV%ps ax
+p10
+I2527
+sVr.match("abdkjasdjaskab")
+p11
+I3936
+sVb
+I557
+sVan.as_list()[3]
+p12
+I11228
+sVfrom aff.utils import valid_article_url
+p13
+I14903
+sVphrases = ["sofa", "roman blind", "dim out blind", "black"]
+p14
+I6499
+sV[ s.encode('utf-8') for s in a.split() ]
+p15
+I10456
+sVp._get_url
+p16
+I5390
+sViter({})
+p17
+I21251
+sVmath.fmod?
+p18
+I10705
+sVx = RoomCompetition()
+p19
+I19972
+sVs = "2010-09-16 23:59:00 GMT-0400"
+p20
+I17701
+sVa.reverse()
+p21
+I8387
+sVpq.move('matias', 'e3')
+p22
+I16296
+sVt = Thumbnail('http://cdn.mydeco.com/media/data/rooms/images/_thumbs/6aei47252ccaslyt.jpeg')
+p23
+I19737
+sVr = re.compile("(((ht|f)tp(s?):\u005c/\u005c/)|(www\u005c.[^ \u005c[\u005c]\u005c(\u005c)\u005cn\u005cr\u005ct]+)|(([012]?[0-9]{1,2}\u005c.){3}[012]?[0-9]{1,2})\u005c/)([^ \u005c[\u005c]\u005c(\u005c),;&quot;'&lt;&gt;\u005cn\u005cr\u005ct]+)([^\u005c. \u005c[\u005c]\u005c(\u005c),;&quot;'&lt;&gt;\u005cn\u005cr\u005ct])|(([012]?[0-9]{1,2}\u005c.){3}[012]?[0-9]{1,2})")
+p24
+I1618
+sVlist(q.filter(PhotoTag.tag_id==[6]))
+p25
+I15349
+sVg.contents.example
+p26
+I1854
+sVcgi.parse_qs(p.query)['website'].__class__
+p27
+I14776
+sVfor(i=0;i<user.length;i++){
+p28
+I9650
+sVb.show_now()
+p29
+I18066
+sVa, b, c = range(1, 4)
+p30
+I3247
+sVbf = BtlEditForm(b)
+p31
+I4340
+sVfrom django.core.management.color import no_style
+p32
+I8353
+sVf.template_path
+p33
+I784
+sVx = u'asd\u005cxe9asdfj'
+p34
+I18579
+sVtt.contents
+p35
+I10019
+sVimport cStringIO
+p36
+I15813
+sVp = Person.objects.lang('es').all()[0]
+p37
+I5845
+sVf = p.cmsfragment_set.all()[0]
+p38
+I9147
+sVlocale.str
+p39
+I7421
+sVs[0].form()
+p40
+I17009
+sVmicrosite_articles.get_contents(p)
+p41
+I9181
+sVf = [ f for f in Article._meta.fields if hasattr(f.rel, 'to') ][0]
+p42
+I11965
+sVreverse('shopping_site_design_boutique', args=('abc',))
+p43
+I20850
+sVt.render(Context({'x': 108}))
+p44
+I18284
+sVcategories = ['bedroom', 'bathroom']
+p45
+I10534
+sVfrom cms.plugins import PLUGINS
+p46
+I12827
+sVitem two
+p47
+I11924
+sVImage.objects.all().delete()
+p48
+I10905
+sVbot.conn.sendInitPresence.__doc__
+p49
+I4392
+sVr.result.items[0].type
+p50
+I9297
+sVq.children[0]
+p51
+I11007
+sV[ p.name for p in r.result.items]
+p52
+I21268
+sVfrom article.models import *
+p53
+I465
+sVimport gz
+p54
+I17224
+sVclass Mm(models.Model):
+p55
+I706
+sVfrom django.template.loader import *
+p56
+I9824
+sVr == r2
+p57
+I15572
+sVos.environ.keys()
+p58
+I4227
+sVbooks[0].isbn
+p59
+I6086
+sVlen(list(pepe()))
+p60
+I3020
+sV]+)($[#]@(#$+%]+$!^_&}+[!$)][)(}((+!@{^^^*{[#$_@}$!@%{(]{+^(!$*!@@*}^+*!]])$!)*[
+p61
+I13045
+sVhtmllib.sgmllib.entityref.match("http://test.com/?x=1&amp;y=2")
+p62
+I4649
+sV]{[]]}]%$!$_]]%%$@^](!}]!^[!^(%$%*$]&)@%!#+@@**$^%!*$$(_^[%*!)^$]^@_#}@(*}){({+(
+p63
+I13379
+sVSITE-1829
+p64
+I3902
+sV'?'.join('1', '2')
+p65
+I12173
+sVimport rand
+p66
+I15669
+sVimport cv
+p67
+I10819
+sVif hasattr(pd.page", "fragment_pepe"):
+p68
+I2465
+sVos.path.isdir?
+p69
+I12294
+sVroom.user.avatar}
+p70
+I9292
+sVupdate cms_fragment_template set content_names = "drawerHeading/text,drawerImage/image,drawerText/largetext,drawerLinkUrl/text,drawerLinkText/text" where id = 20;
+p71
+I6616
+sV]_}!%$+_$}#&_%)%[*&%_@}+&+&$]]#(([+([{*[{$+!@[%{#^#$_]#){+$%*_&%(+##$_}%[}!%!&{[
+p72
+I13409
+sVp._state.db
+p73
+I18811
+sVCmsTextContent.objects.count()
+p74
+I9794
+sVu.set_password('123456')
+p75
+I12359
+sVx = digraph.digraph()
+p76
+I19163
+sVContentType.get_object_for_this_type(Room)
+p77
+I11782
+sVsimplejson.dump?
+p78
+I12587
+sVnew.classobj
+p79
+I8745
+sVr.match('Black (1) :')
+p80
+I16301
+sVmeta.tables
+p81
+I15157
+sVp.category_id
+p82
+I2821
+sVx = [1]
+p83
+I11567
+sVlist(Website.objects.all())
+p84
+I2657
+sVc['catdata'].browse_view
+p85
+I5457
+sVc = fd.content_list
+p86
+I667
+sVg.example[0].name
+p87
+I1861
+s.

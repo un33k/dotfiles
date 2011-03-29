@@ -1,0 +1,194 @@
+(dp1
+VValue.page
+p2
+I8972
+sVImageFont.truetype("/home/omab/iw/fuentes pag.web/TrajanPro-Bold.otf")
+p3
+I3721
+sVx.parent.name
+p4
+I19853
+sVp = datetime(2012, 12, 18, 18, 0) - datetime.now()
+p5
+I19188
+sVlist(languages(''))
+p6
+I12009
+sVo.id
+p7
+I7743
+sV[^]]$$^{&*{)%@^$%}!%](@&!^&]!@{%}[]_![#]!]#[}]{!)+@+#!_&]^_@+$}_[_%([$(&)$)!&+){
+p8
+I13448
+sVa.split('.', 1)
+p9
+I17123
+sV%quickref
+p10
+I4794
+sVf.get_player_names(1)
+p11
+I15593
+sVfrom aff.models import *
+p12
+I5955
+sVth = threading.Thread(target=read_pipe, args=(sub,))
+p13
+I15984
+sVShopWizard(request, 'any', catdata.category['name'], special_offers=c['special_offers'], design_boutique=c['design_boutique'], outlet=c['outlet'], paid_search=c['paid_search'], requirefacet=['-%s' % f for f in catdata.\u005c category.get('browse_exclude', ())]).get_result()
+p14
+I5446
+sVany(a.get(i) for i in ('a', 'd'))
+p15
+I19543
+sVurllib.urlcleanup?
+p16
+I21398
+sVq = sqlite3.connect('./photos.db')
+p17
+I7536
+sVf.form
+p18
+I14416
+sV_#@&({+)+}^*]^!^})[(^@)*+#@]%_(**_+}###[_}]*$${]&_[&{[*}+@#}&^{]_!&#{%())](^@}%*
+p19
+I13973
+sVx = filter(None, a)
+p20
+I15448
+sVa = 'a b'
+p21
+I17952
+sVp.usage
+p22
+I12446
+sVf = SignupForm(data={u'password1': 'passwd', u'first_name': 'Mi', u'last_name': u'Mer', u'email': u'matiasaguirre@gmail.com', u'password2': u'passwd'})
+p23
+I20279
+sVChildA.objects.all()[0]
+p24
+I19957
+sVim = Image.open("./pppp.jpg")
+p25
+I1377
+sVget_stopword_exceptions()
+p26
+I5947
+sVh = PageHelper(CmsPage.objects.filter(http_path='/')[0])
+p27
+I1292
+sVSiteCategoryProducts.objects.distinct('category__slug').all()
+p28
+I10537
+sVf = os.open("/tmp/file", os.O_CREAT | os.O_APPEND)
+p29
+I11668
+sVHTMLParser.HTMLParser.handle_startendtag?
+p30
+I9770
+sVi.get_image_filename()
+p31
+I3810
+sVgdata.docs
+p32
+I19790
+sVdict(o.parse('ttp 123 as pp'))
+p33
+I7200
+sVqs.query.join((Model2._meta.db_table, Model1._meta.db_table, 'm1_id', 'id'))
+p34
+I18911
+sVUser._meta.get_all_field_names()
+p35
+I18633
+sVv = ["[{\u005c"offer_id\u005c": [86], \u005c"expires\u005c": [\u005c"2039-02-28 11:34:50\u005c"], \u005c"description\u005c": [\u005c"MATIAS TEST [UNLIMITED] FREE DELIVERY\u005c"], \u005c"slug\u005c": [\u005c"free-delivery\u005c"]}]"]
+p36
+I4949
+sVu.obnob_groups.add(1)
+p37
+I20154
+sV*^!_+^_#(_*}))#{#$)[^$*(_+}[#+_@^#{+){${]*)[]]}((_*%_^+&(&]}!!!)@(++{)%&#}*[^+$^
+p38
+I13572
+sVfrom horno.models import Post
+p39
+I95
+sV{%(#+(@%($*&%*##^+){([%[_&#(]*@+_!^_{%{@%_&%&[[$%+)@{[&(_@%+*{#_*!%+&[*(+{+*$})+
+p40
+I13815
+sV+]$^@#_@[{!+^)}}[)_([!%[{(%)@)&^*{!)%&)&!$@]}@([*(^#%@^&))%*[[}_((@&)]+]}}_))(}*
+p41
+I13914
+sVmd5.md5().hexdigest(os.urandom(10))
+p42
+I18453
+sVre.findall('/(\u005cd+)-', url).group(0)
+p43
+I16224
+sVdef choices():
+p44
+I15475
+sVIGhhYmxhcm9uIHkgbWUgY29uZmlhcm9uIGxhIG5vdGljaWEsIHBlcm8uLi4gbm8gc2UuLi4uLiB2
+p45
+I14508
+sVfor a in articles.get_result().get_items():\u000a    print getattr(a, 'image', "nonono")
+p46
+I5357
+sVimport thread
+p47
+I9366
+sVfix_ampersands("& dajkdjas & dajsdkjas")
+p48
+I5407
+sVurlparse.urljoin('http://google.com?h=1', 'h=2')
+p49
+I18442
+sVfrom fuse import Fuse
+p50
+I64
+sVp.params
+p51
+I2579
+sVa = b = 'hola mundo'
+p52
+I6229
+sV19883 / 60 / 60
+p53
+I19186
+sVc = compiler.SQLCompiler(qs.query, connection, qs._db)
+p54
+I20901
+sVr.headers['Authorization'] = x
+p55
+I19439
+sVtest_project.__path__
+p56
+I17627
+sVslugify("HoL2a MundO").lower().replace("-", "")
+p57
+I4765
+sVs.identity_key()
+p58
+I15305
+sV%![[!$$^]}*!$[&_{_@](+(_}@_@^{$+%&(+[((@}[&${@%@[@%]})$)&&#*(%}_)]%%&@]&&{[*#@@@
+p59
+I13751
+sVpepe.__str__()
+p60
+I3688
+sVh.__dict__
+p61
+I17157
+sVWebsite
+p62
+I10074
+sVfrom django.db import QuerySet
+p63
+I5863
+sVF.fields["tags"]
+p64
+I4353
+sVa.args
+p65
+I14154
+s.

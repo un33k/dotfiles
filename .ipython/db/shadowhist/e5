@@ -1,0 +1,224 @@
+(dp1
+Vr1
+p2
+I20681
+sVr = RoomSearch(order_by='-rankin', count=10)
+p3
+I11458
+sVopr.parse("tag xxx as yyy uuu from mmm".split())
+p4
+I434
+sVtokens[0]
+p5
+I10035
+sVgraph, files = clean_graphs()
+p6
+I6951
+sVf.rel.through?
+p7
+I10095
+sVp.easy_stem("easiest")
+p8
+I5923
+sVfrom django.contrib import sessions
+p9
+I4328
+sVc = re.compile('<meta http-equiv="refresh" content="0;url=(.*)">')
+p10
+I20774
+sVget_db_version()
+p11
+I15180
+sVa[1:9]
+p12
+I1462
+sVxml = XMLGenerator()
+p13
+I17254
+sVa.__getslice__.__doc__
+p14
+I1728
+sVp.avatar = None
+p15
+I18429
+sVi = 29
+p16
+I2926
+sVsorted?
+p17
+I10517
+sVf.widget.render('name', '20')
+p18
+I15471
+sVdict(r.findall(s))
+p19
+I17088
+sVRoomCompetition.objects.filter(type=None)
+p20
+I19085
+sVserver = ('messenger.hotmail.com', 1863)
+p21
+I9327
+sVprint u'\u005cu000a'
+p22
+I11694
+sVr.match('a')
+p23
+I14867
+sVos.path.stat.S_IFSOCK & st.st_mode == os.path.stat.S_IFSOCK
+p24
+I16598
+sVx = X(data={'name': 'xxx'})
+p25
+I20641
+sVurllib.urlencode(data2)
+p26
+I15617
+sVlen("CategoryBrowse:candles & candle holders and") + len("Subsection") + 4 + 4
+p27
+I14617
+sVfrom gtk.gdk import colormap_get_system, POINTER_MOTION_MASK, BUTTON_PRESS_MASK, pointer_ungrab, Pixbuf, COLORSPACE_RGB, get_default_root_window, pointer_grab, GRAB_SUCCESS
+p28
+I7323
+sV@}_]_[%&)[@+}{+&^!#@_{!__!^%[(]@!+*%[!+)!{+_]*&+@*[_(*%+}*@+@&$!+_@+*&[#@%###}^^
+p29
+I12936
+sVq = Post.objects.annotate(total=Count('date')).values('date', 'total')
+p30
+I15707
+sVpq.stop()
+p31
+I16937
+sVgetattr(a, 'pepe')
+p32
+I17505
+sVb = forms.BooleanField()
+p33
+I14435
+sVi0.text
+p34
+I675
+sVprint urlparse.urlsplit.__doc__
+p35
+I1223
+sV*#^$(]))^^}{&})@**}!@[{{[*@^}!}}#))@*][[[##@)([_$#*+)]%#{]![$^[@!^@[([(){+$)(]]}
+p36
+I13645
+sVg.add_edge("a", "c")
+p37
+I6887
+sVh.name
+p38
+I17018
+sVfrom search import *
+p39
+I90
+sVc.move('c3')
+p40
+I16045
+sVissubclass(B(), A)
+p41
+I17355
+sVt = t.replace('S', 'a')
+p42
+I5227
+sVreverse('cab_snippet_details', snippet_id=1)
+p43
+I16868
+sVctx = get_shopping_context(path='')
+p44
+I8525
+sVsimplejson.JSONDecoder().decode("{'url': 'pepe', }")
+p45
+I2666
+sVa[None:]
+p46
+I4300
+sVurllib.urlencode(SUBS_PARAMETERS)
+p47
+I7832
+sVmicrosite_tags.do_category_links
+p48
+I6277
+sV]*$]@(*$}[!@{($*&+[_[_*+*@@%_]*$[*%#{%![]!_@}!_{#)]!*@+[*%&[{^_]!%#+!}]%*#%[@{}$
+p49
+I13539
+sVWebsite.objects.filter(tags__in=['chartered'])
+p50
+I11367
+sVp._meta.module_name
+p51
+I17398
+sV[ l.strip() for l in f2.readlines() if l.startswith('My move is')][-1]
+p52
+I15801
+sVfrom tipocms import cms_cache
+p53
+I8476
+sVfrom pynswers import Answers
+p54
+I9137
+sVfrom django.db.models.sql import Q
+p55
+I11071
+sVoauth.OAuthC
+p56
+I18525
+sVa = {'sv': 1}
+p57
+I16498
+sVprint(1)
+p58
+I6549
+sVrange(a[i-2], a[i+2])
+p59
+I2920
+sVt = Tag(id=None, name='Test tag', category_id=0)
+p60
+I15237
+sV@}_%^^[+{_*[]%!@(#]*%}{+@_}*{[%^@_#{@}}[%[@+]@_()$)[[*!)(#)$%$%(^[^++_++@})$[&+(
+p61
+I13583
+sVuuid.uuid4()
+p62
+I5081
+sVt = Thumbnail('http://cdn7.mydeco.com/media/data/rooms/images/_thumbs/6aei47252ccaslyt.jpeg')
+p63
+I19736
+sVr = Room.objects.get(pk=1176047)
+p64
+I19741
+sVimg.rotate(-30).show()
+p65
+I12290
+sVf.node.real_nodelist.__class__
+p66
+I10263
+sVmax?
+p67
+I21433
+sVfrom os.path impor pathsep
+p68
+I16197
+sVraise NotImplemented
+p69
+I2315
+sVfrom os import path
+p70
+I11179
+sVi.get_content_cache_object()['__image_url']
+p71
+I19637
+sVlists(range(20), 4, 1)
+p72
+I3050
+sVr = Request('https://www.googleapis.com/userinfo/email?alt=json&oauth_nonce=23714567&oauth_timestamp=1300226278&oauth_signature_method=HMAC-SHA1&oauth_consumer_key=anonymous&oauth_verifier=SeNpYl8SOdH3%2FLDmK26j%2F%2BgU&xoauth_displayname=Social+Auth&oauth_version=1.0&oauth_token=1%2FI0bv__38mQPuSe8JZYx-3YPatjX_UffBZ6a9qNiN53I&oauth_signature=MKBWYyNacaBQfzUI9wT187rcS9Y%3D&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo%23email+https%3A%2F%2Fwww.google.com%2Fm8%2Ffeeds%2F&oauth_callback=http%3A%2F%2Fmyapp.com%3A8000%2Fcomplete%2Fgoogle-oauth%2F', headers={'Authorization': 'https://www.googleapis.com/userinfo/email?alt=json&oauth_nonce=23714567&oauth_timestamp=1300226278&oauth_signature_method=HMAC-SHA1&oauth_consumer_key=anonymous&oauth_verifier=SeNpYl8SOdH3%2FLDmK26j%2F%2BgU&xoauth_displayname=Social+Auth&oauth_version=1.0&oauth_token=1%2FI0bv__38mQPuSe8JZYx-3YPatjX_UffBZ6a9qNiN53I&oauth_signature=MKBWYyNacaBQfzUI9wT187rcS9Y%3D&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo%23email+https%3A%2F%2Fwww.google.com%2Fm8%2Ffeeds%2F&oauth_callback=http%3A%2F%2Fmyapp.com%3A8000%2Fcomplete%2Fgoogle-oauth%2F
+p73
+I21187
+sVtime_format(134964, "G:i")
+p74
+I3231
+sVitertools.chain
+p75
+I12016
+s.

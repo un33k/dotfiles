@@ -1,0 +1,259 @@
+(dp1
+Vprint nodes.render(Context())
+p2
+I10345
+sV\u005cn<div id="homepage-splash" style="background: url(/media/cms/image/2009/07/22/HOMEPAGE_V38_02_.jpg) no-repeat bottom left;">\u005cn  <ul>\u005cn  \u005cn    <li>\u005cn\u005cn<a href="/buy-the-look/mydeco-spotlight/">\u005cn<strong>Designer inspiration</strong>\u005cn<span>Steal the style of luxury Design Hotels and make every day a holiday.</span>\u005cn</a>\u005cn\u005cn</li>\u005cn  \u005cn    <li>\u005cn\u005cn<a href="/the-magazine/crocus/">\u005cn<strong>Up to 50% off Crocus</strong>\u005cn<span>Plus extra 15% off everything - EXCLUSIVE to mydeco.</span>\u005cn</a>\u005cn\u005cn</li>\u005cn  \u005cn    <li>\u005cn\u005cn<a href="/shopping/design-boutique/design-boutique-ceramics/">\u005cn<strong>Stylish ceramics</strong>\u005cn<span>Find something you\u005c'll treasure in our design boutique.</span>\u005cn</a>\u005cn\u005cn</li>\u005cn  \u005cn    <li>\u005cn\u005cn<a href="/buy-the-look/2379/">\u005cn<strong>Buy the look - secret garden</strong>\u005cn<span>Create a courtyard oasis - plus this week most of it is on sale.</span>\u005cn</a>\u005cn\u005cn</li>\u005cn  \u005cn    <li>\u005cn\u005cn<a href="/the-magazine/articles/how-to-throw-a-vintage-style-wedding">\u005cn<strong>Vintage-style weddings</strong>\u005cn<span>Secrets for creating a wedding with vintage glamour.</span>\u005cn</a>\u005cn\u005cn</li>\u005cn  \u005cn    <li>\u005cn\u005cn<a href="/the-magazine">\u005cn<strong>Sparkling Summer</strong>\u005cn<span>Discover 100s of ideas to help you create a magic home & garden.</span>\u005cn</a>\u005cn\u005cn</li>\u005cn  \u005cn    <li>\u005cn\u005cn<a href="/the-magazine">\u005cn<strong>Sparkling Summer</strong>\u005cn<span>Discover 100s of ideas to help you create a magic home & garden.</span>\u005cn</a>\u005cn\u005cn</li>\u005cn  \u005cn    <li>\u005cn\u005cn<a href="/shopping/style/modern/modern-lighting/">\u005cn<strong>Modern lighting favourites</strong>\u005cn<span>Make a statement with stunning modern lights.</span>\u005cn</a>\u005cn\u005cn</li>\u005cn  \u005cn    <li>\u005cn\u005cn<a href="/the-magazine/buyers-guide/articles/top-ten-garden-lanterns">\u005cn<strong>Top 10 garden lanterns</strong>\u005cn<span>Add magic to your garden with a charming lantern - all under \u005cxa310.</span>\u005cn</a>\u005cn\u005cn</li>\u005cn  \u005cn    <li>\u005cn\u005cn<a href="/shopping/style/romantic/romantic-wedding-gifts/">\u005cn<strong>Romantic wedding gifts</strong>\u005cn<span>Boycott toasters: find a wedding gift to wow the happy couple.</span>\u005cn</a>\u005cn\u005cn</li>\u005cn  \u005cn    <li>\u005cn\u005cn<a href="/the-magazine/style/articles/style/to-the-letter">\u005cn<strong>Alphabet accessories</strong>\u005cn<span>Why we love letters: the hottest interior trend of \u005c'09.</span>\u005cn</a>\u005cn\u005cn</li>\u005cn  \u005cn    <li>\u005cn\u005cn<a href="/shopping/style/romantic/romantic-cushions-and-throws/">\u005cn<strong>Top 50 cushions & throws</strong>\u005cn<span>See our pick of this season\u005c's most elegant cushions & throws.</span>\u005cn</a>\u005cn\u005cn</li>\u005cn  \u005cn  </ul>\u005cn</div>\u005cn"""
+p3
+I9783
+sVopr.start_parse("tag xxx as yyy uuu from mmm".split())
+p4
+I435
+sV{($#&!^!{[}(}@}}{%&(@!+_)]!*%)!(^!**!{!({}}}&{%&@#({_](+}##@$)!]^!]#!^^_[)%}@}))
+p5
+I13375
+sVany(map(bool, []))
+p6
+I17422
+sVurlresolvers.resolve("wears.views.designed")
+p7
+I2866
+sVst.st_mode
+p8
+I16591
+sV)*$*}%(*^{}!$^$%*(!([##@&^*!+!%@[+[+)@({{_&**&#_@}$$[)%]@[}]}{*[++&)#)&!$!)_)}$+
+p9
+I13706
+sVc = CategoryHierarchy.objects.filter(pk=129)
+p10
+I4596
+sV_&**[_&[(%@%**)[*$[]#_&+^{@_&!{^]%#_)![]![@#&[}]_]!+{}{$+_((}]_{!)})%[*$^(+^)+}*
+p11
+I13285
+sVp.bits
+p12
+I10215
+sVdatetime.datetime.strptime(s, '%Y-%m-%d %H:%M:%S')
+p13
+I17702
+sVctx = get_shopping_context()
+p14
+I8523
+sVfrom Crypto.Cipher import *
+p15
+I979
+sVSerializer().get_string_value(p, 'template')
+p16
+I11374
+sVodd, even = [], []
+p17
+I10813
+sV%!!#!&}!%+[#!@[#@__*](_*+&^$]*#}!&*@*[*{)%)$*][}^!][_@*]*}&*}{%*((^^@+]&_%#[&}{^
+p18
+I13411
+sV[ l for l in f2.readlines() if l.startswith('My move is')]
+p19
+I15799
+sVfrom tipocms.models import *
+p20
+I537
+sVif((domArr[domArr.length-1].length>2)&&(domArr[domArr.length-1].search(gTLDs)==-1)){
+p21
+I9666
+sVbase64.b64decode("4xtmf77bahev5aj930gmsmsfgpur9hb3")
+p22
+I3651
+sVv.form
+p23
+I17326
+sVlist(Product.objects.filter(pk__in=x[:170]))
+p24
+I18557
+sV%(!{&^%%&$(!#@{+*#+*{]![}!!(${@*+$}+__}_}{)@)^*[$!@[+)+](#!!{]#*^&)!%&)%*]*#$]()
+p25
+I14078
+sVfrom search.results import RoomSearchResult
+p26
+I4191
+sVif((domArr[domArr.length-1].length==2)&&(domArr[domArr.length-1].search(countryTLDs)==-1)){
+p27
+I9664
+sVd = DatedItem.objects.all().set_language('en')[0]
+p28
+I11153
+sVprint sys.stdin.readlines.__doc__
+p29
+I918
+sVitem['name'] = hxs.select('(//h1[@class="titulo"]/text()|//div[@id="Contenido"]//h1/b/text())').extract()
+p30
+I16737
+sV</methodCall>"""
+p31
+I8426
+sVs.result.search_params.filter
+p32
+I10654
+sVSELECT ci.id, ci.categorization_id, ci.categorization_image_type_id,
+p33
+I3604
+sV'?'.join(('1', '2'))
+p34
+I12175
+sVint('10/10/10'.replace('/', ''), 2)
+p35
+I18120
+sVd = libxml2.parseDoc(t)
+p36
+I1786
+sVp.poll()
+p37
+I15807
+sVc.category['browse_exclude']
+p38
+I20542
+sVa.get_classes()
+p39
+I19406
+sVdr.text((100, 100), "Hello", fill=(255, 0, 0), font=ttf)
+p40
+I1395
+sV[ c.id for c in an.criterios_list ]
+p41
+I11225
+sVCategory.__class__
+p42
+I4441
+sVe = e.replace('<p>', '\u005cn')
+p43
+I16902
+sVt.fragment.join_table
+p44
+I567
+sVf = AuthenticationForm(data={})
+p45
+I3897
+sVu'\u005cxa00'
+p46
+I9976
+sVa = ['a.b', 'c.d']
+p47
+I19820
+sVt.add(gtk.Label("Hello"))
+p48
+I7301
+sV1
+I20348
+sVlist(purple.PurpleGetIms())
+p49
+I5599
+sVclass Pepe(str):
+p50
+I19686
+sVr.findall('search/')
+p51
+I6250
+sVww.raw_bit
+p52
+I10241
+sVp = partial(prueba, 1, 2)
+p53
+I8999
+sVfrom django.views.generic.simple import redirect_to
+p54
+I9931
+sVp = LazyPage(pk=1)
+p55
+I5091
+sVfrom django.db.query import QuerySet
+p56
+I5864
+sVj.data.__class_
+p57
+I20564
+sVfrom Queue import Empty
+p58
+I16240
+sVcontent
+p59
+I16431
+sVc.__name__
+p60
+I1493
+sVc.categoryimage_set
+p61
+I3538
+sVenumerate("hola")
+p62
+I2007
+sVItem._translation_model._translation_meta
+p63
+I11046
+sVc = CForm(data={'custom_name': 'hola mundo'})
+p64
+I14403
+sVa = "hola::pep"
+p65
+I618
+sVa = xrange(100)
+p66
+I9496
+sVr = c.get('/login/twitter/', follow=True, SERVER_NAME='myapp.com')
+p67
+I20662
+sVfrom switch.utils import *
+p68
+I12770
+sVimport str
+p69
+I9910
+sVt.widget.initial
+p70
+I20025
+sVdef r(slf):
+p71
+I3684
+sVfrom competition.forms import SendToFriendsForm
+p72
+I3767
+sVb = 2
+p73
+I9014
+sVprint r
+p74
+I7337
+sV!*#)[)%(]_&)#%}(_&(*&$}%*$}%))}(%]]@*_}@+%]{@##(!@_+(^%&^]]#_(!#&+@(+^)^*[[!&+&*
+p75
+I13135
+sVimport daemon
+p76
+I16918
+sVjson[18350]
+p77
+I11621
+sVu.friendships_accepted
+p78
+I20071
+sVu'pepe'.hexdigest()
+p79
+I1892
+sVall((False, 2, 0))
+p80
+I19512
+sVhash(2)
+p81
+I12244
+sVdate.today()
+p82
+I455
+sVLIST_ITEM_RE.match('hola[3]')
+p83
+I9966
+sVsys.setdlopenflags.__doc__
+p84
+I912
+sVfd.content_list.textText
+p85
+I658
+sVfor x in xrange(20):
+p86
+I15603
+s.

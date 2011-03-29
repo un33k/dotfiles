@@ -1,0 +1,221 @@
+(dp1
+Vi.show()
+p2
+I5531
+sVv = '<a href="http://reddit.com">http://reddit.com</a>'
+p3
+I9866
+sV}$^##]+^$(*_{@%{({($&!_])*#(_]&(^!!)@{[^%$_{]^_^_[)%_]#&{{_#$&}{]#%){_&{_%!&[@)]
+p4
+I13271
+sVimport mx
+p5
+I4969
+sVfrom aff import views
+p6
+I11728
+sVc.move('d4')
+p7
+I16043
+sVu.has_perms([p.codname])
+p8
+I6587
+sVimport chilkat
+p9
+I937
+sVbase64.decodestring(x)
+p10
+I19557
+sVWebsite.objects.all()[0]
+p11
+I2746
+sVurl = 'http://google.com/'
+p12
+I8436
+sVa[:,b]
+p13
+I12487
+sVmd5
+p14
+I19350
+sVdef pepe(slf, a):
+p15
+I17888
+sVx.match('book case')
+p16
+I19377
+sVfor i in input:\u000a    values = dict([(k, r[k] + [None]) for k in list(set(r.keys()) - set(i.keys()))])\u000a    print values
+p17
+I7625
+sVb = battery.BatteryStatus("C1AC")
+p18
+I2123
+sVb = ecs.ItemLookup(ItemId=asin, ResponseGroup="ItemAttributes,Images")
+p19
+I6123
+sVs.label, s.locale
+p20
+I17027
+sVf = open('/tmp/out', 'w')
+p21
+I15792
+sVfrom django.db import IntegrityError
+p22
+I2225
+sVclass Parent:
+p23
+I391
+sVValue.objects.model
+p24
+I8954
+sVtimedelta(1)
+p25
+I18849
+sVJSD().decode('{"a": new Date(Date.UTC(1,0,1,5,0,0,0))}')
+p26
+I18503
+sVconnection.ops.quote_name('pepepe')
+p27
+I5814
+sVsha.sha("IS THE SINGULARITY HERE YET?").hexdigest()
+p28
+I12090
+sVs._collect_sub_objects()
+p29
+I3303
+sVw = Website.objects.get(pk=74)
+p30
+I4437
+sVlist(groupby(Post.objects.values('date'), lambda x: (x['date'].year, x['date'].month)))
+p31
+I15755
+sVsetattr(a, 'hola', 1)
+p32
+I8737
+sVurlencode({ 'a': 'hola%20mundo' })
+p33
+I7895
+sVa_func()
+p34
+I9135
+sV})#[)!!@))^@_!}(+{{(%#&[_}+_)_{#%%[%^(]]([(_!@$#$%*)$+(!_##}]_@+*!]&}@}$&@!#)%_#
+p35
+I13596
+sVfrom cms.dtypes import Article
+p36
+I18092
+sVtempfile.mkstemp
+p37
+I15420
+sVv.parse('"m"')
+p38
+I7226
+sVr.get_result()
+p39
+I3984
+sVget_menu_data()
+p40
+I5149
+sVimport uuid
+p41
+I4260
+sVfor x in et[1:]:\u000a    print x
+p42
+I17303
+sVupdate cms_fragment_template set content_names = "linkText/text,linkUrl/text" where
+p43
+I6724
+sVconf.__dict__.keys()
+p44
+I2483
+sVurllib.urlopen('http://xxx.com')
+p45
+I21183
+sVf.next().next().has_next()
+p46
+I1275
+sV1 * '1'
+p47
+I14996
+sV}&&){[$${&}+[+%_}!#^#%{]_%#%*&_}}+]&_$*!&&][_%!]_*+#^!]{}_!@(}(*(^^*__+$#@#^]*%%
+p48
+I14029
+sVsorted(r, lambda a, b: cmp(r[a], r[b]))
+p49
+I5223
+sVp.precio()
+p50
+I7448
+sVids_qs
+p51
+I1026
+sVi._translation_model
+p52
+I17879
+sVr.regex.__deepcopy__()
+p53
+I8245
+sVr.findall('xxx')
+p54
+I20825
+sVwith "hello world" as a:\u000a    print a
+p55
+I16160
+sVQueue.heapq?
+p56
+I16169
+sVfor x in r.finditer('abcdefg'):
+p57
+I14970
+sVmicrosite_articles.get_contents([p])
+p58
+I9179
+sVx = {r1: 1, r2: 2}
+p59
+I19065
+sVs.autocommit = True
+p60
+I15229
+sVupdate cms_fragment_template set content_names = "itemDescription/text[2],itemDiscount/te
+p61
+I6727
+sV#(_}((]@}#$^_})%#&&((!^![^}+!}{$(%*{*$@%][)[[%&^[{](&+^*!!!([__[{^}&%+&^(*&])*$&
+p62
+I14080
+sVh.__format__
+p63
+I17159
+sVp = Product.objects.filter(pk__in=p.products.values_list('guid', flat=True))
+p64
+I17541
+sVPhoto.filter(base_uri='file:///home/omab/Photos/2010/06/07', filename='made_in_china.jpg').fetchone()
+p65
+I15334
+sVcgi.parse_qs(x)
+p66
+I21416
+sVt.lastname_es.__class__
+p67
+I5839
+sVa.split('_', 1)
+p68
+I21239
+sVt.render(Context({'IS_SECURE': False, 'the_url': "/the-magazine/"}))
+p69
+I14633
+sVfrom django.templatetags.defaulttags import slugify
+p70
+I12135
+sVfd =
+p71
+I624
+sVu = SystemUser.objects.get(username='Cleberry')
+p72
+I9203
+sVfor i in i.exifKeys():
+p73
+I5539
+sVtraversal(graphs['00202'], n)
+p74
+I7009
+s.

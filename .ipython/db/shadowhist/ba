@@ -1,0 +1,235 @@
+(dp1
+Vp.easy_stem("the")
+p2
+I5922
+sVprint sys.getrefcount(a)
+p3
+I4160
+sVprint x
+p4
+I15409
+sVdef mystery(n):
+p5
+I20723
+sVs.seek(-1 * len('hola mundo') * 3)
+p6
+I16006
+sVcontents.append('href="https://extranet.qa1.mydeco.com/search/?query=jaybe&prefdb=#query%3Djaybe%26prefdb%3Dproduct%26facet%3Dsupplier%252Csleeping%2520solutions"')
+p7
+I1526
+sV$*%%{^^(*#*+^}{]]^&^{!@$*&%{%^)]$[_${[{^!(+{_*]@]}{%^}^$%(([}[+&[]^&^&#^)^$}[!@[
+p8
+I13337
+sVSpecialOffer.add_to_class.__doc__
+p9
+I7154
+sVpq.command('matias', Fen, print_fen)
+p10
+I16348
+sVa[actual-1:actual], a[actual], a[:actual+1]
+p11
+I3030
+sVp list.__doc__
+p12
+I2726
+sV;
+I11441
+sVQuery()
+p13
+I7742
+sVr.translations.__class__
+p14
+I5776
+sVtzinfo.tzname
+p15
+I17447
+sVdef get_value(obj):
+p16
+I9020
+sVsettings.ENABLE_CRON_ALERTS
+p17
+I18416
+sVimport dj
+p18
+I1804
+sVmap(lambda x: mul(x, 3), range(10))
+p19
+I17590
+sVct.tokenize_html.stem
+p20
+I6357
+sV*+^_)(#!$%#{)^$%(_[^%%*(}&!{@#^@#)](]++%%]$^*)@+]&_^(^@!{%%({[([$]{}%]^*+%^*$(%^
+p21
+I13151
+sVb.get_style()
+p22
+I18068
+sVos.makedirs('/root/pepe')
+p23
+I850
+sVenumerate("djaksdjak")
+p24
+I3499
+sVResultRankCriteria._meta.fields
+p25
+I7729
+sVtpl = Template('{% var c_txt %}{% render %}{{ t|safe }}{% endrender %}{% endvar %}{{ t|safe }}')
+p26
+I11348
+sVfor i in f:\u000a    for c in i.contents:\u000a        print i.name, ":", c.name
+p27
+I1849
+sVgen()
+p28
+I19099
+sVf.cmscontentmapping_set.filter(name='image').values('object_id')[0]['object_id']
+p29
+I9155
+sVvotes[0].split('|')[-1].strip()[:-1].split(': ')
+p30
+I16786
+sVlist(g.next()[-1])
+p31
+I19216
+sVct.rateditem_set.all().order_by('-rate_average')[:5]
+p32
+I344
+sVfrom tipocms.contenttypes.helpers import cms_type_contenttype
+p33
+I1949
+sVr = re.compile('/\u005c*.*?\u005c*/')
+p34
+I11611
+sV__import__('account.views', fromlist=['pepe'], level=0)
+p35
+I8264
+sVt.object_id
+p36
+I11773
+sVf.get_db_column()
+p37
+I2355
+sVdelattr(a, 'hola')
+p38
+I10955
+sVstring.capwords('aaaa bbbb cccc')
+p39
+I286
+sVfor i in input:\u000a    r.update(dict((k, r[k] + [v]) for k, v in i.iteritems()))\u000a    mk = list(set(r.keys()) - set(i.keys()))\u000a    r.update(dict((k, r[k] + [None]) for k in mk))
+p40
+I7628
+sVTemplate("{% if x + y > 10 %}hola{% endif %}").render(Context({'x': 1, 'y': 2}))
+p41
+I18681
+sVa = type('HolaMundo', (object,), {})
+p42
+I5758
+sVfrom lib.helpers import get_request_host
+p43
+I14579
+sVu = do_subscribe('matiasaguirre@gmail.com', 'matias')
+p44
+I7835
+sVf.default
+p45
+I2333
+sVbatteries = interface.FindDeviceByCapability("battery")
+p46
+I2191
+sVsys.stdin.read()
+p47
+I9930
+sV$}&@*&*}^+^[&]}[_}__][]![&(!![]!(@#@&**}*([}*_}&!{})*_&$_][]@[@[)__}@]*]+]}^[$%!
+p48
+I13321
+sVq = s.query(PhotoTag).filter_by(tag = t)
+p49
+I15277
+sV]}++(@!&^!#_{[&*!(![(&@{(]!+{(![$^&&}{}&{^*])#&)^#{!]&+)}@_]^$}@{+(#@[([@[++_#_[
+p50
+I13306
+sVct.
+p51
+I11920
+sVf = subscribe_ev_form(ev, data={ 'ev-EMVADMIN1_FIELD': 'violet' }, prefix='ev')
+p52
+I8226
+sVf.related_query_name
+p53
+I5809
+sVWebsite._meta.get_field('manufacturers').throgh
+p54
+I10079
+sVre.sub(r'.*(pid=\u005cd+).*',r'\u005c1',url)
+p55
+I16517
+sVprint h.whats_hot.form()[0][0][0]
+p56
+I17113
+sVfragments
+p57
+I9538
+sVf = ProductCountForm.base_fields["product"]
+p58
+I3366
+sVs = "hola mundo como va"
+p59
+I6143
+sVfrom django.forms import models
+p60
+I15501
+sVa = '/hola/'
+p61
+I12247
+sVEntry.objects.values('name', 'value').filter(group='/the-magazine/', expiration__lt=n)
+p62
+I9600
+sVTag.search = search
+p63
+I73
+sVM._meta.fields
+p64
+I5797
+sVurllib.unquote("query%3Djaybe%26prefdb%3Dproduct%26facet%3Dsupplier%252Csleeping%2520solutions")
+p65
+I1539
+sVa + set((2, 3))
+p66
+I2306
+sVb.__nonzero__
+p67
+I3486
+sVint("10a")
+p68
+I6137
+sVqs.query.select_fields
+p69
+I12041
+sVs.extra_data
+p70
+I20308
+sVf.storage.path('name')
+p71
+I14237
+sVACTIVATE_SH = ACTIVATE_SH.replace('PS1="(`basename \u005c\u005c"$VIRTUAL_ENV\u005c\u005c"`)$PS1', 'PS1="${COLOR_RED_BOLD}[`basename \u005c\u005c"$VIRTUAL_ENV\u005c\u005c"`]${COLOR_NONE} $PS1')
+p72
+I19621
+sVmax(a, lambda x, y: cmp(y, x))
+p73
+I7072
+sVurllib.os.path.split(r.headers['location'])
+p74
+I7886
+sV#User.objects.filter(username__startswith='omab')[0]
+p75
+I18456
+sVprod.supplier
+p76
+I14346
+sVa[-4:]
+p77
+I17504
+sVs = subprocess.Popen(['/usr/games/gnuchess', '-e'], stdout=subprocess.PIPE, stdin=subprocess.PIPE, stderr=subprocess.STDOUT)
+p78
+I15974
+s.

@@ -1,0 +1,229 @@
+(dp1
+Vtag_re.split(src)
+p2
+I10026
+sV[ e[1] for e in g.edges() if e[0] == '37948' ]
+p3
+I6984
+sVfrom django.contrib.admin import sites
+p4
+I11400
+sVF.fields["is_valid"]
+p5
+I4351
+sVf.flatten_data()
+p6
+I1640
+sVpq.pqueue.games
+p7
+I16941
+sV@{%(&{+(#^{@{)%_$[+}]$]^{^#(*}%)@$@}(#{_&]#%#]{_*({(])$%[!}#@@&_)([*]}$}&${^}@(%
+p8
+I12881
+sVs[0][0][0].type
+p9
+I16976
+sVt.has_subtasks()
+p10
+I894
+sVu.password
+p11
+I3505
+sVos.urandom(4)
+p12
+I19227
+sVa.decode('')
+p13
+I10158
+sVfor a in articles.get_result().get_items():
+p14
+I5354
+sVstr(d)
+p15
+I10712
+sVs.result.estisexact
+p16
+I14352
+sVx.website
+p17
+I11941
+sVsubprocess.select.select"
+p18
+I15975
+sVclient.GetContactsFeed(feed_uri)
+p19
+I19775
+sVp = get_page(4389)
+p20
+I3242
+sVo.parse('')
+p21
+I7228
+sVctx
+p22
+I8520
+sVDateField.get_prep_lookup('__month', p.date)
+p23
+I15737
+sVprint 'http://myapp.com:8000\u005c\u005c/complete\u005c\u005c/facebook\u005c\u005c/?code=2.dQHKTthSV1DL2u6p7Y3tmA__.3600.1301043600-100002200789926\u005c\u005cu00257CMgmuLIWeimhjFQ_5OZrnfGOYeDw'
+p24
+I21363
+sVsw
+p25
+I11446
+sVp CmsPage.objects.get(pk=16160)
+p26
+I18341
+sVg.edges
+p27
+I6981
+sVAssociation.objects.all()
+p28
+I20336
+sV%+]^+%&%([^)!#_+^]%++#+!({*)^@#)(_&^$*(_$](@[{@_++_%@_#][(&$&#}%@##}*!_[[+@@!&}*
+p29
+I13534
+sVinspect.getmoduleinfo("django.conf")
+p30
+I2490
+sVct = ClassificationTokenizer({ 'article': 'html' }, phrases=['sofas beds', 'worth'])
+p31
+I6381
+sV{%&((#)}}[#&$(}]+{^@{+}@]}+#}{(}+]!{*!![)}}+$&_%%*]*(!)$+#^$]}+*#*!(^^*_{)+]%)!*
+p32
+I13243
+sVv.add_entry('2,3,4')
+p33
+I19142
+sVx.incidents
+p34
+I19165
+sVfrom blog.forms import ArticleForm
+p35
+I21204
+sVEmailVisionEntryField.objects.all().values('name').distinct()
+p36
+I11420
+sVprint a.replace('"', '\u005c\u005c"')
+p37
+I15108
+sVg.add_edge("c", "d")
+p38
+I6890
+sVheapq?
+p39
+I12791
+sV[(f.name, f) for f in Poll._meta.fields]
+p40
+I21439
+sVclient.login
+p41
+I9336
+sVr2 = re.compile('b')
+p42
+I19064
+sV# DATABASE_PASSWORD = 'r00tpass'
+p43
+I4641
+sVm
+I684
+sVpages = CmsPage.objects.all().order_by("-since").distinct(("http_path", "state")).values("id", "http_path", "since", "state")
+p44
+I5008
+sVprint u'\u005cx2665'
+p45
+I6822
+sV$^(_*$_$&&%](_@}]&(&}@$+]_%+@!++_*@*@%&[*%]@{)#%_]@_@&{#!%]+^^$*{]#@[+[)^)&%{@$&
+p46
+I12997
+sVb.append('  a b c d e f g h')
+p47
+I15952
+sVlong(True) / 10
+p48
+I4307
+sV{% if value1 %}
+p49
+I10462
+sVr = re.compile('^[\u005c.rnbqkpRNBQKP ]+')
+p50
+I16047
+sVBROKEN_SECTIONS = (
+p51
+I15480
+sVfrom django.forms.models import inlineformset_factory
+p52
+I4458
+sVfrom xml import ExpatError
+p53
+I17401
+sVprint str(a.decode('utf-8')).decode('utf-8')
+p54
+I10145
+sVtime.sleep?
+p55
+I14707
+sVfor v in Video.objects.all():
+p56
+I116
+sV^%[(&[{#@}*!*$_#@@+{_&&$@(#*_]#@$}[_)*][$][_!_(_++$+)$_}^++_]$+(*+!%[}}*_^}({&[_
+p57
+I13046
+sVt.__dict__
+p58
+I7980
+sV{{}}^)@[$]^%*#])#(]%&)]+}_*{_}{*!]+]%$!!)&%#](*^[)]&_&[}[}$}*&^{@}*(#*{+!%)++*@_
+p59
+I13881
+sVre.search?
+p60
+I16231
+sVlines
+p61
+I12326
+sVre.M
+p62
+I6161
+sVc.slug
+p63
+I2885
+sVprint locals()
+p64
+I12148
+sVnltk.tokenize.WordPunctTokenizer.batch_tokenize
+p65
+I6471
+sVa.values()
+p66
+I2698
+sVd = datetime.datetime.fromtimestamp(1228428288)
+p67
+I4031
+sVurllib.urlencode({ 'u': '\u005c%'})
+p68
+I14250
+sVr = ARTICLE_TRACKED_URL_RE = re.compile(r'{%\u005cs*article_tracked_url\u005cs+([\u005c'"])([^\u005c1]+)\u005c1\u005cs+([\u005c'"])([^\u005c3]+)\u005c3\u005cs*%}')
+p69
+I14946
+sVTemplate?
+p70
+I17137
+sVa.lower()
+p71
+I4763
+sVA is A
+p72
+I17354
+sVprint str(urllib2.unquote(u"%C2%A3"))
+p73
+I2236
+sVget_models('obj')
+p74
+I5779
+sVcsv.Dialect.quoting
+p75
+I10675
+sVr = re.compile('ab\u005c?')
+p76
+I14875
+s.

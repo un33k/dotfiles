@@ -1,0 +1,212 @@
+(dp1
+Vb = a.decode('utf-8')
+p2
+I7584
+sVi = Item.objects.all().get_translations(['es', 'pt']).set_language('es')[0]
+p3
+I11288
+sVg.users
+p4
+I20129
+sVfrom Crypto.Cipher import Cipher
+p5
+I991
+sVconnection.ops.prep_for_like_query
+p6
+I12183
+sVst.st_rdev
+p7
+I16589
+sVx = BigIndexer.search("peludo", "or")
+p8
+I202
+sVm.signal_connect('on_Start', handler)
+p9
+I8059
+sVb = pepe(20)
+p10
+I3701
+sV((!&}!({^(#*(*#@%__(_)])*])($}[]&@_{(#*_&$&++&@(}@)+^&#+})@{]({]&})&_^*]_#^}$$)[
+p11
+I13773
+sVfrom dajngo.template import Template
+p12
+I20611
+sVv.add_entry('13')
+p13
+I19158
+sVadmin.site.model_page?
+p14
+I14470
+sVbase64.b64decode("c3VwcGxpZXJfdGV4dD1Ub3ArcXVhbGl0eStiZWRkaW5nK2F0K3VuYmVsaWV2YWJsZStwcmljZXMuJndlYnNpdGVfbmFtZT1EdXZldCslMjYrUGlsbG93K1dhcmVob3VzZSZkZXNjcmlwdGlvbj1DaGVhcGVzdCtkdXZldHMlMkMrcGlsbG93cythbmQrdG93ZWxzKy0rZXZlbitpbitzYWxlK3RpbWUmZXhwaXJlcz0zMSUyRjAxJTJGMjAxMCZ0aXRsZT1VcCt0bys1MCUyNStvZmY=")
+p15
+I11731
+sVp.tpl['talent']['items'].data[0][1]
+p16
+I17803
+sVpq.move('matias', 'c4')
+p17
+I16304
+sVc.all()
+p18
+I18784
+sVf.username.errors
+p19
+I3901
+sVbooks = ecs.ItemSearch('python', SearchIndex='Books')
+p20
+I6071
+sVb = AmazonBook.objects.get_or_create_from_asin('8466616446')
+p21
+I6166
+sVclass B(object):
+p22
+I3575
+sVfrom cms.utils import page_data
+p23
+I9132
+sVre.sub('\u005c?printer=\u005cd+', '', url)
+p24
+I16926
+sVupdate cms_fragment_template set content_names = "content/largetext,image/image,title/text" where id = 1
+p25
+I6752
+sVopr.parse('tag pepe manolo'.split())
+p26
+I410
+sVs.match()
+p27
+I6202
+sVuf = UserForm(instance=u)
+p28
+I3376
+sVround(16.300000000000001, 2)
+p29
+I11223
+sVf.truncate(0)
+p30
+I15868
+sVc.get('/login/twitter/', follow=True)
+p31
+I20660
+sVm, ]
+p32
+I505
+sVf = CmsFragment.objects.get(pk=10920)
+p33
+I838
+sVi=~Image.objects.all()[0]
+p34
+I217
+sVsimplejson.JSONDecoder().decode("[{'url': 'pepe', 'id': 1, 'name': 'pepepe'}]")
+p35
+I2662
+sVr = re.compile(r'([\u005c'"])([^\u005c1])+\u005c1')
+p36
+I14941
+sVr = re.compile('(?<=(mydeco.com)*)/search/')
+p37
+I6252
+sVnodes
+p38
+I10179
+sVos.walk("/tmp/pepe")[0]
+p39
+I1901
+sVCmsTextContent._meta.get_field_by_name('text')
+p40
+I14843
+sVs.email
+p41
+I19752
+sVprint a.decode('utf-8')
+p42
+I7581
+sVa.get_website_logo_url()
+p43
+I2568
+sVv = Variable('cms_fragment.title')
+p44
+I10298
+sVa[:a.find('[')]
+p45
+I617
+sVb = battery.BatteryStatus
+p46
+I2122
+sVclient.profile
+p47
+I9331
+sV__import__('hp_splash', fromlist=['.cms.plugins'])
+p48
+I12836
+sVdjango.views.generic.redirect_to
+p49
+I16847
+sVwears.urls
+p50
+I2849
+sVt.img.__class__
+p51
+I4902
+sVp = urlparse.urlparse('.mydeco.com')
+p52
+I9844
+sVfrom django.contrib.contenttypes.models import ContentType
+p53
+I320
+sVi = ImageIndex.search("maraca")
+p54
+I167
+sVreverse('views.edit', args=(10,))
+p55
+I12681
+sVhaar.total
+p56
+I10918
+sVr2 = c.get(r['Location'], SERVER_NAME='myapp.com', SERVER_PORT='8000')
+p57
+I20679
+sVreverse('alerts_list', 'matias')
+p58
+I12364
+sVcontent_ids = [ c['object_id'] for c in contents ]
+p59
+I8843
+sVclass Foo(object):
+p60
+I10935
+sVc = gdata.contacts.service.ContactsService()
+p61
+I19696
+sVcsv.reader(open("/home/omab/copy.csv"))
+p62
+I15098
+sVu.user_id = x.id
+p63
+I20577
+sVforms.ImageField?
+p64
+I14219
+sVreplace_amp("gdjklgjdf&lt;ezghzkgrhrekgh&lkdjhgdljg{% rekjghrekgn lkdjsf=3&nkhn=1 %}kjdrhgerk{% article_tracked_url efh=2&jkhdg=4&fgjdfjk=blah%}khgfkjdhk&&&&&&&&&jhg&amp;d")
+p65
+I4697
+sVclass Parser(HTMLParser.HTMLParser):\u000a    def __init__(self):\u000a        HTMLParser.HTMLParser.__init__(self)\u000a        self.startters = []\u000a        self.startersenders = []\u000a    def handle_starttag(self, tag, attr):\u000a        if tag.lower() == 'input':\u000a            self.startters.append(attr)\u000a    def handle_startendtag(self, tag, attr):\u000a        if tag.lower() == 'input':\u000a            self.startersenders.append(attr)
+p66
+I9773
+sVph.fragments[0]
+p67
+I1504
+sVx.supplier.profile.about
+p68
+I19825
+sVurllib.unquote('%D1%81')
+p69
+I8517
+sVt.start()
+p70
+I9385
+sVph
+p71
+I1502
+s.

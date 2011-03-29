@@ -1,0 +1,5 @@
+#!/bin/sh
+
+rm -f xmonad.hi xmonad.o xmonad-i386-linux
+
+#readlink xmonad.hs 1>/dev/null && rm -f xmonad.hs

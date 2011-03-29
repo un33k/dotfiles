@@ -1,0 +1,263 @@
+(dp1
+Vo.parse('ttp 123 as pp and 32 a').values
+p2
+I7204
+sVfrom account.models import *
+p3
+I3506
+sVa_img_re.match(v)
+p4
+I9874
+sVget_locale_setting('GTS_BUTTON')
+p5
+I20851
+sVpepe.__str__ = r
+p6
+I3689
+sVb.encrypt("hola mundooooo")
+p7
+I958
+sVbooks[0].Main
+p8
+I6097
+sVs.query(PhotoTag).filter_by(PhotoTag.tag_id == t)
+p9
+I15269
+sVn.section
+p10
+I5044
+sVr = re.compile('bedding')
+p11
+I19067
+sV!+[*[%*+([&[*@&_]^$]&_+^^+_@]_+}^*@{_})@!%@_!
+p12
+I13385
+sVv2 = "hola mundo como <a href='http://google.com'>http://google.com</a> va todo?"
+p13
+I9861
+sVdel data['items']
+p14
+I21064
+sV['-%s' % f for f in cd.category.get('browse_exclude', ())]
+p15
+I11451
+sVdate("10", "%M")
+p16
+I17933
+sVmatcher = re.compile(r'pods[(\u005cd+)]/title[(\u005cd+)]')
+p17
+I17628
+sVpagination.pagination(10, 7, 2)
+p18
+I3070
+sVreverse('cab_snippet_details', args={'snippet_id': 1})
+p19
+I16867
+sVround(a, 1)
+p20
+I2160
+sVapi.mentions(since_id=None)
+p21
+I16475
+sVa.append(3)
+p22
+I8131
+sVa._meta.fields[-1]
+p23
+I5807
+sVhxs.select('following-sibling:://h1/text()').extract()
+p24
+I16627
+sVunicode(v[1])
+p25
+I8908
+sVe = time()
+p26
+I9804
+sV{}@*^[@)@![+#^$!%$!_!+_^*@$@@@$$+[$+}*)}#{))&)]^@($[__+%&+__}$_&#}[#&[)}^^]}}]]}
+p27
+I13800
+sVf = CmsFragment.objects.get_data().filter(pk=10917)
+p28
+I831
+sVa < 200
+p29
+I2119
+sVst = os.stat('/home/omab/misc/fotos/2009/01/30/img_1781.jpg')
+p30
+I7516
+sVs.result.lowerbound
+p31
+I14356
+sVNotice.objects.filter(content_object=p)
+p32
+I20964
+sVa.capitalize()
+p33
+I297
+sVurlparse.urlsplit(x).netloc.split('.', 1)
+p34
+I19444
+sVp.pepe
+p35
+I1471
+sV{+_**$%(#$&^$^]__*)%$*+{#+()[%[(}#]}*&$^%]{}%&(_([]&_}&}*@}#{((&!@!{#+__#*#))&[(
+p36
+I14035
+sVContentType.objects.get_for_model(Room)
+p37
+I11783
+sVfrom .sheep import electric
+p38
+I6921
+sVset(a) * set(b)
+p39
+I15543
+sVmodels.models['text']
+p40
+I8600
+sV@)[($}&+&$}}%[)@[{^_+%+[)[^[*{{^#]*__$^%^}#]}*{^+{!@#(+*]$)^(*!^^]^)[}@{%(($(+_#
+p41
+I12924
+sVs._collect_sub_objects.__doc__
+p42
+I3304
+sVModel1.objects.exclude(m3__name=3)[0].delete()
+p43
+I18923
+sVw.front_image.file
+p44
+I2895
+sVp.Protocol.to_server(p.
+p45
+I5397
+sV]}_&]{[})+[^+%!^^@&[+[)$%)}(%}&[_}}(&#^]#!@(+
+p46
+I13742
+sVl = [10, 20]
+p47
+I18147
+sVcount
+p48
+I16294
+sVs = ScoredItem(**{'user_id': 813L, 'uuid': 'vQRo3cCoZM4AAAczEhkAAAAA', 'rate_type': 'rating', 'object_id': u'94904', 'score': 3, 'content_type': a})
+p49
+I21134
+sVt.flush()
+p50
+I15244
+sVfrom Cipher import Cipher
+p51
+I990
+sVfd.info()
+p52
+I12321
+sVContext().get('hola', '')
+p53
+I10350
+sVPage._meta.get_field_by_name('id')
+p54
+I8897
+sV{$}&%(^}+{[{+@)[@}$)!!]&[{)_#%]}*^@[@$$]&#[@[()${*#){)$(&*#(}@_%]})&[][*])+%#{{^
+p55
+I13716
+sVd.adjusted?
+p56
+I10726
+sVu.ratings
+p57
+I7386
+sVg.obnob_users.
+p58
+I20134
+sVForm = models.modelform_factory(Value, fields=('value',))
+p59
+I15503
+sVfor l in f.xreadlines():
+p60
+I3457
+sVadm.get_urls()
+p61
+I17855
+sVq.all()
+p62
+I14769
+sVItem._translation_model._meta.db_table
+p63
+I10981
+sVa = ContentType.objects.get(model='usercomment')
+p64
+I21132
+sVdatetime.datetime.tzinfo
+p65
+I9561
+sVissubclass(C(), A)
+p66
+I17360
+sVu = SystemUser.objects.select_related('cache').order_by('-cache__recent_rank_count')[:5]
+p67
+I10943
+sVp = Page.objects.all()
+p68
+I8635
+sVhxs.select(dl)
+p69
+I16821
+sV%$)$_%$]%!{)})!^@)[())#&#}@+_$##&$[#!}^^&_)%][]&$^#+@}_{@({[++&(_!@%@#&}^#[&[^%+
+p70
+I13683
+sVs.is_modified(t)
+p71
+I15233
+sVfrom django.contrib.auth.models  import User
+p72
+I5958
+sVx.index('g')
+p73
+I17688
+sVurllib.urlencode({ 'a': [1, 2, ] }, doseq=True)
+p74
+I9427
+sVComo hace mención el Dr. Zaffaroni, la corte para pronunciarse, ha debido escoger una causa entre media docena que alcanzaron la instancia extraordinaria sin estar prescriptas. Y no ha sido por no haber más ciudadanos que los procesados en esas causas, violados en lo que a sus acciones privadas respecta, sino porque el grito de esas víctimas ha sido callado o en las sórdidas instancias de nuestro sistema penal o en las muchas veces inhumanas celdas de nuestro sistema penitenciario.
+p75
+I9065
+sVctypes.cdll.LoadLibrary('./libmylib.so.1.0.1')
+p76
+I8361
+sVimport migrate_cms
+p77
+I17473
+sVreplace_amp("hola &#232; mundo")
+p78
+I4672
+sVUserSocialAuth.all()
+p79
+I20316
+sVa = "Children's room - nursery"
+p80
+I14533
+sV*[)]#!]$]{+([^)%@{^_$!(*@}#@{{^%@}#&##*!_&^{%$_{_+%)#{{!$[&&]#^)+!]*&]{[!^)%}}*%
+p81
+I13923
+sVdict(("2", "8"))
+p82
+I1986
+sVrandom.sample?
+p83
+I15664
+sVserialize('xml')
+p84
+I17338
+sVim = Image.new("/tmp/a.jpg", "jpg")
+p85
+I1384
+sVt - d
+p86
+I21461
+sVu.obnob_groups.filter(name='Group 1')
+p87
+I20461
+sVl = link_re.findall(a)[0]
+p88
+I1236
+s.

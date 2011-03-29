@@ -1,0 +1,272 @@
+(dp1
+V#%_%@{}!+&#}}$*(){}]_))%)}}_![}@}(#}#[}{[#^%#_*){_$&]!{#(]^]&[!)&&}(]^$%_(^{)}!+
+p2
+I13340
+sVtmp = tempfile.mkdtemp()
+p3
+I12385
+sVtuple(1, 2)
+p4
+I4731
+sVl = ['              time=41.91  mat=0  n=81198442  fh=91%  nps=1.9M\u005cn', '              extensions=1.3M qchecks=1.3M reduced=9.4M pruned=24.2M\u005cn', '              predicted=0  evals=42.6M  50move=0  EGTBprobes=0  hits=0\u005cn', '              SMP->  splits=0  aborts=0  data=0/512  elap=41.91\u005cn', '\u005cx07Black(2): e5\u005cn', '              time used:  41.91\u005cn']
+p5
+I16129
+sVName.objects.filter(section__template__id=p.template_id).select_related('section')
+p6
+I9131
+sVr.pages
+p7
+I4075
+sVfrom social_auth.models import *
+p8
+I18625
+sVp.tpl
+p9
+I17331
+sVr = productsInCategorySearch([c.catid], 4).items
+p10
+I10798
+sVcreated
+p11
+I20877
+sVValoracion.recalcular(v)
+p12
+I10739
+sVurlparse.urlsplit(u)
+p13
+I1225
+sVlower("HolaMundo")
+p14
+I10866
+sVf.raw_bit
+p15
+I10258
+sVa.precio
+p16
+I7442
+sVdivmod(9, 4)
+p17
+I17565
+sVa.field.widget.id_for_label()
+p18
+I18974
+sVAES.new("jdaskjdaksjda")
+p19
+I948
+sVu.node
+p20
+I5085
+sVDatedItem._translation_model._translation_meta
+p21
+I11149
+sVprint "".join(random.choice(string.letters[:26]) for i in xrange(15))
+p22
+I10308
+sVurlize_html(v2)
+p23
+I9862
+sVimport sha
+p24
+I932
+sVp = paginator.page(2)
+p25
+I12805
+sVv.render(c)
+p26
+I10273
+sVr = RoomSearch(**kw)
+p27
+I4195
+sVraise ValueError
+p28
+I9061
+sVSiteCategoryProducts.objects.\u005c
+p29
+I9483
+sV' AND '.join(clauses)
+p30
+I4549
+sVx = ResultRank.objects.all()[0]
+p31
+I7772
+sVhxs.select('//ol//a//text()').extract()[None]
+p32
+I16750
+sVh = House.objects.all()[0]
+p33
+I18802
+sVissubclass(C, A)
+p34
+I17359
+sVf.description
+p35
+I1769
+sVsub_sections('/', ['/xxx/yyy/', '/hhh/ppp/'])
+p36
+I17397
+sVf.get_follow()
+p37
+I2344
+sVp.handle_starttag('input', input_handler, ())
+p38
+I9747
+sVdict(["x=3".split("=")])
+p39
+I2970
+sVp.startersenders
+p40
+I9777
+sVdatetime.now().date() + timedelta(1)
+p41
+I18852
+sVr = re.compile(r'')
+p42
+I14926
+sVttf = ImageFont.truetype("arial.ttf", 16)
+p43
+I1390
+sVsettings.XAPIAN_DB_DIRECTORY
+p44
+I232
+sVurllib.URLopener()
+p45
+I21079
+sV[ f for f in Article._meta.fields if hasattr(f, 'rel') ]
+p46
+I11962
+sV#");
+p47
+I4643
+sVPING_SERVER = 'http://rpc.pingomatic.com'
+p48
+I8432
+sVf = h.reduced_fragments[0]
+p49
+I1685
+sVbase64.b16decode("4xtmf77bahev5aj930gmsmsfgpur9hb3")
+p50
+I3649
+sVx[1].next
+p51
+I19337
+sVct.id
+p52
+I7380
+sVr.headers
+p53
+I7881
+sVa.is_valid()
+p54
+I18962
+sVr = Room.objects.all()[0]
+p55
+I3821
+sVc.move('0-0')
+p56
+I16059
+sVlist(pepe(10))
+p57
+I3012
+sVv = {1:2}
+p58
+I2092
+sVf = open('/tmp/out', '+w')
+p59
+I15791
+sVp._meta.get_field_by_name('group')
+p60
+I20917
+sVslugify('hola mundo').replace('-', '_')
+p61
+I17274
+sVc = threading.Condition()
+p62
+I15997
+sVc.obj.credits
+p63
+I1323
+sVp = urlparse.urlparse(url)
+p64
+I14772
+sVNotice.objects.filter(content_type=ct, object_id=7)
+p65
+I20963
+sVpepe.__dict__
+p66
+I3686
+sVprint (e - s,)
+p67
+I9809
+sVa.insert(0, 'x')
+p68
+I17751
+sVgetattr(p, 'house')
+p69
+I18776
+sV!+(_^]_%&&#$*}^*+!*^}][&_[}[@]$#{]%{)*[$!^_@(&$^!%$+]{#&@%{!)@&#^}%%^+@}}%%&^^}@
+p70
+I13625
+sVmap(lambda a: a, zip(input, [keys]*len(input)))
+p71
+I7648
+sVCmsUserRoleForm(user=u)
+p72
+I6033
+sVtemplate.resolve_variable("pepe")
+p73
+I2898
+sVfrom django.contrib.auth.models import User
+p74
+I335
+sVv = Value.objects.all()
+p75
+I8902
+sVhxs2 = HtmlXPathSelector(r)
+p76
+I16896
+sVreduce(lambda l, r: l * r, range(37, 1))
+p77
+I12023
+sVs.cache.last_activity.question.get_absolute_url()
+p78
+I11950
+sVt = api.mentions()
+p79
+I16396
+sVRealm.objects.values_list('id', 'realm')
+p80
+I12623
+sV""")
+p81
+I12195
+sV[ item for item in cd.hierarchy().values()]
+p82
+I10506
+sVimpor a
+p83
+I19405
+sVsum(a)
+p84
+I6836
+sVgraph.add_edge('pepe', 'jose')
+p85
+I6995
+sVfrom microsite.templatetags import microsite_tags
+p86
+I6191
+sVdata.items()
+p87
+I21060
+sV[ (x, x < 'A') for x in '¡¿']
+p88
+I14135
+sVd = xml.dom.minidom.parseString(lines)
+p89
+I20695
+sVdef my_func(account, sender, message, conversation, flags):
+p90
+I1421
+sVlocale.setlocale('uk')
+p91
+I5746
+s.

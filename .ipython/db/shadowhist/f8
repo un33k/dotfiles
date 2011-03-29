@@ -1,0 +1,262 @@
+(dp1
+Vhxs.select('//p/a[contains(@href, "#")]/b//text()').extract()
+p2
+I16811
+sVimport decorator
+p3
+I2718
+sVecs.setLicenseKey('Your-AWS-License-Key')
+p4
+I6069
+sVforms.form_for_fields([f])
+p5
+I716
+sVprint "\u005cx2665"
+p6
+I6821
+sVPost._meta.app_label
+p7
+I20941
+sVsc
+p8
+I15564
+sVi = list(UncategorizedProduct.objects.all()[0:3])
+p9
+I2627
+sVSearchParams?
+p10
+I14314
+sVdatetime.strptime?
+p11
+I11874
+sVs.result.have_other_results()
+p12
+I14360
+sVr.entries.filter(break_rules__isnull=True)
+p13
+I20270
+sVc.child
+p14
+I4583
+sVa.insert?
+p15
+I14659
+sVg.permissions.all()
+p16
+I6579
+sV2 << 30
+p17
+I6845
+sVboard.append('a b c d e f g h')
+p18
+I15949
+sVEmai
+p19
+I9688
+sV*_$+)&}*){${}!]+%[{{!+)+{!&]$!}{_]&)!!^+){&*#{@!##_(^%^$([!+&+($&)##[&[^_{##{(**
+p20
+I14063
+sVr = c.post(f.getAttribute('action'), data=data)
+p21
+I20712
+sVm.category.categories.all()
+p22
+I5413
+sV'%02x' % 10
+p23
+I6263
+sVitertools.tee(iter(a), 15)
+p24
+I5308
+sVtokenize = build_tokenizer(phrases, base_tokenizer=SingleTokenizer(stopwords=[None]))
+p25
+I6489
+sVg = GetParamsHelper({ 'a': [ 1, 2, 3] })
+p26
+I7815
+sVs = api.home_timeline()[0]
+p27
+I16450
+sVfor line in f:
+p28
+I926
+sVq.select_fields
+p29
+I20479
+sVr = re.compile('.*value="[\u005cw\u005c+]+==".*')
+p30
+I2793
+sVo._meta.local_many_to_many
+p31
+I18725
+sVnltk.tokenize.RegexpTokenizer(text, re.compile('sofa bed'))
+p32
+I6438
+sVr = re.compile("(?<\u005cs)[a-fA-F0-9]{40}(?\u005cs)")
+p33
+I4935
+sVp.stdin.write('a4')
+p34
+I15783
+sVx = zip(slugs, ids)
+p35
+I15124
+sVprint 1,
+p36
+I6555
+sVd = datetime.datetime("134964")
+p37
+I3228
+sVa[6:]
+p38
+I11735
+sVSiteCategory.objects.filter(slug='design-boutique')
+p39
+I14567
+sVreadline.insert_text()
+p40
+I3249
+sVfind_template_source('microsite_base.html', None)
+p41
+I8342
+sVw.name
+p42
+I10238
+sVs._flush
+p43
+I15224
+sVt = cipher_text("hola pepe", "hola mundo")
+p44
+I1130
+sVi = "56fd76089aa4301d71323fe807e840e1a1455fa1"
+p45
+I4099
+sVa = [ A() for i in range(10) ]
+p46
+I5683
+sVa = "hola/"
+p47
+I5296
+sVy
+I2110
+sVct.tokenize_html(text)[1]
+p48
+I6373
+sVt._own_comments()[0].comment
+p49
+I20423
+sVminifb.call('pages_isFan', settings.FACEBOOK_SECRET_KEY, 1)
+p50
+I10585
+sVTvVideos.title_template
+p51
+I3220
+sV[x.notice for x in ReceiverNotice.objects.notices_for(u).select_related('notice').filter(notice__notice_type__in_chatterbox=True)]
+p52
+I21019
+sVfrom django.template import RequestContext
+p53
+I10773
+sVNotice.objects.all()
+p54
+I20931
+sVa = "hola.mundo.cruel"
+p55
+I8501
+sVe.competition_id = None
+p56
+I19394
+sV[ t.name for t in Tag.objects.all() ]
+p57
+I269
+sVa.\u005c
+p58
+I1876
+sV'%02x' % 1024
+p59
+I6265
+sVa.lstrip("hola").lower()
+p60
+I1659
+sVf.bind()
+p61
+I2341
+sVdef save_bigtext(page, name, group, value):
+p62
+I4850
+sVp.primary_image_path
+p63
+I11551
+sVurlparse.urlparse('http://gooogle.com:8000')
+p64
+I18509
+sVx = [{'a': i, 'b': random.randint(1, 20)} for i in range(20)]
+p65
+I19994
+sVa = "hola mundo cruel"
+p66
+I11581
+sVItem._meta.pk.column
+p67
+I11017
+sV_traversal('37948')
+p68
+I6959
+sVpartial.__doc__
+p69
+I4608
+sVlist(s.query(PhotoTag).outerjoin((pt_alias, pt_alias.c.photo_id==PhotoTag.photo_id & pt_alias.c.tag_id!=PhotoTag.tag_id)).filter(PhotoTag.tag_id==1).filter(~pt_alias.c.tag_id = None)))
+p70
+I15384
+sVfrom os.path import pathsep
+p71
+I16198
+sVaction
+p72
+I20754
+sVd_p = date(1982, 11, 27)
+p73
+I6026
+sVlist(Website.objects.filter(name="Amazon"))
+p74
+I3619
+sVdatetime.timedelta(month=)
+p75
+I20049
+sVs.readline()
+p76
+I16004
+sVa[:4 * (len(a)/4)]
+p77
+I8755
+sVlen("a-b")
+p78
+I1980
+sVEF_RE  = re.compile(r'href=[\u005c'"]([^\u005c'"]+)[\u005c'"]', re.I)
+p79
+I9888
+sVp.parent.name
+p80
+I19878
+sV{]][(!_(+}$%*_]*&$!_[@$})#@)]*%#]*{)$@*!^#[]**+]&])$@*@]{$_+]]^_*+*+)%!_!}#}^@*[
+p81
+I12922
+sVCMS_LINK_RE.findall(s)
+p82
+I15019
+sVf = BuyTheLook._meta.get_field('creator')
+p83
+I5734
+sVqs.count()
+p84
+I17580
+sVr = re.compile("\u005cbhole\u005cb", re.I)
+p85
+I6179
+sVa.pop(5)
+p86
+I8777
+sVsettings.STATIC_DEBUG
+p87
+I498
+s.

@@ -1,0 +1,9 @@
+$include  /etc/inputrc
+
+set editing-mode vi
+set bell-style none
+
+Control-l: clear-screen
+
+"\e[A":history-search-backward
+"\e[B":history-search-forward

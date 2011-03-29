@@ -1,0 +1,11 @@
+#!/bin/sh
+
+pactl list | grep "Active Port: analog-output-speaker" >/dev/null
+
+if [ "$?" -ne "0" ]; then
+    pactl set-sink-port 0 analog-output-speaker
+    DISPLAY=:0.0 notify-send -t 1000 --icon /home/omab/.icons/sound.png "Sound output" "Switched to speakers"
+else
+    pactl set-sink-port 0 analog-output
+    DISPLAY=:0.0 notify-send -t 1000 --icon /home/omab/.icons/sound.png "Sound output" "Switched headphone"
+fi

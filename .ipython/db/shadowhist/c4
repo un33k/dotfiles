@@ -1,0 +1,236 @@
+(dp1
+Vx.hours
+p2
+I19184
+sVx.save()
+p3
+I18321
+sVnew.function
+p4
+I8744
+sVCmsPagePath.objects.with_page(where=['page_state="live"'])[:3][0].page_state
+p5
+I12114
+sVa = range(30)
+p6
+I2916
+sVf.widget.id_for_label('a')
+p7
+I8207
+sVr.search('silk curtains')
+p8
+I19383
+sVf m else 0
+p9
+I17568
+sVv[1].value
+p10
+I8907
+sVcollections.deque.__doc__
+p11
+I7626
+sVq.unfinished_tasks()
+p12
+I16193
+sVfrom django.template.loader import render_to_string
+p13
+I4631
+sVa.type()
+p14
+I870
+sVlists(range(10), 8, 1)
+p15
+I3040
+sVVote.objects.filter(option__question=question)\u005c
+p16
+I18993
+sV<a href="search/?q=1">link 4</a>
+p17
+I1199
+sVc = Crafty()
+p18
+I16087
+sV@])(]){)#_$_)[$!({@#$#^#_&^(_%(*}^%$]+$%&%{{!{]}]$*@_&%(&&{)*]^}&}^&[@)++]!(#[([
+p19
+I12972
+sVx.seconds
+p20
+I19185
+sVd = i.getdata()
+p21
+I8297
+sVo._meta.get_fields_with_model()
+p22
+I18722
+sVwebbrowser.__doc__
+p23
+I3140
+sVs.index(d)
+p24
+I9038
+sVfrom shopping.utils import shopping_url_to_path_id_url
+p25
+I15114
+sVcompiler.SQLCompiler?
+p26
+I20900
+sVif(domArr[i].search(atomPat)==-1){
+p27
+I9662
+sVw.is_bound
+p28
+I4126
+sVPlace.objects.filter(name__icontains='Montevideo')
+p29
+I19876
+sVlist(permutations(a, 4))
+p30
+I15533
+sVprint urllib.unquote(y.split('?', 1)[1])
+p31
+I21394
+sVtime.mktime(d2)
+p32
+I4044
+sVf.headers.items()
+p33
+I7879
+sVnotices = Notice.objects.chatterbox().filter(Q(group__in=user_groups) | Q(parent__group__in=user_groups)).order_by('-created')
+p34
+I20975
+sVurlparse.urlsparse(u)
+p35
+I1226
+sVMostPopularRooms.description_template
+p36
+I3154
+sVlist(os.walk("/tmp/apps"))
+p37
+I4743
+sVc._meta.fields
+p38
+I1331
+sVf = forms.ModelChoiceField(TemplateName.objects.all(), widget=forms.widgets.HiddenInput())
+p39
+I15464
+sVb.props.style.get_properties()
+p40
+I8113
+sVurlresolvers.resolve("wears.views")
+p41
+I2868
+sVfrom lib.db import *
+p42
+I7704
+sVx.add_nodes?
+p43
+I19171
+sVARC4.__doc__
+p44
+I988
+sVc.__class__.mro
+p45
+I3576
+sVfilter(None, i for i in range(10))
+p46
+I12825
+sVsgmllib.SGMLParser?
+p47
+I20763
+sVfunc(*('a', 'b', 'c'))
+p48
+I17386
+sVEntry.objects.all().values('name', 'value')
+p49
+I9591
+sVv.value = 'cms/upload/images/image/2009-09-02-130744_1280x800_scrot_.png'
+p50
+I8685
+sVr.model_class()
+p51
+I19553
+sVa--
+p52
+I6189
+sVlen(pages)
+p53
+I1015
+sVpd.page.fragment_heading
+p54
+I2463
+sVa.pop(1)
+p55
+I12809
+sVwelcome()
+p56
+I1372
+sVu.set_password()
+p57
+I4470
+sVa.__getitem__('a')
+p58
+I11577
+sVurlparse.urlsplit(x)
+p59
+I19441
+sVu = User.objects.order_by('-id')[1]
+p60
+I20319
+sVvalues.index(10)
+p61
+I3414
+sVos.environ["USER"]
+p62
+I4228
+sVct.tokenize_text.tokenize(text
+p63
+I6371
+sV(31238912)
+p64
+I2741
+sVurlparse.urlsplit("https://extranet.qa1.mydeco.com/search/?query=jaybe&prefdb=#query%3Djaybe%26prefdb%3Dproduct%26facet%3Dsupplier%252Csleeping%2520solutions")
+p65
+I1530
+sV(end - start).days
+p66
+I18990
+sVd.utcnow
+p67
+I7542
+sV$]*&[)#(%^{]%^)])@#{!^@(@)#+}{$}@_${_(_}[^[+#*&^{%!%+$)){_]*%+(@^{_*#$*(!)[*[&))
+p68
+I14018
+sVa |= set((3, 5))
+p69
+I11117
+sVa = [ {"k": i*int(random.random() * 100), "i": i} for i in range(10) ]
+p70
+I2553
+sVF()
+p71
+I3395
+sVCmsImageContent.objects.get(pk=83882)
+p72
+I9156
+sVimprot os
+p73
+I16554
+sVv.avalue
+p74
+I19155
+sVstr(p=
+p75
+I3166
+sVQuestion.objects.filter(topic__in=a.topic_set.all()).order_by('-updated')[:3]
+p76
+I9320
+sVurlresolvers.reverse('highend_action', args=('dajdkasj',))
+p77
+I14303
+sVa.search(None)
+p78
+I20608
+sV@^[&[%*_%#$_}${#{@@^^![[_$(!$&}[&^}_*}@@_}*+^$%[*_(+}$)%{@)&^*&(*]&$!_[{)&{[[_@!
+p79
+I13668
+s.

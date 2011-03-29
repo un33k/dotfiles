@@ -1,0 +1,254 @@
+(dp1
+Va.b
+p2
+I16337
+sVs.query(PhotoTag).filter_by(tag_id=t.id).filter(PhotoTag.photo_id != 1).all()
+p3
+I14752
+sV[ u.username for u in User.objects.all()]
+p4
+I20068
+sVr.match("pepe hole mundo como va")
+p5
+I6178
+sVamazon.setLicense(lk)
+p6
+I6105
+sVCONSUMER_SECRET = SECRET
+p7
+I16437
+sVlist(g.traversal('c'))
+p8
+I6904
+sVroom.get_url()
+p9
+I9284
+sVprint OUT_LINES
+p10
+I15991
+sVSEOLandingLink.objects.filter(parent=None).order_by('term').values_list('slug', flat=True)
+p11
+I18422
+sVbase64.encodestring(u"solo un pedo azúl\u005cn")
+p12
+I14488
+sVa.getlist
+p13
+I8411
+sVfrom django.utils import translation
+p14
+I7434
+sVi = BigIndexer.search("ayer peludo")
+p15
+I205
+sVimg = Image.new('RGBA', (w, h), (0, 0, 0, 0))
+p16
+I3725
+sVt = egg.trayicon.TrayIcon("MyFirstTrayIcon")
+p17
+I7300
+sVDateField.db_type
+p18
+I15741
+sVhtml = """\u000a<p>\u000a	&nbsp;</p>\u000a<p style="font-family: georgia, 'times new roman', times, serif; margin-top: 0px; margin-right: 25px; margin-bottom: 10px; margin-left: 25px; font-size: 13px; color: rgb(0, 0, 0); ">\u000a	Barnaby The Bear&#39;s my name, never call me Jack or James, I will sing my way to fame, Barnaby the Bear&#39;s my name. Birds taught me to sing, when they took me to their king, first I had to fly, in the sky so high so high, so high so high so high, so - if you want to sing this way, think of what you&#39;d like to say, add a tune and you will see, just how easy it can be. Treacle pudding, fish and chips, fizzy drinks and liquorice, flowers, rivers, sand and sea, snowflakes and the stars are free. La la la la la, la la la la la la la, la la la la la la la, la la la la la la la la la la la la la, so - Barnaby The Bear&#39;s my name, never call me Jack or James, I will sing my way to fame, Barnaby the Bear&#39;s my name.</p>\u000a<p style="font-family: georgia, 'times new roman', times, serif; margin-top: 0px; margin-right: 25px; margin-bottom: 10px; margin-left: 25px; font-size: 13px; color: rgb(0, 0, 0); ">\u000a	Ulysses, Ulysses - Soaring through all the galaxies. In search of Earth, flying in to the night. Ulysses, Ulysses - Fighting evil and tyranny, with all his power, and with all of his might. Ulysses - no-one else can do the things you do. Ulysses - like a bolt of thunder from the blue. Ulysses - always fighting all the evil forces bringing peace and justice to all.</p>\u000a<p style="font-family: georgia, 'times new roman', times, serif; margin-top: 0px; margin-right: 25px; margin-bottom: 10px; margin-left: 25px; font-size: 13px; color: rgb(0, 0, 0); ">\u000a	Hong Kong Phooey, number one super guy. Hong Kong Phooey, quicker than the human eye. He&#39;s got style, a groovy style, and a car that just won&#39;t stop. When the going gets tough, he&#39;s really rough, with a Hong Kong Phooey chop (Hi-Ya!). Hong Kong Phooey, number one super guy. Hong Kong Phooey, quicker than the human eye. Hong Kong Phooey, he&#39;s fan-riffic!</p>"""
+p19
+I20842
+sVfrom datetime.datetime import now
+p20
+I876
+sVfrom django.core.cache import cache
+p21
+I4972
+sVa.find('(')
+p22
+I500
+sVdef append_titles(models, value):
+p23
+I137
+sVf = ImageFont.truetype("/home/omab/iw/fuentes pag.web/TrajanPro-Bold.otf", 12)
+p24
+I3723
+sVs.pos
+p25
+I16007
+sVs = SiteNavigationSection.objects.all()[0]
+p26
+I17026
+sVhaar.first.next
+p27
+I10928
+sVp.translations.add(M(address='hello world', _language='en'))
+p28
+I5885
+sVload_cache()
+p29
+I12771
+sV'a' % dict(values or {})
+p30
+I3640
+sVimg = Image.open('/home/omab/misc/img/msn/sheep.jpg')
+p31
+I12262
+sV%timeit t_trans()
+p32
+I4865
+sVupdate cms_fragment_template set content_names = "linkImage/image,linkText/text,linkUrl/text" where id = 146
+p33
+I6739
+sVTranslateableModel.objects.lang('es')[0]
+p34
+I5832
+sVfor i in l:
+p35
+I9512
+sVu.user_permissions.all()[0].id
+p36
+I8134
+sVd.tzname()
+p37
+I17453
+sVfor k, v in a.iteritems():\u000a    clauses.append("%s IN (%s)" % (k, ", ".join("%s" for i in xrange(len(v)))))\u000a    new_values.append(k)\u000a    new_values.extend(v)
+p38
+I4545
+sVlen(RenderedData.objects.filter(value__contains='{%').values('page').distinct())
+p39
+I11495
+sVa.xxx = True
+p40
+I15673
+sV_cache_values(True)
+p41
+I4985
+sVdatetime.datetime.fromtimestamp(1231106688)
+p42
+I4071
+sVm = shopping_link_re.match('href="http://mydeco.com/shopping/browse/furniture/"')
+p43
+I8551
+sVr =  re.compile("var product_price\u005cs*=\u005cs*\u005c"(?!Ranging)\u005c";")
+p44
+I18693
+sVprint a.sort.__doc__
+p45
+I2548
+sVjson = json.replace('\u005cn', '').replace('\u005ct', '')
+p46
+I11620
+sVdef prueba(a, b):\u000a    print "aca", a, b
+p47
+I9002
+sVo.parse('ttp 123 as pp and 32')
+p48
+I7210
+sVf = BuyFormWizard()
+p49
+I3314
+sVEntry.objects.filter(group='/the-magazine/').values('name', 'value')
+p50
+I9592
+sVp = urlparse.urlparse(h).path
+p51
+I20781
+sVc = p.cmscontentmapping_set.all()
+p52
+I1456
+sV''.join([])
+p53
+I1103
+sVffm(f.__class__)
+p54
+I3718
+sVsimplejson.loads('')
+p55
+I1065
+sVsorted((d for d in os.listdir('/')))
+p56
+I12523
+sVqs.filter(model2__isnull=True)
+p57
+I18913
+sVf.rel.to
+p58
+I4566
+sVsys.setrecursionlimit(10000)
+p59
+I7011
+sVdatetime.datetime.strptime? #("2009-06-03 00:21:40")
+p60
+I11814
+sVh.meta__title
+p61
+I1309
+sVc.catstlug
+p62
+I5420
+sVu'\u005cxa'
+p63
+I9975
+sVprint q.get(5)
+p64
+I16238
+sVf.fields['title'].initial
+p65
+I20020
+sVtojson({ 'hola': "mundo" })
+p66
+I10323
+sVfrom search.results import ArticleSearchResult, Facet
+p67
+I5477
+sVa = "Hila"
+p68
+I8875
+sVurllib.quote("/wears/buy/10/")
+p69
+I3510
+sVfd.closed()
+p70
+I2089
+sVr3.match('the the')
+p71
+I14935
+sVpt_alias.c
+p72
+I15366
+sVa and (b or c) or "hola"
+p73
+I1479
+sVupdate cms_fragment_template set content_names = "btlId/text" where id = 68;
+p74
+I6663
+sVopr.left
+p75
+I417
+sVa.match('_')
+p76
+I14281
+sVItem._translation_model._transmeta.master_field_name
+p77
+I11516
+sVimport tarfile
+p78
+I1918
+sVfind_template_source('base.html', ['microsite'])
+p79
+I8338
+sVs[0][0].name
+p80
+I16980
+sVmeta.reflect(bind=engine)
+p81
+I15156
+sVdatetime.datetime.strptime("", "%Y-%m-%d %H:%M:%S")
+p82
+I11828
+sVget_host_setting('SEARCH_GOOGLE_WEB_OPTIMIZER_EXPERIMENTS')
+p83
+I16503
+sVunicode(f)
+p84
+I18932
+sVsmtplib.SMTPAuthenticationError.__base__
+p85
+I14143
+s.

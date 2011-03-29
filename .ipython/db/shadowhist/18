@@ -1,0 +1,218 @@
+(dp1
+Vlive?
+p2
+I8539
+sVc = { 'type': 'admin',
+p3
+I19324
+sVstatusIcon.set_blinking(1)
+p4
+I7317
+sVdatetime.datetime.strptime(d, "%y-%m-%d %H:%M:$s")
+p5
+I1076
+sV[^&^([!*])_@+@%!^!%}[(!#***)&)@{{@]_#^_+{*)^^_+&#@{]{@#&]@+*$$_#{!^#&&^{]*#)__]+
+p6
+I13495
+sVos.path.isdir('/tmp/pepe')
+p7
+I16619
+sVb -a
+p8
+I1561
+sVvalues = [ CmsTextContent.objects.filter(id__in=content_ids).values('object_id').values('id', 'text') ]
+p9
+I8845
+sVraise NoImplemented
+p10
+I2314
+sVa = '/a/b/c/d'
+p11
+I17394
+sV"pija de damian" > "pija de matias"
+p12
+I3789
+sVjson = '\u005cn'.join(json)
+p13
+I11599
+sVs = "g fmnc wms bgblr rpylqjyrc gr zw fylb. rfyrq ufyr amknsrcpq ypc dmp. bmgle gr gl zw fylb gq glcddgagclr ylb rfyr'q ufw rfgq rcvr gq qm jmle. sqgle qrpgle.kyicrpylq() gq pcamkkclbcb. lmu ynnjw ml rfc spj.".encode('rot13').encode('rot13')
+p14
+I12867
+sVpairs(('chatterbox_thread', 'chatterbox thread', 'has posted in a chatterbox', False, True, True))
+p15
+I21246
+sVsys.call_tracing(lambda *args, **kwargs: None)
+p16
+I2051
+sVs.contents[0]
+p17
+I17071
+sVa = "/microsite/besonlinesofas.com/pepe/le/pu"
+p18
+I8721
+sVr.split(quote(a))[::3]
+p19
+I14683
+sVsr = p
+p20
+I11539
+sVtojson('')
+p21
+I10321
+sVlen('User Type') + len('myDeco.username ? "member" : "guest"')
+p22
+I14605
+sVfrom tipocms import forms
+p23
+I8479
+sVimport pycomplete
+p24
+I14241
+sVc.total_diff[0] / c.totals
+p25
+I2151
+sVget_gwo_experiments("gts")
+p26
+I14960
+sVupdate cms_fragment_template set content_names = "headline/text,subheading/text,content/largetext,linkUrl/text,linkText/text,image/image" where id = 22;
+p27
+I6617
+sVm = matcher.match(x)
+p28
+I17633
+sVreverse('/')
+p29
+I6008
+sVmd5()
+p30
+I18450
+sVx = hxs.select('//ul[@id="Monos"]/li')
+p31
+I16632
+sVrot13(t)
+p32
+I9913
+sV$*!{&$$@$@+&)#}}}[{){}([+__+_+](_)@++^%[!*)(+(%}}+%@%!)#$*[$@)$+){_!@*}!]]{{++[}
+p33
+I13061
+sVfor line in f:\u000a    print line
+p34
+I928
+sVc2 = Car(name='auto2')
+p35
+I18745
+sVf = RichEditorImageUploadForm()
+p36
+I12581
+sV*)$_($)){@%}}*+*#{]}}@)!){$+$^&$!]*)$_**(_+@)+{)![!&+&_#[_$%^+&^}&**&_*)]+)]]%{!
+p37
+I13834
+sVValue.objects.filter(id__lt=6)
+p38
+I4871
+sVf.prefix
+p39
+I8223
+sVi = 1
+p40
+I8752
+sVtimedelta?
+p41
+I18845
+sV[%%(@_${[(#@%*_+^]{}+^{}!)&#}*#%(##))%(+[+@!}$^}](!_$%}$&([#%}[##*[#*]{$^#*(^+[^
+p42
+I13976
+sVCategoryHierarchy._meta.get_all_related_objects()
+p43
+I4556
+sV__dict__
+p44
+I17661
+sVdatetime.datetime.timetz()
+p45
+I9563
+sVt.fragment.values()
+p46
+I563
+sVdatetime.datetime.strftime?
+p47
+I16659
+sVimport urllib
+p48
+I1050
+sVlink_re = re.compile(r'href=(?P<open>["\u005c'])(?P<address>/search/)(?P<close>["\u005c'])')
+p49
+I1210
+sVf = Ff()
+p50
+I4885
+sVwindow.remove()
+p51
+I7327
+sVfrom twitchess.playqueue import Command
+p52
+I16345
+sVurlparse.scheme_chars
+p53
+I8829
+sVlist(get_tag_photos(t.id))
+p54
+I14830
+sV[][-1]
+p55
+I5626
+sVx, y = a.split(";")
+p56
+I5696
+sVj = JSONTest()
+p57
+I20549
+sVa = set((1, 2))
+p58
+I11116
+sVfor i in r:
+p59
+I4799
+sVb = Blowfish.new("jdksaj", Blowfish.MODE_CBC)
+p60
+I974
+sVPost.objects.all()
+p61
+I42
+sVtest(10, recursive=True, *(10, 20))
+p62
+I18140
+sVprint s[0].form()
+p63
+I17010
+sVr = RoomSearch(rooms, count=3)
+p64
+I9265
+sVq.get?
+p65
+I16237
+sVurllib2.urlopen("http://pepepe.com")
+p66
+I2983
+sVsql = """\u000aSELECT ci.id, ci.categorization_id, ci.categorization_image_type_id,\u000a       ci.credits, ci.url, cit.description\u000a       FROM categorization_image_type cit,\u000a       categorization_image ci\u000a       WHERE cit.id = ci.categorization_image_type_id\u000a       AND categorization_id=%(id)s\u000a"""
+p67
+I3610
+sVhxs.select('/html/head/title/text()').re('(\u005cw+):')
+p68
+I10562
+sVfrom vimpdb import VimPdb
+p69
+I19503
+sVc.total
+p70
+I2140
+sVif hasattr(pd.page, "fragment_pepe"):
+p71
+I2466
+sV(&_+][&_@)$&$&^[_$(++$^}]&^^*(+*!&#_$]*+@!]+{%^_*+!&}@$!#^{+_#([+@(((*+)[()__}(^
+p72
+I14090
+sVarr(9, 1) * arr(9, 1) * arr(9, 3) / arr(9, 5)
+p73
+I5642
+s.

@@ -1,0 +1,247 @@
+(dp1
+Vrange(10 - a, 10 + a)
+p2
+I12813
+sVlast = [ l.strip() for l in f2.readlines() if l.startswith('My move is')][-1]
+p3
+I15802
+sVo.ACTIONS
+p4
+I7064
+sVfrom django.template.loaders.filesystem import load_template_source
+p5
+I793
+sVprint "\u005c0xc2"
+p6
+I3891
+sVgv.readstring.__doc__
+p7
+I6883
+sVlen(quote(b)) + len(quote(a))
+p8
+I14673
+sVhtmlentitydefs.name2codepoint
+p9
+I14695
+sVcontents = ["""<h4>1.  The Conran Shop &ndash; 75% off </h4><p>Philippe Starck's fabulous <a href="/product/miss-k-light/eb5d5faf01db380a24e3de0a41e732e26ea0e8fe/ " class="c1">Miss K Light</a>, <strong> was 125 now 89,</strong> is a must-have design piece. Complete with dimmer switch, it appears metallic silver when off and becomes transparent when on. Get it while stocks last.</p><p></p><p><strong>Browse <a href="/search/?query=the+conran+shop&startrank=0&prefdb=product&sort=-discount_percent&count=30&view=compare&ranges=price,20," class="c1">The Conran Shop discounts</a>. </strong></p>""",]
+p10
+I1533
+sVmath.pow(2, 32
+p11
+I18869
+sVreverse('tipocms_denied')
+p12
+I6009
+sVcgi.parse_qs('a=1&b=2')
+p13
+I18479
+sVdatetime.fromtimestamp(float("1264713776")/1000)
+p14
+I11586
+sV}[%(^{_&!++[_)+@&^])&)+!(@%+([![$*$+&_)&_*#%!#]${[}_)+)&$#^*##_&}$]]++!#+(@#!#[}
+p15
+I13576
+sVr.findall(v)
+p16
+I16655
+sVa.split(None, 3)[3]
+p17
+I11739
+sVw = Website.objects.get(pk=341)
+p18
+I2749
+sVx.is_bound
+p19
+I18964
+sVh.description
+p20
+I17019
+sVos.path.isfile
+p21
+I12546
+sVlist(CmsPage.objects.most_viewed('/the-magazine/', ''))
+p22
+I12188
+sVa._meta.fields['text']
+p23
+I859
+sVprint Product.objects.get(pk=x[158])
+p24
+I18568
+sVa.sort(key=lambda x: x['name'])
+p25
+I14658
+sVz = Z(a=1, b=2, c=3)
+p26
+I4368
+sVm.cars.add(c2)
+p27
+I18754
+sVi = i[0]
+p28
+I4447
+sVx.ranked_count
+p29
+I7716
+sVp._meta
+p30
+I18812
+sVp nltk.tokenize.RegexpTokenizer.__doc__
+p31
+I6442
+sVcgi.parse_qs(cgi.urllib.splitquery(url)[1])
+p32
+I5596
+sV%+[!*$]}(+#@*#&&[_)!*}&*#&#*^@&[%(_)!&+#^{#%#((+#+]]#@]$!!$@@!@[{))#()}(}[^@*)}#
+p33
+I13396
+sVfor k, v in values.iteritems():
+p34
+I4536
+sVc = Context({})
+p35
+I14955
+sVx, y = a
+p36
+I2109
+sVa = "%(hola)s"
+p37
+I3407
+sVa[a.find("_")]
+p38
+I3460
+sVreverse('cms.views.edit', args=(10,))
+p39
+I12680
+sVp.shared_fragments
+p40
+I599
+sVt.items
+p41
+I69
+sVv._meta._join_cache
+p42
+I8675
+sV+($&}]#^]%%(})${&&!&@@]$_+$[&@%})!*$]{_!_(^+%&_(*(+**%(_})[]$))%+([!{]#**)()([*)
+p43
+I13224
+sV0
+I18193
+sVraw_input("Hola: ")
+p44
+I2806
+sVupdate cms_fragment_template set content_names = "text/largetext" where id = 48;
+p45
+I6643
+sVr =  re.compile("var product_price\u005cs*=\u005cs*\u005c"(.*?)\u005c";")
+p46
+I18689
+sVfunc(*('a', 'b', 'c'), 'z')
+p47
+I17387
+sVm.handler_is_connected('on_Start')
+p48
+I8050
+sV[}^_#[({^+_%{*@}@_[]{+][_*!#{])_^_@$(@%!@!(]%))){%](#]]#}@&}+%[@&[[)%#%{{+@[(^@+
+p49
+I13502
+sVp.supplier_logo_url
+p50
+I7491
+sVf.fields['EMAIL_FIELD'].name
+p51
+I8209
+sVset(r)
+p52
+I7637
+sVclass RedirectHandler(urllib2.HTTPRedirectHandler):\u000a    def http_error_302(self, req, fp, code, msg, headers):\u000a        print req, fp, code, msg, headers\u000a        return fp
+p53
+I7876
+sVa[-3:]
+p54
+I5122
+sVu.int
+p55
+I5084
+sVre.match('/(\u005cd+)-', url).group(0)
+p56
+I16222
+sVstr(o)
+p57
+I7216
+sVr.match("	")
+p58
+I4671
+sVlist(r.finditer(s))
+p59
+I4486
+sVa.update((1, 1), (2, 2))
+p60
+I14478
+sV{% else %}
+p61
+I10463
+sVinfo = UserExtraInfoForm()
+p62
+I3359
+sVTaggedItem._meta.get_field('user').default
+p63
+I12637
+sVfrom obnob.apps.chatterbox.templatetags.chatterbox_tags import group
+p64
+I20967
+sVtype(Lola)
+p65
+I18297
+sVrooms.result.items
+p66
+I11461
+sVimp.__class__
+p67
+I17814
+sVarrayfns.construct3(xrange(10), 1)
+p68
+I2736
+sVt = m._meta.fields[1]
+p69
+I682
+sVurl='http://digg.com/pepe/le/pu'
+p70
+I8440
+sVa, b = c.totals
+p71
+I2142
+sVhxs.select('//div[@id="Contenido"]//h1//text()').extract()
+p72
+I16800
+sVc.UpgradeToSessionToken()
+p73
+I19704
+sVh.drawers_slider_1.has_next
+p74
+I1299
+sVbisect.insort_left?
+p75
+I17051
+sVModel1.objects.exclude(m3__name=3)[0].name
+p76
+I18922
+sVtest(10, recursive=True, *l)
+p77
+I18148
+sVr = r[0]
+p78
+I7684
+sV^^$*[$+*![%++({&^^_@{[)_([@*#)&_+$&{[{(+[}^_!_^#}++*$$+^)}%]@*#(}%^!)^&)_{)&&@][
+p79
+I13105
+sVa = [[range(10), range(5)], [range(8)], [range(20)], [range(15)], [range(4), range(6)]]
+p80
+I8386
+sVc.category['facet']
+p81
+I20621
+sVqs = Room.objects.all().select_related()
+p82
+I17577
+s.

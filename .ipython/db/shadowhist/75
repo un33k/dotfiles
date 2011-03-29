@@ -1,0 +1,232 @@
+(dp1
+Vf.con
+p2
+I3786
+sVhtmllib.HTMLParser(html).parse_declaration(1)
+p3
+I9718
+sVmenu['lazy']
+p4
+I11703
+sVhash(1)
+p5
+I12243
+sVTemplate('{% static_url "/room_explorer/?imagetype=3d%20rooms" %}').render(Context())
+p6
+I10615
+sVp.is_outlet
+p7
+I8863
+sVchr(46 + ord('a') - 2)
+p8
+I5209
+sVa = "'hola\u005c''"
+p9
+I17092
+sVp = get_page(pk=4389)
+p10
+I3241
+sVbase64.decodestring('bG8gZGVsIHBlZG8uLi4gVE9ET1MsIHlvIHRhYmEgcmUgZW4gcGVkbywgbGxlZ3VlIGEgY2FzYSBj\u005cnb24gdGVycmlibGUgcGVkbyA6QCEhIQ==\u005cn')
+p11
+I14492
+sVg.edge_properties
+p12
+I6970
+sVh = PageHelper(CmsPage.objects.get(pk=1884))
+p13
+I1670
+sVst = os.path.stat()
+p14
+I16587
+sVs = 'server.log-20100720.gz'
+p15
+I17003
+sVp.locale = 'en-us'
+p16
+I12342
+sV[x.id for x in t.subtags]
+p17
+I14765
+sVa = ('1', [])
+p18
+I12424
+sVthreading.RLock()
+p19
+I15993
+sVACTIVATE_SH = ACTIVATE_SH.replace('PS1="(`basename \u005c\u005c"$VIRTUAL_ENV\u005c\u005c"`)$PS1', 'PS1="${COLOR_RED_BOLD}(`basename \u005c\u005c"$VIRTUAL_ENV\u005c\u005c"`)${COLOR_NONE} $PS1')
+p20
+I19620
+sVw.token
+p21
+I10276
+sVfrom numpy import max as numpy_max, zeros, average, dot, asfarray, sort
+p22
+I19310
+sVChildA._meta.fields
+p23
+I19528
+sVj = JSONTest.objects.all()[1]
+p24
+I20555
+sVper_date = defaultdict(lambda: defaultdict(int))
+p25
+I19005
+sVp._meta.fields
+p26
+I6791
+sVfrom django import forms
+p27
+I3703
+sVt
+I267
+sVprint h.whats_hot.form()[0][0][1]
+p28
+I17114
+sVf.getElementsByTagName('input')
+p29
+I20702
+sVr = re.match(r"xxx/yyy/zzz", a)
+p30
+I18234
+sVfrom opencv.highgui import *
+p31
+I10857
+sVt.sections.all()[0].names
+p32
+I4760
+sVr = re.compile(r'([\u005c'"])[^\u005c1]+\u005c1')
+p33
+I14937
+sVt.replace('V', 'l').replace('I', 's').replace('T', 'n').replace('G', 'd').replace('Y', 'r').replace('P', 'i').replace('L', 't')
+p34
+I5234
+sVuuid.uuid3
+p35
+I18832
+sVset((1, 2)) |= set((3, 4))
+p36
+I11115
+sVfrom django.db.models.base import Model
+p37
+I16956
+sVp.stdout.readlines()
+p38
+I15780
+sVv.values()
+p39
+I9187
+sVs = re_words.search(a)
+p40
+I9079
+sV[@(!%!@_]!%*(+(^[_!_#!)[+@{(#%!%*]$&#@_@!*&){__(@@_}&*+){_^#^_}*+@*()[}){]!#!&^#
+p41
+I13725
+sVf = FForm()
+p42
+I3710
+sVre.findall('/(\u005cd+)-', url)[3]
+p43
+I16230
+sVd.modify_bg??
+p44
+I8075
+sVx = BigIndexer.search("cola peludo")
+p45
+I191
+sVUnpublishForm.base_fields['unpublish_date'].required=False
+p46
+I854
+sVf.readlines()
+p47
+I4018
+sVFS4_VIEWS
+p48
+I12390
+sVfrom scrapy import version_info
+p49
+I17665
+sVupdate cms_fragment_template set content_names = "actionLink/text,image/image,title/text,bodyText/text" where id = 5;
+p50
+I6603
+sVp._meta.get_m2m_with_model()
+p51
+I18765
+sVfrom djapian.backend.backends import XapianIndexer
+p52
+I144
+sVa.__getslice__?
+p53
+I10124
+sVq.get()
+p54
+I16174
+sVs = cvSize(100, 100)
+p55
+I12536
+sVp.path
+p56
+I3006
+sVa = 'get'
+p57
+I21158
+sVtimeit.Timer('s.append("something")', 's=[]').timeit()
+p58
+I8534
+sVp nltk.tokenize.WordPunctTokenizer.__doc__
+p59
+I6443
+sVopr = Id('tag') + Var('xxx_name') + Optional(Id('manolo'))
+p60
+I409
+sVa, b, c = [1, 2, 3, 4, 5]
+p61
+I11573
+sV5 / 2
+p62
+I17192
+sVs = {'type': 'btl', 'slug':
+p63
+I17970
+sVpepe([])
+p64
+I1752
+sVv.value.url
+p65
+I8669
+sVfrom django.template import Parser
+p66
+I10099
+sVn = Notice.objects.in_chatterbox().filter(receivers=u)
+p67
+I21307
+sV$)#^)#*&*+(#)#*$+)#]_%]%!+(()+_^({$**[}%@*!_)}%!@[_+$_))&(**}][$([)%{}#}&(]}[&+(
+p68
+I13785
+sVfrom django.core.urlresolvers import resolve
+p69
+I3953
+sVw = Website.objects.all()[0]
+p70
+I2747
+sV#[](]$!_#%}&][!!&***(#(@(!@!+)&!&(*$+@#$&]@^_}{((^!@!_[^)##@([&]()[}()+!(+!]#@[&
+p71
+I13101
+sVDateField.widget.media()
+p72
+I18406
+sVmodels.BooleanField().to_python('False')
+p73
+I17214
+sVkeys = dict(set([ (k, None) for i in input for k in i.keys() ]))
+p74
+I7642
+sVUserSocialAuth.objects.values_list('provider')
+p75
+I19248
+sVarticles.get_result()
+p76
+I5359
+sVchild = pexpect('/usr/games/gnuchess')
+p77
+I15840
+s.

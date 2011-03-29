@@ -1,0 +1,295 @@
+(dp1
+Vupdate cms_fragment_template set content_names = "btlsBullets/largetext[10],btlsCreditText/text[10],btlsId/text[10],btlsImageTitle/text[10],btlsParagraph/la
+p2
+I6732
+sV</head>
+p3
+I9680
+sVcomponents
+p4
+I9934
+sVx.price
+p5
+I11938
+sVx.order()
+p6
+I19169
+sVr.status
+p7
+I20673
+sVhas_feed("/the-magazine/pepe/")
+p8
+I3981
+sVp.feed(html)
+p9
+I9743
+sVCmsPage.objects.distinct().values_list('template_id')
+p10
+I14409
+sVc = CategoryHierarchy.objects.filter(child=129)
+p11
+I4555
+sVwarnings.warn("Deprecation warning")
+p12
+I1727
+sVg.incidents('37948')
+p13
+I6934
+sVFile
+p14
+I16317
+sVforms.ChoiceField.widget
+p15
+I8176
+sV!{_]#@]&%((+&+*@^@$&&$*{+##_}&_(!%(^}%)#&_^$][]#(^@@(@+&(%![({}[$}_$%*]!)$#{$@[#
+p16
+I13128
+sVb.url
+p17
+I15772
+sVa = '++aaaa+++'
+p18
+I19537
+sVLIST_ITEM_RE = re.compile('.*\u005c[\u005cd+\u005c]$')
+p19
+I9963
+sVtitulares = hxs.select('//div[@id="Titulares"]')
+p20
+I16676
+sVid(Pepe)
+p21
+I4163
+sVc.widget.render?
+p22
+I14462
+sVfield.widget.build_attrs()
+p23
+I728
+sVf = ProductCountForm()
+p24
+I3322
+sVsettings.FACEBOOK_SECRET_KEY.value(1)
+p25
+I10576
+sVs.delete(Tag.get(12))
+p26
+I15296
+sV)_{^%%$]_!]$+@^[*}^*]+_$$&]^^+{&&&(}[{*^^@%%+)[^+$&@&)^%&($}*!&%#!*&$[%(]_{$])*[
+p27
+I13280
+sV[+!&#$$!})[{#(@{}&&@)&}^$!%_*@%#*)++{+]@}{@}*@^!}+])+{[^*#%(*(+$_!{])}+$](!*{{[{
+p28
+I13740
+sV8 - (len(a) % 8)
+p29
+I1122
+sVa = '\u005cxae'
+p30
+I9983
+sVA_IMG_REGEX = r'(<[aA][^>]*>[^<]*</[aA]>|<[iI][mM][gG][^>]*>)'
+p31
+I9867
+sVdirname(pages.__file__)
+p32
+I17524
+sVreplace_amp(" http://www.furniture123.co.uk/layouts/search/search.asp?action=freeSearch&free_text=myd050309&x=0&y=0&cm_mmc=mydeco-_-bedmonthpromo-_-none-_-none")
+p33
+I4661
+sVx = ['a', 'b', 'd', 'h']
+p34
+I17681
+sVp.h()
+p35
+I5278
+sVRenderedData(page=p, name=n, value=x).save()
+p36
+I10459
+sVarr(9, 5) / 2 / 2 / 2 / 3 / 3 / 3 / 7 / 3
+p37
+I5665
+sV}#@]_#@}@$#__%#}*}{++![#[}[+@($()){#^)(#$!^!&@}@*@{{+#(}@+^$[&&%!{_${$#@])&_[]#)
+p38
+I13025
+sV*)(!^)&($)*!+^^#)}[&^!%&#]({]&[%!$!++^))&_%}+]#{%)}%[[+[^]+#+})[]*){_{[]#)_&^[{*
+p39
+I13358
+sVprint functools.wraps.__doc__
+p40
+I2570
+sVclient.address_book
+p41
+I9341
+sV)!{^&@[@$%^[!^@#*#@!%!]}$^{&$$*][(%$]^]&]@_&$!$[&&[^*&![$^}$+{_&!@%[%(_)]&^!!*_}
+p42
+I13156
+sVCmsPagePath.objects.with_page(where=['page_state="live"'])[:3][0]
+p43
+I12113
+sVfrom tipocms.model import *
+p44
+I12186
+sVa[-1:len(a)]
+p45
+I17503
+sVroom.profile_data
+p46
+I9285
+sVproductos = p.productos.select_related('producto').all()
+p47
+I7445
+sVa = u"\u005c0xc2"
+p48
+I3887
+sVq.get_loaded_field_names()
+p49
+I20478
+sVlen(md5.new('hola mundo cruel y malvado').hexdigest())
+p50
+I9550
+sVurls
+p51
+I4218
+sV+*}[%]*#@{_![]$+@_)]#@+]#_^(!*{#]!()@}}%!_&@]()()]*+(%*_{@)]#{[*^${_+$)@[{[$*!!{
+p52
+I13732
+sVvalidated = minifb.validate(settings.FACEBOOK_SECRET_KEY, {})
+p53
+I10580
+sVs.query(PhotoTag).filter_by(tag_id=t.id).filter(PhotoTag.photo_id == 1)
+p54
+I14749
+sVt.render(Context({}))
+p55
+I10396
+sVb = get_backends()
+p56
+I20229
+sVgetattr(a, "id"
+p57
+I4817
+sVr.scanner(s)
+p58
+I4487
+sVfrom wears.models import Model
+p59
+I2880
+sVa = set(1, 2, 3, 4)
+p60
+I17378
+sVv.__dict__
+p61
+I10266
+sVr.items[0].name
+p62
+I14320
+sVsys.version
+p63
+I2054
+sVurllib.urlencode('?')
+p64
+I19448
+sVa.rpartition('-')[0].rpartition('-')[0]
+p65
+I12002
+sVp = pyosd.osd()
+p66
+I7247
+sVr = re.compile(r'\u005cb>va<\u005cb', re.I)
+p67
+I6157
+sVb.save()
+p68
+I3092
+sVhxs.select('//.title/a/text()')
+p69
+I17533
+sVResultRank.objects.filter(content_type='10')
+p70
+I7678
+sVfrom search.models import *
+p71
+I4220
+sVupdate cms_fragment_template set content_names = "linkImage/image,linkText/text,linkUrl/text" where id = 113;
+p72
+I6706
+sVw
+I2750
+sVi.translations.add(t)
+p73
+I11526
+sVLIST_ITEM_RE.match('hola[42]')
+p74
+I9962
+sVi = list(iter(l))[0]
+p75
+I1843
+sVs[1].count()
+p76
+I161
+sVn.show()
+p77
+I7261
+sV[ [x, y, z] for (x, y, z) in sub if (x[-1].isupper() and y[-1].islower() and z[-1].isupper()) or (x[0].isupper() and y[0].islower() and z[-1].isupper())]
+p78
+I14187
+sVNonce.objects.all()
+p79
+I18676
+sVRenderedData.objects.filter(page=p).delete()
+p80
+I10449
+sVst = SingleTokenizer(stemming_enabled=False)
+p81
+I6428
+sVfrom cms.pages import load
+p82
+I17029
+sVBOARD_RE   = re.compile('^[ 1-8<>\u005c+\u005c-a-h\u005c.RNBQKP]+$')
+p83
+I16074
+sVr.match(superbeddingeh?')
+p84
+I19068
+sVim.save("im.jpg")
+p85
+I1398
+sVutils.retrieve_feed()
+p86
+I1775
+sV)@^$%#+]!&^$*$#%*!+%]#$}^)[@_#%*_!&]&!{$#)$**[[*]+%#!{]^@&]#}^^%(%!*%#{@(*)![*(+
+p87
+I13054
+sVp.meta_title
+p88
+I5482
+sVfrom django.db.models import register_model
+p89
+I5777
+sVgetatt(p, "name")
+p90
+I3464
+sVreverse('common.views.merged_css')
+p91
+I497
+sVimport model_i18n
+p92
+I10968
+sVf = FF('hola')
+p93
+I4881
+sVcondition = Q(user__first_name__icontains=name) | Q(user__last_name__icontains=name)
+p94
+I20492
+sVany(x in a for x in ['z', 'p', 't', 'h'])
+p95
+I17621
+sVchild = pexpect.spawn('/usr/games/gnuchess')
+p96
+I15841
+sVlibxml2.htmlParseDoc.__doc__
+p97
+I1790
+sVa.update({ 'a': a['a'] + [32, 44] })
+p98
+I7624
+s.

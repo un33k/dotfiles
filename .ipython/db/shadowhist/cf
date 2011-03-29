@@ -1,0 +1,251 @@
+(dp1
+VCmsPage.objects.filter(since__bt=s).values("since")
+p2
+I4977
+sVmd5.md5(str(os.urandom(10))).hexdigest()
+p3
+I18454
+sVuser = user[0]
+p4
+I6571
+sVr.get_result().result
+p5
+I5248
+sV[ a for a in x]
+p6
+I8818
+sVs.result.search_params.get_args()
+p7
+I14358
+sV#+(][{!##}^{)$##{*^+#}$)+(*%)&&*[!]]^(**@{+[^%^*){{&$&[{}!]_$@]!#$@[(]^%&%$]!%$+
+p8
+I13903
+sVprint '\u005cxae'
+p9
+I9982
+sVt = Template('{% url alert_list "username" %}')
+p10
+I20613
+sVname = 'kevin'
+p11
+I20491
+sVany(1, 2, 3)
+p12
+I18446
+sV_&$)](!^{&@(&[&}$#%$%!%[#)}*_(!]%[}%__^%(@}}(^@_(&]^^#]!%@{}{&*+@)&(#$#+%*&@{_]!
+p13
+I13642
+sVx = f[0]
+p14
+I17488
+sVqs.query.combine?
+p15
+I11091
+sVhp.setrelheap()
+p16
+I9240
+sVf = os.open('/home/omab/.sheep/', os.O_RDONLY)
+p17
+I6857
+sVet.tag
+p18
+I17298
+sVa[a.find("mundo")+len("mundo"):]
+p19
+I1577
+sVATTR_NAMES_RE = re.compile(r'%([^%]+%')
+p20
+I16490
+sVf.base_fields['raw']
+p21
+I9114
+sVquery = cgi.parse_qs('http://google.com/?param1=1&param2=2')
+p22
+I14975
+sVlist(f.errors.iteritems())
+p23
+I12731
+sVa = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+p24
+I15523
+sVa.split('\u005cn')
+p25
+I9959
+sVd.getElementById('#login_form')
+p26
+I20722
+sVhp.heap()[2]
+p27
+I9248
+sVc = Category.objects.filter(parent__isnull=True)
+p28
+I18328
+sVthumbnail("http://media.dev.mydeco.com/media/data/cms/image/2008/12/04/Box_01_Cargo____.jpg")
+p29
+I3803
+sVvalues_d = dict((v['id'], v['text']) for v in values)
+p30
+I8849
+sVstatusIcon.set_from_stock(gtk.STOCK_HOME)
+p31
+I7314
+sVf.bind
+p32
+I1337
+sVi = Image.Image('/home/omab/misc/img/msn/hippy.jpg')
+p33
+I8292
+sVrot13(t.replace('k', 'm').replace('o', 'q').replace('e', 'g'))
+p34
+I9914
+sVEncoded("hola mundo")
+p35
+I10383
+sVp.xxx(p)
+p36
+I20196
+sVc[0].rating
+p37
+I20807
+sVf.widget.id_for_label
+p38
+I3370
+sVimport bidict
+p39
+I12585
+sVos.path.normpath('a/maie')
+p40
+I12565
+sVp.unescape('&quote;')
+p41
+I5516
+sVa = [[1], [2], [3], []]
+p42
+I16537
+sV[purple.PurpleConversationGetType(c) for c in  purple.PurpleGetIms()]
+p43
+I5608
+sVCmsPagePath.objects.with_page(state="live")[:3][0].page_state
+p44
+I12117
+sVopr.parse("tag xxx as yyy from zzz ttt uuu")
+p45
+I425
+sVinfo.values
+p46
+I12323
+sVs = f.base_fields["special_offer"]
+p47
+I4109
+sVlist(enumerate(a))
+p48
+I2534
+sVt = TaggedItem.objects.all()[0]
+p49
+I11771
+sVMYDECONET_BASKET = MYDECONET_AFF_SERVICE + '&'.join('='.join((k, v)) for k, v in MYDECONET_AFF_PARAMS['basket'].iteritems())
+p50
+I14252
+sVtokenize("I like the blacks sofas beds, but the blue sofas beds would be nice with the black out blinds", only_matches)
+p51
+I6492
+sVf = open('/tmp/tmpGuIWg4'
+p52
+I15423
+sVo._meta.get_all_related_many_to_many_objects()
+p53
+I18720
+sVu.obnob_groups.all().values_list('group', flat=True)
+p54
+I19951
+sVf.field
+p55
+I18786
+sVimport psycopg2
+p56
+I4968
+sVurlparse.urlparse('http://digg.com', allow_fragments=False)
+p57
+I8822
+sVroom.thumbnail_url
+p58
+I9270
+sVF.base_fields['text']
+p59
+I722
+sV''.split('_')
+p60
+I11277
+sVf = UnpublishForm({})
+p61
+I855
+sVx.datetime
+p62
+I19195
+sVa = ' adad dasda   '
+p63
+I8164
+sVhal = bus.get_object("org.freedesktop.Hal", "/org/freedesktop/Hal/Manager")
+p64
+I2174
+sVprint urllib.__doc__
+p65
+I1054
+sVfrom twitchess.gamecontrol.playqueue import PlayQueue
+p66
+I16357
+sVr2.match("1222965723.32").group()
+p67
+I2783
+sVarr(1, 1) * arr(9, 1) * arr(9, 3) / 2 / 2  / 2 / 3
+p68
+I5652
+sVt.fmap.select_related('page')
+p69
+I14918
+sVfrom urlbase import urljoin
+p70
+I17652
+sVmonth, day, year
+p71
+I16793
+sV[ (x, x < 'A') for x in '!"#$%&/()=?¡¿\u005c'1234567890']
+p72
+I14132
+sVa = '0
+p73
+I12701
+sVa.split('/', 1)
+p74
+I19924
+sVa = "facet=finish,covered&filter=discounted,1"
+p75
+I9205
+sVt.split_contents ()
+p76
+I10097
+sVTranslateableModel
+p77
+I5785
+sVr.match("/search/?query=sofa").groups()
+p78
+I1628
+sVq.close()
+p79
+I7537
+sVsmtplib.SMTPException.args
+p80
+I14152
+sVc.xmobar()
+p81
+I2153
+sVVariable('hola').resolve(Context())
+p82
+I10346
+sVclient.SetOAuthToken?
+p83
+I19767
+sVclient.profile.profile
+p84
+I9359
+s.

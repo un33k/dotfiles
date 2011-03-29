@@ -1,0 +1,239 @@
+(dp1
+VUser.objects.get(username='kevin.tran')
+p2
+I20069
+sVtime()
+p3
+I7547
+sV@]$]!#$$%)())+)}_#*)(_}*@](^@!*&_^!$(!(_!$+@*[)$$*($)+%!{@_}!@_+}+]@(#}[^%@(][(}
+p4
+I13437
+sVEmailVisionEntryAdmin
+p5
+I9413
+sVfrom pytz import utc
+p6
+I20095
+sVupdate cms_fragment_template set content_names = "photo/image,photo_caption/text,photo_position/text,photo_size/text,content/largetext" where id = 15;
+p7
+I6612
+sVu.get_avatar_thumbnail_url
+p8
+I10474
+sVfor a in pepe():
+p9
+I3528
+sVisinstance(pepe, "function")
+p10
+I1488
+sVdocument.getElementById('emvForm').submit();
+p11
+I9678
+sVp cgi.parse_qs('?a=1&b=2&c=3')
+p12
+I8137
+sVdict((x, x) for x in range(10))
+p13
+I12772
+sVc = "Pepe"
+p14
+I1477
+sVdate("01-10-2010", "%M")
+p15
+I17934
+sV[ n for n in nodes if hasattr(n.node, 'nodelist') ][0].node.nodelist[0].node
+p16
+I10225
+sVfrom werkzeug import run_simple
+p17
+I20058
+sVzip(items)
+p18
+I7607
+sVupdate cms_fragment_template set content_names = "image/image,title/text,lookName/text,description/largetext,lookID/text" where id = 30;
+p19
+I6625
+sVs.index?
+p20
+I14102
+sVpepe(1, 2)
+p21
+I3178
+sVimport jpeg
+p22
+I5525
+sVc.auth_token = AuthSubToken(c.auth_token)
+p23
+I19710
+sVexcept:
+p24
+I2514
+sVa.upper
+p25
+I295
+sVv.sort(lambda x: max(max(n.created) for n in x))
+p26
+I20985
+sV[ a.id for a in articles if a.extra_data!=None]
+p27
+I476
+sVImage.open("/home/omab/img_5631.jpg")
+p28
+I10825
+sVlists(range(10), 0, 1)
+p29
+I3041
+sVs.query(PhotoTag).filter_by(PhotoTag.tag_id = t)
+p30
+I15274
+sVr = re.compile('(silk )?curtains?')
+p31
+I19379
+sVbooks[0].Author
+p32
+I6091
+sVs.SetOAuthToken(unquote(auth_token))
+p33
+I19751
+sVBlogAwardItem()
+p34
+I16140
+sV@)*%_$^]$@*&(()&+)_[*#@&{+&}^#*+*{[)[^$+#**^^(^]}][$_+]*&&)@}{&]](_]_]^&&}%@+}[$
+p35
+I14038
+sVurllib.urlencode({ 'id':'{E3D49B2F-2778-48B4-BC5B-979FCEA6D092}' })
+p36
+I11990
+sVa.valor.b
+p37
+I9019
+sVs.save(t)
+p38
+I15234
+sV*$**&+{%$@[%^]+#@]}@[*%*]]@*!*%[^+(&_!{[%)}}]&$^[[+_[%@!!}_@!])*@^+*&+&!#(*]!}%(
+p39
+I12979
+sVhasattr?
+p40
+I16325
+sVint([10])
+p41
+I3061
+sVsimplejson.loads('{"a": 1}')
+p42
+I16921
+sVos.system("echo 10 > /tmp/osd/bat")
+p43
+I2258
+sVday = '29'
+p44
+I17954
+sVopen(f)
+p45
+I15418
+sVs = gtk.StatusIcon()
+p46
+I7306
+sVs.slice
+p47
+I2621
+sVtempfile.TemporaryFile()
+p48
+I1943
+sVa = { 'a': 1 }
+p49
+I11511
+sVp.tagDetails
+p50
+I8325
+sVfrom suppliers.models import *
+p51
+I2745
+sV[ purple.PurpleConvIm(i) for i in purple.PurpleGetIms() ]
+p52
+I5603
+sVreverse("wears.buy-process", 10)
+p53
+I3400
+sVTaggedItem._meta.get_field('user').required
+p54
+I12634
+sVp.
+p55
+I5879
+sVfrom suppliers.models import SupplierUserData
+p56
+I19828
+sVupdate cms_fragment_template set content_names = "" where id = 52;
+p57
+I6647
+sVlist(Categorization.objects.all())
+p58
+I2287
+sV^*!@{]]#![[{_]#^@])_[[+%]#[%[+_{)^+([^}[]_[}])*^!_+$}^+_)+*@$$^}(&[)_^[+})^]&)))
+p59
+I12919
+sVg = Group.objects.get(slug='group_1')
+p60
+I21441
+sVfor k, v, c in a.iteritems():\u000a    print k, v, c
+p61
+I11501
+sVp.cmscontentmapping_set.all()
+p62
+I1455
+sVch.add_to_class
+p63
+I4586
+sV&%+(&])^[)@$](**}]&}$]&%^]@)[&(*[(#^{$+^]@[%![_{[#_[){_$)!%![]^_%*$!@+{[&%)!_#((
+p64
+I13962
+sV$@^*)(*^!$%$[)}${))&^*+&_#*[{))(*_##&*_$+^&^!#![@@$[@#!&&)_+#%)&@(!!^$$!^!(_{%!(
+p65
+I13535
+sVpickle
+p66
+I3171
+sVc = CmsContentMapping(name="hola", object_id=t.id, content_type_id=81)
+p67
+I570
+sVs.flush)
+p68
+I15297
+sVval.valor
+p69
+I11215
+sVu.obnob_groups.values_list('group__id', 'group__name')
+p70
+I20451
+sVPepe.X
+p71
+I18307
+sVa = '\u005cxC2\u005cx92s'
+p72
+I10138
+sVr.get_url()
+p73
+I15457
+sV]@}#%[%!^[^_})+@&}{@*!(@$%$^)}[_!}(*}#}#___}!](@_{{(*#%!%%+*)^+#%}$+_]#}%!**#!^_
+p74
+I12879
+sVmax((i['since'] for i in CmsPage.objects.filter(since__gt=s).values("since").order_by("-since")))
+p75
+I4982
+sVu.read()
+p76
+I2786
+sVq.task_done?
+p77
+I16192
+sVStampCategory.stampimage_set.all()
+p78
+I3734
+sV1 << 1
+p79
+I6838
+sVi.contribute_to_class(v)
+p80
+I8643
+s.

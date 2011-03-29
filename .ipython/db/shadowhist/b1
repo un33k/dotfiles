@@ -1,0 +1,242 @@
+(dp1
+Va = { 'uuid': '%(uuid)s' }
+p2
+I14248
+sVapi.auth.verifier
+p3
+I16414
+sVv = "ms_everyflooring"
+p4
+I5519
+sVs.tell)(
+p5
+I16036
+sVw.disconnect(0)
+p6
+I8032
+sVlen(search_links.get_recuperables())
+p7
+I1566
+sVDateField.widget().media
+p8
+I18407
+sVRenderedData(page=p, name=n, value=unicode(a).encode('utf-8')).save()
+p9
+I10441
+sV}*_)@(&*[@%$$&))()}]!^+[{##@%+**)$)]&_]{^([&*&#$*&(]{([+&&^}*^$!_&%}&}!(}!__$[{&
+p10
+I13216
+sVdatetime.datetime(2011, 2, 31)
+p11
+I21313
+sVf.getsize("hola")
+p12
+I3724
+sVcursor.execute(sql)
+p13
+I7725
+sVp = p[0]
+p14
+I1151
+sVsys.modules['a'].__path__
+p15
+I11178
+sVlist(UncategorizedProduct.objects.all()[0:3])[0]
+p16
+I2625
+sVsr.result.items[0]._images
+p17
+I11558
+sVmd5("password")
+p18
+I9399
+sVt = Template('<script>if({{ val|default:0 }}){ a = "si"; } else { a = "no"; }</script>')
+p19
+I12494
+sVa.isdigit?
+p20
+I12655
+sVreduce(lambda i: i%2 == 0, a)
+p21
+I8372
+sVpepe(1, ((2, 3, 4, 5))
+p22
+I21040
+sVw = Wear.objects.filter(model__category=c)
+p23
+I2890
+sVreverse('cms.cms_edit', args=(10,))
+p24
+I12679
+sV)!%}_%!{^]_{&@%@%(+#^+}]*#)*%$%{%*#(#{}@)}([%_{^}_]#^[!_)&$*+{))_^+%!+}[@{]^+__#
+p25
+I13296
+sVdef pepe(a, b=True, *args, **kw)
+p26
+I3175
+sVfield
+p27
+I698
+sVvar[0]
+p28
+I10044
+sVapi.get_list?
+p29
+I16388
+sVfrom tipocms import fields
+p30
+I8487
+sVfor f in p:
+p31
+I4941
+sVrewrite_url('bestonlinesofas.com', '/microsite/bestonlinesofas.com/the-magazine', force_rewrite=True)
+p32
+I8814
+sVe.expired
+p33
+I9610
+sVprint s
+p34
+I11639
+sVq.query.group_by = ['date__month']
+p35
+I15732
+sVstring.maketrans(''.join(l), string.letters)
+p36
+I12868
+sV[x+y for pos, val in values for x, y in val]
+p37
+I17180
+sVhtml = """\u000a<p>\u000a	&nbsp;</p>\u000a<p style="font-family: georgia, 'times new roman', times, serif; margin-top: 0px; margin-right: 25px; margin-bottom: 10px; margin-left: 25px; font-size: 13px; color: rgb(0, 0, 0); ">\u000a	Barnaby The Bear&#39;s my name, never call me Jack or James, I will sing my way to fame, Barnaby the Bear&#39;s my name. Birds taught me to sing, when they took me to their king, first I had to fly, in the sky so high so high, so high so high so high, so - if you want to sing this way, think of what you&#39;d like to say, add a tune and you will see, just how easy it can be. Treacle pudding, fish and chips, fizzy drinks and liquorice, flowers, rivers, sand and sea, snowflakes and the stars are free. La la la la la, la la la la la la la, la la la la la la la, la la la la la la la la la la la la la, so - Barnaby The Bear&#39;s my name, never call me Jack or James, I will sing my way to fame, Barnaby the Bear&#39;s my name.</p>\u000a<p style="font-family: georgia, 'times new roman', times, serif; margin-top: 0px; margin-right: 25px; margin-bottom: 10px; margin-left: 25px; font-size: 13px; color: rgb(0, 0, 0); ">\u000a	Ulysses, Ulysses - Soaring through all the galaxies. In search of Earth, flying in to the night. Ulysses, Ulysses - Fighting evil and tyranny, with all his power, and with all of his might. Ulysses - no-one else can do the things you do. Ulysses - like a bolt of thunder from the blue. Ulysses - always fighting all the evil forces bringing peace and justice to all.</p>\u000a<p style="font-family: georgia, 'times new roman', times, serif; margin-top: 0px; margin-right: 25px; margin-bottom: 10px; margin-left: 25px; font-size: 13px; color: rgb(0, 0, 0); ">\u000a	Hong Kong Phooey, number one super guy. Hong Kong Phooey, quicker than the human eye. He&#39;s got style, a groovy style, and a car that just won&#39;t stop. When the going gets tough, he&#39;s really rough, with a Hong Kong Phooey chop (Hi-Ya!). Hong Kong Phooey, number one super guy. Hong Kong Phooey, quicker than the human eye. Hong Kong Phooey, he&#39;s fan-riffic!"""
+p38
+I20844
+sVCity._meta.fields.get('x')
+p39
+I20414
+sVc._fragments
+p40
+I771
+sVd = rfc822.parsedate('Fri Feb 05 19:12:32 +0000 2010')
+p41
+I11884
+sVct = ContentType.objects.get_for_model(Poll)
+p42
+I21447
+sVv[-1]
+p43
+I8656
+sV$%&+])(^^*$(}#*[$_#%$}!!^%&($}!!(]*{!}(!_&{##[{!+]&#(((%@]!($#%$^@(%))@_)@}*})+[
+p44
+I14031
+sVfor root, dirnames, filenames in os.walk(os.getcwd()):\u000a    root_dir = root.replace(os.getcwd(), '').replace('/', '.')\u000a    mod = os.path.basename(root)\u000a    print root_dir, mod
+p45
+I14812
+sVg = GNUChess()
+p46
+I16164
+sVlist(iter(xrange(10)))
+p47
+I3582
+sVlist_detail.object_list
+p48
+I2874
+sVContext()
+p49
+I9828
+sVstring.uppercase.__doc__
+p50
+I283
+sVre
+p51
+I2210
+sVt.render(Context({'val': val }))
+p52
+I11336
+sVsys.argv(0)
+p53
+I2170
+sVo = ResultRankCriteria.objects.get_global_stats(start_date=datetime.date(2009, 1, 1))
+p54
+I7749
+sVfrom django.conf import setting
+p55
+I2437
+sVQueryDict?
+p56
+I18196
+sVr.get_result().__class__.__base__
+p57
+I12786
+sVc.process.read()
+p58
+I15968
+sVf[0].contents
+p59
+I1831
+sVLIST_ITEM_RE = re.compile('[^\u005c[]+(\u005c[\u005cd+\u005c])$')
+p60
+I10598
+sVa[:] = range(10)
+p61
+I10909
+sVselect.select([s.stdout.fileno()], [], [])
+p62
+I16023
+sVfrom pedido.models import *
+p63
+I7436
+sVs = """{% context '{"products_ids": ["4e5973507ba5843c507c1f373a0526975943dae0", "684cae36e3a2c0ec6caf1d1a26b8871322cff060", "58134ed9f31af374b6c652d236fe9af3781a6775", "15c72a212b0c5a7462366398ea37432638ece797", "97f2ce1d299d8e816a96f6d8430fda26e5707c6f", "8bebf835c102ce8c1781892bc8bce4415e45a879", "d67829c4f9bf4b93bb1fd4f440800e7e99344956", "84c786bf56347ca3390a47e6416449598f93fc7a", "7dec157557514350677af765d79def8d08e7aeaa", "None"], "contents": ["<h4>2. Plant bulbs before November</h4> \u005cnIf you want colourful blooms poking up in the spring, you need to plant bulbs in autumn &ndash; after the first hard frost but before the ground gets too cold. Aim to get your bulbs like this pretty <a href=\u005c"/product/hyacinth-hyacinthus-orientalis-woodstock/4e5973507ba5843c507c1f373a0526975943dae0/\u005c" class=\u005c"c1\u005c">Hyacinth</a> (\u005cu00a35) from Crocus, in by the end of October allowing them time to get their roots settled in before winter.", "<h4>3. Top class composter</h4> \u005cn\u005cn<p>Good old home&ndash;grown compost works magic as a light fertilizer to repair summer\u005cu2019s dry grass effect. If you don\u005c't have the space to store it out of view, house it in these characterful <a href=\u005c"/product/large-beehive-composter-purple/684cae36e3a2c0ec6caf1d1a26b8871322cff060/\u005c"class=\u005c"c1\u005c"> mock&ndash;beehive compost bins</a> (\u005cu00a3149.99) from Crocus, available in five eye&ndash;catching colours. Give your garden a healthy future.</p>", "<h4>4. Allium time!</h4> \u005cn\u005cn<p>This October, plant these super charming <a href=\u005c"/product/20-allium-azureum/58134ed9f31af374b6c652d236fe9af3781a6775/\u005c"class=\u005c"c1\u005c">allium</a> (\u005cu00a310) from Littlewoods Direct which will bloom in June. Not a fan of lawn raking? Unfortunately, it\u005cu2019s a necessary evil which helps to prevent the spread of plant disease and pests. Brighten up the tedious task with a funky <a href=\u005c"/product/yellow-wheelbarrow/5a09d6949c914748a03337adbdca4db58f44d538/\u005c"class=\u005c"c1\u005c"> yellow wheelbarrow</a> (\u005cu00a325) from The Conran Shop and rake in style! </p>", "<h4>5. A helping hand</h4> \u005cn\u005cn<p>Autumn leaves may look stunning on the trees, but as they float to the ground they quickly become brown and slushy. Don\u005c't let the debris on your lawn get you down, give yourself a helping hand with the <a href=\u005c"/p/big-hands-grass-leaf-collectors/15c72a212b0c5a7462366398ea37432638ece797/\u005c">BIG hands garden scoops</a> (\u005cu00a313) from A Place for Everything. \u005cn</p>", "<h4>6. Snowdrops and raindrops</h4> \u005cn\u005cn<p>This month, plant <a href=\u005c"/product/single-snowdrop-galanthus-nivalis/97f2ce1d299d8e816a96f6d8430fda26e5707c6f/\u005c" class=\u005c"c1\u005c">Single snowdrop galanthus</a> (\u005cu00a35) from Crocus. Toil away in luxurious comfort with a <a href=\u005c"/product/summer-toile-garden-kneeler/78c9d5752ad527ba8d81f0f6ae7cb436381cb06b/\u005c"class=\u005c"c1\u005c">kitsch toile garden kneeler</a> (\u005cu00a325) from Cath Kidson. <a href=\u005c"/broad-bean-broad-bean-supersimionia/8810717da7b18bd3d8c29318f85474f50e92a973/\u005c" class=\u005c"c1\u005c">Broad beans</a>, hardy <a href=\u005c"/lettuce-mixed-pack-lettuce-mixed-pack/8fc57687edd21a829ae2acacabaa5a29c4db9333/\u005c" class=\u005c"c1\u005c">lettuce</a> and <a href=\u005c"/?query=purple+sprouting&prefdb=product\u005c" class=\u005c"c1\u005c">purple sprouting broccoli</a> are a firm favorite for autumn planting. </p>", "<h4>7. Designer dig</h4> \u005cn\u005cn<p>Why buy new plants when you can make existing ones multiply? In her new book <i>The Thrifty Gardener</i>, Alys Fowler teaches the clever trick of plant propagation. \u005cu2018You simply dig up one plant and pull or ease it apart into several self&ndash;supporting ones. Most people choose to divide in autumn when the soil is still workable,\u005cu2019 she says. Make the job glam with this <a href=\u005c"/p/minature-coloured-gardening-set/8bebf835c102ce8c1781892bc8bce4415e45a879/\u005c"> Minature Coloured Gardening Set</a> (\u005cu00a312.95) at Dotcomgiftshop . </p>", "<h4>8. Daffodil days</h4> \u005cn\u005cn<p>Plant growth has stopped so now is the perfect time to  plant <a\u005cnhref=/http://mydeco.com/product/tazetta-daffodil-narcissus-avalanche/d67829c4f9bf4b93bb1fd4f440800e7e99344956/ \u005c" class=\u005c"c1\u005c">Tazetta daffodil narcissus avalanche</a> (\u005cu00a312)from Crocus. While your in the garden, prune those roses. It\u005c's an important yet prickly task (as those with the battle scars can testify) so protect your hands with these pretty  You\u005c'll be able to delve into tangled bushes with confidence.</p>", "<h4>9. Weed whacking in style</h4> \u005cn\u005cn<p>There\u005cu2019s no rest for the wicked. To rid your garden of pesky weeds this season, landscaper expert Dean Novosat advises giving them \u005cu2018a good watering the night before pulling\u005cu2019. Sounds absurd doesn\u005cu2019t it? But pulling weeds is much easier and more effective when the soil is moist. So, don these <a href=\u005c"/product/product/mini-dot-blue-wellington-boots/84c786bf56347ca3390a47e6416449598f93fc7a/\u005c"class=\u005c"c1\u005c">wellies </a>(\u005cu00a338) from Cath Kidson, and get watering those unwelcome invaders.</p>", "<h4>10. Stylish sprinkles</h4> \u005cn\u005cn<p>Don\u005cu2019t think that just because the summer\u005cu2019s over, you can hang up the hose. Although over&ndash;watering can be dangerous, \u005cu2018most gardeners water too little\u005cu2019 say the experts from Kelly\u005cu2019s Nursery. Ensure your plants\u005cu2019 survival with this oh&ndash;so&ndash;stylish <a href=\u005c"/p/celia-birtwell-watering-can/7dec157557514350677af765d79def8d08e7aeaa/\u005c"> Celia Birtwell Watering Can</a> (\u005cu00a334.95) from John Lewis.</p>\u005cn\u005cn\u005cn<p><strong>Want more garden tips? Learn how to make <a href=\u005c"/the-magazine/garden-and-eco/articles/make-your-patio-look-bigger\u005c"class\u005c"c1\u005c">a small patio look bigger</a>.</p>\u005cn<p>Looking for ways to ease your eco&ndash;conscience? Read our guide to <a href=\u005c"/the-magazine/garden-and-eco/articles/the-guide/making-an-urban-garden-organic\u005c"class\u005c"c1\u005c">making an urban garden organic</a>.</strong></p>", "None"]}' %}
+p64
+I10425
+sVf = open('/tmp/matias', 'w')
+p65
+I15872
+sVItem._meta.get_all_related_objects()
+p66
+I11294
+sVpageid = p.id
+p67
+I9530
+sVr.person_set.add(Person(address='pepe le pu'))
+p68
+I5844
+sVp.front_stamp_position.__class__
+p69
+I3743
+sVrandom.choice.__doc__
+p70
+I356
+sVUncategorizedProduct.objects.all()
+p71
+I2618
+sVa.valor()
+p72
+I9012
+sV[ p.guid for p in r.result.items]
+p73
+I21270
+sVt.render(Context({'IS_SECURE': True, 'the_url': "/the-magazine/"}))
+p74
+I14634
+sVa_img_re.split(v)
+p75
+I9873
+sVw = Product.objects.filter(guid__in=[u'2a8b152dbef21b9b9b9695ed02ed6a353b880507', u'409bc01a254b23639600601bd7abbf7bd98c77f5', u'000adf4ad62ede4853643a893dc6f3a7b5dcdcef', u'248329976311497ce7cd31b359a3ba55de5fb561', u'3413686bfca89348648052e9ac427312260ed21b', u'140bf11744a2a5a1fcc4fe7562eda4e77577ce3b', u'b1896bc816b9613a7a7c99f8d9bf122baef7e749', u'e38dd5cc28c393a52165a978f5a23cf717dd5a0f', u'8cbb13f1ecfccde12627793d5a5c52a37859841c']).fields(*["guid", "name"])
+p76
+I5699
+sVpt_alias.c.photo_id
+p77
+I15367
+sV)@$)}^+#[$@!+&(@*^}}@{!#[][#[&)%%^#]_$}})_@{$&*&)+^#%}{__)}#%[[%_$[[)}()()^_#$%!
+p78
+I13861
+sVt = Template('{{ f.error.folder_name }}')
+p79
+I18132
+sVget_object_or_404(Image, "1")
+p80
+I809
+sVimport fspotdb
+p81
+I15178
+s.

@@ -1,0 +1,325 @@
+(dp1
+Vmodels.get_models(t)
+p2
+I18303
+sVi.count()
+p3
+I104
+sVm  = md5.md5('xxx')
+p4
+I20886
+sV*{]_@{*[[($@]&)#_!}%)($@@)$+{)(*(#{&#{!&[&+](@*!#)}%+{(%$#]&[))@{(&*@(!&[$#*$*!(
+p5
+I13364
+sVp2.hola()
+p6
+I1358
+sVa.update(("2", "8"))
+p7
+I1984
+sVp.close()
+p8
+I9744
+sVr.regex
+p9
+I8239
+sVi.item_trans.all()[0].title_es
+p10
+I11163
+sV2 << 32
+p11
+I6839
+sVd2 = datetime.now()
+p12
+I1106
+sVt = Template(name='tpl', description='dsc')
+p13
+I8606
+sVt = Tag(name='Test tag', category_id=0)
+p14
+I15184
+sVo = ResultRankCriteria.objects.get_global_stats(start_date=datetime.date(2009, 1, 1))[0]
+p15
+I7746
+sV1<<(32-1)-1
+p16
+I7167
+sVpaginator.page(2).items
+p17
+I12804
+sVRoomCompetitionEntry._meta.get_change_permission()
+p18
+I11505
+sVhxs.select('(//ol/a[contains(@href, "#")]/text()|//p[@align="JUSTIFY"]//a[contains(@href, "#")]//text())').extract()
+p19
+I16805
+sVgc.get_referents(a)
+p20
+I4156
+sVqs.all()
+p21
+I5134
+sVreverse('admin')
+p22
+I14469
+sVSystemUser.objects.get(username="matias")
+p23
+I3507
+sVa.setdefault('name', list)
+p24
+I8783
+sVcm.move('h1')
+p25
+I15886
+sVp.fragments.heading
+p26
+I8452
+sVa.extend((1, 2, 3))
+p27
+I5676
+sVr = re.compile('(White|Black) \u005c(\u005cd+\u005c) :')
+p28
+I16300
+sVupdate cms_fragment_template set content_names = "newDescription/l
+p29
+I6698
+sVf = MyForm(data={})
+p30
+I18128
+sVcomb(5, 1)
+p31
+I5555
+sVrated_item
+p32
+I340
+sVp.window
+p33
+I18031
+sVr.split(s)
+p34
+I4493
+sVCmsPage.objects.filter(since__gt=s).values("since")
+p35
+I4978
+sVreverse('admin_media', ('img/admin/selector-search.gif',))
+p36
+I17191
+sVupdate cms_fragment_template set content_names = "optionImage/image,optionInputValue/text,optionDescription/text" where id = 51;
+p37
+I6646
+sVtemplate.loader.find_template?
+p38
+I20938
+sVm.objects
+p39
+I5792
+sVct.rateditem_set()
+p40
+I328
+sVreverse('homepage')
+p41
+I6006
+sVurlfinders = [
+p42
+I1604
+sVd.pre_save()
+p43
+I7769
+sVs.recv(a)
+p44
+I7286
+sVr = c.get('/search/?query=black+table&prefdb=blogs&sv=default')
+p45
+I19671
+sVUserComment.objects.filter(content_type=ct)[:2]
+p46
+I4268
+sV&]{#%]__@_^$@&+$$@![@_#@[!%_!*{}}^%_]&$$!&&$#^^*[&!#%!&}%&}[^$$*([&(_*{{%{#&{{){
+p47
+I13866
+sVdict([(a_username(c)[:a_username(c).find('/')+1], c) for c in purple.PurpleAccountsGetAllActive()])
+p48
+I5623
+sVfrom django.forms import widgets
+p49
+I7786
+sVfrom lib.http import add_query_param
+p50
+I14283
+sVr.
+p51
+I19555
+sVimport sock, simplejson
+p52
+I16951
+sVx.search('blue beda big')
+p53
+I19370
+sVreverse('tv')
+p54
+I18654
+sV+^})*$%&!#)!)}*[#&@!_{&)[&@*@^#_(%!*]%#!#)(^[^@[%)&!+]#${%{&#{+^^___@+[{]%&!#((#
+p55
+I13792
+sVSECRET        = '3aQl9WsBxyLbfTPBYPYraSwPmPsUHLH4frTCZ39WcM'
+p56
+I16454
+sVq = Post.objects.annotate(total=Count('id')).values('date', 'total')
+p57
+I15705
+sVs.last_activity
+p58
+I11914
+sVt = template.Template('{% if a > 1 %}not in{% else %}it\u005c's in{% endif %}')
+p59
+I11971
+sVq.children
+p60
+I11001
+sVcmp(1, -1)
+p61
+I19985
+sVb.a
+p62
+I15005
+sVsmtplib.SMTPException.message
+p63
+I14146
+sVm = Microsite.objects.get(domain="bestonlinesofas.com")
+p64
+I5411
+sVItem.objects.set_language('es')[:1][0].title_es
+p65
+I11098
+sVdraw = ImageDraw.Draw(img)
+p66
+I3727
+sVp = CmsPage.objects.get(pk=5243)
+p67
+I3782
+sVThreadedComment.can_edit(u)
+p68
+I20944
+sVfor w in tokenize(t, True):\u000a    if isinstance(w, tuple):\u000a        s, e = w[1]\u000a        print nltk.tokenize.word_tokenize(t)[s:e]
+p69
+I6512
+sVuser = User.objects.filter(username="maguirre")
+p70
+I6568
+sVr.request
+p71
+I20653
+sVinput()
+p72
+I2801
+sVu =User.objects.order_by('-pk')[0]
+p73
+I20281
+sV{
+I11318
+sVlist(g.traversal('37328'))
+p74
+I6939
+sVBase.inser
+p75
+I15222
+sV})}%((}*()##)%(({}!)[_[*}*#!}*{]!#]}^][))_{%[&{!(@&@%(]{*&*)()}+!)@}%}+!)$&!_]]*
+p76
+I13351
+sVlist(s.query(PhotoTag).outerjoin((pt_alias, (pt_alias.c.photo_id==PhotoTag.photo_id) & (pt_alias.c.tag_id!=PhotoTag.tag_id))).filter(PhotoTag.tag_id==1).filter(~pt_alias.c.tag_id.in_(6)))
+p77
+I15389
+sVos.listdir('/home/omab/tmp/a')
+p78
+I17764
+sVgrouped = groupby(options, lambda o: o.question_id)
+p79
+I19054
+sVs = """deneb - - [18/May/2010:17:19:03 -0300] "GET http://pagead2.googlesyndication.com/pagead/abglogo/abg-en-100c-000000.png HTTP/1.1" - - "http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2624014065273916&output=html&h=90&slotname=5177182354&w=728&lmt=1261725398&ea=0&flash=10.0.32&url=http%3A%2F%2Fwww.archivum.info%2Flinux.debian.bugs.dist%2F2006-11%2Fthreads.html&dt=1274213938908&shv=r20100505&correlator=1274213938915&frm=0&ga_vid=542348339.1274213939&ga_sid=1274213939&ga_hid=1397652257&ga_fc=0&u_tz=-180&u_his=1&u_java=1&u_h=800&u_w=1280&u_ah=800&u_aw=1280&u_cd=24&u_nplug=5&u_nmime=39&biw=1280&bih=695&eid=33895100&ref=http%3A%2F%2Fwww.google.com.uy%2Fsearch%3Fhl%3Den%26ei%3DrvbyS9CrHIGdlgflgOmEDQ%26sa%3DX%26oi%3Dspell%26resnum%3D0%26ct%3Dresult%26cd%3D1%26ved%3D0CA8QBSgA%26q%3Durlsnarf%2Bprettifier%26spell%3D1&fu=0&ifi=1&dtd=25" "Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.38 Safari/533.4"
+p80
+I14703
+sVa + (5, 6, 7)
+p81
+I17038
+sVp.product
+p82
+I11929
+sVf = d.getElementsByTagName('form')[0]
+p83
+I20699
+sVs = s+', como(2), andas'
+p84
+I515
+sVconnections['default']
+p85
+I18943
+sVp.widget
+p86
+I714
+sVtext = nodes[1].node
+p87
+I10209
+sVf.list_ex[0].next
+p88
+I1865
+sVfrom django.newforms import fields
+p89
+I4095
+sV(1, 2, 3) + (6, 7)
+p90
+I8782
+sVurllib.quote(",")
+p91
+I5720
+sVfrom django.contrib.models import User
+p92
+I18471
+sVt2 = 'Thu Dec  4 20:04:48 2009'
+p93
+I4029
+sVs = "ry look. Shop the UK's largest collection of corner sofas. . Portia corner sofa."
+p94
+I6223
+sVisinstance(pepe, type)
+p95
+I1490
+sVItem._default_manager.select_related('item_translation').extra({'title_es': 'title_es'})
+p96
+I10988
+sV$}*@@[})+(})}}{@{%{%*{{%*+^*%]@]{[^[_&+#(&_]!([#&_[%]![[_#)&@%&]!$_&#&^#@^*+@%))
+p97
+I13430
+sVlen("Subsection", "CategoryBrowse:candles &amp; candle
+p98
+I14601
+sVm = re.compile('qa|dev').search('site-5644.maguirre.users.mydeco.com')
+p99
+I14590
+sVauth.access_token.key
+p100
+I16451
+sVct.tokenize_html.stem(text)
+p101
+I6358
+sVopr.parse("tag xxx as yyy from zzz ttt uuu".split())
+p102
+I426
+sVu = User.objects.filter(username="maguirre")[0]
+p103
+I5960
+sVt.render(Context({'a': 1}))
+p104
+I15444
+sVa.index?
+p105
+I9125
+sVfrom pychess.Utils.TimeModel import TimeModel
+p106
+I15907
+sVr.sub("/%s" % time.time(), "/pepep.jpg")
+p107
+I2771
+sVprint pq.games['matias'].fen()
+p108
+I16320
+s.

@@ -1,0 +1,4 @@
+#!/bin/sh
+
+#electricsheep --nick cadillac --nthreads 2 --min-megabytes 0 --display-anim 0
+electricsheep --nick cadillac --min-megabytes 0 --display-anim 0 --debug 1 --nice 19

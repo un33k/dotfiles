@@ -1,0 +1,227 @@
+(dp1
+Vv.parse()
+p2
+I7223
+sVUserSocialAuth._meta.get_field?
+p3
+I19257
+sV*^^[^+}(*&&^{*{[_&[]+^[(**}$^)+**(}]^@^{$*(]%])##+[!(_}+{($[+*@}}*[$*_@){_{_%!#)
+p4
+I13146
+sVresult = BaseHighendSearch(params).get_result()
+p5
+I9056
+sVa = '/a/b/'
+p6
+I15111
+sVlist(ci)
+p7
+I3542
+sVgraph = graphs['00202']
+p8
+I6988
+sVa = range(24)
+p9
+I489
+sVw.get_previous_by_priority()
+p10
+I6321
+sVclient.profile.props.msn_object
+p11
+I9361
+sVprint sys.setdlopenflags.__doc__
+p12
+I913
+sVt.items.all()
+p13
+I70
+sVwarnings.warn()
+p14
+I17836
+sVsettings.LANGUAGE_CODE
+p15
+I14350
+sVx = '\u005c\u005cbegin{displaymath}\u005c\u005cfrac{x^i}{x}\u005c\u005cend'
+p16
+I18226
+sVAutoCategorized._meta
+p17
+I3085
+sVg.critical_path
+p18
+I6971
+sVlist(itertools.izip(range(10), range(10)))
+p19
+I14523
+sVc = Classification.objects.get(pk=1127);
+p20
+I2434
+sVurllib.urldecode({ 'facet': 'colour,32'})
+p21
+I9096
+sVs[0][0][0][0][0][0][0]
+p22
+I16991
+sVl._meta.fields
+p23
+I2979
+sVx.supplier.profile.picture
+p24
+I19826
+sVd2.second
+p25
+I4063
+sVd.add_node('hola')
+p26
+I7074
+sVupdate cms_fragment_template set content_names = "content/largetext" where id = 45;
+p27
+I6640
+sVcv.CvImage?
+p28
+I10849
+sV_&%}*++_(*![%^{$_!!&_$}{+%{!!}+!@&+}(}}[}]){!{{&_]_]&)%!!*^#__(^%([#%+&{{)*}&}$(
+p29
+I13467
+sVprint base64.b64decode("4xtmf77bahev5aj930gmsmsfgpur9hb3")
+p30
+I3652
+sVp.room_template_id = r.id
+p31
+I19983
+sVfor i in i.exifKeys(): print i[k]
+p32
+I5538
+sVr = re.compile(r'<input type="hidden" name="__VIEWSTATE" value="\u005c([^"]+\u005c)" />')
+p33
+I2249
+sVo.takes_value()
+p34
+I7060
+sVr.search(None)
+p35
+I20610
+sVfrom porter import *
+p36
+I5942
+sVinspect.getargspec?
+p37
+I17173
+sVurllib2.unquote("%C2%A310")
+p38
+I11679
+sVfrom obnob.apps.topic_board.models import Thread
+p39
+I20393
+sVl.append(l.pop(0))
+p40
+I12864
+sVfrom django.contrib.admin.filterspecs  import *
+p41
+I9411
+sVcsv.list_dialects
+p42
+I15097
+sVa.indices)=
+p43
+I649
+sVfrom wizard.utils import top_ten_articles
+p44
+I18642
+sVNotice.objects.filter(parent__isnull=False)
+p45
+I20973
+sVpages = simplejson.loads(data)
+p46
+I1070
+sVurlparse._splitparams(url)
+p47
+I5590
+sVroom.get_absolute_url()
+p48
+I9282
+sVhex(ord('h'))
+p49
+I5197
+sVgtk.List()
+p50
+I7983
+sVisinstance(t, datetime.date)
+p51
+I18391
+sVf = open(path)
+p52
+I16580
+sVs.category
+p53
+I3867
+sVround?
+p54
+I10730
+sVimg3 = Image.new('L', (214, 214*2))
+p55
+I12472
+sV]!__!^%}}+%)+$]_*#&++]##*&!$]}+^_*!]%])(++})!#&$()##!%^&}][)[_{&]]]@%(}][(]%&*%]
+p56
+I13137
+sVmd5.md5('xxx')
+p57
+I20885
+sVqs.comments_count
+p58
+I17443
+sV[ i[0][0]['text'] for i in a['menu_data'] ]
+p59
+I5162
+sVsax.xmlreader.__doc__
+p60
+I2025
+sVform django.template.defaultfilter import slugify
+p61
+I8494
+sVd.title_es
+p62
+I11147
+sVb.decrypt(b.encrypt("hdasj"))
+p63
+I967
+sVARTICLE_TRACKER_URL = re.compile('/aff/\u005c?.*?website=([^&\u005c'"]+)')
+p64
+I14877
+sV[ (s['description'], s['offer_id'], s['expires']) for s in sp.special_offers ]
+p65
+I8774
+sV' '.join(html.split())
+p66
+I9764
+sVfrom django.template.templatetags.defaultfilters import slugify
+p67
+I4242
+sV+_%(()!!$&(+{{@*(!*!&^#^!(}+{[@^}*%)]#%(!^!]@]!{!{_%!!)#@!_*_#$$})}%&[)[!&*{@]_!
+p68
+I13196
+sVa.__init__
+p69
+I3207
+sVtest(10, True, [10, 20])
+p70
+I18143
+sVall((True for i in range(10)))
+p71
+I9840
+sVd.adjusted()
+p72
+I10727
+sVc.total_diff[0] / c.totals * 100
+p73
+I2152
+sVvotes[0].split('|')[-1].strip()[:-1]
+p74
+I16785
+sVi = Image()
+p75
+I8574
+sVt.photos?
+p76
+I14732
+s.

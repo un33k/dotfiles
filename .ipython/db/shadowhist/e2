@@ -1,0 +1,208 @@
+(dp1
+Vord('h') % len(letters) % 10
+p2
+I5192
+sVd.section1
+p3
+I5058
+sVa[actual:-2]
+p4
+I3027
+sVdates
+p5
+I19001
+sVw.logo.name.__class__
+p6
+I5107
+sVsearch
+p7
+I160
+sVexcept ValueError, e:
+p8
+I2509
+sVu.friendships_requested.select_related('friend_a').values_list('friend_a')
+p9
+I20078
+sVDATE_RE.findall(s)[0][1].strip()
+p10
+I16765
+sVr.match("/3283913.32.jpg").group()
+p11
+I2767
+sVimport xcb
+p12
+I17920
+sVdiscoverer.connect('all_engines_discovered', start)
+p13
+I15911
+sVf = p.cmsfragment_set.all()
+p14
+I1513
+sVa.update(((3, 2)))
+p15
+I11252
+sVfrom highend.utils import send_action_verification
+p16
+I14287
+sVo[0].date
+p17
+I7750
+sVs.query(PhotoTag).outerjoin((pt_alias, pt_alias.c.photo_id==PhotoTag.photo_id & pt_alias.c.tag_id!=PhotoTag.tag_id))
+p18
+I15375
+sVquery=sofa
+p19
+I2825
+sVr = RoomCompetition.objects.order_by('-id')[0]
+p20
+I20016
+sVx.aggregate?
+p21
+I20150
+sVr.user.avatar.url
+p22
+I11487
+sVwindow.show_all.__doc__
+p23
+I7325
+sVfrom django.db improt models
+p24
+I17213
+sVimport xmlrpclib
+p25
+I17906
+sVmyscreen = curses.initscr()
+p26
+I5701
+sVh = PageHelper(CmsPage.objects.get(pk=546))
+p27
+I1754
+sVx = re.compile('beds?')
+p28
+I19369
+sV+%@)($@)@^^^]+@_)})#)!^_#!@{*^!@*%^(_^@!!$%!&_+}((%(#&$$#}@#]^$+]$@&)^%}+)!$)&&^
+p29
+I13299
+sVb.alter_content("/search", "cms=true", contents)
+p30
+I1534
+sV[ f for f in dir(b) if 'signal' in f or 'click' in f }
+p31
+I8013
+sVget_categories_products(categories, 1)
+p32
+I10555
+sVn.save()
+p33
+I8610
+sVfrom django.auth.models import *
+p34
+I4467
+sVq = s.query(Tag)
+p35
+I15183
+sVset([1, 2, 3]) - set([1, 2, 3, 4, 5, 6])
+p36
+I19263
+sVa = 'people/maie/img1.jpg'
+p37
+I12560
+sVcgi.parse_qs('facet=finish%2Ccovered&facet=image_colour%2C76')
+p38
+I9098
+sVclass ExpiredSpecialOffer(SpecialOffer):\u000a    class Meta:\u000a        db_table = SpecialOffer._meta.db_table
+p39
+I10592
+sVDatedItem.objects.all().set_language('es')[0]
+p40
+I11144
+sVFSet = formsets.formset_factory(lambda **defaults: PluginForm(plugin, 'items', **defaults), extra=1)
+p41
+I14426
+sVr.validate_unique()
+p42
+I16858
+sVc
+I458
+sV%(@#)])+^_*+*#%+_+}^{{*[+%*]$)]&^*}+#}^!(^(^)^_*[&@[}_*+$!{(@+}]{_}[^$[+_][{*]]+
+p43
+I13674
+sVprint urllib.urlencode.__doc__
+p44
+I3972
+sVs.stampimage_id
+p45
+I3300
+sVconsumer = oauth.Consumer(key=KEY, secret=SECRET)
+p46
+I16426
+sVitem.select('./img[contains(@src, "/img/default/images/stars")]')
+p47
+I16642
+sVModel1.objects.exclude(m3__name=1)
+p48
+I18920
+sVs.result.search_params.paginate_by
+p49
+I14361
+sVsorted(a.iteritems(), key=lambda (k, v): v)
+p50
+I14168
+sVb.values[5].page
+p51
+I17515
+sVs=Sponsor.objects.all()[0]
+p52
+I377
+sVsimplejson.dumps(s, cls=SyncPageJSONEncoder)
+p53
+I1100
+sVe = Entry(group='/the-magazine/', name='sub-title', value='Magazine section')
+p54
+I9556
+sVprint urllib2.unquote(str("%C2%A3"))
+p55
+I2237
+sV@+]_*^&+}^@%*+))}@!@#@{%$_&$%(@([!)))@(+]&$*^}$_+()*[(^(((+[@@#%)&$]{}{]*(@(@+^_
+p56
+I13600
+sVb.values
+p57
+I17508
+sV__import__(os)
+p58
+I11165
+sVlist(permutations(a), 4)
+p59
+I15532
+sVi.tagDetails("Xmp.dc.subject")
+p60
+I5583
+sVr = RefineOption('name', 'value', 'url', 0)
+p61
+I8878
+sVset(range(10)) + set(range(10))
+p62
+I11235
+sVc = CForm2()
+p63
+I14400
+sVb.b.thumb_shopbystyle_small_url
+p64
+I9443
+sVPage.objects.filter(state=LIVE).values_list('meta_title', flat=True)
+p65
+I18604
+sVf = CreateCompetition(instance=r)
+p66
+I20017
+sVos.getenv?
+p67
+I10951
+sVtime_format(datetime.datetime.fromtimestamp(long(134964)), "G:i")
+p68
+I3238
+sVo.cars?
+p69
+I18716
+s.

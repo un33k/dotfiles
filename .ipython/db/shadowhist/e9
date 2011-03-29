@@ -1,0 +1,245 @@
+(dp1
+Vbf.base_fields
+p2
+I4355
+sVValue.objects.all()[0].id
+p3
+I4868
+sVmod = import_module(module + '.' + name, module)
+p4
+I19493
+sVItem._default_manager.select_related('item_translation')
+p5
+I10985
+sVtokenize("I like the blacks sofas beds, but the blue sofas beds would be nice with the black out blinds", True, True)
+p6
+I6498
+sVitems
+p7
+I7600
+sV))((])]*%%%$+(%}$+%#[#^%]^@)@^_^)#%#([*%*@+(+)&+++(^%]*!$_$$$%$+&]_+[@_}%&@@%){)
+p8
+I13610
+sVadm =admin.site._registry[Item]
+p9
+I17854
+sVfirst([1, 2, 3])
+p10
+I18449
+sVt = datetime.tzinfo('GMT-0400')
+p11
+I17736
+sVi.url.name
+p12
+I4449
+sVv.keys()
+p13
+I9186
+sVf.value_from_object(f)
+p14
+I2351
+sV&(@%[{^&%^({(@$*(**$}+)%}&)!+$[((&)@]@@+{{]])]]^$#(@%)!(&&]+#+[&[&}$__$$@$+]@{*#
+p15
+I14015
+sVWebsite.from_websites
+p16
+I10091
+sVfl = fcntl.fcntl(fd, fcntl.F_GETFL)
+p17
+I15823
+sVw.logo.url
+p18
+I4432
+sVt = loader.get_template('cms/fragment/microsites_top_panel2.html')
+p19
+I9990
+sV[ (x, y) for x in range(10) for y in range(10, 20) ]
+p20
+I12498
+sVr.headers.keys()
+p21
+I7884
+sVprint '\u005cxaee'
+p22
+I9981
+sVrot13_trans = string.maketrans('ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz', 'NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm')
+p23
+I9912
+sVsettings.SOCIAL_AUTH_DEFAULT_USERNAME
+p24
+I18533
+sVreverse('cab_snippet_details', kwargs={'snippet_id':1})
+p25
+I16869
+sVa[:64 - len("Subsection")]
+p26
+I14607
+sVr.get_result().get_items()
+p27
+I3989
+sVquery = None
+p28
+I7821
+sVd1-d2
+p29
+I1107
+sV+@##$*({+#_]!_{(]{!}%$&_})#($(_]*%+]_^%)$_)%^^!+{]}}{@%$@$+!]_!([[$(%)!$&}[%]]@}
+p30
+I13312
+sV#]#()_)#^}&%#(^$&(}^#]!$]^+*$*]*%])&@}$!{^_&+$]&{}{*^$_(]]%##%)!#^(@&)](](]}]_@#
+p31
+I13533
+sVd.day
+p32
+I11820
+sVimport curses
+p33
+I5700
+sVget_url
+p34
+I7900
+sVvalues.append((Permission._meta.get_field('content_type'), ct))
+p35
+I7926
+sVint('a')
+p36
+I4317
+sVparams.filter(filter="category,%s" % c)
+p37
+I5264
+sVs = service.ContactsService()
+p38
+I19745
+sVany(filter(None, a))
+p39
+I20544
+sV</script>
+p40
+I9679
+sVbase64.encodestring(f)
+p41
+I17253
+sV$&_*))[*[{%_##^#(*[$$&!$^#^*++$**}){[*+%))!!+%(#}@)[$$$&$+{+%&+&[{]^{!_)%(*)}#[(
+p42
+I13529
+sVtt.split_contents()
+p43
+I10038
+sV[%[!*@$${[&^[&@%&]%#+_}%##%${$)]}@&&)_)*#%#${_+}+{*^{{{$&$^[@%[[]$@]%}#$)_[^!__]
+p44
+I13012
+sV__import__('hp_splash', fromlist=['.plugins'])
+p45
+I12834
+sVv.recalcular()
+p46
+I10738
+sVa.extend([1, 2])
+p47
+I21193
+sVrandom.shuffle(string.letters)
+p48
+I15671
+sVlen(dumps(dict([(str(i) * 20, 'a'*(i/2)) for i in range(10000)])))
+p49
+I9797
+sV'product' in r.content
+p50
+I19656
+sVsys.call_tracing(1)
+p51
+I2047
+sVa = "ncbcioune"
+p52
+I15529
+sVr = TranslateableModel.objects.all()[0]
+p53
+I5769
+sVGroup.obnob_users.related.field.rel.ti
+p54
+I20892
+sVct = ClassificationTokenizer({ 'article': 'html' }, phrases=['sofa pepe'])
+p55
+I6391
+sVmmap.mmap?
+p56
+I15439
+sVr.comments[0]
+p57
+I20809
+sVf.list_ex[0].next_ob
+p58
+I1866
+sVSITE-2013
+p59
+I3913
+sVa.update((1, 2))
+p60
+I11250
+sVmath.radians(-40)
+p61
+I12299
+sVq = s.query(PhotoTag).filter_by(tag_id=t.id).filter(~PhotoTag.tag_id.in_([x.id for x in t.subtags]))
+p62
+I14768
+sVsi = SendInfoForm()
+p63
+I3423
+sVobjects_ids = [ x[1].object_id for x in pages.values() ]
+p64
+I1960
+sVlen(a2.split())
+p65
+I9091
+sV'c' or 'a' or 'b'
+p66
+I8168
+sVimport pychecker
+p67
+I14806
+sVr =  re.compile("var product_price\u005cs*=\u005cs*\u005c"(.*?(?!Ranging))\u005c";")
+p68
+I18695
+sVresult.items
+p69
+I9057
+sVloader.get_template('cms/fragment/microsites_top_panel.html')
+p70
+I9986
+sVet = ElementTree.fromstring(lines)
+p71
+I17290
+sVsr
+p72
+I11562
+sVc.parent.parent.parent
+p73
+I1319
+sV!*_@&+!]^(*#^[%&^%^+%}{[$^@]!$^{}{(()#!%@]{]}(!)[#(*$)$()@*{@_!$*#)$*+)])^{!}{#^
+p74
+I13401
+sVlist(CmsPage.objects.most_viewed("/the-magazine/%'", ''))
+p75
+I12200
+sVdict(a=1, b=2, c=3)
+p76
+I4366
+sVr._headers
+p77
+I20654
+sVc.image.__class__
+p78
+I17417
+sVsettings.GOOGLE_WEB_OPTIMIZER_EXPERIMENTS
+p79
+I14961
+sVmodels.make_model
+p80
+I8580
+sVint(True) is 1
+p81
+I4314
+sVprint "Anna's Linens"
+p82
+I15642
+s.

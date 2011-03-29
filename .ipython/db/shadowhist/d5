@@ -1,0 +1,260 @@
+(dp1
+Vgen_word(10)
+p2
+I15654
+sVparams = HighendSearchParams({ 'prefdb':'product_designbar',
+p3
+I9055
+sVUser.obnob_groups.active()
+p4
+I20242
+sVos.path.walk("/tmp")
+p5
+I4738
+sVgrouped.items
+p6
+I671
+sVurllib.urlencode("a=1&b=2")
+p7
+I2573
+sVMYMOVE_RE.match(x)
+p8
+I16103
+sVv = Variable('cms.value.text')
+p9
+I10364
+sVfcntl.fcntl(fd, fcntl.F_SETFL, fl | os.O_NONBLOCK)
+p10
+I15824
+sVCmsPage.objects.filter(live_date__lt,=datetime.now(), state='work_in_progress')
+p11
+I18349
+sVd = {}
+p12
+I4798
+sVa = slice(1, 2, 3)
+p13
+I654
+sVexcept IndexError:
+p14
+I20214
+sVforms.formsets.formset_factory?
+p15
+I14413
+sVlo.reload
+p16
+I10028
+sVu = urlparse.urldefrag("a.php?a=b&b=c&1")
+p17
+I2582
+sVm = EmailMessage('subject', 'hola mundo', to=['matiasaguirre@gmail.com'])
+p18
+I5466
+sVlo.loadname
+p19
+I10027
+sVaction, data = form_data(auth_content, 'login_form')
+p20
+I20759
+sVitems = [ i for i in x.items() for x in input ]
+p21
+I7601
+sVfrom urllib2 import urljoin
+p22
+I20207
+sVs.match
+p23
+I6201
+sVtar = tarfile.open('/tmp/tmp-wLt09.tar.gz', 'r:gz')
+p24
+I12382
+sVx.pop()
+p25
+I19126
+sVpages = {}
+p26
+I1958
+sVc = HtmlCleaner()
+p27
+I20831
+sVReverse("wears.buy-process", args=["10"])
+p28
+I3402
+sVnltk.tokenize.WordPunctTokenizer().tokenize(text.lowe())
+p29
+I6431
+sVsorted(x)
+p30
+I15555
+sV%_@)$[&){&#&$!&}{@&&*[&!!!({)&{)+]^*&)]+[+^%^[_&+^$!$!+!+_(}+^}+&#*_&*(+_+[[)$!}
+p31
+I12937
+sVforms.CharField.widget
+p32
+I8171
+sV@+}{{$#%^(#@&(!!_]*$[#(&)^&$$%#{{#_*^{}@&{*@$!_(+*@]@$(+}+@%}*+]()_&_(]%)@]{(_#_
+p33
+I12983
+sVd['main']['designer']
+p34
+I12747
+sVstatgrab.sg_get_mem_stats()
+p35
+I2103
+sVq[0].text
+p36
+I20439
+sVa4
+p37
+I15775
+sVq.connector
+p38
+I11064
+sVuser
+p39
+I6570
+sVpixbuf = Pixbuf(COLORSPACE_RGB, False, 8, 1, 1)
+p40
+I7966
+sVrandom.randint?
+p41
+I12133
+sVfrom tipocms.forms import update cms_fragment_template set content_names = "link1_href/text,link1_image_off/image,link1_image_on/image,link1_target/text(_blank|_self),link2_href/text,link2_image_off/image,link2_image_on/image,link2_target/text(_blank|_self),link3_href/text,link3_image_off/image,link3_image_on/image,link3_target/text(_blank|_self)" where id = 1;
+p42
+I6599
+sVdatetime.datetime.strptime('10', '%m').strftime('%B')
+p43
+I17950
+sVlist(reversed(a)).__index__(5)
+p44
+I9904
+sVp = l[0]
+p45
+I2815
+sVclient.profile.display_name
+p46
+I9332
+sVwe.show()
+p47
+I18011
+sVos.path.exists("/a/b/c")
+p48
+I2712
+sVet[1]
+p49
+I17299
+sVprint ff.label
+p50
+I9121
+sVl = getGroupByQuerySet(ResultRankCriteria.objects.filter(QJoins(ranked_count=('result_rank', 'left join', 'ranked_count.query_id = rr_criteria.query_id'))), ['rr_criteria.id'])
+p51
+I7722
+sVi.set_language()
+p52
+I11283
+sV_+&]]!@^}#^&+@[&[%{{[)_]%[_^%**@}))]^*_}@@[}@{)&}#[{$!)}]%]]$_!!%!$@#@^()#]+%(&&
+p53
+I13298
+sVji
+p54
+I15496
+sVp.tpl['talent']['title']['text']
+p55
+I17792
+sVfrom django.utils.simplejson import simplejson
+p56
+I19723
+sVo.query_id
+p57
+I7740
+sVeval('print "matias"')
+p58
+I21226
+sVt = string.maketrans('koe', 'mqg')
+p59
+I20238
+sVx.timetuple()
+p60
+I18398
+sVg = groupby([a, b, c], lambda x: x['type'])
+p61
+I19335
+sVb = Blowfish.new("jdksaj")
+p62
+I953
+sVtype('ExpiredSpecialOffers', object, {})
+p63
+I7139
+sVs.date
+p64
+I1090
+sVdo_unsubscribe('pmatiasaguirre@gmail.com')
+p65
+I7911
+sVchr(22 + ord('a') -1)
+p66
+I5206
+sVItem.objects.select_related('item_translation').filter(QLeftOuterJoins(Q(_language='es')))
+p67
+I10997
+sVtext = nodes[2].node
+p68
+I10210
+sVg.del_edge("c", "c")
+p69
+I6894
+sVT = build_tokenizer(['sofa beds'])
+p70
+I6412
+sVstring.capitalize('aaaa bbbb cccc')
+p71
+I285
+sVc.display()
+p72
+I15966
+sVd.split(' ', 3)
+p73
+I16669
+sVd['main']['designer'].id
+p74
+I12748
+sVa.get('aaa', 20)
+p75
+I16522
+sVtest(10, recursive=True, args=[10, 20])
+p76
+I18152
+sVupdate cms_fragment_template set content_names = "bgImage/image,formTitle/text,formText/large
+p77
+I6684
+sVf.is_missing
+p78
+I4177
+sVv.add_entry('10')
+p79
+I19154
+sVimport memcache
+p80
+I7557
+sVimport subprocess, select
+p81
+I15847
+sVCategory._meta.get_field.__doc__
+p82
+I3126
+sVr.match('bbcc')
+p83
+I18272
+sVd.tzinfo = t
+p84
+I17727
+sVr = opr.start_parse("tag xxx as yyy from mmm ppp tttt 999 rrr ooo".split())
+p85
+I449
+sVfrom tipocms.admin.views import get_page
+p86
+I3240
+sVitems = list(UncategorizedProduct.objects.all()[0:3])
+p87
+I2626
+s.

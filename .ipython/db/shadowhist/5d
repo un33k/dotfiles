@@ -1,0 +1,275 @@
+(dp1
+Vimport htmllib
+p2
+I4646
+sVu.has_perms([])
+p3
+I5963
+sVtype(B()) == A, isinstance(B(), A)
+p4
+I19722
+sVw.base_fields["special_offer"].widget.error
+p5
+I4133
+sVif Decimal("0"):
+p6
+I2095
+sVn2.show()
+p7
+I7265
+sVa = A(1)
+p8
+I11245
+sVimport base64
+p9
+I1126
+sVWebsite._meta.get_field('manufacturers').throught
+p10
+I10082
+sVpq.move('matias', '')
+p11
+I16268
+sVd.clear()
+p12
+I17126
+sVthumbnail("/media/data/cms/image/2008/12/04/Box_01_Cargo____.jpg")
+p13
+I3804
+sV}^]^]*}]+&(@@!!](*@#(++*)]!(^$})&_^@+]{#_@*%^[$[%&_%@%_![&&]&_@*#_}[{{])^$[_$_&_
+p14
+I12893
+sVclass Pepe(object):\u000a    @staticmethod\u000a    def xxx():\u000a        print "aca"
+p15
+I20198
+sVqs.values_list('name', 'value')
+p16
+I17199
+sVBROKEN_SECTIONS
+p17
+I15481
+sVclas A:
+p18
+I2060
+sVp = CmsFragmentMapping.objects.all().get_with_shared()[0]
+p19
+I737
+sVthreading?
+p20
+I15065
+sVtest(10, r=True, *[10, 20])
+p21
+I18144
+sVh = c.hierarchy()
+p22
+I10490
+sVlist(CmsPage.objects.most_viewed('/the-magazine/"; select * from cms_page; --'))
+p23
+I12190
+sVC(aref=a2, bref=b).save()
+p24
+I19418
+sVf.node.real_nodelist?
+p25
+I10262
+sVr =  re.compile("var product_price\u005cs*=\u005cs*\u005c"(.*?(?!Ranging).*?)\u005c";")
+p26
+I18698
+sV[!!){[{]]@^_)*!!%@(}}^^}!@$^_${#*_@]]}@}&[*&@%[#*$]_(*%++&$+))}_}+{_!^@&)${%*}{)
+p27
+I13075
+sVresponse = c.get(reverse('begin', args=('facebook',)))
+p28
+I21076
+sVCAPLETTERS.sub?
+p29
+I17152
+sVr.app_label
+p30
+I19554
+sVItem._meta.fields
+p31
+I11061
+sVresolve('highend_designer')
+p32
+I10770
+sVb = range(4)
+p33
+I12440
+sVp.put(1)
+p34
+I16188
+sVfor line in fd.readlines():\u000a    match = r.match(line)\u000a    if match:\u000a        print match.groups()
+p35
+I1632
+sVh.drawers_slider_1.list
+p36
+I1267
+sVresolve('ckeditor_config')
+p37
+I12595
+sVprint "\u005crhola,\u005ctcomo,\u005cr\u005cn\u005cnandas"
+p38
+I524
+sVCmsPage.objects.filter(http_path='/new/', state="live").order_by('-locale')[0].locale
+p39
+I12661
+sV+^!{%_$&@^!}$_${)$_#)!({@!)(^}!*^&!$%_&&}&_#&@{)]{+)%*{&*%*&@%$+]!*__(#!*){%&@++
+p40
+I12877
+sVx.parent.states
+p41
+I19856
+sVs.sponsorimage_set.all()
+p42
+I379
+sVp.thumbnail
+p43
+I11560
+sVpage_value
+p44
+I2242
+sVclient = Client()
+p45
+I20747
+sVt = Template('{% media_url t_url|thumbnail:"40x40" %}')
+p46
+I11300
+sVsorted(a.iteritems(), lambda a, b: cmp(a[1], b[1]))
+p47
+I2427
+sVrandom.choice([ 1, 2, 3, 4, 5, 6 ])
+p48
+I5108
+sVParent.objects.all().first()
+p49
+I18818
+sVs.request.GET
+p50
+I10640
+sVauth_token = auth_token.split('&')[1].split('=')[1]
+p51
+I19746
+sVparse_qs(None)
+p52
+I5906
+sVv.filter_expression.filters[0][0]
+p53
+I10112
+sVp.hola()
+p54
+I1355
+sV1 << 32
+p55
+I7092
+sVx = re.compile('\u005cw+')
+p56
+I14852
+sVu = urllib.urlopen('http://google.com')
+p57
+I17908
+sVos.path.join(os.path.dirname(admin.__file__), 'media')
+p58
+I7468
+sVc.object_id
+p59
+I572
+sVdatetime.datetime.fromtimestamp(134964)
+p60
+I3235
+sVx.reverse
+p61
+I20145
+sVfrom django.contrib.auth.decorators import login_required
+p62
+I2691
+sVrandom.randint(0, 1)
+p63
+I374
+sVretrieve_feed()
+p64
+I4518
+sV^#}@}[*@})&$)@#+*!}^^()[^#^])+$$*%^*@^^!^$^#_!@^^(_&&][)@(%([[]&]]{[^}!@^[+${*%#
+p65
+I12944
+sVfunctools.wraps?
+p66
+I9546
+sVdiscoverer.__dict__
+p67
+I15914
+sVbus = dbus.SystemBus()
+p68
+I2173
+sVpepe.__repr__ = r
+p69
+I3685
+sVupdate cms_fragment_template set content_names = "itemUrl/text,itemImage/image,extraClass/text(main-image|next-image)" where id = 39;
+p70
+I6634
+sVfrom sets import Set as set
+p71
+I8505
+sVnltk.tokenize.WordPunctTokenizer().batch_tokenize
+p72
+I6473
+sVdef new_trans(slf, olds, news):\u000a    if len(olds) < len(news):\u000a        news = news[:len(olds)]\u000a    elif len(olds) > len(news):\u000a        olds = olds[:len(news)]\u000a    for idx, char in enumerate(olds):\u000a        slf = slf.replace(char, news[idx])\u000a    return slf
+p73
+I2011
+sVtokenize("I like the blacks sofas beds, but the blue sofas beds would be nice with the black out blinds")
+p74
+I6465
+sVph.sections_data().items()
+p75
+I4785
+sVpepe(a)
+p76
+I1753
+sVint(None)
+p77
+I20606
+sVs = json2.replace('\u005c\u005c\u005c', '\u005c\u005c')[15230 - 20: 15230 + 20]
+p78
+I11634
+sVfrom django.db.model.query import Q
+p79
+I20411
+sVxml.characters
+p80
+I17264
+sVtxt    = lambda o: o.text.strip()
+p81
+I1966
+sVf.attname
+p82
+I2340
+sVopen('/home/omab/landing.sql', 'w')
+p83
+I12140
+sVp = r.result.items[0]
+p84
+I7489
+sVm = User.objects.get(username="dgrana")
+p85
+I12792
+sVmyscreen.addstr(12, 25, "Python curses in action!")
+p86
+I5703
+sVct = ClassificationTokenizer({ 'article': 'html' }, phrases=['cushion'])
+p87
+I6387
+sVre.match(r"xxx", a)
+p88
+I18238
+sVf.storage.url(f.name)
+p89
+I14231
+sVb.props
+p90
+I8108
+sVArticle._meta.fields
+p91
+I11952
+sVprint "".join(random.choice(string.letters) for i in xrange(8))
+p92
+I10310
+s.

@@ -1,0 +1,245 @@
+(dp1
+Vvar matchArray=emailAddressValue.match(basicAddress);
+p2
+I9639
+sVf = list(Facet.objects.all())[0]
+p3
+I2386
+sVmigrate_cms.pages()
+p4
+I17474
+sVget_categories_products(['classic-beds',], count=1)['classic-beds']
+p5
+I9489
+sVProduct.objects.all()[0]
+p6
+I3739
+sVu.set_password('andres')
+p7
+I7144
+sVmath.radians(320)
+p8
+I12302
+sVt = datetime.now()
+p9
+I21460
+sVc.childre
+p10
+I4584
+sVc.category
+p11
+I5506
+sV$){^@]#^{(!&][%]+[^**^$&*@&[)%%#$)%[^_[@^*+)@)}#&&#(_^+(%{)}}!@^+$&&$]{(^*(@]@%&
+p12
+I13727
+sV^[_@{[%*@+$[*!$)$$&#(_[^+!)(^%_[{&}$]^}{&[!$[^{*[^)#@)(_(]#[&)]%[+@)]_+$_{}[@{)+
+p13
+I13297
+sVos.path.normpath('/maie')
+p14
+I12564
+sVdata = simplejson.load(urllib2.urlopen('http://mydeco.blip.tv/posts/?skin=json'))
+p15
+I11590
+sVurllib.quote(URLLIb.quote("http://www.argos.co.uk/static/Browse/ID69/10198115/c_1/1|category_root|Toys+and+games|10198115.htm?tag=PS6_1a"))
+p16
+I3355
+sVFForm._meta
+p17
+I3705
+sVfrom django.db.models.query import QuerySet
+p18
+I5865
+sV^}%${(@^]#%*^#+}^]&#$&{}[[_!)[$[&)}#[$&%])_^)[)!_}{@^^###_#(#!*##[*_+@(!$%@%$)#_
+p19
+I13854
+sV^_&*]*+#@{@[_({$*&}][(*!+$+#%&![%^)^#(#}+*+(@)&&!({^^_*($^+)&{)%$@%)&!$$&&^+#[)$
+p20
+I12900
+sVqs = g.obnob_users.active()
+p21
+I20165
+sVdumper.dump()
+p22
+I12338
+sV[ n for n in nodes if hasattr(n.node, 'nodelist') ][0].node.nodelist[0]
+p23
+I10224
+sVsettings.MEDIA_URL
+p24
+I4103
+sVs = Switch.objects.filter(slug='shopping-special-offers')[0]
+p25
+I12235
+sVsys.__class__.__module__
+p26
+I10895
+sVf.list_ex[0].has_previous
+p27
+I1872
+sVarr(8, 2) * arr(8, 3j)
+p28
+I5639
+sV[(p.getAttribute('name'), p.getAttribute('value')) for p in f.getElementsByTagName('input')]
+p29
+I20706
+sVx.parent.parent.type_name
+p30
+I19870
+sVr = c.get('/search/?sv=default')
+p31
+I19652
+sV%timeit armar3(data2)
+p32
+I15627
+sVparser.print_help.__doc__
+p33
+I7066
+sVg.order('37328')
+p34
+I6931
+sVf = CmsFragment.objects.filter(pk=10920)
+p35
+I837
+sVct.tokenize_text.wordmap['sofa'][0][0].__class__
+p36
+I6370
+sVScoredItem.objects.create(ctype="system user", object_id="3929", user_id="813", uuid="vQRo3cCoZM4AAAczEhkAAAAA", score="1", rate_type="rating")
+p37
+I7374
+sVfrom buythelook.models  import *
+p38
+I9439
+sVp = paginator.page('2')
+p39
+I12807
+sVurllib2.quote("http://www.argos.co.uk/static/Browse/ID69/10198115/c_1/1|category_root|Toys\u005c+and\u005c+games|10198115.htm?tag=PS6_1a")
+p40
+I3352
+sVfrom django.template.loader import get_template
+p41
+I21279
+sVIncorrectPriceReport.objects.all()[0].product_id
+p42
+I20872
+sVp.data['b'] = 1
+p43
+I18872
+sV$&@{$*]%[!@*&%+%&&)#_+!_&^^%+${!+++)+$#@[$)+%%!{#(&{]&){!&@$*#%&}[+^{!#+$}++$#(}
+p44
+I13030
+sVa = p
+p45
+I7194
+sVa + ()
+p46
+I19498
+sVPermission.objects.filter(content_type=ContentType.objects.get_for_model(User))
+p47
+I7107
+sVp = Page.objects.get(pk=14157)
+p48
+I12685
+sVcvStartWindowThread()
+p49
+I10858
+sVclass Pepe(property):\u000a    pass
+p50
+I4465
+sVp p . p p p p p
+p51
+I15931
+sVf.contribute_to_class(v)
+p52
+I8570
+sVfrom microsite.templatetags.microsite_tags import *
+p53
+I6276
+sVOUT_LINES
+p54
+I15988
+sVuser.has_perms.__doc__
+p55
+I6577
+sVs = 'a;b;c'
+p56
+I15103
+sVa = Exception()
+p57
+I8874
+sVf.title
+p58
+I20018
+sVa.__file__
+p59
+I19463
+sVev = EmailVisionCompetition.objects.all()[0]
+p60
+I8182
+sVlist(UncategorizedProduct.objects.all(searchquey="q=sofa")[:10])
+p61
+I2812
+sVg.obnob_users.all()
+p62
+I20122
+sVxml.startElement('sub-page', {'x': '2', 'y': '2'})
+p63
+I17272
+sVlist(set(UserSocialAuth._meta.get_all_field_names())) + [1, 2, 3]
+p64
+I19261
+sVi.getdata()
+p65
+I8296
+sV[ s.slug for s in SiteCategory.objects.all()]
+p66
+I10541
+sVobjects_ids = [ m.object_id for m in mappings ]
+p67
+I1955
+sVs.split()
+p68
+I1623
+sVr.match("hole mundo pepe")
+p69
+I6188
+sVtpl = Template('{% var c_txt %}{{ t }}{% endvar %}')
+p70
+I11340
+sVPost.objects.annotate(num_posts=Count('id'))
+p71
+I15690
+sVr = re.compile(r'\u005cbmundo\u005cb', re.I)
+p72
+I6148
+sVa = c.result[0]
+p73
+I3961
+sV+_^[^[#&)^[@$*+@@[!}&){}{^+@[)^&*$]]%^_!^$+%&)_}}([{$$_][(*]$&]]{^)&(^#[]%*%&}}#
+p74
+I13039
+sVp.findall(p)
+p75
+I15027
+sVdiscover.__name__
+p76
+I15921
+sVo = urllib2.build_opener(urllib2.HTTPCookieProcessor(jar))
+p77
+I21096
+sVresult = []
+p78
+I15535
+sVs.this.width
+p79
+I12540
+sVa.split(',')[0]
+p80
+I17901
+sVp = CmsPage.objects.get(state='live', http_path='/new/')
+p81
+I12336
+sVp.tpl['talent']
+p82
+I17790
+s.

@@ -1,0 +1,253 @@
+(dp1
+Vw.logo.storage.url
+p2
+I5102
+sVp = CmsPage.objects_aux.page_status(pk=974)
+p3
+I594
+sV%timeit armar(data)
+p4
+I15612
+sVimport dumbo
+p5
+I15441
+sVa = "djaksdj"
+p6
+I14850
+sVCrypto.Cipher.CAST.new("hola")
+p7
+I998
+sVf.is_bound()
+p8
+I237
+sVimport egg.tryicon
+p9
+I7304
+sVu.friendships_requested.all()
+p10
+I20073
+sVi=ImageIndex.search("dia")
+p11
+I222
+sVp.shared_valid
+p12
+I590
+sVa.__class__.valor = property(lambda: AClass(x, y))
+p13
+I9016
+sVfrom pychess.Utils.GameModel import GameModel
+p14
+I15910
+sVCmsComment.objects.full_page_comments(20)
+p15
+I747
+sVformsets.formset_factory?
+p16
+I14446
+sVCategory._meta.get_field("pepe", None)
+p17
+I3125
+sVa.join(set((2, 3)))
+p18
+I2307
+sVa.criterioarea_set.get_or_create()
+p19
+I11085
+sVitem['author'] = self._clear_value(hxs.select('//div[@id="Autor"]/strong/a/text()').extract()[0])
+p20
+I16738
+sVtype(B)
+p21
+I3094
+sVupdate cms_fragment_template set content_names = "bottomBigDescrip
+p22
+I6699
+sVarticles = ArticleSearch(query='', count=5, display=display).get_result().get_items()
+p23
+I5322
+sV^@^$!{_^&%%]@&_)}&_@#%*{!*[(($#[[}{#&_+%&+{*_*$%[{{[[$@@^_%(*#)#@%{*)#&)]{[_{(]+
+p24
+I13776
+sVa.strip?
+p25
+I16078
+sVurlparse.urlparse(u)
+p26
+I1227
+sVw.logo_abs_path
+p27
+I2751
+sVpynotify.Notification.__doc__
+p28
+I7272
+sVcgi.parse_qsl("a=1&b=2")
+p29
+I7257
+sVScoredItem.objects.create(ctype="system user", object_id="3929", user="813", uuid="vQRo3cCoZM4AAAczEhkAAAAA", score="1", rate_type="rating")
+p30
+I7373
+sVabsolute_reverse("sitemap_section", section="pepe-index")
+p31
+I3919
+sVp[0].address
+p32
+I5887
+sVr = HttpRequest()
+p33
+I10628
+sVa = articles.get_result().get_items()[0]
+p34
+I5344
+sVr.match("/3283913.32.jpg")
+p35
+I2765
+sVrated_item = RatedItem.objects.add_rate(v, -2, u)
+p36
+I347
+sVfrom common.utils import split_email_template
+p37
+I20010
+sVs[0][0].__class__
+p38
+I16984
+sVfrom pygraph.classes import digraph
+p39
+I19161
+sVcalculate_cloud(links, steps=3)
+p40
+I12153
+sV'1' - 1
+p41
+I14994
+sVthread.start_new_thread(mainloop.run, [])
+p42
+I9367
+sVf = p.fragments_ignore_missing
+p43
+I1875
+sVpage.__
+p44
+I18049
+sVr.result.have_results()
+p45
+I5257
+sVprint CreateCompetition()
+p46
+I20847
+sVa.extend(range(10))
+p47
+I10128
+sVupdate cms_fragment_template set content_names = "description/largetext,image/i
+p48
+I6763
+sV&@#+(((&%+$&$!!*^}{+}%&^{&&!_]+}}][!%[$){)_[+(&+{)$(+(+*#%{%&+(+}+*%%}_]&+&[^_[#
+p49
+I13565
+sVlen(a)/8
+p50
+I5382
+sVre.IGNORECASE
+p51
+I15958
+sVclassmethod
+p52
+I4405
+sV}(}@$(!!^]+)%($)_[!@%#{[@#((%+]*!*)%([]{(}*$]%#^*#_@@}+_*{$+(%]}$@{!#*%*[[^!{)&#
+p53
+I13594
+sV)]{$%$$}^^}&&^]&(%@*!)%[!})&(!_^]%*[&)#&!^+@(#%+@+{*%}^]$!)]{}]{&@]]$]#$_[${*@%{
+p54
+I13087
+sVr.errmsg
+p55
+I5244
+sVv[0].title += " cola"
+p56
+I181
+sVpurple.__class__
+p57
+I1429
+sVnltk.tokenize.RegexpTokenizer(text, re.compile('sofa bed')).tokenize(text)
+p58
+I6439
+sVs2.save()
+p59
+I7392
+sVimg = Image.open('/home/omab/src/face/faces/maie.jpg')
+p60
+I12469
+sVfor url in ARTICLE_TRACKER_URL.findall(r.value):
+p61
+I14786
+sVprint h.whats_hot.form()[0]
+p62
+I17111
+sVa = 'a'
+p63
+I16079
+sVi._Image__iptcTagsDict
+p64
+I5543
+sVtest(10, recursive=True, [10, 20])
+p65
+I18145
+sVs.result.query
+p66
+I10652
+sV)+#&{${%+(*_$$^]}&#+^%())^_^@(_]*^]{))]+_)$@_%*([}{${^(]{[[#(#]&}+l}%#@}{{)%@{+}
+p67
+I13649
+sVb = BlogAwardItem.objects.with_stats().all()
+p68
+I15770
+sVi
+I106
+sVappend_titles(Image.objects.all(), "pepe")
+p69
+I128
+sVt = template.Template("""
+p70
+I18245
+sVi = f.items.all()[0]
+p71
+I19629
+sVsha.sha("pepe")
+p72
+I933
+sVdef pepe(a, b=True, *args, **kw):
+p73
+I3176
+sVpages[0].title
+p74
+I12214
+sVf.initial['user'] = u.id
+p75
+I6036
+sVoperator.mul(1, 2, 3)
+p76
+I9835
+sVa (1, 2, 3, 4)
+p77
+I16481
+sVd.strftime('%D/%m/%Y')
+p78
+I21215
+sVurl
+p79
+I2293
+sVopr = Id('tag') + Var('xxx_name') + Optional(Id('manolo') + Var('hola'))
+p80
+I420
+sVc.images_thumbnails
+p81
+I19396
+sVp.group
+p82
+I20915
+sVfrom room_competition.models import RoomCompetitionEntry
+p83
+I11403
+sVget_raters_report(datetime.date(2008, 10, 10), datetime.date.today())
+p84
+I7696
+s.

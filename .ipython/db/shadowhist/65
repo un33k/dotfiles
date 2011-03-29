@@ -1,0 +1,241 @@
+(dp1
+Vfrom search.params import SearchParams
+p2
+I17616
+sVprint sys.ipcompleter.__doc__
+p3
+I2056
+sVg.fields['info'].data
+p4
+I17809
+sVinspect.getmoduleinfo("django")
+p5
+I2491
+sVCmsPage.objects.filter(http_path='/new/', state="live").order_by('-locale')
+p6
+I12660
+sVph.thankyou.contents_list.id
+p7
+I1509
+sVclient.profile.account
+p8
+I9344
+sVd
+I530
+sVweb.render()
+p9
+I18019
+sVrange(len([1, 2, 3])
+p10
+I20062
+sV__import__.__doc__
+p11
+I8258
+sVfrom PyQt4.QtCore import *
+p12
+I18005
+sVch.child
+p13
+I4530
+sVa |= 1
+p14
+I2496
+sVlists(range(20), 18, 1)
+p15
+I3056
+sVhash(a)
+p16
+I1360
+sVph.thankyou.contents
+p17
+I1507
+sVa[:5,:]
+p18
+I12437
+sVx = BigIndexer.search("cola")
+p19
+I186
+sVa.update(dict(("x=3".split("="))))
+p20
+I2966
+sVl.find("__VIEWSTATE")
+p21
+I2788
+sVroom
+p22
+I9267
+sVT(text)
+p23
+I6414
+sVx.match('_')
+p24
+I14854
+sV[_(*@*_)([_&![+}&&&)!($@*&[&#$}$&(&!{(^&*[^+!+&${}*!(*+*^&({+%*({+@_[*+$![^!!^[+
+p25
+I13109
+sVModel1.objects.exists?
+p26
+I18892
+sVsettings.DATABASES
+p27
+I18798
+sVr.match("djaksdjask")
+p28
+I4930
+sVx.field
+p29
+I18736
+sVfrom django.forms.models import ModelForm
+p30
+I8628
+sVl= getGroupByQuerySet(ResultRankCriteria.objects.filter(QJoins(ranked_count=('result_rank', 'left join', 'ranked_count.query_id = rr_criteria.query_id'))).extra(select={'rrcount': 'count(result_rank.id)'}), ['rr_criteria.id'])
+p31
+I7717
+sVh.__str__()
+p32
+I1160
+sVresponse.url:q
+p33
+I16818
+sVitem one
+p34
+I11923
+sVf.special_offer
+p35
+I4107
+sVreverse_with_args('plan_my_room', get_arguments={'_nc': 1 })
+p36
+I10609
+sVev._meta.app_label
+p37
+I8254
+sVs.query(PhotoTag).filter_by(tag_id=t.id)
+p38
+I14745
+sVu.obnob_groups.get(group__id=2)
+p39
+I21004
+sVname
+p40
+I16693
+sVr = Photo.by_tag(t.id)
+p41
+I14824
+sVdir(s)
+p42
+I8415
+sVa[s+1:e]
+p43
+I17486
+sVauth_content = url_content(action, data=data)
+p44
+I20757
+sVimport urlib
+p45
+I11710
+sVa = "Children's room - nursery'
+p46
+I14532
+sVt = i._translation_model(title='Un titulo')
+p47
+I11524
+sVCategory.objects.get(pk=2)
+p48
+I3663
+sVqs.query.get_meta().get_base_chain
+p49
+I12047
+sVfrom room_competition.models import *
+p50
+I11304
+sVc.valoracion_set.all()[0
+p51
+I11210
+sVTag.untagged_photos()
+p52
+I15399
+sVs.result.facets.REFINE_CLEAR
+p53
+I10647
+sVt.render()
+p54
+I10070
+sVre.sub(r'\u005c?.*(pid=\u005cd+).*',r'\u005c1',url)
+p55
+I16519
+sVr.match("/a/b/c/d/pepep.jpg")
+p56
+I2762
+sV$!_+!{]*^_+@&@){#*!_#+{[@$^(__}*[^$&{&]!(&+++_@+)&}))$%]${+*!(#@(}&&&!)!_!$&@&{[
+p57
+I12916
+sVurlparse.urlunparse()
+p58
+I6327
+sVdict({'a': 1}, {'b': 2})
+p59
+I8218
+sVf.image.file
+p60
+I4185
+sVr.match('ac')
+p61
+I14870
+sVbp.photo.url
+p62
+I4364
+sVb.props.user_data = 1
+p63
+I8126
+sVlen(dumps(dict([(str(i) * 20, {'live':i, 'work in progress':i}) for i in range(10000)])))
+p64
+I9793
+sVr.search_params()
+p65
+I4098
+sVbool("True")
+p66
+I2362
+sVtxt = text(page=p, name=n, group=uuid.uuid4().hex, value='hola mundo', attrs='')
+p67
+I8616
+sVcontents.append("href='http://mydeco.com/search/?query=littlewoods&prefdb=#query%3Dlittlewoods%26startrank%3D0%26prefdb%3Dproduct%26sort%3D%252Brating'")
+p68
+I1523
+sVsp.special_offers
+p69
+I8762
+sVa = "hola mundo que tal? :eeee"
+p70
+I14669
+sV2 << 17
+p71
+I6843
+sVpytho
+p72
+I15902
+sVSECRET       = '3aQl9WsBxyLbfTPBYPYraSwPmPsUHLH4frTCZ39WcM'
+p73
+I16443
+sVt = Template('{% ifequal cat.shortname.lower() "sale" %} on sale{% endifequal %}')
+p74
+I10877
+sV(1<<(16)) * 2
+p75
+I7171
+sVvotes = list(votes)
+p76
+I18995
+sVt.photos.all()
+p77
+I15235
+sVs.CONFIG
+p78
+I12843
+sV#^!^#@{%${^*$^(^{(}#)%!&#})(}#}_(&#%^${#}#]{*@^!+}!$$${&#{{[[*^]]%^+#[+%$@]@#]}&
+p79
+I13468
+sVRenderedData(page=p, name=n, value="%u" % a).save()
+p80
+I10451
+s.

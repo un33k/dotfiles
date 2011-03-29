@@ -1,0 +1,236 @@
+(dp1
+Vc = 3
+p2
+I12814
+sVa_img_re = re.compile(A_IMG_REGEX)
+p3
+I9868
+sVlist(groupby(x, lambda x: x['k']))
+p4
+I19109
+sVunicode(f.top_panel)
+p5
+I18935
+sVImage.objects.all()
+p6
+I55
+sVt = time.ctime(1228428288)
+p7
+I4028
+sVzip(factores, cantidades)
+p8
+I7182
+sVForm = modelform_factory(StampImage, fields=["name", "image"])
+p9
+I3270
+sVs = smtplib.SMTPException('msg')
+p10
+I14148
+sVfrom django.core import cache
+p11
+I9781
+sVbot.log
+p12
+I4380
+sVCmsLinkReference.objects.all()
+p13
+I3827
+sVsha.sha("ye").hexdigest()
+p14
+I12071
+sVlocale.currency?
+p15
+I11415
+sVcgi.parse_qsl.__doc__
+p16
+I7592
+sVimport search
+p17
+I15489
+sVmap(lambda v: v.sort(lambda a, b: cmp(txt(a[0]), txt(b[0]))), letters.values())
+p18
+I1973
+sVp = subprocess.Popen(['/usr/games/gnuchess'], stdin=subprocess.PIPE, stdout=s)
+p19
+I15811
+sVupdate cms_fragment_template set content_names = "promoDiscountValue/text,promoDiscountOn/text,retailerLinkUrl/text,retailerLogo/image,viewMoreUrl/text,viewMoreText/text" where
+p20
+I6661
+sVitem.translations
+p21
+I11057
+sVa.items.append(3)
+p22
+I18212
+sVp = HTMLParser.HTMLParse()
+p23
+I5513
+sVr.translations.all()[-1]
+p24
+I5804
+sVf.rel.to.name
+p25
+I12610
+sVa or b and c or d
+p26
+I5711
+sVf.db_column
+p27
+I2353
+sVp.isdigit
+p28
+I14643
+sVx = p.pop()
+p29
+I17858
+sVa = defaultdict(lambda: [])
+p30
+I6055
+sV(]@!%&}(]@_)!{*))+^}#&*}@##@}](&)!#${_)&]&[^%_^^{{+&&%+@&@!+@__+@#]$]*!(_^+!$^{_
+p31
+I13639
+sVurllib.urlopen('http://yyy.com')
+p32
+I21184
+sV@!_%&))_^@!$)%^!*%@{+)@%$$]&{!*_!}@{&**(}&^+[@%(%*^$(^+{{($&]!_{})!*)_!}!%++[%)@
+p33
+I13726
+sVs = "hola mundo como >va<"
+p34
+I6158
+sVclient.state
+p35
+I9335
+sVfor r in PostIndex.search("maraca"):\u000a    print r.get_object()\u000a    print r.get_object().__class__
+p36
+I156
+sVu.delete)
+p37
+I20322
+sVarticles = Article.objects.filter(tag__slug__in=['axxi-digital']).order_by('id')[0]
+p38
+I471
+sVi._translation_model._transmeta
+p39
+I17876
+sVa.rstrip('/').rsplit('/', 1)[-1].rsplit('-', 1)
+p40
+I20203
+sVs = '<a href="/search/?q=1">link1</a> <a href="/search/">link2</a> <a href="http://mydeco.com/search/?q=1">link2</a> <a href="http://mydeco.com/search/">link2</a> <a href="http://google.com/">link3</a>'
+p41
+I1249
+sV{{*#[]+$%*_])))^+#*[++#*#}$]@$#(+[_]#]^(_^#)_%__![(%(&((^$*%%&])+)]&(&$&#)]()${&
+p42
+I13388
+sVfrom searchlib.match import COMPOUND_TOKENIZER, SIMPLE_TOKENIZER
+p43
+I2035
+sVr.parent
+p44
+I19980
+sVg.parent.obnob_users.memberships().get(user=u)
+p45
+I20513
+sVrender_to_string("templatetags/article_tracked_url.html", article_tracked_url({}, "furniture123.co.uk", "http://www.furniture123.co.uk/layouts/search/search.asp?cms=true&action=freeSearch&free_text=myd050309&x=0&y=0&cm_mmc=mydeco-_-bedmonthpromo-_-none-_-none"))
+p46
+I4632
+sVreverse('cms.page_edit', args=(10,))
+p47
+I12682
+sV)[%%]&_[{]{^[#)*)+#*}}(($)*(*{${}{}#[&}[![%!]%}^{&}&$[(%}^*_[)]+{!&+)[@*&&{@&%#[
+p48
+I13514
+sVimport mock
+p49
+I16292
+sVreverse('tv.video', args=('312312',))
+p50
+I11651
+sVs.stdout.readlines()
+p51
+I15978
+sVgetattr(a, "id", a)
+p52
+I4816
+sV[@(++&]#!{_({%+@)}](&*^*!{$^_{)]}}[^+)&{##*!++_([}^})[]__@!]]&^{^]#}@++{&&{)][[[
+p53
+I13055
+sVs._row
+p54
+I11383
+sV\u005coint_{\u005cpartial A}\u005cvec H\u005c;\u005ccdot\u005cmathrm{d}\u005cvec s=\u005ciint_A\u005cvec J\u005c;\u005ccdot\u005cmathrm{d}\u005cvec A+\u005cfrac{\u005cmathrm{d}}{\u005cmathrm{d} t}\u005ciint_A\u005cvec D\u005c;\u005ccdot\u005cmathrm{d}\u005cvec A
+p55
+I18221
+sVf.next().next().next()
+p56
+I1276
+sVf ? fd.fragments['image']
+p57
+I761
+sV[ i if i == 1 else 0]
+p58
+I8754
+sVb.encrypt("hola mundo")
+p59
+I954
+sV^!*[([#&${}^%@{[&!!$}!&#![_&[^&_{@#))+&%$!!{([@[}*({$]&}}@&**[++!_*^^[{^(!*^^%][
+p60
+I13508
+sVResultRankCriteria
+p61
+I7728
+sVfrom twitchess.playqueue.engines.crafty import Crafty
+p62
+I16358
+sVopr.left.name
+p63
+I413
+sVinput.focus();
+p64
+I9673
+sVfor i in ids_qs:
+p65
+I1032
+sVos.path.dirname(admin.__file__)
+p66
+I7467
+sV^!!{{})))!{#^]*@&}]_)}[%()[](*%@[__%#*}&_(+!{#[)!@(]+]}$+%_{##[(+#$^*@&@{*}%)({!
+p67
+I13644
+sV*+^*(}*$_%[${)+[%[%^#_]&*+{&)^*{**$[(!}*&@![&({}*#&@_&$)@$]!*@}}&{%{*[}+]_%$])_%
+p68
+I13377
+sVsubprocess.select
+p69
+I15972
+sVresponse = c.get(reverse('begin', 'facebook'))
+p70
+I21075
+sVf = AuthenticationForm({})
+p71
+I3896
+sVi = BigIndexer.search("ayer")
+p72
+I207
+sVLINK_RE.findall("hola mund [url 10]")
+p73
+I1595
+sVa.rindex('mundillo')
+p74
+I6216
+sVan.calcular()
+p75
+I11199
+sVo = Option.objects.filter(question__id__in=pk)
+p76
+I19036
+sVb = Blowfish.new("jdksaj", Blowfish.MODE_ECB)
+p77
+I976
+sVa = "aaa"
+p78
+I9795
+sVprint f[0][0][0][0]
+p79
+I17074
+s.

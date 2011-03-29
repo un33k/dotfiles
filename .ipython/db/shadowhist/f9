@@ -1,0 +1,233 @@
+(dp1
+Vp = CmsPage.objects_aux.get(pk=870)
+p2
+I613
+sVa.scm.__do
+p3
+I1657
+sVc = ContentType.objects.all()[0]
+p4
+I4283
+sVfrom tag.models import *
+p5
+I4703
+sVpairs(*('chatterbox_thread', 'chatterbox thread', 'has posted in a chatterbox', False, True, True))
+p6
+I21247
+sV2 << 31
+p7
+I6841
+sVItem._meta.module_name
+p8
+I17845
+sVm.search
+p9
+I4489
+sVd = noticed_designers_top_panel()
+p10
+I12745
+sVopencv.cvHaarDetectObjects
+p11
+I10854
+sVm.getlist('pepe')
+p12
+I8987
+sVlines = s.split('\u005cn')
+p13
+I15939
+sVs = url.split('/')
+p14
+I9035
+sVimport rfc822
+p15
+I11882
+sV^++{&{@%{({^&}@!^)@]%&@&_+#]]%%[]+%[^)@#+{+)&{*@+&&}_!_!!$$${#({{{#+))]*(&&@{{%&
+p16
+I13619
+sVr.match("/pepep.jpg").groups()
+p17
+I2768
+sVSQLCompiler(qs.query, connection, qs.using)
+p18
+I18906
+sVauth.get_access_token(ACCESS_TOKEN)
+p19
+I16446
+sV]@(!@#)[{$@^!]{#^&+)[**[}%#)+(%]#*$*&}}_%%]]&!&$[)]@{+@*#_!{@{#{_$%[!+&$[}+((_]}
+p20
+I12961
+sVf = partial(Pepe, a=10)
+p21
+I7462
+sVc = Context({'val': "0" })
+p22
+I12496
+sVre.search('/(\u005cd+)-', url).group(0)
+p23
+I16229
+sV[ a_img_re.match(c) for c in a_img_re.split(v) ]
+p24
+I9877
+sVt.utcoffset()
+p25
+I17742
+sVdatetime.timedelta(31)
+p26
+I21320
+sVm1_2.model2
+p27
+I18890
+sVdownload_link = hxs.select('//div[@id="Contextual"]/a/@href').extract()
+p28
+I16681
+sV%@}}%^(#(})*}){+$_[+]%%]#(*[#_(![&{#*$){_%^}+*))&+)$#_*}[][@}_#%@{+(+[#}(]^%}^}+
+p29
+I13628
+sVACTIVATE_SH = """
+p30
+I19598
+sVzip(r, r)
+p31
+I7606
+sVtemplate.loader.select_template?
+p32
+I20937
+sVs = """{% context {"products_ids": ["4e5973507ba5843c507c1f373a0526975943dae0", "684cae36e3a2c0ec6caf1d1a26b8871322cff060", "58134ed9f31af374b6c652d236fe9af3781a6775", "15c72a212b0c5a7462366398ea37432638ece797", "97f2ce1d299d8e816a96f6d8430fda26e5707c6f", "8bebf835c102ce8c1781892bc8bce4415e45a879", "d67829c4f9bf4b93bb1fd4f440800e7e99344956", "84c786bf56347ca3390a47e6416449598f93fc7a", "7dec157557514350677af765d79def8d08e7aeaa", "None"], "contents": ["<h4>2. Plant bulbs before November</h4> \u005cnIf you want colourful blooms poking up in the spring, you need to plant bulbs in autumn &ndash; after the first hard frost but before the ground gets too cold. Aim to get your bulbs like this pretty <a href=\u005c"/product/hyacinth-hyacinthus-orientalis-woodstock/4e5973507ba5843c507c1f373a0526975943dae0/\u005c" class=\u005c"c1\u005c">Hyacinth</a> (\u005cu00a35) from Crocus, in by the end of October allowing them time to get their roots settled in before winter.", "<h4>3. Top class composter</h4> \u005cn\u005cn<p>Good old home&ndash;grown compost works magic as a light fertilizer to repair summer\u005cu2019s dry grass effect. If you don't have the space to store it out of view, house it in these characterful <a href=\u005c"/product/large-beehive-composter-purple/684cae36e3a2c0ec6caf1d1a26b8871322cff060/\u005c"class=\u005c"c1\u005c"> mock&ndash;beehive compost bins</a> (\u005cu00a3149.99) from Crocus, available in five eye&ndash;catching colours. Give your garden a healthy future.</p>", "<h4>4. Allium time!</h4> \u005cn\u005cn<p>This October, plant these super charming <a href=\u005c"/product/20-allium-azureum/58134ed9f31af374b6c652d236fe9af3781a6775/\u005c"class=\u005c"c1\u005c">allium</a> (\u005cu00a310) from Littlewoods Direct which will bloom in June. Not a fan of lawn raking? Unfortunately, it\u005cu2019s a necessary evil which helps to prevent the spread of plant disease and pests. Brighten up the tedious task with a funky <a href=\u005c"/product/yellow-wheelbarrow/5a09d6949c914748a03337adbdca4db58f44d538/\u005c"class=\u005c"c1\u005c"> yellow wheelbarrow</a> (\u005cu00a325) from The Conran Shop and rake in style! </p>", "<h4>5. A helping hand</h4> \u005cn\u005cn<p>Autumn leaves may look stunning on the trees, but as they float to the ground they quickly become brown and slushy. Don't let the debris on your lawn get you down, give yourself a helping hand with the <a href=\u005c"/p/big-hands-grass-leaf-collectors/15c72a212b0c5a7462366398ea37432638ece797/\u005c">BIG hands garden scoops</a> (\u005cu00a313) from A Place for Everything. \u005cn</p>", "<h4>6. Snowdrops and raindrops</h4> \u005cn\u005cn<p>This month, plant <a href=\u005c"/product/single-snowdrop-galanthus-nivalis/97f2ce1d299d8e816a96f6d8430fda26e5707c6f/\u005c" class=\u005c"c1\u005c">Single snowdrop galanthus</a> (\u005cu00a35) from Crocus. Toil away in luxurious comfort with a <a href=\u005c"/product/summer-toile-garden-kneeler/78c9d5752ad527ba8d81f0f6ae7cb436381cb06b/\u005c"class=\u005c"c1\u005c">kitsch toile garden kneeler</a> (\u005cu00a325) from Cath Kidson. <a href=\u005c"/broad-bean-broad-bean-supersimionia/8810717da7b18bd3d8c29318f85474f50e92a973/\u005c" class=\u005c"c1\u005c">Broad beans</a>, hardy <a href=\u005c"/lettuce-mixed-pack-lettuce-mixed-pack/8fc57687edd21a829ae2acacabaa5a29c4db9333/\u005c" class=\u005c"c1\u005c">lettuce</a> and <a href=\u005c"/?query=purple+sprouting&prefdb=product\u005c" class=\u005c"c1\u005c">purple sprouting broccoli</a> are a firm favorite for autumn planting. </p>", "<h4>7. Designer dig</h4> \u005cn\u005cn<p>Why buy new plants when you can make existing ones multiply? In her new book <i>The Thrifty Gardener</i>, Alys Fowler teaches the clever trick of plant propagation. \u005cu2018You simply dig up one plant and pull or ease it apart into several self&ndash;supporting ones. Most people choose to divide in autumn when the soil is still workable,\u005cu2019 she says. Make the job glam with this <a href=\u005c"/p/minature-coloured-gardening-set/8bebf835c102ce8c1781892bc8bce4415e45a879/\u005c"> Minature Coloured Gardening Set</a> (\u005cu00a312.95) at Dotcomgiftshop . </p>", "<h4>8. Daffodil days</h4> \u005cn\u005cn<p>Plant growth has stopped so now is the perfect time to  plant <a\u005cnhref=/http://mydeco.com/product/tazetta-daffodil-narcissus-avalanche/d67829c4f9bf4b93bb1fd4f440800e7e99344956/ \u005c" class=\u005c"c1\u005c">Tazetta daffodil narcissus avalanche</a> (\u005cu00a312)from Crocus. While your in the garden, prune those roses. It's an important yet prickly task (as those with the battle scars can testify) so protect your hands with these pretty  You'll be able to delve into tangled bushes with confidence.</p>", "<h4>9. Weed whacking in style</h4> \u005cn\u005cn<p>There\u005cu2019s no rest for the wicked. To rid your garden of pesky weeds this season, landscaper expert Dean Novosat advises giving them \u005cu2018a good watering the night before pulling\u005cu2019. Sounds absurd doesn\u005cu2019t it? But pulling weeds is much easier and more effective when the soil is moist. So, don these <a href=\u005c"/product/product/mini-dot-blue-wellington-boots/84c786bf56347ca3390a47e6416449598f93fc7a/\u005c"class=\u005c"c1\u005c">wellies </a>(\u005cu00a338) from Cath Kidson, and get watering those unwelcome invaders.</p>", "<h4>10. Stylish sprinkles</h4> \u005cn\u005cn<p>Don\u005cu2019t think that just because the summer\u005cu2019s over, you can hang up the hose. Although over&ndash;watering can be dangerous, \u005cu2018most gardeners water too little\u005cu2019 say the experts from Kelly\u005cu2019s Nursery. Ensure your plants\u005cu2019 survival with this oh&ndash;so&ndash;stylish <a href=\u005c"/p/celia-birtwell-watering-can/7dec157557514350677af765d79def8d08e7aeaa/\u005c"> Celia Birtwell Watering Can</a> (\u005cu00a334.95) from John Lewis.</p>\u005cn\u005cn\u005cn<p><strong>Want more garden tips? Learn how to make <a href=\u005c"/the-magazine/garden-and-eco/articles/make-your-patio-look-bigger\u005c"class\u005c"c1\u005c">a small patio look bigger</a>.</p>\u005cn<p>Looking for ways to ease your eco&ndash;conscience? Read our guide to <a href=\u005c"/the-magazine/garden-and-eco/articles/the-guide/making-an-urban-garden-organic\u005c"class\u005c"c1\u005c">making an urban garden organic</a>.</strong></p>", "None"]} %}
+p33
+I10415
+sVfor i in lr:
+p34
+I3831
+sVt.__table__
+p35
+I15248
+sVdtypes.Article
+p36
+I18097
+sVurllib.urlencode(cgi.parse_qs(p.query))
+p37
+I14777
+sVfrom django.utils.datastructures import MultiValueDict
+p38
+I8985
+sVcmp("/the-magazine/style/articles/Didn't-you-used-to-be", "/buy-the-look/designer/")
+p39
+I549
+sVresp.headers.getheader('x-mydeco-search-id')
+p40
+I19301
+sVminifb.call('pages_isFan', settings.FACEBOOK_API_KEY, settings.FACEBOOK_SECRET_KEY)
+p41
+I10587
+sV)(#!@+^!+(^+#^}[#($}*&*!@&[)+[@][[]])#&!%[++@!}]$%]*_{@%{@_!{#%([$@[^[}^!({!}^(*
+p42
+I13710
+sVos.fchdir.__doc__
+p43
+I6853
+sVdef _traversal(n):\u000a    if len(list(g.traversal(n))) == 1:\u000a        return list(g.traversal(n))\u000a    result = []\u000a    for i in g.traversal(n):\u000a        if i!= n:\u000a            result.append(_traversal(i))\u000a    return result
+p44
+I6958
+sV'AND '.join([ "a=b", "c=d" ])
+p45
+I3584
+sVF = forms.form_for_model(CategoryFacet)
+p46
+I2403
+sVconnection.close()
+p47
+I11802
+sVfrom opencv.cv import CV_HAAR_DO_CANNY_PRUNING
+p48
+I12535
+sVev = threading.Event()
+p49
+I9395
+sVp.easy_stem("bogus")
+p50
+I5937
+sVf.cmscontentmapping_set.filter(name__in=['text'])
+p51
+I17469
+sVsettings.MEDIA_URLS
+p52
+I11302
+sVdb.photo_tags.all()
+p53
+I15209
+sV"".join([c for c in a_img_re.split(v) if a_img_re.match(c) ])
+p54
+I9858
+sVfrom special_offers.forms import *
+p55
+I4119
+sVl = [ (s.find(c), c ) for c in 'aeilquty' ]
+p56
+I14105
+sVq.query.group_by = [('MONTH(date)')]
+p57
+I15724
+sVq.qsize()
+p58
+I16191
+sV[ i[0] for i in [ ["aaa"], ["bbb"], ["ccc"] ] if "b" in i[0] ]
+p59
+I2996
+sVg.obnob_users.symmetrical
+p60
+I20133
+sVr = urlparse.urlparse('http://mydeco.com/microsite/bestonlinesofas.com/th-magazine/pepe/le/pu?a=1')
+p61
+I8793
+sVb = books[0]
+p62
+I6098
+sV*@($]}^{[_&$@%^%#@([#_[_#_%]@(+^))]_@%%}%({_*^^@#_{$#_[&%{@$$^{%]}#!$^)+#)[%*^{$
+p63
+I13686
+sVdatetime.datetime.fromtimestamp(0)
+p64
+I6050
+sVSystemUser.objects.values('id').get(username="matiasdajas")
+p65
+I10523
+sVfrom folder.models import Folder
+p66
+I19912
+sVint(i)
+p67
+I7945
+sVget_shopping_context(path='bathroom/1049')
+p68
+I11436
+sVCmsPage.objects.all().values_list('id', 'http_path')[:4]
+p69
+I14245
+sVreadline.get_line_buffer()
+p70
+I3262
+sVdb.entity('photo_tags', (\u000aColumn('photo_id', Integer, ForeignKey('photos.id'), primary_key=True),\u000aColumn('tag_id', Integer, ForeignKey('tags.id'), primary_key=True)))
+p71
+I15219
+sVh.reduced_fragments[0].list
+p72
+I1684
+sVmd5.md5('home.main').hexdigest()
+p73
+I12028
+sVcalendar()
+p74
+I21314
+sVroom.rating
+p75
+I11758
+sVrange(4, 10)
+p76
+I15539
+sVa.strip("'")
+p77
+I17093
+sVos.read(f)
+p78
+I6858
+s.

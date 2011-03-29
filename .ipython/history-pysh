@@ -1,0 +1,6 @@
+ls
+ps ax
+ls -l
+ls --color=auto
+ls --color=auto -l
+alias

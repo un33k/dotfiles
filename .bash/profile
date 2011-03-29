@@ -1,0 +1,76 @@
+# vim:filetype=sh
+
+# if [ "$TERM" != "screen" ]; then
+#     exec screen
+# fi
+
+
+. ~/.bash/functions
+. ~/.bash/python
+. ~/.bash/completions
+. ~/.bash/misc
+
+for file in ~/.bash/plugins/*; do
+    . $file
+done
+
+# PATHS
+#export PATH=$HOME/.bin:$HOME/src/sup/bin/:$HOME/tmp/django/bin:$PATH:/usr/local/sbin:/usr/sbin:/sbin
+export PATH=${PATH}:/var/lib/gems/1.8/bin # put lessc in the path
+export PATH=$HOME/.bin:$HOME/src/django/django/django/bin:$PATH:/usr/local/sbin:/usr/sbin:/sbin
+
+# Locales
+# LANG=es_UY.UTF-8
+# LC_ALL=es_UY.UTF-8
+# LC_MESSAGES=es_UY.UTF-8
+# LC_CTYPE=es_UY.UTF-8
+# export LC_MESSAGES LC_CTYPE LC_ALL LANG
+
+export EDITOR="/usr/bin/vim"
+#export AWT_TOOLKIT=MToolkit
+export TSOCKS_CONF_FILE=~/.tsocksrc
+export HISTFILESIZE=5000
+export HISTSIZE=5000
+
+# If running interactively, then:
+if [ "$PS1" ]; then
+    # Prompt
+    prompt_user="${COLOR_GREEN_BOLD}\u${COLOR_NONE}"
+    prompt_server="${COLOR_YELLOW_BOLD}at${COLOR_NONE} ${COLOR_CYAN_BOLD}\h${COLOR_NONE}"
+    prompt_location="${COLOR_YELLOW_BOLD}in${COLOR_NONE} ${COLOR_RED_BOLD}\w${COLOR_NONE}"
+    prompt_jobs="${COLOR_MAGENTA_BOLD}\$(jobs_count)${COLOR_NONE}"
+
+    PS1="${prompt_user} ${prompt_server} ${prompt_location} ${prompt_jobs}${COLOR_NONE}\n$ "
+    PS2="\[\033[33m\]>\[\033[0m\] "
+    #PS1="\[\033[31m\]\$(jobscnt_promtp)\[\033[32m\]\h\[\033[37m\] \[\033[35m\]\$(shortpwd)\$\[\033[0m\] "
+
+    eval `keychain --eval 2>/dev/null`
+    . ~/.bash/colors
+
+    alias ols='/bin/ls --color'
+    alias ls='ls --color -h'
+    alias ll='ls -l'
+    alias lla='ls -Al'
+    alias la='ls -A'
+    alias l='ls -CF'
+    alias rm='rm -f -i'
+    alias cp='cp -i'
+    alias mv='mv -i'
+    alias bc='bc -q -l ~/.bcrc'
+    alias grep='grep --color'
+    alias vipriv='vi $HOME/misc/.priv/pass'
+    alias screen='screen -q'
+    alias mzscheme='mzscheme -U'
+    alias e2i='es2en'
+    alias i2e='en2es'
+    alias gvimr="gvim --remote-tab-silent"
+    alias mplayer="mplayer -stop-xscreensaver"
+    alias df="df -h"
+    alias ssh="TERM=xterm /usr/bin/ssh"
+    alias rmepiphany="rm -rf $HOME/.gnome2/epiphany"
+    alias vim="gvim"
+    alias vi="vim"
+    alias mkvirt="mkvirtualenv --no-site-packages"
+    alias flash="mplayer /proc/$(pgrep npv)/fd/11"
+    alias flashcd="cd /proc/$(pgrep npv)/fd/"
+fi

@@ -1,0 +1,251 @@
+(dp1
+Vfrom microsite.utils import magazine_exists
+p2
+I8543
+sVHREF_RE  = re.compile(r'href=([\u005c'"][\u005c'"]+?[\u005c'"])', re.I)
+p3
+I9880
+sVf = Category._meta.get_data_holders()[0]
+p4
+I2339
+sVdbcache.Entry.objects.all()
+p5
+I9607
+sVp = get_categories_products(['classic-beds',], count=1)['classic-beds'][0]
+p6
+I9490
+sVi = CmsImageContent.objects.get(pk= 40960)
+p7
+I3942
+sVa = [ range(random.randint(1, 10)) for i in range(10) ]
+p8
+I7047
+sVCmsPagePath.objects.with_page()[:100000]
+p9
+I12105
+sVfind_packages()
+p10
+I19314
+sVupdate cms_fragment_template set content_names = "productsId/text[
+p11
+I6740
+sVcd.category['slug']
+p12
+I10501
+sVi = CategoryImage.objects.all()[0]
+p13
+I4443
+sVurljoin.__module__
+p14
+I17655
+sVs.save()
+p15
+I8608
+sVsearch_links.alter_content2("/search/", "cms=true", contents2)
+p16
+I1553
+sVtables
+p17
+I8357
+sVMOVE_RE = re.compile('^([a-h1-8]|[rnbqkp][a-h1-8]|[rnbqkp]x[a-h1-8]|o-o|o-o-o)$', re.I)
+p18
+I16945
+sVitem.name
+p19
+I16716
+sVquit
+p20
+I16063
+sVtokenize("I like the blacks sofas beds, but the blue sofas beds would be nice with the black out blinds", only_matches=True)
+p21
+I6493
+sVp os.walk("/tmp")
+p22
+I4741
+sVv.val.url
+p23
+I8663
+sVf.load()
+p24
+I1277
+sVt = Tag.get(5)
+p25
+I15403
+sVprint h.whats_hot.form()[0][0]
+p26
+I17112
+sVa = Article.objects.get(pk=75)
+p27
+I863
+sVf.storage.url('name')
+p28
+I14238
+sVHTTPSConnection('google.com')
+p29
+I21139
+sVf = p.fragments
+p30
+I1827
+sV</strong>
+p31
+I11925
+sVweb
+p32
+I18021
+sV##*_{)^+@(]{_#))+*[+$#^@]+)@!*#%&)[{{{&&*_%}%]*(+]}[#$$)*$$$}!}*{@%!+)^]%(({+}&&
+p33
+I13124
+sVp.__class__
+p34
+I880
+sV#%$(%$&#@$!))*#!_]#^@%%&!*}!)%+&@+*$#_[__^[%+(*!*)^&))(_(%&{}#%&[)+_]{#+&!#]](%!
+p35
+I13031
+sVlen(values)
+p36
+I3661
+sVgetattr(w, "supplier")
+p37
+I4135
+sVimport settings
+p38
+I1645
+sVs = sorted(cube)
+p39
+I15561
+sVt.text
+p40
+I1641
+sVa = 0.7863132
+p41
+I12474
+sVb.Creator
+p42
+I6124
+sVr = re.compile(r"\u005cbhole\u005cb", re.I)
+p43
+I6186
+sVkw = {'count': 15, 'order_by': '-updated', 'filters': [u'type,decorated-photo', u'category,Bathroom'], 'offset': 0}
+p44
+I4210
+sViter(range(10))
+p45
+I8536
+sVmodels.ImageField("cms/upload/images/image/2009-09-02-130744_1280x800_scrot_______.png")
+p46
+I8640
+sV"a" in "holo"
+p47
+I4695
+sVf.f_back.f_restricted
+p48
+I4258
+sVTag(name="dia").save()
+p49
+I264
+sV#&@{[^@)(}#[@@&$)]!%@)+*})[{%#{%^*}}{{}]&_$&&$()&#_{!}@(+$%@!*@]*$+&_()&!#}@@{+!
+p50
+I13221
+sVctx['catdata']
+p51
+I8521
+sVm._meta.admin
+p52
+I689
+sVdatetime.datetime.strptime(s, '%Y-%m-%d %H:%M:%S %Zz')
+p53
+I17705
+sVfrom search.models import SEOLandingLink
+p54
+I12143
+sVweakref.ref.__doc__
+p55
+I4144
+sVr = RoomCompetition.objects.get(slug='marrakech-dream')
+p56
+I20801
+sV++]}#[*%$}[$_$([$$}[**!!%{*&[$@^_&$$*#{![&^($([%$@{{{@))]#_]{$([[+[%#[^*{+(_%$+(
+p57
+I13331
+sVgetattr(u, 'username')
+p58
+I18635
+sVp['a']
+p59
+I18874
+sVclauses = []
+p60
+I4535
+sVnodes[0].node.nodelist
+p61
+I10206
+sVC.objects.filter(bref__dref__pk=1).values_list('aref')
+p62
+I19420
+sVimport ldap
+p63
+I9252
+sVmath.radians(360 - 40)
+p64
+I12304
+sVopr.parse("tag xxx as yyy uuu".split())
+p65
+I432
+sVclass C(object):
+p66
+I10174
+sVx = VideoIndex.search("cola")
+p67
+I183
+sV[ purple.PurpleConversationGetName(c) for c in [ purple.PurpleConvIm(i) for i in purple.PurpleGetIms() ]]
+p68
+I5605
+sVs.recv(32)
+p69
+I7287
+sV[(id, u.username) for u in User.objects.all()]
+p70
+I20083
+sVt = h.get_access_token('6568448')
+p71
+I16402
+sVi._translation_model._transmeta.translatable_fields
+p72
+I17878
+sVf = '/home/omab/.bitlbee/msn/commands'
+p73
+I9375
+sVimg2.save(f)
+p74
+I12286
+sVa.find(";")
+p75
+I4666
+sVc = get_recent_comments()
+p76
+I4274
+sVtokenize = build_tokenizer(phrases, base_tokenizer=HtmlTokenizer(stopwords=[None]))
+p77
+I6490
+sVValidationError([None, 'Hola'])
+p78
+I20065
+sVa.index(9)
+p79
+I1257
+sVq.put_nowait?
+p80
+I16181
+sVr = re.compile('Publicado: ([^|]+)')
+p81
+I16654
+sVr.embed_images()
+p82
+I19641
+sV$*@]%($}}*}$}[$(!+(&@+]!#+{@@%%[[)#(+]{}+%@%+_+*+{#&(]$}})^!*%_][@{{!@)&%{@$^}!(
+p83
+I12984
+sVp[0:len(p)], p[len(p):]
+p84
+I14638
+s.

@@ -1,0 +1,263 @@
+(dp1
+Vdatetime.datetime.strptime(d, "%y-%m-%d %H:%M:$S")
+p2
+I1077
+sVclass SomeClass(object):
+p3
+I15517
+sVy = 'http://myapp.com:8000/complete/facebook/?code=2.dQHKTthSV1DL2u6p7Y3tmA__.3600.1301043600-100002200789926\u005cu00257CMgmuLIWeimhjFQ_5OZrnfGOYeDw'
+p4
+I21379
+sVurllib.urlencode(params)
+p5
+I11711
+sVmonth = '09'
+p6
+I17955
+sVf = Website._meta.get_field('manufacturers')
+p7
+I10083
+sVprint
+p8
+I6547
+sVurlparse.urlunparse(('http', '', '/pepe', '', '', ''))
+p9
+I8801
+sV}%{^*)@[{#)%)]{_*__^%!@)#[![_}[{(}]@[)]%(&^$+)%_#&_)])[(}(!&[(&(]@@$!&@&!&*!_}&!
+p10
+I13898
+sVzlib.compress?
+p11
+I17434
+sVh.feed('I like the <a href="/">black sofa bed</a>, but the blue sofa bed would be nice with the <a href="/">black out blinds</a>')
+p12
+I6593
+sVfrom cms.widgets import DateField
+p13
+I18403
+sVstring.digits
+p14
+I1990
+sVp = get_last_page('/new/', 'work_in_progress', '')
+p15
+I12668
+sVdict((k, sum(filter(lambda x, y: x == k, data))) for k in dict(data).iterkeys())
+p16
+I15610
+sVa = "%s"
+p17
+I3021
+sVlen(p)
+p18
+I1017
+sVwith 1 as a:
+p19
+I16159
+sVurllib.quote_plus("http://www.argos.co.uk/static/Browse/ID69/10198115/c_1/1|category_root|Toys+and+games|10198115.htm?tag=PS6_1a")
+p20
+I3332
+sVre.compile('us.dev').search('uspdev.mydeco.com')
+p21
+I14593
+sVfrom django.forms import ValidationError
+p22
+I17195
+sVArticle._meta.get_field_by_name('ukser')
+p23
+I11954
+sVwebkit.WebView()
+p24
+I18036
+sVq.query.group_by = ['strftime("%%y %%m", date)']
+p25
+I15733
+sVt.sections.all()
+p26
+I4728
+sVf.contents
+p27
+I791
+sVsettings.DATABASE_NAME
+p28
+I1647
+sVr._headers['location'][1]
+p29
+I20667
+sVu.is_staff
+p30
+I7103
+sV</body>
+p31
+I9703
+sVf.get_player_names()
+p32
+I15592
+sVr = r.match("abweqiueioquweoiwab")
+p33
+I3939
+sVbool(i.image)
+p34
+I9158
+sVr.items[0]
+p35
+I4078
+sVupdate cms_fragment_template set content_names = "" where id = 74;
+p36
+I6669
+sVtest(10, True, *l)
+p37
+I18149
+sVvar countryTLDs=/^(ac|ad|ae|af|ag|ai|al|am|an|ao|aq|ar|as|at|au|aw|az|ba|bb|bd|be|bf|bg|bh|bi|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cat|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|cr|cu|cv|cx|cy|cz|de|dj|dk|dm|do|dz|ec|ee|eg|eh|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gd|ge|gf|gg|gh|gi|gl|gm|gn|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|im|in|io|iq|ir|is|it|je|jm|jo|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|me|mg|mh|mk|ml|mm|mn|mo|mp|mq|mr|ms|mt|mu|mv|mw|mx|my|mz|na|nc|ne|nf|ng|ni|nl|no|np|nr|nu|nz|om|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|ps|pt|pw|py|qa|re|ro|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|sk|sl|sm|sn|so|sr|st|sv|sy|sz|tc|td|tf|tg|th|tj|tk|tm|tn|to|tp|tr|tt|tv|tw|tz|ua|ug|uk|um|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|ye|yt|yu|za|zm|zw)$/;
+p38
+I9628
+sVlen('User-Type')
+p39
+I14661
+sV$}##]]*&#[@()!)#([]@#+)^+{*&$_@_([[]^@_)+$#+)]*@!!]})}__!@##{[(&%![[)[*){@^[@(]+
+p40
+I13865
+sVuuid.uuid1()
+p41
+I4810
+sVa.viewed_times
+p42
+I5346
+sVx.parent.abbr
+p43
+I19861
+sV(%+{*{)]^+[{*+&+_)^)$)[]{}]&}%((_%%[_#}[}*%[^_@!$%)*^@]@%+[#$}##&!_}[%[![*^}_)+#
+p44
+I13588
+sVf[21].name
+p45
+I1934
+sVimport jpg
+p46
+I5524
+sVmodels.get_model('auth', 'User')
+p47
+I18621
+sVa = (i for i in range(10))
+p48
+I9498
+sVpprint((1, 2))
+p49
+I13
+sVc.move('Qd5')
+p50
+I16056
+sVfrom link.models import *
+p51
+I1581
+sVbase36encode(u.int)
+p52
+I21454
+sVimg.value_to_string()
+p53
+I17375
+sVprint u"2665"
+p54
+I6810
+sVhash(tuple(a.items()))
+p55
+I1362
+sVstep = 100
+p56
+I18373
+sVhxs.select('/html/head/title/text()')
+p57
+I10558
+sVhtmllib.HTMLParser?
+p58
+I9711
+sVupdate cms_fragment_template set content_names = "description/largetext,image/ima
+p59
+I6755
+sVdG9kYXZpYSBubyBwdWVkbyBjcmVlciBzaSBlcyB2ZXJkYWQgbyBubywgbyBzZWEsIGFtYm9zIG1l
+p60
+I14507
+sVp = urllib2.urlopen("http://localhost:8000/tipocms/sync/live-pages/list/")
+p61
+I1058
+sVt._own_comments()
+p62
+I20421
+sVq.children[0].children[0].__class__
+p63
+I11010
+sVlist(xrange(1, 6)
+p64
+I3793
+sVfrom_draw.get_pixels_array()[0][0]
+p65
+I7973
+sVs.query(PhotoTag).filter_by(~PhotoTag.tag_id.in_([x.id for x in t.subtags]))
+p66
+I14764
+sVt0.name
+p67
+I47
+sVy.decode('utf-8').decode('utf-8')
+p68
+I21382
+sVhp.heap().more
+p69
+I9247
+sVs.result.search_params.get_args('display')
+p70
+I14369
+sVUser.obnob_groups.related.field.name.rel.field_n
+p71
+I20178
+sVc = StampCategory.objects.filter(selected=True)[0]
+p72
+I6305
+sVa.start
+p73
+I651
+sVc = db.find({'locale':'en-gb'})
+p74
+I19932
+sVfrom gtk import main_quit, Window, WINDOW_TOPLEVEL, Button, DrawingArea, Label, Table, main, WINDOW_POPUP
+p75
+I7965
+sVph = get_helper(Page.objects.all()[0])
+p76
+I4841
+sVr = ProductSearch(query='', count=1000, display=['guid', 'variant_count'], locale='en-gb')
+p77
+I21273
+sVFace.objects.all().delete()
+p78
+I10906
+sVupdate cms_fragment_template set content_names = "" where id = 38;
+p79
+I6633
+sVdata.fragments['title']
+p80
+I12402
+sVt.seconds
+p81
+I17604
+sVu.obnob_groups.add()
+p82
+I20153
+sVb.decrypt(b.encrypt("12345678a"))
+p83
+I977
+sVimport unittest
+p84
+I20635
+sVlist(Product.objects.filter(pk=x[0]))
+p85
+I18547
+sVw.manufacturers
+p86
+I10088
+sVc.wait?
+p87
+I16067
+sVweb.show()
+p88
+I18012
+s.

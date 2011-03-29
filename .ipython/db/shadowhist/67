@@ -1,0 +1,262 @@
+(dp1
+Vdatetime.datetime(*(list(d2.timetuple()[:-1]) + [None,]))
+p2
+I4059
+sVint(a[a.find('(')+1:a.find(')')])
+p3
+I503
+sVimport rfc882
+p4
+I11881
+sVlen(a)-1
+p5
+I1449
+sV$+**(@!{%!@^^]^#(@}[]@]#^[*+*[^!*_&))*_&((]#}&^$^!#+[)(#+(}[^(%}[${*)[@(&^^*{{%$
+p6
+I13826
+sVurlparse.urlparse(h).path
+p7
+I20780
+sVfrom tipocms import views
+p8
+I8484
+sVev._meta.module_name
+p9
+I8253
+sVfrom categorization.models import *
+p10
+I2563
+sVf.errors['product']
+p11
+I20865
+sV$+%([}$))^^!{}&%_%+$%&#[}^*_^^_#$$&^{@#}%[$&&({&^]}(}(@#*&#^)&{$(+^++$!*[{})]}^$
+p12
+I13692
+sVfilter(lambda x: x % 2 == 2, range(10))
+p13
+I15545
+sVdef fact(i):\u000a    if i < 0 or i in (0, 1):\u000a        return 1\u000a    return i * fact(i-1)
+p14
+I5636
+sVb = [ i for i in [ii for ii in a] ]
+p15
+I1496
+sVs = Signal()
+p16
+I8448
+sVlist(c.categoryfacet_set.all())
+p17
+I2391
+sVquery.insert_values(values, raw_values=False)
+p18
+I7932
+sV_#[^$_#%^]^&[)$@)]]{@@^(&[([!}@}%]!+_((_^[{$&^(^)*((![*{_+#(]#^[]_^#([[^[!!%]$!(
+p19
+I13458
+sV!^&&^*$!@*{}[*{{{_&(+#&+$%!^_^[($&+#_&@&]}[%}^{{$&!)}_[}(){[)%)$$_#_$}+$^()[%_]_
+p20
+I13213
+sVa.find('\u005c\u005c')
+p21
+I10164
+sVd.timetz?
+p22
+I17732
+sVfor k, v in a.iteritems():\u000a    clauses.append("%s IN (%s)" % (k, ", ".join(["%s" * len(v)])))
+p23
+I4537
+sVdel a['hola']
+p24
+I6063
+sVtxt = text(page=p, name=n, group=uuid.uuid4().hex, value='hola mundo', attrs=None)
+p25
+I8614
+sV](+]&}&#[!#[)^^}@^)+&(&@[&!!)$]*{{$**)^(*[)$#}*)_{@(}&^$#([((*_]&^[!+()(&)(^]#*%
+p26
+I13160
+sVcd.name
+p27
+I10494
+sVs = "hola/text, como/image(a|b|c|), andas/text[2], bien/text(d|e)[3] "
+p28
+I535
+sVf.is_bound
+p29
+I238
+sVprint len(Product.objects.filter(pk__in=x[:158]))
+p30
+I18571
+sVurlparse.urlparse("/search/?query=a")
+p31
+I1620
+sVu.books.all()[0]
+p32
+I6134
+sVs._current
+p33
+I11384
+sVfrom searchlib.match import MatchStructure, WordMatchStructure
+p34
+I2075
+sVtype('ExpiredSpecialOffers', (object,), {})
+p35
+I7141
+sVre.search('/(\u005cd+)-', url).group(2)
+p36
+I16235
+sVa = "djaskdj kdjask"
+p37
+I2941
+sVf
+I236
+sVfor name, xpath in plain:\u000a    print name\u000a    item[name] = ''.join(hxs.select(xpath).extract())
+p38
+I16813
+sVb.__class__
+p39
+I3097
+sVapply(lambda x: x*x, *range(10))
+p40
+I8709
+sVp = CmsPage.objects.get(pk=16160)
+p41
+I18342
+sV6 // 5
+p42
+I4454
+sVc['catdata']
+p43
+I5427
+sVd['section1'])
+p44
+I5065
+sVsorted(a, lambda x, y: len(a[x]) > len(a[y]))
+p45
+I3588
+sV{^$[[#[@@(]}{!+)[($%({@#%[}}+#^]#{%#^#*]#{)&__&@%+)@@}_!*_#&]{])&_#)){%!&]%##++[
+p46
+I13536
+sVhex(ord('b'))
+p47
+I5208
+sVhxs.select('//ul[2]/li/a/@href').extract()
+p48
+I10568
+sVclass C(B):
+p49
+I1705
+sVr = RootCategoryBrowseCatInfo()
+p50
+I3874
+sVCmsPage.objects.get_last_live_pages(['/', ])
+p51
+I1003
+sVdatetime.datetime(x.toordinal)
+p52
+I19197
+sVUncategorizedProduct.objects.all()[:10]
+p53
+I2672
+sVa.__class__.__index__()
+p54
+I4138
+sVn.widget.id_for_label
+p55
+I2909
+sVweb.geometry()
+p56
+I18023
+sVt.split_contents
+p57
+I10096
+sVVote.objects.filter(option__question=q)\u005c\u000a                            .values_list('option_id',\u000a                                         'option__text',\u000a                                         'created')\u005c\u000a                            .select_related('question')\u005c\u000a                            .order_by('id')
+p58
+I18994
+sVet.keys()
+p59
+I17297
+sV*_&+][^][}^@}])!(&^*[_%+(}!!{!!^*@!({%]#[_&()$]!$]@}*][)#()})[*^[^}]#(((_^#%%]@}
+p60
+I12910
+sVx = VideoIndex.search("peludo")
+p61
+I175
+sVlist(ARTICLE_TRACKED_URL_RE.finditer(s))
+p62
+I14892
+sVi.info.__doc__
+p63
+I5529
+sVct = cms_type_contenttype()["text"]
+p64
+I1952
+sVr.match('kdaldksl')
+p65
+I14927
+sVPLUGINS['hp_splash'].CONFIG
+p66
+I12840
+sVfor a in range(10):
+p67
+I5903
+sVp._meta._join_cache
+p68
+I6797
+sV[#^#}(%{#*%**{]]((__)![]^+]+@__*_{)$*#)&][!)_{&$}}#_$#([++{[$*()_**#_#%_$)#]*%_(
+p69
+I13376
+sVfilter(None, (i for i in range(10)))
+p70
+I12826
+sVroom.get_absolute_profile_url()
+p71
+I9283
+sVf.base_fields['text'].options
+p72
+I712
+sVp[-1]
+p73
+I17857
+sVitem.current_language == item._translation_model._translation_meta.master_language
+p74
+I11075
+sVa = p.productos.all()[0]
+p75
+I7441
+sVtype(a) == "generator"
+p76
+I2412
+sVp.changed_data
+p77
+I7784
+sV''.join(Random().sample(string.letters + string.digits, 12))
+p78
+I3431
+sVff.label.translate('es')
+p79
+I9124
+sVh.load()
+p80
+I1156
+sV_%[@{(*)${##{*@{[]&^[&%^[)%*[]*)$*@)[$%{{^#^(}!!_$!+*^&!)([!!]_%)([(#])+$*%[@{&^
+p81
+I13618
+sVg.complete()
+p82
+I6949
+sV__import__("wears").designed
+p83
+I2865
+sV(]](}^]#}_!@!#)!+_}&!+_()]{&+]_+*[([))$_)$!#(+@@*_[$)$[!^&%@{^%{@%+!+{$&[#!&!$!^
+p84
+I13764
+sVapi.auth.key
+p85
+I16412
+sVg.add_edge("c", "c")
+p86
+I6888
+sVp.easy_stem("there")
+p87
+I5919
+s.

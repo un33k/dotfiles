@@ -1,0 +1,3 @@
+#!/bin/bash
+. ~/.bashrc
+/home/omab/job/insophia/mydeco/mydeco_site/trunk/bydesign/manage.py shell 2>&1>/tmp/out

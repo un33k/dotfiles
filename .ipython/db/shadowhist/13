@@ -1,0 +1,218 @@
+(dp1
+Vp.related_query_name()
+p2
+I8977
+sVh.keys()
+p3
+I10509
+sVItem._meta.trans_model
+p4
+I11042
+sVfs.forms[0].fields
+p5
+I3279
+sVjson.loads('{"a": new Date(Date.UTC(1,0,1,5,0,0,0))}', cls=JSD)
+p6
+I18508
+sVm = ARTICLE_TRACKED_URL_RE.search(s)
+p7
+I14889
+sVcsv?
+p8
+I10672
+sViriencode('a=1&b=2')
+p9
+I12645
+sVuserid = 813
+p10
+I7822
+sVfrom obj.models import TranslateableModelTrans
+p11
+I5781
+sVs.relative_created_at
+p12
+I16370
+sVc.image.encoding
+p13
+I17407
+sVa.update([("2", "8"),])
+p14
+I1988
+sVbp = BtlPricepoint.objects.all()[0]
+p15
+I4358
+sVpage_info = et[0]
+p16
+I17300
+sVnltk.tokenize.WordPunctTokenizer().batch_tokenize("I like the blacks sofas beds, but the blue sofas beds would be nice with the black out blinds")
+p17
+I6477
+sVsite._registry
+p18
+I17822
+sVitem = list(CmsPage.objects.most_viewed("/the-magazine/", ''))[0]
+p19
+I12203
+sVfrom twitchess.playqueue import QueueServer
+p20
+I16948
+sVgtk.gdk.Color('#aaa'))
+p21
+I8083
+sVop.read)(
+p22
+I19291
+sVs[0].__class__
+p23
+I16983
+sVp.template_info()
+p24
+I17059
+sVp.translations.get_query_set()
+p25
+I5891
+sVa.expand_item(s)
+p26
+I509
+sVRenderedData(page=p, name=n, value="hola").save()
+p27
+I10446
+sVupdate cms_fragment_template set content_names = "roomTitle/text,i
+p28
+I6678
+sVa.pop?
+p29
+I10811
+sVs.encode('utf-8')
+p30
+I11659
+sV+_+}%@#{_}^#*)%*(*}*![}[%_[[^@$&%)([*{_${)$^^_!+}{)!)@_[*$_}*}$#[+}{]*+!^])}&{+#
+p31
+I14087
+sVx.search('blue bedsbig')
+p32
+I19371
+sVl.print_a(a)
+p33
+I8367
+sVt = Tag("pepe")
+p34
+I253
+sVurl.split('/')[2:]
+p35
+I9027
+sVupdate cms_fragment_template set content_names = "image/image,overlayImage/image,title/text,lookName/text,description/largetext,lookID/text" where id = 31;
+p36
+I6626
+sVapi
+p37
+I16407
+sVu.set_password
+p38
+I4469
+sVc.facets
+p39
+I2397
+sVnodes[-2].node.nodelist
+p40
+I10219
+sVrewrite_url('bestonlinesofas.com', 'http://mydeco.com/microsite/bestonlinesofas.com/the-magazine', force_rewrite=True, is_secure=True)
+p41
+I8806
+sVsock.send(simplejson.dumps({'user': 'matias', 'msg': 'new'}))
+p42
+I16936
+sVimport gobject
+p43
+I5715
+sV!^__!&+^_@_){}[)*[#__[[+&{(!*&[!_@*&}*)%{*+{(^++^!][&#))*]*^_&^+({)[)$#+(+%{&[^(
+p44
+I13752
+sVlen(a) / 3
+p45
+I5670
+sVs = u.social_auth.all()[0]
+p46
+I20305
+sVq.user_avatar_url
+p47
+I9461
+sV<methodCall>
+p48
+I8425
+sVl = link_re.findall(a)
+p49
+I1238
+sVfrom django.forms import CharField
+p50
+I17599
+sVg.del_node('z')
+p51
+I6902
+sVsimplejson.dumps("141564835905859|2.Z6ow2cX4P7hmyfoegcfmUA__.3600.1298487600-100001787895262|wyt793FaTJwgCupFvYEHlrw7PUw")
+p52
+I20593
+sVxxx(1, 2, c=3)
+p53
+I19920
+sVb = copy(a)
+p54
+I555
+sVsocial_auth.__version__
+p55
+I19346
+sVlist(ws)
+p56
+I14308
+sVUserSocialAuth.delete()
+p57
+I20299
+sVd['/the-magazine/']
+p58
+I9613
+sVa = property(p)
+p59
+I1822
+sVprint f.get_form(1)
+p60
+I3318
+sVv.name
+p61
+I5040
+sVi()
+p62
+I8588
+sV[ l[x:x+2] for x in xrange(len(l)/3) ]
+p63
+I14178
+sVev.subs_emv_tag
+p64
+I8395
+sVi.image.name
+p65
+I9161
+sVprint simplejson.__doc__
+p66
+I1047
+sVr.match("hola/mundo")
+p67
+I4754
+sVlen(ids_sql)
+p68
+I1028
+sVs[0].id
+p69
+I16473
+sVf.value_from_object(p)
+p70
+I20919
+sVx[2].next()
+p71
+I19339
+sVARTICLE_TRACKER_URL = re.compile('["\u005c'](/aff/?[^"\u005c']+)["\u005c']')
+p72
+I14782
+sVreverse('alert_list', args=(u.username,)
+p73
+I12369
+s.

@@ -1,0 +1,242 @@
+(dp1
+Vimport gtk
+p2
+I7298
+sVgetattr(w, "get_logo_filename")()
+p3
+I2756
+sVf.errors.__class__
+p4
+I14476
+sVpd = p.fragments_data()
+p5
+I827
+sVos.stat
+p6
+I7560
+sVr.title
+p7
+I11471
+sVs.senatorimage_set.filter(file!='')
+p8
+I1118
+sVa = "get_user_from_id usrid as user"
+p9
+I11749
+sVp.is_monetised_affiliate
+p10
+I12412
+sVp Fuse.__doc__
+p11
+I7501
+sVu.mydeco_mail = True
+p12
+I14529
+sV[ n for n in nodes if hasattr(n.node, 'nodelist') ]
+p13
+I10221
+sVfrom social_auth.modela import *
+p14
+I18673
+sVp = P(1)
+p15
+I779
+sVg.get(
+p16
+I7816
+sVLIST_ITEM_RE.match('hola[10]')
+p17
+I9967
+sVb.url = 'http://google.com'
+p18
+I16142
+sVgobject?
+p19
+I15009
+sVfrom functools
+p20
+I11126
+sVitem.id
+p21
+I11059
+sVarticles = ArticleSearch(query=['cake stands', 'carriers'], count=17, display=display)
+p22
+I5358
+sVfrom phplist.models import *
+p23
+I1178
+sVinput = [ { 'a': 1, 'b': 1 }, { 'a': 2, 'c': 1 }, { 'a': 3, 'b': 2 } ]
+p24
+I7598
+sVfragments = p.cmsfragment_set.all().select_related(1)
+p25
+I1999
+sVfrom engines.gnuchess import GNUChess
+p26
+I15961
+sVp.addresses
+p27
+I19891
+sVbooks[1].Title
+p28
+I6075
+sVs = serializers.get_serializer('csv')()
+p29
+I11309
+sVu = User.objects.all()[3]
+p30
+I19937
+sVdo_search('red sofa',supplier=5,category=2273,**{})
+p31
+I3759
+sVx = datetime.datetime.now()
+p32
+I18397
+sVr.read()
+p33
+I21157
+sVs.autocommit
+p34
+I15228
+sVfrom collections import group_by
+p35
+I20419
+sV^!+@#@[)@{^){{])#((!(@!%&$%#+}#&!^}+(#()^){}]{)!(%)^#}#)!*+}))+(+(&&[+%[##*$[)}]
+p36
+I13796
+sVa[0] = a[0].upper()
+p37
+I460
+sVstr(val)
+p38
+I10410
+sVd.month.conjugate
+p39
+I17943
+sVlist(groupby(qs, lambda x: int(x.competition.id)))
+p40
+I19119
+sVprint val
+p41
+I10408
+sVrooms.result
+p42
+I11460
+sVtime.sleep(3)
+p43
+I14484
+sVb.tag
+p44
+I10375
+sVfrom django.template import Lexer
+p45
+I10166
+sVcm.move('Nc6')
+p46
+I15898
+sVre.compile('us\u005c.dev').search('us.dev.mydeco.com')
+p47
+I14591
+sVa.type.add(Type.objects.get(description="Agenda"))
+p48
+I872
+sVs.query(PhotoTag).filter_by((PhotoTag.tag_id == t.id))
+p49
+I14738
+sVp.parent.coords.x
+p50
+I19883
+sVbase64.decode(s)
+p51
+I14107
+sVt = l.tokenize()[3][1]
+p52
+I10061
+sVb and c
+p53
+I5712
+sVupdate cms_fragment_template set content_names = "actionLink/text,actionLink_text/text,backgroundImage/image,titleText/text,bodyText/largetext,link1_text/text,link1_href/text,link2_text/text,link2_href/text,link3_text/text,link3_href/text" where id = 3;
+p54
+I6601
+sVopencv.cvHaarDetectObjects?
+p55
+I10855
+sVqs = Room.objects.select_related()
+p56
+I17575
+sVfrom product.utils import ProductType, scale_product_image_url, filter_offers, get_discount
+p57
+I17550
+sVv[-1].name
+p58
+I8694
+sVr = re.compile('dev|qa')
+p59
+I18275
+sV*!^+&)%**}*{@#^^$^*)**!@&]]#[@@##%}@@[(!)!}*)%@+#+**)_%^&#}(+]][(%#*]_(}&){#%*#_
+p60
+I13425
+sVdef search(cls, text):
+p61
+I72
+sVfrom celery.task import task
+p62
+I20005
+sVtitulares.select('./h1[@id="Autor"]//strong/a/text()').extract()
+p63
+I16688
+sVR N B Q K B N R
+p64
+I15936
+sVpynotify.Urgency(1).show()
+p65
+I7270
+sVm = md5.md5('cache:navigation_bar:shopping:main:en-us')
+p66
+I17431
+sVs = s.strip()
+p67
+I14208
+sVPerson.objects.all().lang('es').filter(address__startswith="pepe")
+p68
+I5867
+sVa = range(20)
+p69
+I485
+sVdatetime.now().date() + datetime.timedelta(1)
+p70
+I18851
+sVh.hexdigest()
+p71
+I18490
+sVpepe.__repr__()
+p72
+I3692
+sVmimetypes.guess_type?
+p73
+I14801
+sV&*^}!{)]^^[(@+[{!&%%$[@]&+$&[)({{#)[([({{#!(](]$!$+#_[@(({&+@}^}!!{@@**#_*_]$]](
+p74
+I13415
+sVcgi.parse_qs('a=b&c=a%2C1')
+p75
+I9097
+sVPermission.objects.get(codename='cms_editor')
+p76
+I6002
+sVCmsPage.objects.filter('/the-magazine/articles/olegs-test/')
+p77
+I12226
+sVscraping == mydeco - set(['matias'])
+p78
+I9262
+sVfrom product.models import Product
+p79
+I4232
+sVfor n, (x, y) in a.iteritems():\u000a    print n, x, y
+p80
+I11067
+sVmap(lambda a: clone(a[0], a[1]), zip(input, [keys]*len(input)))
+p81
+I7653
+s.

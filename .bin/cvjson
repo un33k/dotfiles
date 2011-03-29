@@ -1,0 +1,9 @@
+#!/bin/sh
+# console wrapper for vjs script
+
+while [ true ]; do
+    echo -n "url> "
+    read url
+    [ $? -eq 1 ] && echo && exit   # Ctrl-D to exit
+    [ "$url" ] && vjson "$url"
+done

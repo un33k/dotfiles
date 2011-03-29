@@ -1,0 +1,299 @@
+(dp1
+V%{#)&_%^(@&)#$#*@+*)$)+]_+#[$((@%[%&!%#!{_^^]{]@%^){(+!)#_^!_[+!*{*)&&*&]#{[[^!{
+p2
+I13892
+sVurllib.unquote("hola%20mundo")
+p3
+I4516
+sVNotice.objects.all().order_by('-id')[0]
+p4
+I20926
+sV!$${](]}_!&_(^^(_!{#*^{*#}{^[!#)&)!$_!@*^@^^)]@!{{{^[!!)])]@%+({*![@%#%^}))!${)]
+p5
+I13260
+sVfrom django.generic.simple import redirect_to
+p6
+I16844
+sVAssociation
+p7
+I20300
+sVr = re.compile('.*pepe.*')
+p8
+I6239
+sVp.model._meta
+p9
+I8890
+sVconnections['sscursor']
+p10
+I18944
+sV%){!}(#]^_(!^]({%@_@$%*{*@)*#!%$(*_(]!#*#%[*[&*)^[%&$_)!$[_&($]]%{!%&)[(]&{[[[{+
+p11
+I13944
+sV!#]]({_*[%((+(+%&+&$[]++{!{)})_*^{[$^+(+%({!(@{#(^[(%}*$_**[)+#*&*[_%{*@)_{%(@}#
+p12
+I13875
+sVre.search('/(\u005cd+)-', url).group(1)
+p13
+I16234
+sV$+]@#@_^^_#@}!)$_#$*&{+^{+@*{#!#$!%*^!}[[{]+{[@(%_&}^$%^()[&#%@_+{(*[$#!}[+_{*%(
+p14
+I13506
+sVRoomCompetition.objects.filter(creator=1)
+p15
+I20266
+sVrandom.randint(0, 30)
+p16
+I12134
+sVlen(result)
+p17
+I15537
+sV# DATABASE_HOST = 'zofa'
+p18
+I4642
+sVtime.mktime(time.time())
+p19
+I7552
+sVprint a.encode('utf-8').decode('ascii')
+p20
+I10146
+sVd.year = 2009
+p21
+I4033
+sVq = Q(a=30) & Q(b=10)
+p22
+I11062
+sVa.prueba
+p23
+I8995
+sVprint u"U'2665"
+p24
+I6816
+sVm = r.match("""{% article_tracked_url "argos.co.uk""http://www.argos.co.uk/static/Browse/ID69/10244273/c_1/2|category_root|Home+and+furniture|10197552/c_2/3|cat_10197552|Clearance+home+and+furniture|10244273/r_1/1|Price+Cut|Yes|1.htm "%}"target="_blank" """)
+p25
+I14949
+sVqs.extra?
+p26
+I18909
+sVlen(os.urandom(5))
+p27
+I19229
+sVl[-2]
+p28
+I16098
+sVTYPES
+p29
+I4855
+sV[!}&#{$+_@&_!}){{$(}[{*@%[(!@]!{&&%$!#[[(){%#%_^#_{_!}$!{)$$#&_^){[(#&$_^{%$!^}!
+p30
+I13995
+sVa = "pepepepe"
+p31
+I5730
+sVmap(lambda i: i.update(keys), input)
+p32
+I7643
+sVtry:\u000a    a = []\u000a    a[0]\u000aexcept (ValueError, KeyError, IndexError), e:\u000a    print "hola", str(e)
+p33
+I6165
+sVjson = json.replace("\u005c\u005c\u005c'", "\u005c\u005c'")
+p34
+I11624
+sVzip(a, a[1:])
+p35
+I3068
+sVupdate cms_fragment_template set content_names = "tabUrl/text,tabText/text" where id = 25;
+p36
+I6620
+sVo.pages
+p37
+I2841
+sVclass Prod(object):
+p38
+I14963
+sVupdate cms_fragment_template set content_names = "" where id = 72;
+p39
+I6667
+sVlocale.currency(float(10))
+p40
+I5737
+sVt = Template('{% static_url "/media/data/avatars/images______________________.jpg" %}')
+p41
+I11490
+sVs.provider
+p42
+I20307
+sVurllib.splitquery(u)[1]
+p43
+I6330
+sVCmsPage.objects.exclude(simple=None)
+p44
+I11975
+sVj = xmpp.JID("matias@insophia.com@conference.insophia.com")
+p45
+I4322
+sV+%(*$[&@]*(&@[#{_%!^{)!*!@_]^[(}*]}(!]__{)!**}(!}++[$+([!]*()${){+%_(!&[{*]])#]&
+p46
+I13094
+sVlist(dict(g)['admin'])
+p47
+I19328
+sVupdate cms_fragment_template set content_names = "lookId/text,lookTitle/text,lookImage/image,lookDescription/largetext,linkUrl/text,linkText/text,imageLinkUrl/text,linkUrl2/text,linkText2/text,linkUrl3/text,linkText3/text" where id = 29;
+p48
+I6624
+sVxml.startElement('sub-page', {'x': '2', 'y': '3'})
+p49
+I17261
+sVq.query.group_by = ['strftime("%%y", date)', 'strftime("%%m", date)']
+p50
+I15734
+sVint('', 10)
+p51
+I6140
+sVprint json[18350-30:18350+30]
+p52
+I11625
+sVauth_token = u.extra_data
+p53
+I19743
+sVt(c.categoryimage_set.all())
+p54
+I3601
+sVB issubclass?
+p55
+I16288
+sVfrom httplib import HTTPConnection
+p56
+I21148
+sVs += ', hola(2)'
+p57
+I517
+sVreadline._rl()
+p58
+I3261
+sVParent.objects..first()
+p59
+I18819
+sVd > d2
+p60
+I7135
+sVclass Lola(Pepe):
+p61
+I18293
+sVpl
+p62
+I14474
+sVbisect.bisect_left?
+p63
+I17048
+sVimport gzip
+p64
+I17225
+sVfrom sets import Set
+p65
+I8504
+sVdef read_pipe(sub):
+p66
+I15983
+sVs2.user = SystemUser.objects.all(order_by=['?'])[0]
+p67
+I7395
+sVzlib.compress('hola mundo')
+p68
+I17229
+sVmanage.execute_manager('shell')
+p69
+I17625
+sVdatetime.datetime.strptime('20', '%m').strftime('%B')
+p70
+I17951
+sVabs(-1.32)
+p71
+I10740
+sVf = UserSocialAuth._meta.get_field('user')
+p72
+I18628
+sVp gtk.Window.__doc__
+p73
+I7331
+sVx = [1, 2, 3]
+p74
+I14584
+sVp optparse.__doc__
+p75
+I2811
+sVa.rpartition('-')
+p76
+I12000
+sV@^+(}{)#_}^)[$%}+]^}$()@#%#{!*{!(%%[!(&_![_#)_]{((!]%+^(#@[!]%}]%+@[)^@^]#}[{$(_
+p77
+I13172
+sV`float('1.4')`
+p78
+I21219
+sVos = __import__('os')
+p79
+I12694
+sVopr.parse("tag xxx as yyy uuu mmm".split())
+p80
+I433
+sVfield.widget.attrs
+p81
+I726
+sVf = open("/home/omab/Desktop/list", "r")
+p82
+I2027
+sV}!_+*!(^!@[$)_{[@{@}%%@^##$*[#++_(]#}!)!^_%%][[}#{}*[[$#!{*(+)$$}@^{^$$$+]^]$}$%
+p83
+I13111
+sVFalse.__nonzero__()
+p84
+I12055
+sVa.update(dict("x=3".split("=")))
+p85
+I2965
+sVfrom oauth import OAuthConsumer
+p86
+I18522
+sVlen(v)
+p87
+I5520
+sV$]%@^+!##}*(*)&([]+]##%$)+$_^%^@&((+@&)%}${#&$!!($#&^](^^{{(&+]_]@&*#_^+#!(}]$*&
+p88
+I14076
+sVp.feed(d)
+p89
+I20766
+sVitertools.__doc__
+p90
+I5302
+sVu.extra_data['b'] = 'hola mundo'
+p91
+I20582
+sVhp.heap({})
+p92
+I9243
+sVdata = RenderedData.objects.filter(name='heading', page__http_path__startswith='/the-magazine/news/').select_related('page').values_list('value', 'page__http_path')
+p93
+I12427
+sVapi.auth.to_string()
+p94
+I16415
+sVt = Tmp()
+p95
+I4897
+sVsha.sha("SINGULARITY!").hexdigest()
+p96
+I12084
+sVlist(groupby(x, key=lambda q: q.question_id))
+p97
+I19044
+sVlu.save()
+p98
+I1185
+sV(&[[)*](*}%*%@+$${&)_#+^^]@$}%$]@[]$[_@]^!]&&+[[$!%{_((%&{@[)_^#)%!](__[)+_**$(]
+p99
+I13372
+sVSearchProductInfo(guid=["eae29abfc8105425862df193baa0beb4e9ece52c", "f32effbec746022f07328643e08d50d90b7fa311"], "products")
+p100
+I5286
+s.

@@ -1,0 +1,18 @@
+# vim:filetype=sh
+
+MYDECO="/home/omab/job/insophia/mydeco"
+MYDECO_SED_EXPR='s!/home/omab/job/insophia/mydeco/!!'
+
+local_settings() {
+    files=$(ls -1 --color=none $MYDECO/local_settings*.py | sed 's/local_settings_//' | sed 's/\.py//g' | sed $MYDECO_SED_EXPR)
+    cur="$2"
+    COMPREPLY=(${COMPREPLY[@]:-} $(compgen -W "$files" $cur))
+}
+
+localsettings() {
+    rm -f $MYDECO/local_settings.py
+    val=$(echo $1 | sed 's!$MYDECO/!!')
+    ln -s "local_settings_$val.py" $MYDECO/local_settings.py
+}
+
+complete -o bashdefault -o default -F local_settings localsettings 2>/dev/null

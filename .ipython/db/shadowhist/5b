@@ -1,0 +1,233 @@
+(dp1
+Vname = 'gg'
+p2
+I8434
+sVim = Image.open("pppp.jpg")
+p3
+I1376
+sVu = UserSocialAuth.objects.filter(provider='google')[0]
+p4
+I19427
+sVkeys = [ k for k in d.keys() for d in input ]
+p5
+I7612
+sVd2.timetuple()[:-1]
+p6
+I4056
+sVm.parse(html)
+p7
+I9723
+sVcategory_phrases
+p8
+I6346
+sVa = articles.get_result().get_tags()
+p9
+I5352
+sVs2 = s
+p10
+I7390
+sVimport ipbd
+p11
+I8555
+sVd = ''.join(open('/home/omab/p.html').readlines())
+p12
+I20765
+sVprint '.',
+p13
+I15922
+sV$*^%$%$+}_)#%+[}*)!](!^*&[*[%+[&+$^$@]!(!]+[!}+(&*^&#}@}([]*@$]]%_{]$*!_{)(!+_+@
+p14
+I13772
+sV'_'.join(a.split())
+p15
+I2113
+sVm.save()
+p16
+I12795
+sVr = product_search("sofa")
+p17
+I4073
+sVp.website_logo
+p18
+I2634
+sVct.model_class
+p19
+I21448
+sVlocale.CODESET
+p20
+I7429
+sVu.follower_count
+p21
+I20107
+sVc.get('/login/twitter/')
+p22
+I20726
+sVSponsorImage.objects.all()
+p23
+I380
+sVlist(tuple(set([1, 2, 3]) - set([1, 2, 3, 4, 5, 6])))
+p24
+I19265
+sVd.split(' ', 4)[1:]
+p25
+I16665
+sV__import__('account.views.register', fromlist=['.'])
+p26
+I8274
+sVItem.objects.filter(None)
+p27
+I10975
+sVkw = {'count': 15, 'order_by': '-updated', 'filters': [u'type,3d-snapshot', u'category,Bathroom'], 'offset': 0}
+p28
+I4205
+sV__import__('account.views', fromlist=['.'])
+p29
+I8272
+sV'hola' < 'A'
+p30
+I14156
+sVname = 'pepe'
+p31
+I8439
+sVo.url
+p32
+I7844
+sVfrom xml.sax import saxexts
+p33
+I9945
+sV", ".join("%(key)s=%%(%(key)s)s" % { "key": k } for k in values) % kv
+p34
+I3412
+sVq.get('1')
+p35
+I16173
+sV*}&+*{^[!#!}&+_(+]_#*+^@*({%((])}%%!%+#^_&^}[*#{])()]@#%@^$[$^!_)!@_@({@#&@%$+)]
+p36
+I13823
+sV]#%@+!^)$^+&^_{({+[}#()_(!*_@$}}!}*+_[@^{{{#+)%&&&}*{*))+}&[#++{}%@(]_@$![$$$&^*
+p37
+I13950
+sVf._choices
+p38
+I20043
+sVs = styles[0]
+p39
+I3866
+sVimport string
+p40
+I280
+sVs = "hola/text, como/image(a|b|c), andas/text[2], bien/text(d|e)[3]"
+p41
+I533
+sVs.write('hola mundo')
+p42
+I16002
+sVhasattr(t, 'id')
+p43
+I15245
+sVf = os.fdopen(3)
+p44
+I16319
+sVa = 'a_b'
+p45
+I21238
+sV**${*+{$!^$$]*_%+@}{{(+_&$+*)]*@&!$#)*]}@@%!(#+){[!!+&)$$){#_@&%](^#]#}$)^*}!]&+
+p46
+I13266
+sVreduce(lambda x, y: x + y, xrange(20))
+p47
+I17390
+sVpaginator = Paginator(qs, PAGINATE_BY)
+p48
+I12801
+sVp.versions?
+p49
+I15327
+sVfrom tipocms.admin.forms import RichEditorImage
+p50
+I12577
+sVdef s(w):\u000a    return p.stem(w, 0, len(w)-1)
+p51
+I5915
+sVpepe.__str__
+p52
+I3687
+sVfrom nltk.stem import PorterStemmer
+p53
+I5940
+sVitem.since
+p54
+I12208
+sVm1.save()
+p55
+I18879
+sVitem = Item.objects.all().set_language('en')[0]
+p56
+I11048
+sVr.split(quote(a))[::2]
+p57
+I14681
+sVlocals()['_[1]']
+p58
+I7099
+sVrpc = """
+p59
+I8423
+sVm = md5.md5('navigation_bar_v2:shopping:main:en-us')
+p60
+I17429
+sVx.end()
+p61
+I6214
+sVsorted(r, lambda a, b: cmp(r[b], r[a]))
+p62
+I5224
+sVRenderedData.objects.distinct().filter(value__contains='{%').values('page')
+p63
+I11493
+sVdiscoverer.__file__
+p64
+I15919
+sVtype(pepe)
+p65
+I3438
+sVo = urllib2.build_opener()
+p66
+I21102
+sVfrom xmobar import battery
+p67
+I2121
+sVCmsPagePath.objects.with_page().filter(page_state='live')[:3]
+p68
+I12107
+sVPASSWD = 'pass(twitter).7'
+p69
+I20746
+sVt._sa_instance_state
+p70
+I15309
+sVuuid.uuid5(1, 2)
+p71
+I4805
+sVst = os.path.stat('/tmp/sock')
+p72
+I16586
+sVACCESS_KEY    = '172436287-AUTMk19AnrKL08C1iphA3823uDEoS8oGJ4ZqT54Q'
+p73
+I16455
+sVf = h.groups
+p74
+I1667
+sVi.get_image_url()
+p75
+I3809
+sVwindow.remove.__doc__
+p76
+I7326
+sVd["hola"]
+p77
+I4774
+sVMONTH_MAP = {'ene': 1, 'feb': 2, 'mar': 3, 'abr': 4, # es
+p78
+I16794
+s.

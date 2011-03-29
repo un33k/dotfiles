@@ -1,0 +1,218 @@
+(dp1
+Vg.breadth_first_search()
+p2
+I6909
+sVbot.conn.Connection
+p3
+I4394
+sV^_}%@#!)&$#!%)%)***+_$+(!@{#$)&!$&_^(%!*(^]^]^^(&(]@^&*(&%_(!@*({%)&!$_]$$((**@+
+p4
+I13354
+sVprint opr.start_parse("tag xxx as yyy from mmm ppp tttt lll eee".split())
+p5
+I451
+sVurllib
+p6
+I7867
+sVa[1:4]
+p7
+I5126
+sVr += 1 if m else 0
+p8
+I17569
+sVs = r.scanner(a)
+p9
+I6200
+sVs = u'/c/accessories/332/'
+p10
+I15091
+sVx.absolute_url()
+p11
+I11931
+sVp.bb
+p12
+I59
+sVdisplay[display.index('content')] = 'content,200,<strong style="color:#888;">,</strong>'
+p13
+I5320
+sVhxs.select('/html/head/title').extract()
+p14
+I10559
+sVprint opr.parse('tag pepe'.split())
+p15
+I407
+sVd.items()
+p16
+I4778
+sVg.critical_path()
+p17
+I6912
+sVfrom obnob.apps.files.models import FileThread
+p18
+I20376
+sVupdate cms_fragment_template set content_names = "linkImage/image,linkText/text,linkUrl/text" where id = 144;
+p19
+I6737
+sV)%$%@_#*#}^!}}^*$+}%}#]_[]&+{$]%(_&{&[_{^^##!$^*_+@#&@{_)!)*#(%[%$_(]{@_(#(]&#_[
+p20
+I13346
+sVr.search_params.get_args()
+p21
+I14380
+sVprint CreateCompetition(None)
+p22
+I20848
+sVpprint.pprint(per_date)
+p23
+I19007
+sVff.label.translate
+p24
+I9122
+sVarr(9, 5) / 2 / 2 / 2 / 3 / 3 / 3 / 7
+p25
+I5664
+sVdtypes.Product
+p26
+I18098
+sV#*![]@@{%_^)+_#_][^$!)#*!^&]___}%%&_[}#(@+}^*)%[&!&}$^!!&]#!}(@!)%&^__@@{[+)[}#(
+p27
+I13703
+sVh = p['homepage']
+p28
+I17017
+sVp.cmsfragment_set.all().order_by('name')[:2]
+p29
+I9165
+sVr = RoomSearch(filters=[ "id,122499", "id,194352" ])
+p30
+I3991
+sVa._meta.fields
+p31
+I860
+sVf2 = F('pepe')
+p32
+I4878
+sV)*)_*^}%+_!{(_!#@@__&]*&_}_+*)(%_@]_@)&]{@(]*+&+@})@(__#}%$($[@)@$@}*}*#)%(((${!
+p33
+I13208
+sVdata = CmsPageData(page=p)
+p34
+I12409
+sVg.incidents('37874')
+p35
+I6941
+sVReceiverNotice.objects.all().delete()
+p36
+I21324
+sVupdate cms_fragment_template set content_names = "heading/text" where id = 14;
+p37
+I6611
+sVCmsPage.objects.simple_qs().filter(state="live").extra(tables=["(SELECT * FROM cms_page WHERE state='live' AND live_date IS NOT NULL ORDER BY live_date DESC)", ])
+p38
+I1041
+sVmove(p, 'g4')
+p39
+I15833
+sVcomments
+p40
+I21329
+sVct = ContentType.objects.get_for_model(Post)
+p41
+I331
+sVARTICLES_DISPLAY[ARTICLES_DISPLAY.index('content')] = 'content,200,<strong style="color:#888;">,</strong>'
+p42
+I5479
+sVc = Candidato.objects.get(pk=11)
+p43
+I11208
+sVLINK_RE.finditer("hola mund [url 10]")
+p44
+I1597
+sVf = open('/tmp/test', 'w')
+p45
+I16565
+sV'k'.translate(t)
+p46
+I12872
+sVsorted(a, lambda x, y: cmp(len(a[x]), len(a[y])))
+p47
+I3589
+sVfor opt, metavar, default, help in options:
+p48
+I7023
+sVr2 = re.compile('exactly', re.I)
+p49
+I14118
+sVclass ExpiredSpecialOffer(SpecialOffer):
+p50
+I10591
+sVprint unicode(y).encode('ascii')
+p51
+I21388
+sV<head>
+p52
+I9622
+sVr = ProductSearch(query='', count=1000, display=['guid', 'variants'])
+p53
+I21267
+sVj.save()
+p54
+I20552
+sVItem._meta.pk.db_column
+p55
+I11016
+sVupdate cms_fragment_template set content_names = "" where id = 123;
+p56
+I6716
+sVSITE-2007
+p57
+I3912
+sVfrom searchlib.match import COMPOUND_TOKENIZER
+p58
+I2070
+sVr.image_url
+p59
+I11470
+sVElementTree.fromstring('<hola>')
+p60
+I17399
+sVunicode(y).encode('utf-8')
+p61
+I21405
+sVtpl = loader.get_template('cms/fragment/tester.html')
+p62
+I10338
+sVp = Product.objects.filter(category_id=1049)
+p63
+I10809
+sVfrom app.models import imprt Item
+p64
+I17823
+sVos.path.isdir('/tmp/pepe/')
+p65
+I16620
+sVfilters.tojson(menu)
+p66
+I11701
+sV'_'.join(a)
+p67
+I11255
+sVdate?
+p68
+I18983
+sVAnswers
+p69
+I9694
+sVa = ' '.join(a.split('\u005cn'))
+p70
+I1201
+sVprint l
+p71
+I17754
+sVusername = 'matias@insophia.com'
+p72
+I4371
+sVm.end()
+p73
+I6206
+s.

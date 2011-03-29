@@ -1,0 +1,260 @@
+(dp1
+Va[,b:]
+p2
+I12444
+sVr.results
+p3
+I5243
+sVlambda: yield
+p4
+I3197
+sVb.encrypt("hdas")
+p5
+I969
+sV$_[#^!+^[_&*%!^(%^![@^!_+{_(&*!!!$)]**^!%*$%{&*([+_!^]}&@^$)(_(%(%[}%#_^$#]@*^]!
+p6
+I13687
+sVf = forms.formsets.formset_factory(CForm, formset=CForm2)
+p7
+I14414
+sVItem.objects.all().set_language('en')
+p8
+I11021
+sVfrom django.template import loader, Context
+p9
+I9971
+sVfrom tipocms.state import get_last_page
+p10
+I5000
+sVw.base_fields["supplier"].required
+p11
+I4123
+sVcantidades = [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+p12
+I7181
+sVless(1, 2)
+p13
+I2523
+sV][*}^+[!@*+$[%%(*[_$+}$]*}]%$%@&]@)!@+]$(&]^_$!)@+%!+&(%]&[(#[#}_@%&_{{]^@#}&_(+
+p14
+I13616
+sVev = ev[0]
+p15
+I8179
+sVa = ContentType.objects.all()[0]
+p16
+I21130
+sVitem.title
+p17
+I11040
+sVfrom __future__ import when
+p18
+I19113
+sVc.total_diff
+p19
+I2139
+sVPerson.objects.all().lang('es').filter(adrress__startswith="pepe")
+p20
+I5866
+sVreverse('groups_refresh_mini')
+p21
+I19955
+sVfrom phplist.helpers import *
+p22
+I8180
+sVa.date_set.add(Date(date=datetime.datetime.now()+datetime.timedelta(2))
+p23
+I868
+sVa < 100
+p24
+I2118
+sVupdate cms_fragment_template set content_names = "linkText/text,linkUrl/text,text/largetext,title/text,userInfoText/text,userLinkUrl/text,userName/text" where id = 107;
+p25
+I6700
+sVa = '1.2.3.4'
+p26
+I17122
+sVu.extra_data = [1, 2, 3]
+p27
+I20585
+sVtype(s.stamptext)
+p28
+I3302
+sVc.image.n
+p29
+I17411
+sVforms.BooleanField
+p30
+I8173
+sVc[0].user
+p31
+I4275
+sVu = "http://mydeco.com/the-magazine/style/articles/sales-scoop-confirmation/"
+p32
+I8511
+sVq = t.readlines()
+p33
+I20718
+sVq.put(2)
+p34
+I16184
+sV{@^{+)_*%}@%*(_{^+&)[]&{*(}]]$}}^@$!&[^@@^__]}[^[((@*+%_%%@])&{^_&$]#)!+!_}{[(&(
+p35
+I13034
+sVas_sql
+p36
+I20904
+sVpprint.__doc__
+p37
+I3327
+sV+_$!$^]#@}{+#@[]_%#^${]$(@$#[!^+&)%)+&#)&{}}@([&{+{_@}[++&!&}#$}^({])^&[)&)]_{%+
+p38
+I13599
+sVb = copy.copy(a)
+p39
+I556
+sVa-b
+p40
+I2143
+sVr.result.have_results
+p41
+I5256
+sVp = CmsPage.objects.filter(http_path__startswith='/the-magazine/articles/', state='work_in_progress')[0]
+p42
+I8541
+sVtpl.nodelist[0]
+p43
+I11351
+sVecho u"2665"
+p44
+I6809
+sVValue._meta.add_virtual_field(models.CharField(name='vfield'))
+p45
+I8562
+sVt = Template('{% raw %}{% if value %}{% endraw %}{{ value }}{% raw %}{% endif %}{% endraw %}')
+p46
+I10400
+sVp = map(lambda x: x, xrange(10)) + map(lambda x: x, xrange(10, 20))
+p47
+I19519
+sVfrom special_offers.models import *
+p48
+I4497
+sVs.result.orig_query
+p49
+I10650
+sVrange(start, end, step=timedelta(1))
+p50
+I18988
+sVf = ffm(f.__class__)
+p51
+I3719
+sV(x for x in range(10).next()
+p52
+I16262
+sVprint h.get_the_look.form()
+p53
+I17117
+sVp = htmllib.HTMLParser(html)
+p54
+I9707
+sVlogin_content = url_content(response['Location'])
+p55
+I20751
+sVb.values[0]
+p56
+I17509
+sVf = PostUploadForm()
+p57
+I30
+sVcgi.parse_qs(urlparse.urlsplit("a.php?a=b&b=c&1"))
+p58
+I2589
+sVa = Decimal("10.23139831212389312")
+p59
+I2163
+sVc.auth_token
+p60
+I19706
+sVcgi.parse_qs(p.query)['website']
+p61
+I14775
+sVfrom categorization.models import Categorization
+p62
+I2282
+sVtemplate.loader.find_template('blog/chatterbox_post.html')
+p63
+I20940
+sVu.social_auth.filter(provider='twitter')
+p64
+I20223
+sV(&(+*[($}**}$^_!@]_{%#{](]@{!#&&&)[$!_(#(#$!*![##!$_!*{{$@@*_!#[%)}%^%(%#$@(}+}$
+p65
+I13972
+sVb = gtk.ToolButton
+p66
+I8102
+sVprod.absolute_url
+p67
+I14335
+sVNone or [5] + [1, 2, 3, 4]
+p68
+I20597
+sVpages = list(pages)
+p69
+I1021
+sVstr(i)
+p70
+I3816
+sVpurple.PurpleAccountsFind('matiasaguirre', 'XMPP')
+p71
+I5617
+sVx.parent.parent.bbox
+p72
+I19862
+sVcount = 2
+p73
+I14989
+sVabs(int("-1a"))
+p74
+I899
+sVfrom gdata import contacts
+p75
+I19699
+sVfor t in tags:
+p76
+I248
+sVb_iface.GetProperty("battery.rechargeable.is_discharging"
+p77
+I2260
+sVp.count()
+p78
+I15163
+sVa % b
+p79
+I3023
+sVprint t.widget_attrs('value')
+p80
+I20033
+sV#}@%*}^&_@%)[&@]^{(!^}#_^(}(+{_}$&#!]{%@_^{}^#_#!]*@%)){*[$@&%]_)%}${+_(!*[^{})$
+p81
+I13257
+sVcd.child_categories
+p82
+I10479
+sVr = re.compile('\u005c(\u005cd+\u005c)')
+p83
+I12683
+sVtpl.nodelist[0].nodelist[0].nodelist[0]
+p84
+I11355
+sVc.content_type
+p85
+I1410
+sVb.ASIN
+p86
+I6117
+sVos.exec(('/usr/bin/mpc', 'pause'))
+p87
+I305
+s.

@@ -1,0 +1,11 @@
+define iva(val) {
+    return (val + val * .22)
+}
+
+define dolar(val) {
+    return (val * 21)
+}
+
+define dolariva(val) {
+    return dolar(iva(val))
+}

@@ -1,0 +1,194 @@
+(dp1
+V'en' > 'en-gb'
+p2
+I12663
+sVf.rel._-cl
+p3
+I18730
+sVc.valoracion_set.all()
+p4
+I11209
+sVan.as_list()[3][0].id
+p5
+I11230
+sVv = Value()
+p6
+I8557
+sV_^]!$_)[]+@)_*@![_($+!@[#)&]!+&(_*]]%%_@*@!&&_!{^*#{+[%$$##[]@&[#{$^%@&$([{+_#{(
+p7
+I13830
+sV}[}*(+)[*$*@_}[+&&}**_+]+]+#*$(%)%}[+{)*[{)^#%$]}}(^[{%]%#+[$%&*#][++}&)@^^]&([(
+p8
+I13102
+sVh.whats_hot.form()
+p9
+I17109
+sVabsolute_reverse("sitemap_section", section="product-index")
+p10
+I3920
+sVa = "  adask   "
+p11
+I12079
+sVdatetime.datetime.strptime(s, '%Y-%m-%d %H:%M:%S %Z-0400')
+p12
+I17706
+sVdirname('/home/omab/src/django-social-auth/example/social_auth/backends/__init__.py')
+p13
+I19470
+sVr.get()
+p14
+I20657
+sVa[0] = 10
+p15
+I5237
+sVr, g, b = from_draw.get_pixels_array()[0][0]
+p16
+I7974
+sVfrom djang.db.query import Q
+p17
+I20884
+sVdiscoverer.__filename__
+p18
+I15920
+sVp._meta.get_all_related_many_to_many_objects()
+p19
+I18762
+sV@@%!+%+]_{{}*{[]+^*$!]&[$+_}{])]$]*##__##{#!!&)%!@^!!*+#}_{^)%{^*(}])]@$_!__)!#+
+p20
+I14026
+sVx = CmsPage.objects.all().values_list('id', 'http_path')[:4]
+p21
+I14246
+sVp.feed?
+p22
+I20764
+sVr.redirect_chain
+p23
+I20661
+sVprint u"\u005cufffd10 off orders over \u005cufffd25"
+p24
+I11674
+sVa.split('&')
+p25
+I9213
+sVimport environ
+p26
+I9374
+sV}^!_}{)_{$]_@{%*_&^_+{$[__]^&*[&*${{#[$%*&#&{_^$_[)!)%]^+(%}[$_@[$^_*_!{_{#&{()]
+p27
+I13215
+sVdjapian_import('Post')
+p28
+I94
+sVsimplejson.dumps({'hola': 'mundo'})
+p29
+I16606
+sVa[0:5:5:-1]
+p30
+I12768
+sVidx = full_indexer()
+p31
+I228
+sVfor a in pepe():\u000a    print a
+p32
+I3656
+sV__import__('hp_splash', fromlist=['cms.plugins'], level=1)
+p33
+I12848
+sVst.st_size
+p34
+I7517
+sVdb.find({'_id':'GB0000005EFPZQMW52T5ASQJCZ5ZPV2XEBJXRHY6'})
+p35
+I19930
+sVv.get_value()
+p36
+I8659
+sVValue._meta.module_name
+p37
+I8952
+sVclass RedirectHandler(urllib2.HTTPRedirectHandler):
+p38
+I7858
+sVpprint(c)
+p39
+I10182
+sVc = Category.objects.get(pk=1010)
+p40
+I2564
+sVpepe.func_code.co_nlocals
+p41
+I3934
+sVapply(lambda left, right: left & right, [a, b, c])
+p42
+I11267
+sVa = {u'/the-magazine/garden-&-eco/articles/Christmas-gifts-for-the-eco-conscious': 293L, u'/the-magazine/garden-&-eco/articles/alfresco-party ': 346L, u'/the-magazine/garden-&-eco/articles/at-home-with-oliver-heath': 9506L, u'/the-magazine/garden-&-eco/articles/at-home-with-polly-higgins': 31L, u'/the-magazine/garden-&-eco/articles/bargain-eco-buys-under-a-fiver': 453L, u'/the-magazine/garden-&-eco/articles/be-a-green-shopper-this-christmas': 1797L, u'/the-magazine/garden-&-eco/articles/boost-your-homes-value-with-an-eco-blitz': 5226L, u'/the-magazine/garden-&-eco/articles/buyers-guide-to-cheap-picnic-accessories': 1218L, u'/the-magazine/garden-&-eco/articles/celebs-share-eco-tips': 524L, u'/the-magazine/garden-&-eco/articles/dreaming-of-a-green-christmas': 56L, u'/the-magazine/garden-&-eco/articles/eco-store': 11307L, u'/the-magazine/garden-&-eco/articles/fresh-spring-ideas': 694L, u'/the-magazine/garden-&-eco/articles/garden-lights': 608L, u'/the-magazine/garden-&-eco/articles/give-your-old-furniture-a-new-home': 28L, u'/the-magazine/garden-&-eco/articles/give-your-old-furniture-new-life': 39309L, u'/the-magazine/garden-&-eco/articles/glam-up-your-garden ': 476L, u'/the-magazine/garden-&-eco/articles/low-toxic-decorating-for-a-natural-home': 19934L, u'/the-magazine/garden-&-eco/articles/meet-julian-spector-from-natural-collection': 55L, u'/the-magazine/garden-&-eco/articles/meet-julian-spector-from-the-natural-collection': 12L, u'/the-magazine/garden-&-eco/articles/news/organic-divan': 1526L, u'/the-magazine/garden-&-eco/articles/nurturing-young-saplings': 2631L, u'/the-magazine/garden-&-eco/articles/oliver-heath\u005cu2019s-eco-shopping-list': 2L, u'/the-magazine/garden-&-eco/articles/soak-up-the-sun': 439L, u'/the-magazine/garden-&-eco/articles/the-guide/how-to-buy-green-wood': 3565L, u'/the-magazine/garden-&-eco/articles/the-guide/making-an-urban-garden-organic': 7414L, u'/the-magazine/garden-&-eco/articles/the-guide/making-your-home-office-green': 24339L, u'/the-magazine/garden-&-eco/articles/top-ten-bbq-accessories': 136L, u'/the-magazine/garden-&-eco/articles/top-ten-bbqs': 648L, u'/the-magazine/garden-&-eco/articles/top-ten-chairs-and-tables': 952L, u'/the-magazine/garden-&-eco/articles/well-hung': 2906L}
+p43
+I2017
+sV2 << 18
+p44
+I6844
+sVgetGroupByQuerySet(CmsPage.objects.filter(state="live").order_by("-live_date"), ["http_path",])
+p45
+I1012
+sVfrom cms import models
+p46
+I8575
+sVmd5.md5("hola")
+p47
+I1811
+sVsmtplib.__class__
+p48
+I14150
+sVpynotify.Urgency("t1").show()
+p49
+I7269
+sVc = StampCategory.objects.get(id=1)
+p50
+I3736
+sVlen(et)
+p51
+I17301
+sVfrom schedule.models import rules, calendars
+p52
+I20372
+sVp.restore()
+p53
+I18033
+sVfor i in ph.section1:\u000a    print i
+p54
+I5075
+sVengine = sqlalchemy.create_engine('sqlite:///home/omab/.config/f-spot/photos.db')
+p55
+I15128
+sVp[0]["a"] = P()
+p56
+I2444
+sVs.get_result().get_items()
+p57
+I14318
+sVpynotify.Urgency("t1", "t2").show()
+p58
+I7268
+sVAES.key_size
+p59
+I981
+sVw = SpecialOfferWebsite()
+p60
+I4120
+sVv = ValidationError('')
+p61
+I17324
+sVi.getextrema()
+p62
+I8308
+sVimport test_utils
+p63
+I16291
+sVp = CmsPage.objects.get(http_path="/", state="live")
+p64
+I4700
+sVdef save_image(page, name, group, value):
+p65
+I4851
+s.

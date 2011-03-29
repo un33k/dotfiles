@@ -1,0 +1,251 @@
+(dp1
+Vitem['download_link']
+p2
+I16723
+sVparser.option_list
+p3
+I7056
+sVa = "http://qa.mydeco.com/rooms/detail/ady-room/237612/"
+p4
+I20205
+sVm = md5.md5('navigation_bar.shopping.main.en-us')
+p5
+I17427
+sVre.compile('qa|dev').search('site-5644.maguirre.users.dev.mydeco.com')
+p6
+I14588
+sVfor y in x
+p7
+I20991
+sVos.path.pathsep
+p8
+I12548
+sVhtml
+p9
+I9705
+sVphotos.metadata
+p10
+I15139
+sVdatetime.datetime.strptime("2009-06-03 00:21:40")
+p11
+I11813
+sVUserSocialAuth.objects.is_twitter
+p12
+I20225
+sVset((1, 2)) & set((3, 4))
+p13
+I11113
+sVs = api.home_timeline()
+p14
+I16458
+sVurl = "http://mydeco.com/ws/search/search?gettags=tags%2C10&getfacets=8&collapse=similar&expandfacets=1&sponsored_supplier=5&db=product&count=20&facet_count=image_colour%2C120&display=name&display=description%2C200%2C%3Cstrong+class%3D%22highlight%22%3E%2C%3C%2Fstrong%3E&display=thumbnail_110&display=price&display=price_before_discount&display=url&display=supplier&display=logo&display=parent&display=views&display=rating&display=is_chartered&display=is_premium&display=is_3d&display=number_of_semblants&display=similar&display=supplier_type&display=promo_tags&display=branches_info&display=supplier_id&display=supplier_distance&display=special_offers2&display=number_of_variants&display=selected_variant&_nof=1&website_count=1&query=Trampoline&filter=category_id%2C1083&api_version=2&prefdb=product"
+p15
+I5587
+sVr.result
+p16
+I447
+sVu = urlparse.urlparse("http://a.com/b")
+p17
+I4297
+sVtranslation.get_language()
+p18
+I7435
+sVi = s[0]
+p19
+I3976
+sVi=VideoIndex.search("pepe")
+p20
+I131
+sVt = Template('{% raw %}{% if value %}{{ value }}{% endif %}{% endraw %}')
+p21
+I10395
+sVd.isoformat
+p22
+I7457
+sVimport ImageFont
+p23
+I1388
+sVmodel_i18n.translator._translator._registry[0]
+p24
+I10974
+sVContentType.objects.get_for_model(c.__class__)
+p25
+I2974
+sVa[0:5:-1]
+p26
+I12766
+sVp = Person.objects.lang('en').all()
+p27
+I5886
+sVitem.select('./span[@class="secundario"]/text()')
+p28
+I16649
+sV1 / 0
+p29
+I6065
+sVfrom django.template.defaultfilter import slugify
+p30
+I21312
+sVp.title
+p31
+I85
+sVcm = CmsContentMapping.objects.filter(content_type=ct)[200]
+p32
+I17465
+sVurlparse.urljoin(['a', 'b'], 1)
+p33
+I9209
+sVhashlib.md5("hola").hexdigest()
+p34
+I1815
+sVparser.add_option.__doc__
+p35
+I7050
+sVserialize?
+p36
+I17337
+sVc.entries_images = ','.join(c.entries_images.split(',')[:2])
+p37
+I19399
+sVxxx(1, recursive=True, 10, 20, 30)
+p38
+I18162
+sVSponsor.objects.all()
+p39
+I372
+sVr = re.compile('window.location.replace(".*");')
+p40
+I21354
+sVtest.__call__
+p41
+I16342
+sVv = list(Page.objects.all()[0].values.all())
+p42
+I8692
+sVimport opencv
+p43
+I10853
+sVq.last_answer_username
+p44
+I9464
+sV{}+[(^{!(&)%*(@^#+#)*&{)[^+@#{{}&$]{{@_}@{&${#%]}*!@)}^{}!)(!(_$%((#%%%!{(_(_$@@
+p45
+I13724
+sVprint unicode('\u005cx262e')
+p46
+I4614
+sVgraph.add_node('pepe')
+p47
+I6990
+sVp = r.get_result().get_items()[0]
+p48
+I9508
+sVlast = f.readlines()[-1]
+p49
+I15866
+sVclass MetaClass(object):
+p50
+I16959
+sVf = open('/tmp/test.jpg', 'w')
+p51
+I12554
+sVtuple(xrange(10))
+p52
+I7801
+sVe = EmailVisionIntegration.objects.all()[0]
+p53
+I14497
+sVb == int
+p54
+I16616
+sVimport textwrap
+p55
+I2912
+sVos.close(3)
+p56
+I16313
+sVxxx(1, *l, **{'rec': True})
+p57
+I18165
+sVt.render(Context({ '_raw_enabled': False }))
+p58
+I10401
+sV#]{%($@%%]&)))$*^%+]^^&{*&#[))]*(+]*{[!_#[}]{_^%!_{[{%#]}{_#]&^^^)+!^{*_{+[}*#+)
+p59
+I13909
+sVf.as_table
+p60
+I2424
+sVUser.objects.create_user('matias', 'matias@matias.com')
+p61
+I18700
+sVdict((k, sum(y for x, y in data if x == k)) for k, v in data)
+p62
+I15605
+sVtokens = lex.tokenize()
+p63
+I10010
+sVARTICLE_TRACKED_URL_RE = re.compile(r'{%\u005cs*article_tracked_url\u005cs+"([^"]+)"\u005cs+"([^"]+)"\u005cs*%}')
+p64
+I14886
+sVord('b') - ord('e')
+p65
+I5194
+sVone, zip(input, [keys.copy()]*len(input)))
+p66
+I7654
+sVx = u[-1]
+p67
+I16853
+sVurandom(10)
+p68
+I19361
+sV^$]}%](]]#_}[(&${{+((][_*%!)(##[@*&(^!_]**}[}{[%]*!$])[_))&(^$)%))&(+^@$&${_@![!
+p69
+I12938
+sVa = "count=20&facet=finish%2Cchromed&prefdb=product&view=details&facet=price%2C2000.00%2C4100.00"
+p70
+I9211
+sVprint q
+p71
+I20719
+sVu.save()
+p72
+I4472
+sVhxs.select('//div[@id=("Contextual"|"navlinks2")]//a/@href').extract()[0]
+p73
+I16702
+sVg.traversal('c')
+p74
+I6903
+sVfrom app.models import CustomUser
+p75
+I18637
+sV[(k, v.AUTH_BACKEND, v.AUTH_BACKEND.name) for k, v in b.iteritems()]
+p76
+I20231
+sVpurple.PurpleGetIms()
+p77
+I1431
+sVa.__doc__.split('\u005cn', 1)[1]
+p78
+I17147
+sVu'BR\u005cxc4M'
+p79
+I21288
+sVd1 = datetime.now()
+p80
+I1104
+sVos.mkdir(tempfile.mkdtemp())
+p81
+I12335
+sVBACKENDS
+p82
+I19469
+sVev.id
+p83
+I8188
+sVitems = a.get_result().get_items()
+p84
+I20616
+s.

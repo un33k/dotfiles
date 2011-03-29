@@ -1,0 +1,253 @@
+(dp1
+Vimport webbrowser
+p2
+I3139
+sVa = 0x2019
+p3
+I5400
+sV[[^#(%%([#)${*]}#$+))%}&#_](}$+*@]#]**$+@{}&{*[{%*[@^)+]([]{![_&&!_}#${%@]!(+%!}
+p4
+I13821
+sVurllib.urlencode({'a': 'a b'})
+p5
+I17081
+sVpymsn.Client?
+p6
+I9429
+sVheaders['content-type'] = headers.pop('Content-Type')
+p7
+I21180
+sVfrom categorization.models import CategoriesHierarchy
+p8
+I10482
+sV", ".join("%(key)s=%%(%(key)s)s" % { "key": k } for k in values)
+p9
+I3410
+sVhxs.select('//div[@id="Autor"]/strong/a/text()').extract()[0]
+p10
+I16739
+sVr.last_updated
+p11
+I15458
+sVb.saved_state
+p12
+I18062
+sVd = gtk.DrawingArea()
+p13
+I8094
+sVp.__cached_metas_e12b1230577eff9c64d641fa11d24f45
+p14
+I5487
+sV]!%![_)]}){}&_$]%!_[_{%])#!#}%^{{@*$_@@%_&)%{)*}+$#{!($!{{[!@_+(@_+!$]#][]}{{%_(
+p15
+I13267
+sVmap(bool, [])
+p16
+I17421
+sVan._mejor
+p17
+I11221
+sVItem._meta.get_all_related_objects()[0]
+p18
+I11295
+sVf = AuthenticationForm()
+p19
+I3893
+sVf = open('/tmp/test3', 'w+')
+p20
+I16570
+sV[ item['path'] for item in cd.hierarchy().values()]
+p21
+I10505
+sVfrom pass import *
+p22
+I920
+sVurllib.unquote('Garden%20and%20Outdoor')
+p23
+I18122
+sVurlencode?
+p24
+I12168
+sVsocket.gethostbyname()
+p25
+I19791
+sVo
+I1150
+sVdatetime.isoformat()
+p26
+I11868
+sVlen(list(c))
+p27
+I19934
+sVload.pages.__name__
+p28
+I17036
+sVf.list_ex[0].prev
+p29
+I1870
+sVd.documentElement
+p30
+I20696
+sVbase36decode(base36encode(u.int)) == u.int
+p31
+I21457
+sVp.values.filter(name__startswith='get_the_look')
+p32
+I17196
+sVj.getResource()
+p33
+I4323
+sVp nltk.tokenize.WordPunctTokenizer().tocanize(text)
+p34
+I6447
+sVa[''] = 1
+p35
+I8901
+sVPhotoTag.filter(tag = t).all()
+p36
+I15279
+sVupdate cms_fragment_template set content_names = "" where id = 58;
+p37
+I6653
+sVPost.objects.annotate(num_posts=Count('id')).groupby('date')
+p38
+I15693
+sVh.body.text
+p39
+I1173
+sVdbcache.get_values()
+p40
+I9605
+sVshopping_link_re.match('href="http://mydeco.com/c/furniture/258/"')
+p41
+I8548
+sV_^#&{)][@*!])^))+@+$%[%&}(^(!@}([#+***_*[^)$((^*(}([!]@##@$%^[{+^**{&[&@@##)#(@#
+p42
+I14034
+sVimport egg.trayicon
+p43
+I7299
+sVlocale.localeconv()
+p44
+I11992
+sVdr = ImageDraw.Draw(im))
+p45
+I1404
+sVi.get_file_name()
+p46
+I3815
+sVconnection.ops.quote_name('a`p')
+p47
+I7935
+sVr.match("https://google.com")
+p48
+I1629
+sVo.sort(key=lambda items: max(item.created for item in items), reverse=True)
+p49
+I20995
+sVquote(a)
+p50
+I14668
+sVr = re.compile('([\u005c'"])[^\u005c1]+\u005c1')
+p51
+I14929
+sVwindow = Window(WINDOW_TOPLEVEL)
+p52
+I7324
+sVurllib.os.path.split(u)
+p53
+I8512
+sVs = "£35 off orders over"
+p54
+I11656
+sVt =Tag.all()[0]
+p55
+I14730
+sVpepe(0)
+p56
+I19674
+sVh.get_authorization_url()
+p57
+I16400
+sVfor i in d:
+p58
+I4784
+sVc = Classification.objects.get(id=1128);
+p59
+I2436
+sVpickled = pickle.dumps(p, pickle.HIGHEST_PROTOCOL)
+p60
+I3167
+sVF = names_form(n)
+p61
+I8920
+sVa = '\u005cn\u005cnh\u005ctb\u005cn\u005cn'
+p62
+I9957
+sVw.token.contents
+p63
+I10278
+sVc.form_set().as_p()
+p64
+I1349
+sVa.rsplit('/', 1)[-1]
+p65
+I16728
+sVf.fields['query'].errors
+p66
+I12710
+sVsuite = unittest.TestSuite()
+p67
+I21123
+sVATTR_NAMES_RE.findall('hola %mundo% %cruel% todo %bien%?')
+p68
+I16492
+sVc.categorysynonym_set.all()
+p69
+I3641
+sVfor i input:
+p70
+I7614
+sVm2.admin
+p71
+I8475
+sVlst2 = range(5, 9)
+p72
+I4421
+sVContentType.objects.get_for_model?
+p73
+I19551
+sVurlretrieve?
+p74
+I9799
+sVi.type_id
+p75
+I3994
+sVO por haber cometido un \u201cdelito de peligro abstracto\u201d, cuando como sostiene la Dra. Argibay, \u201c\u2026 es humanamente imposible contar con una previsión exhaustiva sobre las características de los hechos futuros como para poder afirmar a priori que todos ellos producirán un daño a terceros.\u201d
+p76
+I9067
+sVlist(s.query(PhotoTag).outerjoin((pt_alias, pt_alias.c.photo_id==PhotoTag.photo_id & pt_alias.c.tag_id!=PhotoTag.tag_id)).filter(PhotoTag.tag_id==1).filter(~pt_alias.c.tag_id == None))
+p77
+I15386
+sVclass PH(Pepe):
+p78
+I20181
+sVdatetime.date(d.year, d.month + 1, d.day)
+p79
+I19279
+sV)*^))+(}#^!(&([$$](*_%)$&(#!__%+)^@)$**%(%_]{)^)+@^!))+$@#&^!&@!^{{)##%}_{%}%[^$
+p80
+I13133
+sVlist(p)
+p81
+I17542
+sVItem.objects.set_language('es')
+p82
+I11018
+sVCategory._meta.get_data_holders()[0].name
+p83
+I2338
+sVfrom rate.models import *
+p84
+I7372
+s.

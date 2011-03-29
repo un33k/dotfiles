@@ -1,0 +1,271 @@
+(dp1
+Vfrom time import time
+p2
+I9801
+sVp = CmsPage.objects.filter(http_path='/people/alerts')[0]
+p3
+I1157
+sVurllib2.build_opener?
+p4
+I21082
+sVp = CmsPage.objects.get(pk=14156)
+p5
+I14271
+sVhome_timeline = oauth_req(\u000a  'http://api.twitter.com/1/statuses/home_timeline.json',\u000a  'yK9iKbmVoJ7k0tqqMbCrww',\u000a  '7453475'\u000a)
+p6
+I16441
+sVclass Pepe(list):
+p7
+I1816
+sVrandom.shuffle(list(string.letters))
+p8
+I15672
+sVb.__class__.__module__
+p9
+I3101
+sVfrom special_offers.search import product_search
+p10
+I4072
+sVt = Template('{% article_tracked_url "23131" "http://google.com/" %}')
+p11
+I15011
+sVt.name = 'Super Uber Tag'
+p12
+I15323
+sVs("illness")
+p13
+I5914
+sVs.result.items
+p14
+I14351
+sVparams.get_args()
+p15
+I5252
+sVp.related_query_name
+p16
+I8976
+sVrun_simple?
+p17
+I20059
+sVlist(p.count())
+p18
+I15164
+sVi.show
+p19
+I5530
+sVval.criterio
+p20
+I11214
+sVhex(10)[2:]
+p21
+I21423
+sVurl = 'http://www.4inkjets.com/DR200-Brother-Laser-Toner-Drum-Compatible?printer=1604'
+p22
+I16924
+sVfrom django.db import connections
+p23
+I18942
+sVRenderedData(page=p, name=n, value=unicode(a)).save()
+p24
+I10440
+sVseen_models = connection.introspection.installed_models(tables)
+p25
+I8358
+sVs.cache.last_activity.question.get_absolute_url
+p26
+I11949
+sVf[0].errors
+p27
+I18975
+sVContentType.objects.get_for_model(Product).values('id')
+p28
+I7658
+sVPage.objects.all().values(("id", "created"))
+p29
+I5018
+sVx.pri
+p30
+I11937
+sVl.refine_option
+p31
+I10696
+sVs.poll?
+p32
+I16017
+sVfrom django.template import tag_re
+p33
+I10011
+sV+}^_}$)@@+{([@%!@[_]]+%(%%%{(@[_#+@&^__+!^!_^@]@^#]]##%*^]!$$!+[#)^![@%++%$[&[)[
+p34
+I13612
+sVd['section1']._groups
+p35
+I5062
+sVpychess.Players
+p36
+I15577
+sVa[6] = 10
+p37
+I12688
+sVstr(p)
+p38
+I3164
+sV$)[__^{%_!]_#[&_$(!)!_&}&$$}](]%{^(&{%$!]+[+_^+{*[@+*+%[$@&#+#$*}&{@%##*@(({)_(]
+p39
+I13963
+sVtar = tarfile.open("/home/omab/cmspage.1059(2).tar.gz")
+p40
+I1921
+sVecs.ItemLookup(ItemId=asin)
+p41
+I6108
+sVwpt._pattern
+p42
+I6521
+sVTopicCategory.objects.all()[-1]
+p43
+I9316
+sV_%*}_!^#[*$_+]@&#+{*@*+{)]^^!](]_@^}#^^%(*+]@^@]$*%_$#^*@[$]]_)]$+$+@*{$[}[%*{+)
+p44
+I13958
+sVl = '"1717","1228428280","file:///home/omab/misc/fotos/2008/12/04/img_1402.jpg","","4","1","0"'
+p45
+I4022
+sV[ p['http_path'] for p in CmsPage.objects.all().distinct().values('http_path') ]
+p46
+I7338
+sV&*}]@#)#&*&%&{#^((({%}$*^*!__*$_!%^{_!^$*]#*_{!(*){$}^${%@$$$_}%!)*(^}+)@}$)&+(_
+p47
+I13527
+sVx = reduce(lambda l, r: l & r, [a, b, c])
+p48
+I11272
+sVNotice.objects.filter(content_type=ct, id=7)
+p49
+I20962
+sVprint urllib.splitquery
+p50
+I1241
+sVf.exists)=
+p51
+I765
+sVa.pop('1')
+p52
+I19803
+sVQ
+I10998
+sVlist(UncategorizedProduct.objects.all(searchquery="q=sofa")[:10])
+p53
+I2813
+sVu = User.objects.create_superuser('omab', 'omab@omab.com', 'omab')
+p54
+I18492
+sVlocale.setlocale?
+p55
+I11417
+sVa = "hola mundo como va? espero que todo bien, que tal mundo"
+p56
+I1574
+sVsimplejson?
+p57
+I12586
+sVrandom.randint(1, 1)
+p58
+I376
+sVWebsite.manufacturers.throght
+p59
+I10075
+sVr.findall(s)[0].replace('\u005c\u005c\u005c\u005c', '')
+p60
+I21359
+sVi.translations.get(_language='es')
+p61
+I17867
+sVlist(f.new)
+p62
+I1735
+sVv.lookups
+p63
+I10365
+sVitertools.tee(iter(a), 5)
+p64
+I5307
+sVm.headers
+p65
+I7875
+sVcallable
+p66
+I7959
+sVCmsPage.objects.filter(http_path='/new/', state="live").order_by('-locale')[1].locale
+p67
+I12662
+sVbrowers.get_snapshot()
+p68
+I18054
+sVprod.price
+p69
+I14332
+sVa[:5, :]
+p70
+I12439
+sVCmsPage.objects.simple_qs().filter(state="live").extra(tables=["(SELECT * FROM cms_page WHERE state="live" AND live_date IS NOT NULL ORDER BY live_date DESC)", ])
+p71
+I1040
+sVfragments[0].template
+p72
+I2002
+sVq = q[1].text
+p73
+I20441
+sVp.view_link()
+p74
+I84
+sVm = MyParser()
+p75
+I9722
+sVoperator.mul
+p76
+I9833
+sVfor i in  r.finditer(s):
+p77
+I6226
+sVprint 'http:\u005c/\u005c/myapp.com:8000\u005c\u005c/complete\u005c\u005c/facebook\u005c\u005c/?code=2.dQHKTthSV1DL2u6p7Y3tmA__.3600.1301043600-100002200789926\u005c\u005cu00257CMgmuLIWeimhjFQ_5OZrnfGOYeDw'
+p78
+I21362
+sVitem['name'] = hxs.select('//h1[@class="titulo"]/text()').extract()
+p79
+I16720
+sVmin_date = votes[0][-1].date()
+p80
+I18997
+sVp g.accessibility.__doc__
+p81
+I6977
+sVv[0].raw
+p82
+I8707
+sVarr(1, 1) * arr(9, 1) * arr(9, 3) / arr(9, 5)
+p83
+I5647
+sVqs.split("&")
+p84
+I2960
+sVimport web.urls
+p85
+I2947
+sVf.errors.iteritems()
+p86
+I12730
+sVprint "".join(random.choice(string.letters) for i in xrange(15))
+p87
+I10309
+sVisinstance(a, str)
+p88
+I3947
+sV__@!&$@!]}^&}[%[[&&_#$({}(#{%_*[#!{!{@+_{*$_%_]^^*#_@}[+${$)!%_!#+#^*](%{}_@^)(@
+p89
+I13449
+sVdoctest.testmod()
+p90
+I12018
+s.

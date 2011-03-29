@@ -1,0 +1,223 @@
+(dp1
+Vdb.with_labels
+p2
+I15206
+sVAttributeError.__doc__
+p3
+I18464
+sVa = { 1: 2, 2: 3, 3:4 }
+p4
+I600
+sVs.name
+p5
+I3769
+sVh.body.html
+p6
+I1170
+sVpd = CmsPageData("/", "live")
+p7
+I2455
+sV'http://mydeco.com' + absolute_reverse('confirm_password_reset', 'Fivestripes', create_email_token('confirm_reset', 'Fivestripes', 'sales@anadesigncorp.com', 86400))
+p8
+I18206
+sV%timeit?
+p9
+I16830
+sVfile.readlines()
+p10
+I12078
+sVobj
+p11
+I20876
+sVc = f.drawerlinktext
+p12
+I1339
+sVclass F(forms.Form):
+p13
+I4875
+sVr = re.compile('a', re.I)
+p14
+I16919
+sVhtmlentitydefs.entitydefs.keys()
+p15
+I4652
+sVxml.startElement('sub-page', {'x': '1', 'y': '2'})
+p16
+I17259
+sVi._indexer.model
+p17
+I260
+sVreverse("shopping_browse_category", kwargs = {"path":"aa-bbb"})
+p18
+I3969
+sVw2.node
+p19
+I10254
+sVos.walk.__doc__
+p20
+I6863
+sVmod = __import__('social_auth.backends')
+p21
+I19475
+sV$(+((!)){*&!@_%((^${&($@+[!!])&!#%)_$[{$]&[)@[$[^)$^#^)@^]%[&{*[_{}&$)_)+}$#}{$(
+p22
+I13818
+sV&}_&%+!#(%#{[#&[![%&)$#+@[!)_!@_}})!#^((^#!+[}+&)(%!!&#[_]##!+%][]]+[_@_(}_^!&@{
+p23
+I13478
+sVdef date_to_str(d_or_s):
+p24
+I1097
+sV%edit
+p25
+I8153
+sVCandidato.objects.get(pk=1)
+p26
+I11206
+sVpurple.PurpleGetConversations()
+p27
+I5607
+sVtext = models['text']
+p28
+I8612
+sVmatcher = re.compile(r'pods\u005c[(\u005cd+)\u005c]/title\u005c[(\u005cd+)\u005c]')
+p29
+I17632
+sVc.text.__class__
+p30
+I1338
+sVfrom django.forms import Form
+p31
+I18124
+sVa[a.find('m'):]
+p32
+I4693
+sVt = Tag.get(6)
+p33
+I15285
+sVtest(10, recursive=True, 10, 20)
+p34
+I18151
+sVpyexiv2
+p35
+I8332
+sVc.categoryfacet_set.model.facet.__class__
+p36
+I2390
+sVfrom urlparse import urljoin
+p37
+I7961
+sVprint sys.stdin.seek.__doc__
+p38
+I919
+sVlast
+p39
+I15803
+sVf = h.drawers_slider_1[0]
+p40
+I1281
+sVa.sort()
+p41
+I2542
+sV<a href="http://google.com/">link 3</a>
+p42
+I1198
+sVf.parent_model
+p43
+I18792
+sVArticle._meta.get_field_by_name('ukser', None)
+p44
+I11955
+sV[ f.name for f in h.fragments[:-1] ]
+p45
+I1756
+sVf = ListForm()
+p46
+I4118
+sVcm.move('h3')
+p47
+I15896
+sVa.intersection(b)
+p48
+I1556
+sVclient.msn_object_store
+p49
+I9343
+sV6435/5
+p50
+I5568
+sVdict((id, list(items)) for id, items in groupby(o, key=lambda q: q.question_id))
+p51
+I19041
+sVhelp timeit
+p52
+I4793
+sVx = Image().value('')
+p53
+I17990
+sVr.findall('')
+p54
+I20828
+sVlen(a)/4
+p55
+I5383
+sVsys.exit()
+p56
+I2982
+sV__import__('account.views', level=2)
+p57
+I8270
+sVfrom obnob.apps.helpers.widgets import _localize_time
+p58
+I20100
+sVx.parent.parent.abbr(1)
+p59
+I19873
+sV{{)!%[$#!_[@!(([)++}*)%]@^#![!{+$+((#)+$_^]__]+_^@+_}[%+[{()_%!*}$+[$#%%%}$%]}{&
+p60
+I13431
+sVu = SystemUser.objects.order_by('-cache__rank_count')[:5]
+p61
+I10940
+sVh.attr_holder.__dict__
+p62
+I1759
+sVMostPopularRooms("rating", {})
+p63
+I3152
+sVlong("23")
+p64
+I4051
+sVurlresolvers.reverse("indiewears.wears")
+p65
+I2861
+sVprint t.widget_attrs
+p66
+I20029
+sVreplace_amp("http://test.com/?x=1&y=2"
+p67
+I4644
+sVp2 = p.deep_copy('/blogs/hola/mundo/6/', '666 5555 444 333 blogs blogs')
+p68
+I586
+sV[(purple.PurpleAccountGetUsername(c), purple.PurpleAccountGetProtocolName(c)) for c in purple.PurpleAccountsGetAllActive()]
+p69
+I5613
+sVarr(1, 1) * arr(9, 1) * arr(9, 3) / 2
+p70
+I5649
+sVfrom site_categories.models  import SiteCategoryProducts
+p71
+I9481
+sVs.result
+p72
+I10638
+sVhxs.select('(//ol//text()|//p[@align="JUSTIFY"]//text())')
+p73
+I16802
+sVfd.options
+p74
+I621
+sVe
+I12715
+s.

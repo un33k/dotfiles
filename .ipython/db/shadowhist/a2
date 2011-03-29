@@ -1,0 +1,275 @@
+(dp1
+Visinstance(CmsPage.DoesNotExist(), ObjectDoesNotExist)
+p2
+I8720
+sVCmsPagePath.objects.with_page().filter(state='live')[:3]
+p3
+I12108
+sVVote.objects.all().group_by('option', 'created__day')
+p4
+I18857
+sVa = dict((i, range(i)) for i in xrange(5))
+p5
+I3586
+sV^+#%*}*($[%@{_#@!&[&&{[+&&%&!_@%#%$#_)&%@($+#@!{+[(]{^*^(^[)}_&_[}(#[^*%!+)@+%^#
+p6
+I13365
+sVa % { "hola": "pepa" }
+p7
+I2709
+sVa.split(',', 1)
+p8
+I17670
+sVSystemUser._meta.app_label
+p9
+I17345
+sVtype('ExpiredSpecialOffers', object, ())
+p10
+I7140
+sVi.switch_language('es')
+p11
+I17863
+sVprint this.s
+p12
+I7
+sVlinks_re.findall(s, re.DOTALL)
+p13
+I1251
+sVupdate cms_fragment_template set content_names = "flashUrl/text" where id = 85;
+p14
+I6680
+sVwarnings.warn(object,'xxx')
+p15
+I17839
+sV[ p['image'] for p in microsite_articles.get_contents(p).values() ]
+p16
+I9183
+sVp.write?
+p17
+I16552
+sVtokenize = build_tokenizer(phrases, stopwords=NO_STOPWORDS, base_tokenizer=HtmlPhraseTokenizer(stopwords=NO_STOPWORDS))
+p18
+I6496
+sVimport parse
+p19
+I7196
+sVvalues = [(0, [(x, x) for x in range(10)]), (1, [(x*2, x*2) for x in range(10)]), (2, [(x*3, x*3) for x in range(10)])]
+p20
+I17177
+sV)_+#}!#@$){+}##+}+*%}@}[#!!@_)@&%*{_!{{#!!##]{}{#+_}]+({]^}@{]$_@*^+{_{^]@**+)[^
+p21
+I13566
+sV("%s, " * 10)[:-1]
+p22
+I2703
+sVreduce(lambda i, j: i%2 == 0, a)
+p23
+I8373
+sVfrom django.db.models import DecimalField
+p24
+I3764
+sVa[-1]
+p25
+I5904
+sVr.search("pepe hole mundo como va")
+p26
+I6181
+sVa.sort(lambda a, b: cmp(len(a), len(b)))
+p27
+I7048
+sVb.get_snapshot()
+p28
+I18057
+sV+@#}_*+$})@&_{_@@)(@#$!){}@${][#[#([)%[@&@@%[{%!&^#[!_{_@(&@}!^^*$(^*!%}+$)$]__%
+p29
+I13704
+sVurljoin?
+p30
+I17648
+sVq.last_activity_user_name
+p31
+I9455
+sVa = "g fmnc wms bgblr rpylqjyrc gr zw fylb. rfyrq ufyr amknsrcpq ypc dmp. bmgle gr gl zw fylb gq glcddgagclr ylb rfyr'q ufw rfgq rcvr gq qm jmle. sqgle qrpgle.kyicrpylq() gq pcamkkclbcb. lmu ynnjw ml rfc spj."
+p32
+I20235
+sVr2.findall(s2).span()
+p33
+I14204
+sVfrom see import see
+p34
+I4474
+sVctx = { 'cms_fragment': { 'contents': { 'name': { 'text': 'name' }, 'items': { 'noempties': { 'attr__value': map(str, range(10)) } }, 'url': { 'text': 'http://google.com' } } } }
+p35
+I10202
+sVids_qs = set(ids_qs)
+p36
+I1030
+sVlen(rc.result)
+p37
+I3855
+sVr.get('test-key-9000000')
+p38
+I18259
+sVitem['download_link'].strip()
+p39
+I16724
+sVg.contents.example[0].name
+p40
+I1860
+sVc.image.read?
+p41
+I17403
+sVm = md5.new('hola')
+p42
+I8401
+sVc.execute("select * from systemuser where id = %s", (813,))
+p43
+I11849
+sVlex = Lexer(src, lo)
+p44
+I10007
+sVfunctools.partial(p, 1, 2)
+p45
+I12778
+sVshopping_link_re.match('href="http://mydeco.com/shopping/browse/furniture/"')
+p46
+I8546
+sVs = StringIO()
+p47
+I17269
+sVw.handler_disconnect
+p48
+I8034
+sVp.stdin.write('a4\u005cn'); p.stdout.readline()
+p49
+I15819
+sVa.find('\u005c')
+p50
+I10163
+sV)##!]#$[@!{*%+)*#+__)_(%}^*#&[*}{_@&+[]_*[[}[@{]][@)#[%(*$[*{%@]]#${)!%_!*}+]$_)
+p51
+I14007
+sV24*60*60
+p52
+I8833
+sVbatteries = hal.FindDeviceByCapability("battery")
+p53
+I2176
+sVurllib.quote("http://www.argos.co.uk/static/Browse/ID69/10198115/c_1/1|category_root|Toys+and+games|10198115.htm?tag=PS6_1a".replace("+", " "))
+p54
+I3341
+sVf.get_db_prep_save()
+p55
+I3552
+sVdatetime.date
+p56
+I17936
+sVbase64.b32encode?
+p57
+I19221
+sVtop = 999
+p58
+I18375
+sVb.title = 'google'
+p59
+I16144
+sV' '.join(a.split())
+p60
+I9784
+sVt.translations.add(M(_language='es', name='pepe_es', lastname='pepito_es'))
+p61
+I5836
+sVu.obnob_groups.filter(group__lug='Group 1')
+p62
+I20464
+sVr = re.compile('(?<=mydeco.com)?/search/')
+p63
+I6253
+sVprint p(1, 2)
+p64
+I7193
+sVa.label
+p65
+I8212
+sVlen(a) % 8
+p66
+I1120
+sVr.items_per_page
+p67
+I4084
+sVa.rstrip('snapshot')
+p68
+I17594
+sVchr(22 + ord('a'))
+p69
+I5205
+sVpage['id'] = pageid
+p70
+I9534
+sVfor m in Microsite.objects.select_related().all():\u000a    articles = get_articles(m.category.classification_name)\u000a    if not articles or len(articles) < 17:\u000a        print m.domain, m.category.classification_name, "doesn have articles", len(articles)
+p71
+I5364
+sVf.truncate?
+p72
+I15869
+sVu._meta.fields
+p73
+I3381
+sVfor m in mappings:
+p74
+I1959
+sVb = { 1 if a == 0 else 2: 10 }
+p75
+I12656
+sV({[!+@(]$&]&$[}+(&%%[!!&(@(*$*[}$@($%*}_]!_@!^_((${[}^%}+^**@%{%_!&$}$_)&*^^@&]!
+p76
+I13319
+sVu.email = 'matiasaguirre@gmail.com'
+p77
+I19575
+sVr._user_cache.userpoint_set.all().count()
+p78
+I11485
+sVparse('content', example)
+p79
+I16969
+sV(a or []) + ['hola']
+p80
+I12237
+sVTag.objects.get_for_object(p)
+p81
+I4704
+sVDateField.widget.Meta
+p82
+I18410
+sVWebsite.manufacturers.throw
+p83
+I10073
+sVs.update(t)
+p84
+I15320
+sVg.parent.obnob_users.get(user=u)
+p85
+I20512
+sVpages = tpl.cmspage_set.filter(state="live").values('id', 'http_path').order_by('http_path')
+p86
+I8855
+sVi0.contents
+p87
+I674
+sVf/7u+64Bk0QYiEWKsMiMhRlCZjCCXNgEfKMyHSLMhOzw0IoVt+jDeazVAmbcJOdeA9Yqg5BLqSzo
+p88
+I19600
+sVcategories = hxs.select('//div[@id="Breadcrumb"]/a/text()').extract()[1:]
+p89
+I16679
+sVDateField.get_prep_lookup?
+p90
+I15736
+sVa.__nonzero__()
+p91
+I3483
+sVstr(b.query)
+p92
+I15771
+s.

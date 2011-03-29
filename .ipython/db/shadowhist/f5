@@ -1,0 +1,284 @@
+(dp1
+Vb.do_clicked
+p2
+I8015
+sVUser.objects.filter(username='admin')
+p3
+I19570
+sVa.expand_items("hola,\u005ctcomo,\u005cn\u005cnandas")
+p4
+I521
+sVplugin = get_plugin('hp_splash')
+p5
+I14427
+sVfloat((comb(5, 1) * comb(5, 2) * comb(5, 4))) / float(comb(15, 7))
+p6
+I5559
+sVu.social_auth.all()[0].uid
+p7
+I20333
+sVr.match("/hola/mundo")
+p8
+I4752
+sVFace.objects.all8)
+p9
+I10907
+sVfrom phplist.utils import do_subscribe, do_unsubscribe
+p10
+I7908
+sVd = t.strftime("%y-%m-%d %H:%M:%S")
+p11
+I1082
+sVa.decode('utf-32')
+p12
+I10160
+sVdatetime.datetime.fromordinal(x.toordinal())
+p13
+I19201
+sVr2.match(s2)
+p14
+I14170
+sVcd.category.clear
+p15
+I10498
+sVmod = __import__(module + '.' + name, fromlist=[module])
+p16
+I19489
+sVnames_form(n)
+p17
+I8917
+sVconnection.ops.value_to_db_date()
+p18
+I15747
+sVx.func_name
+p19
+I20008
+sVvar gTLDs=/^(aero|biz|com|coop|edu|gov|info|int|mil|museum|name|net|org|jobs)$/;
+p20
+I9629
+sVkw = {'count': 15, 'order_by': '-updated', 'filters': [u'category,Bathroom', 'type,3d-room', 'type,photo', 'type,moodboard'], 'offset': 0}
+p21
+I4192
+sVx.seconds / 3600
+p22
+I19190
+sVf = PhotoRoomUploadForm(None)
+p23
+I19916
+sVprint pepe
+p24
+I3695
+sVr.get_result().get_items().__class__
+p25
+I12784
+sVs.hexdigest
+p26
+I935
+sVarticles_tab3
+p27
+I5372
+sVp = CmsPage.objects_aux.get(pk=20)
+p28
+I753
+sVfrom difflib import Differ
+p29
+I6281
+sVsimplejson.loads("""{"cms_competition_confirmation_text": "<p>Thanks for entering, good luck!</p> \u005cn\u005cn\u005cn  \u005cn<h4><strong>Find out more about <a href=\u005c"{% article_tracked_url \u005c"biomelifestyle.com\u005c"  \u005c"http://www.biomelifestyle.com/\u005c" %}\u005c" target=\u005c"_blank\u005c">Biome Lifestyle</a>, and their delightful Christmas gift ideas > </a></strong></h4><br/><br/>", "cms_competition_error_text": "Sorry, your entry did not work. Please press 'back' and try again.", "cms_competition_unsubscribe_text": "", "cms_contents_text": "<p><strong>We\u005cu2019ve teamed with <a href=\u005c"{% article_tracked_url \u005c"biomelifestyle.com\u005c"  \u005c"http://www.biomelifestyle.com/\u005c" %}\u005c" target=\u005c"_blank\u005c">Biome Lifestyle</a> to give Helen, Mick, Colette, and Derek the their Christmas hampers! </strong></p>\u005cn\u005cn<p>They will take home a \u005cu00a3250 hamper full of delightful Christmas decorations, including their fair trade Christmas wreath (right) and advent calendar, plus bestselling gifts including the Silk Scarf Cushion (right), Alpaca Slippers, Bulb Vase, Cotton Bathrobe and many more!   </p> \u005cn\u005cn<p>Like everything from Biome Lifestyle, the items have been carefully chosen to meet strict organic, sustainability and ethical standards \u005cu2013 without compromising on style. </p> \u005cn\u005cn<p>Biome Lifestyle know that being a conscientious consumer does not necessarily mean you are a hippy! Instead, they offer a unique range of gifts and homeware that unite style, design and ethics.</p>\u005cn\u005cn<p>Read the <a href=\u005c"/the-magazine/biome-lifestyle-terms\u005c">competition terms</a>.</p>\u005cn\u005cn<p><strong>For your chance to win, just tell us: Where are the artisans based who made the Recycled Fair Trade Christmas wreath (above)? HINT: <a href=\u005c"{% article_tracked_url \u005c"biomelifestyle.com\u005c"  \u005c"http://www.biomelifestyle.com/browse/ecogifts/christmas-at-home/recycled-fair-trade-christmas-wreath/\u005c" %}\u005c" target=\u005c"_blank\u005c">See the product page</a> to find out the answer. \u005cn\u005cn </strong></p>"}""")
+p30
+I11325
+sVg = o.open('http://google.com')
+p31
+I21085
+sV'python' > 'damian'
+p32
+I3787
+sVr = re.compile(r'\u005cbcruel\u005cb', re.I)
+p33
+I6194
+sVx = reduce(lambda l, r: l & r, [], None)
+p34
+I11275
+sVpychess.Players.engineNest
+p35
+I15578
+sVp = Pepe(2)
+p36
+I61
+sVp.__class__.__name__
+p37
+I2115
+sVa.split('\u005cn\u005ct')
+p38
+I9958
+sVp = CmsFragmentMapping.objects.get_with_shared().all()[0]
+p39
+I736
+sVp.items
+p40
+I18600
+sVp.id = None
+p41
+I15703
+sVf.headers.keys()
+p42
+I7878
+sV&@^%&(%%%#[^*@[*{&*![[+$){!)%#_*(]^#!}#+%)&!^)*)({$[^%})^}}@)}!)+^_[_^$)+)*+&@*^
+p43
+I13410
+sVthumbnail(i.get_image__fi()image, "width=80,height=80")
+p44
+I3817
+sVitem = Item.objects.get(pk=1).set_language('es')
+p45
+I11081
+sVu.obnob_groups.values_list('id')
+p46
+I20459
+sVclass MyParser(sgmllib.SGMLParser):\u000a    def parse(self, s):\u000a        self.feed(s)\u000a        self.close()\u000a    def __init__(self, verbose=0):\u000a        sgmllib.SGMLParser.__init__(self, verbose)\u000a        self.input=[]
+p47
+I9721
+sVfrom tt.models import A, B, C, D
+p48
+I19407
+sVqs.get(pk=736777)
+p49
+I17576
+sVr = re.compile('ab?')
+p50
+I14866
+sVf.base_fields['text'].choices
+p51
+I710
+sV^^!([)]]^((@!_[#[^#+^+&)#[$#{}$+$]()!__$$#(#!#+[*#)@#_}_]@%#&$!@)]$&]##{*(&}}}[@
+p52
+I13227
+sVb.GetProperty("battery.charge_level.percentaje")
+p53
+I2195
+sVb.props.user_data
+p54
+I8125
+sVv[0].name.type
+p55
+I8701
+sVe = Exception("hola")
+p56
+I2300
+sVa = ['1232', '3213', '1asj', '323']
+p57
+I14641
+sVh.rawdata
+p58
+I6598
+sVx = urllib.urlopen('http://www.google.com/', data=urllib.urlencode({'q': 'blue'}))
+p59
+I17985
+sVimport *
+p60
+I18087
+sVr.comments.with_stats
+p61
+I20808
+sVr.client
+p62
+I20658
+sVa = b = { 'aa': 1 }
+p63
+I1749
+sVlen(s)
+p64
+I12788
+sVop = optparse.OptionParser()
+p65
+I16275
+sV*@_])_&&%+([!(}&+(#)(&)+$(]*(^_&^}{^][_&^#(_@[!%[#]}]$^+(_&!&[)_^#^!}[{]&}^#{%^$
+p66
+I13348
+sVif a == 1:
+p67
+I12696
+sVa = 'cat1/cat2/cat3/1/2/3'
+p68
+I14636
+sVvalues.append((Permission._meta.get_field('name'), 'add'))
+p69
+I7927
+sVCmsPage.__class__
+p70
+I18281
+sVet[2].attrs()['type']
+p71
+I17308
+sVuuid.uuid1().hex
+p72
+I4814
+sVCmsPagePath.objects.with_page(where='page_state="live"')[:3]
+p73
+I12111
+sVa.label()
+p74
+I18970
+sVStringIO.StringIO?
+p75
+I15809
+sVurllib.splitvalue("aa=bb&ccc=d")
+p76
+I2952
+sVreduce(lambda l, r: l & r, [a, b, c])
+p77
+I11271
+sVf = CategoryHierarchy._meta.get_field("parent")
+p78
+I4564
+sVresponse.status_code
+p79
+I20749
+sVb_iface.GetProperty("battery.charge_level.rate")
+p80
+I2201
+sVa.sort(lambda x: x[0])
+p81
+I15630
+sVl = 'en-gb.utf-8'
+p82
+I7418
+sVg.headers.getheaders
+p83
+I21090
+sVconf.__dict__
+p84
+I2482
+sVprint u"\u005cx02665"
+p85
+I6819
+sV[(date, values.values()) for date, values in per_date.items()]
+p86
+I19013
+sVr.regex.__deepcopy__({})
+p87
+I8247
+sVr = ProductSearch(search_params={'category': 'bathroom'}, count=4)
+p88
+I10783
+sVs.senatorimage_set.all()
+p89
+I1117
+sVt = ' article_tracked_url "homebase.co.uk"  "http://www.homebase.co.uk/webapp/wcs/stores/servlet/ProductDisplay?langId=-1&storeId=20001&partNumber=8421519" %" target="_blank"'
+p90
+I15049
+sVg.info
+p91
+I21087
+sVf.choices.__class__
+p92
+I18582
+sVwarnings.warn(Warning(),'xxx')
+p93
+I17840
+sVresponse = client.get('/login/twitter/', SERVER_NAME=SERVER_NAME, SERVER_PORT=SERVER_PORT)
+p94
+I20748
+sVfrom dbcache.utils import get_values
+p95
+I9584
+s.

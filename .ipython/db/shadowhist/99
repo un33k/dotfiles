@@ -1,0 +1,254 @@
+(dp1
+Vthreading.currentThread()
+p2
+I19304
+sV%{)[[^(!]*$$#^({)[)%[&!![__@}(*){]%)]@#*%}_^}#_$(&*^+%%+^}!#]*[!}!&@#{+$}*#@#*((
+p3
+I13492
+sVhaar.first()
+p4
+I10926
+sVu.obnob_groups.all().values('id')
+p5
+I20471
+sVsr.result.items
+p6
+I11553
+sVi = BaseSearch(search_params={ "count": 4 })
+p7
+I4223
+sVd.neighbors('hola')
+p8
+I7086
+sVa[:a.find("mundo")+len("mundo")].replace("mundo", "pepepepe") + a[a.find("mundo")+len("mundo"):]
+p9
+I1580
+sV~a
+p10
+I275
+sVforms.ModelForm?
+p11
+I17329
+sVet
+p12
+I17282
+sVa.decode('utf-8')
+p13
+I7567
+sVpepe.func_code.co_firstlineno
+p14
+I9819
+sVfor i in i:
+p15
+I150
+sVa.hola
+p16
+I10954
+sVt = TopicBoard.objects.all()[0]
+p17
+I20420
+sVx.images[0]
+p18
+I19594
+sVc.content_type.app_label
+p19
+I1412
+sVx.thumbnail_small_url
+p20
+I11935
+sV!]%+@*+@#$^)^[^^)&#}#($*#&)}!#[*]%[}#*}_@(]}+*]]^)_(%&}*^+%#*%&{^}%(}]{$+)!*(&&&
+p21
+I13913
+sVa = AmazonBook(asin='8466616446', title='Criptonomicon', author='Neak Stephenson', user=u)
+p22
+I6132
+sVf.value_from_object(v)
+p23
+I8932
+sVs.query(PhotoTag).outerjoin((pt_alias, pt_alias.c.photo_id==PhotoTag.photo_id & pt_alias.c.tag_id!=PhotoTag.tag_id)).filter(PhotoTag.tag_id=1)
+p24
+I15377
+sVimport bin.render_cms_fragments
+p25
+I11429
+sVdef test(var, recursive=False, *args, **kwargs):\u000a    print var, recursive, args
+p26
+I18146
+sVupdate cms_fragment_template set content_names = "designerName/text,designerText/largetext,designerRoo
+p27
+I6656
+sVfrom django.contrib.auth.models import Permission
+p28
+I5998
+sVp.stack
+p29
+I20767
+sVi=p.search("hola")
+p30
+I114
+sVhasattr(pepe, '__calle__')
+p31
+I15069
+sVph = PageHelper(p)
+p32
+I1501
+sVph.section2.content
+p33
+I5078
+sV@&$^$(+^^]$$**{^&*&!_[_{_)*[{@![@%+@){*{&}%_%(%(@+{!&)![$$+(}^)[]##$^($+[#]}!_#&
+p34
+I13829
+sVall(not x.isdigit() for x in a)
+p35
+I14646
+sVa = [ [1, 2, 3], [4, 5, 6], [7, 8, 9]]
+p36
+I1494
+sVurllib.urlencode({ "facet": "cat129,1000"})
+p37
+I5681
+sVclauses
+p38
+I4538
+sV+^{}^*_&^$*(#^!%)@()@{!%%}^#@_)#%%_%!++{&(}{}}%{++}+&$]]@)@(+{()][%*&_*!!#!@[!]@
+p39
+I13391
+sVcv.cvOpenFileStorage?
+p40
+I10827
+sVa.__repr__()
+p41
+I15497
+sVc.pprint()
+p42
+I2136
+sVfor i in pepe(10):
+p43
+I3013
+sVv.get_plugin()
+p44
+I15509
+sVprint u'\u005c0x262e'
+p45
+I4612
+sVbtl
+p46
+I4404
+sVx.type_code
+p47
+I19850
+sVimport pstats
+p48
+I2097
+sVclass Parent:\u000a    def __init__(self):\u000a        self.l = []\u000a    def __add__(self, b):\u000a        self.l.append(b)
+p49
+I395
+sVunicode(o)
+p50
+I7218
+sVr = ResultRank.objects.all()[0]
+p51
+I7662
+sVimg2
+p52
+I12456
+sVRoomSearch.SearchResult.FIELDS
+p53
+I11477
+sV(%*@!}{%@@)^}#&}&{%__{@^*}#)([+![]&_%@#$%^![}](_%]$_}*&^}$)*)}}{$[@+{^%*(@#[&[!^
+p54
+I13186
+sVopr.start_parse("tag xxx as yyy from mmm ppp".split())
+p55
+I444
+sVmodels.FileField()
+p56
+I14233
+sVparams = gdata.auth.OAuthInputParams(gdata.auth.OAuthSignatureMethod.HMAC_SHA1, 'default', consumer_secret='default')
+p57
+I19780
+sVf = FormSet()
+p58
+I4462
+sVu = SystemUser.objects.get(pk=813)
+p59
+I14525
+sVhxs.select('//h1/text()').extract()
+p60
+I16626
+sVa = [ '2009-02-17 15:00:32', '2009-02-17 11:06:06', '2009-02-16 15:55:47' ]
+p61
+I8742
+sVc._list
+p62
+I1737
+sVw2.id
+p63
+I6315
+sVmodels.__dict__.keys()
+p64
+I18298
+sVfd.fragments['image'].id
+p65
+I760
+sVs.stem("The")
+p66
+I6407
+sVv2.value
+p67
+I8691
+sVprint f.get_form(3)
+p68
+I3320
+sVimport VS
+p69
+I1805
+sVurllib2.urlopen("http://direccionalazar.com").read()
+p70
+I2985
+sVf = ch._meta.get_data_holders()[1]
+p71
+I4592
+sV{+@&[}^&%%$&())#!_##$!(&@@*}^[%@$^#*&!@@&_[(!}+{}*&+{**$)}])%()!_&_)!*((^+%)_#[(
+p72
+I13919
+sVprint getattr.__doc__
+p73
+I3210
+sVx.order
+p74
+I19168
+sV]]]^_}#%!]_!*^}}!(%{)}($_&@^}]&]^#@)[^@(@)%_($!)[}*!^@#_^]^(^}(_(+%*)}&^][@^]}(}
+p75
+I13210
+sVhxs2.select('//text()')
+p76
+I16897
+sVa = "aaaaa" * 3
+p77
+I2693
+sVfrom django.utils.safestring import mark_safe
+p78
+I8203
+sV[w.strip() for w in f.readlines()]
+p79
+I15552
+sVpages = ArticleSearch(query="FLOORING & CARPETS", count=ARTICLES_IN_HOMEPAGE, display=ARTICLES_DISPLAY).get_result().get_items()
+p80
+I5480
+sVHREF_RE.find("djaskdja")
+p81
+I9891
+sVValue._meta.fields[0].name
+p82
+I8929
+sVupdate cms_fragment_template set content_names = "stampImage/image
+p83
+I6657
+sVprint "\u005cxc2\u005cxa325"
+p84
+I11649
+sVp = Pedido.objects.all()[0]
+p85
+I7447
+s.

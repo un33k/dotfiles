@@ -1,0 +1,214 @@
+(dp1
+V&])(^+$%@+$&)](](^]@^^]}%[%[**#^_$+$!_[{}#_{)]!$@]@$}+(]_}^#{%#$(!%+&*!_&%!@]*^^
+p2
+I13023
+sVfrom django.core.serializers import serialize
+p3
+I17335
+sV[ m['domain'] for m in Microsite.objects.values('domain') if magazine_exists(m['domain']) ]
+p4
+I8544
+sV_}_^$%#(&+_!#$($*^)@(#%}+^($**][}){+(#{}*&^!(@#&][&*$#!{_!*%$)*(&@]^_*+^^#$}^{}(
+p5
+I13049
+sVMembership.group
+p6
+I21007
+sVph._groups
+p7
+I5054
+sVa.fromkeys?
+p8
+I17750
+sVrandom.choice([1, 2, 3])
+p9
+I19806
+sVb_iface.GetProperty("battery.reporting.capacity_state")
+p10
+I2205
+sVadmin.site.register(Item, admin.ModelAdmin)
+p11
+I17825
+sVi.translations.filter(_language='es')
+p12
+I17866
+sVrange(10, 20, 30)
+p13
+I7996
+sV<input type="text" i
+p14
+I9693
+sVg.contents.__class__
+p15
+I1853
+sVreverse('home')
+p16
+I18825
+sVa.sort?
+p17
+I12605
+sVfrom datetime import timedelta
+p18
+I18844
+sVurllib.quote("a,b")
+p19
+I5719
+sVf = a[1]
+p20
+I1762
+sVmod.__path__
+p21
+I19477
+sVi._Image__iptcTagsDict()
+p22
+I5542
+sVhxs.select('//ul[2]/li/text()').extract()
+p23
+I10566
+sVsessions
+p24
+I4329
+sVa.__class__.valor = partial(prueba, 10)
+p25
+I9010
+sVmkform(s)
+p26
+I17063
+sVm._meta.get_field('text')
+p27
+I686
+sVf.items.all()
+p28
+I19627
+sVp = re.compile(r'%\u005cs*article_tracked_url')
+p29
+I15034
+sVimg.crop?
+p30
+I12264
+sVupdate cms_fragment_template set content_names = "extraClass/text,userId/text,descr
+p31
+I6682
+sVget
+p32
+I11576
+sVurllib.unquote('a%20b')
+p33
+I6005
+sVs = BaseSearch({ 'prefdb': 'product', 'db': 'product', 'query': 'blue sofa', 'count': 10 })
+p34
+I14311
+sV{]#%]_%#]@*[}&[$@_*_$@]{[_#)&!@@}+]}@{*%({({((!@{{*#&#+!)$}_!!^#{^^{&}[_!*}(_}(@
+p35
+I13606
+sVif True:
+p36
+I19525
+sVjson = ''.join(urllib2.urlopen('http://mydeco.blip.tv/posts/?skin=json').readlines())
+p37
+I11608
+sV(1<<(32-1))-1
+p38
+I7168
+sVr.match('White 123 :')
+p39
+I16298
+sVany(map(bool, [False, False, 0, None, 1]))
+p40
+I17425
+sVM()
+p41
+I16965
+sVg.subgroups.model
+p42
+I20506
+sVc = join_stats(r.comments.all())
+p43
+I20806
+sVeJytVFFv2jAQfs+vuIU+QDWK+tqKB6oigdRC1bBOW1sZk1yIpWAj2yGj0/77ziFAUijStPIA2Hc+
+p44
+I19599
+sVhaar.first.count
+p45
+I10929
+sVabs(int("-1"))
+p46
+I898
+sV__&([^$)+@##{**%&!%}$)@(+*])&!&_![^@)}{!_}}*@[!^^)]{$%{+^({@$*!((*%%}_@)_{!*%{))
+p47
+I13383
+sVcursor.fetchall()[:10]
+p48
+I15014
+sVdatetime.date.strftime?
+p49
+I17935
+sVa + (4,)
+p50
+I19500
+sVs = "2010-09-16 23:59:00"
+p51
+I17724
+sV1/0
+p52
+I2518
+sVfRom categorization.models import *
+p53
+I3563
+sVuuid.uuid1.__doc__
+p54
+I4809
+sV&}+%*$[(_+{#!+]@)%#)}_+{%&*)#^[$@_@}[^*+_*(!%&#*^@)@%^[@%*$_{}{{%[@^+%[$])])@[!^
+p55
+I13942
+sVa.values
+p56
+I2697
+sVd = {'a': 1, 'b': 2}
+p57
+I18166
+sVlong(True) / long(10)
+p58
+I4309
+sVc = Category.objects.get(1049)
+p59
+I2393
+sVp.meta_title._form
+p60
+I5491
+sVr.model_class
+p61
+I19552
+sVp = re.compile(r'article_tracked_url')
+p62
+I15033
+sVEmailVisionEntryAdmin(EmailVisionEntry, None)
+p63
+I9416
+sV&{^#}!!]_]}}}][@{^[%{*+!!!(&*$@^!_)^*$^@][+[{&#%!!_^$&{(_(^!}*@%([@^{%^%(+()(+%^
+p64
+I12958
+sVr = re.compile("[a-z\u005cd]{40}")
+p65
+I4101
+sVF
+I724
+sVos.tmpnam()
+p66
+I1904
+sVp = djapian_import('horno.models.PostIndex')
+p67
+I110
+sVgetattr(t, 'id')
+p68
+I15240
+sVa = dict()
+p69
+I8410
+sVclass AL(list):
+p70
+I10126
+sVarr(1, 1) * arr(9, 1) * arr(9, 3) / 2 / 2  / 2 / 3 / 3 / 3
+p71
+I5655
+s.

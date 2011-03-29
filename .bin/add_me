@@ -1,0 +1,2 @@
+#!/bin/sh
+ssh dev.mydeco.com ./add_me

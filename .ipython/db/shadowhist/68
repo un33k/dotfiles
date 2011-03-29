@@ -1,0 +1,227 @@
+(dp1
+Vupdate cms_fragment_template set content_names = "image/image,linkText/text,linkUrl/text,title/text"
+p2
+I6762
+sV%#}&)#%*]!@#_&@!^{@]#)_&@){*#]@{@}%@]!(}$*)%#[)^{)}&#[]@}%+)@@}#^#_[]*(%@)!)#+@{
+p3
+I13429
+sVt.token_type
+p4
+I10064
+sVPAGES['shopping.s'].DESCRIPTION
+p5
+I17779
+sV@$}]%(%&_&&*))&%$![}[$%}@!]^*}*)_{^$_!(%]^}!_#_$$^__)}[#^(]+@&^!&*($_[_$%])]*%%!
+p6
+I13734
+sVdict((k, sum(y for x, y in data if x == k)), for k, v in data)
+p7
+I15604
+sVslugify('\u044b\u0432\u0430\u0444\u044b\u0432\u0430')
+p8
+I20240
+sVdivmod(10, 1(
+p9
+I17562
+sV^@[_&$&[_*&^}+__&%[#+#+})[+#!$*#^}[#&*}(+(]+!*]*(+(^_#_+^%]]@!][@%!+{{_%_*$!@{!^
+p10
+I12994
+sVp.btl_id
+p11
+I17547
+sVp.date.month + 1
+p12
+I15715
+sVc.acquire*(
+p13
+I16069
+sVurllib.urlencode(filter="cake stands & carriers")
+p14
+I5259
+sV[ f.name for f in CmsPage._meta.fields ]
+p15
+I4173
+sV@}]}*!#@%{{)**)&!#@#{}(_*^))[{](@!(#!)}]}$]++]_$!+(!)[&}^])+(]#$[%&]#@%^](&&#+]{
+p16
+I13761
+sVa = AES.new("hola mundo")
+p17
+I984
+sVlen(texts.keys())
+p18
+I3833
+sVa.sort(key="k")
+p19
+I2554
+sVr.match('"hola mundo"')
+p20
+I14930
+sVfor i in r.result.items:
+p21
+I9302
+sVx = CmsPage.objects.filter(http_path__startswith='/the-magazine/')
+p22
+I19792
+sVgetattr?
+p23
+I15012
+sVos.path.commonprefix(['/a/', '/a/b/c/'])
+p24
+I18564
+sVd.strftime('%H')
+p25
+I20089
+sVs.AsDict()
+p26
+I16372
+sVimport softwareproperties
+p27
+I12057
+sVa.rfind('maie')
+p28
+I12561
+sVurllib.splitquery(u)
+p29
+I6329
+sVfrom emailvision.views import get_valid_ev
+p30
+I8256
+sVp.standard_option_list
+p31
+I12449
+sVroom.url
+p32
+I9273
+sVTranslateableModel.objects.lang
+p33
+I5826
+sVr = ProductSearch(query='sofa', count=10, display=['name']) #, filter=['view_only,design_boutique'])
+p34
+I14628
+sVs.stdout.readline()
+p35
+I15979
+sVp = get_categories_products(['bedroom', 'bathroom'], 1)
+p36
+I10531
+sVct = ClassificationTokenizer({ 'article': 'html' }, phrases=['seat'])
+p37
+I6385
+sVp.productos.select_related('producto').all()
+p38
+I7444
+sVcount =+ 1
+p39
+I16293
+sVt = Tag(name='Test tag 4', category_id=0)
+p40
+I15243
+sVlist(r)
+p41
+I4079
+sV%time trans("hola")
+p42
+I4861
+sVc = CatInfo(classification="cake stands & carriers")
+p43
+I5167
+sVi._meta.fields[-1]
+p44
+I8594
+sVf.image.__class__
+p45
+I4189
+sVraise NotImplemented, "hsdad"
+p46
+I5135
+sVt=p.tags
+p47
+I45
+sVa.push(a.pop())
+p48
+I2653
+sVet(ResultRankCriteria.objects.filter(QJoins(ranked_count=('result_rank', 'left join', 'ranked_count.query_id = rr_criteria.query_id'))).extra(select={'rrcount': 'count(ranked_count.id)'}), ['rr_criteria.id'])
+p49
+I7719
+sV1 ^ 2
+p50
+I2371
+sV[ -10 ** 10, 10 ** 10 ]
+p51
+I5474
+sVt.replace('k', 'm').replace('o', 'q').replace('e', 'g')
+p52
+I9907
+sVa = "(hola mundo)"
+p53
+I4496
+sV*_{^}$#!+]{[^&++*#!]*)]%$!{#^&%(%^*}@^+__])_$@_^#[{{})}$*]#%]{}{][@^!@)_[}{())%)
+p54
+I12903
+sVd = D.objects.get(pk=1)
+p55
+I19410
+sVupdate cms_fragment_template set content_names = "" where id = 154;
+p56
+I6747
+sVp._meta.get_field_by_name('cars')
+p57
+I18766
+sVa = "   a   "
+p58
+I15126
+sV'_'.join(('1', '2', '3'))
+p59
+I11137
+sVos.path.splitext('a.jpg')[1]
+p60
+I291
+sVimport Image
+p61
+I1375
+sVModel1.objects.exclude(m3__name=3)
+p62
+I18924
+sVlist(aaa())
+p63
+I3017
+sVget_password("./passfile", "tag2", "omab")
+p64
+I923
+sVos.path.dirname(os.path.abspath("/home/omab/Desktop/"))
+p65
+I3428
+sV)$)@+[(}(*%^%$](_)#*_+*%#+{{&^@*!@&([#}{+_#{(@&_%}(]]}^_}+^+@*)_(&}]$($&+@]&[!@{
+p66
+I13845
+sVwalk('/home/omab/job/insophia/mydeco/mydeco_site/cmsv2/bydesign/cms/pages')
+p67
+I17526
+sVa.field.widget.id_for_label
+p68
+I18973
+sVCategory._meta.get_data_holders
+p69
+I2334
+sVc.model_set.all()
+p70
+I2886
+sVb.get_property('disable')
+p71
+I8105
+sVa.get?
+p72
+I16524
+sVfrom scrapy.cmdline import execute
+p73
+I15519
+sV[%]@@++#$@^_^[(+)@%_^_%+^^^*![@{+%_{[(([]@][)&^^*#&[@*^+}&$+@*_!!^}{)&_!!$]@^))]
+p74
+I13007
+sVlist(xrange(1, 10))
+p75
+I3058
+sVupdate cms_fragment_template set content_names = "sectionName/text,sectionImage/image,articleDescription/largetext,articleLinkUrl/text,articleLinkText/text,sectionLinkUrl/text,sectionLinkText/text" where id = 71;
+p76
+I6666
+s.

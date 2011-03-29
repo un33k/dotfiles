@@ -1,0 +1,245 @@
+(dp1
+Vtest(10, recursive=True, *[10, 20])
+p2
+I18139
+sVp.translations.add(M(address='pepe le pu en', language='en'))
+p3
+I5872
+sVpepe(-1)
+p4
+I19675
+sVs = gtk.status_icon_new_from_file("/home/omab/misc/img/msn/shit.jpg")
+p5
+I7307
+sVfrom site_categories.helpers import get_category_products
+p6
+I10529
+sVos.listdir
+p7
+I12574
+sVitem['name'] = titulares.select('./h1[@class="titulo"]/text()').extract()
+p8
+I16711
+sVf.to_field_name
+p9
+I3367
+sVchr(22 + ord('a') - 2)
+p10
+I5207
+sVurllib.quote('a b')
+p11
+I17083
+sVt.object?
+p12
+I11775
+sVx.value += 'requirefacet=-supplier_id&requirefacet=-supplier&requirefacet=-retailer'
+p13
+I18320
+sV[x for x in c.result if x['id'] == 129]
+p14
+I20537
+sVstr(q)
+p15
+I11063
+sVlex.tokenize()
+p16
+I10009
+sV*{}_^@){)*((](@${}[%!)_+!!%^*&${([^+$**^_{*](&({^%![&_$%!]&%%[@]}}%!^^$%@}]@%(!*
+p17
+I13093
+sVupdate cms_fragment_template set content_names = "optionText/text[6],question/largetext" where id = 117;
+p18
+I6710
+sVclass B(A):\u000a    pass
+p19
+I15004
+sVr2 = c.get(r['Location'])
+p20
+I20680
+sV###$@{#!+[){$_}[{#%$@+[{#)!#^}[$%}}[@_@%+!!}*}]$)#)@%^*]!}_*@&)@!]*#*_}##^[#@^%]
+p21
+I13417
+sV+^$@$&!^%+!^[_}&*$__@}{])%)((}_^)(%^)$@}#)]_)[)#{!}*^&&__}!{&)]#_)[$$%@{@$&*@)#{
+p22
+I13979
+sVi.image_is_high_quality
+p23
+I3999
+sVRoom.objects.select_related()
+p24
+I17574
+sVo.open('http://google.com')
+p25
+I21084
+sVmeta
+p26
+I15214
+sVlong('381298392183329389182132')
+p27
+I16577
+sVslugify('new::guid')
+p28
+I10624
+sVstring.replace?
+p29
+I21223
+sV&)}$*(!_*&!!(})(+)([]!]*^&+^^#{@*++}*+&+@!##}[$^_&_%(%&}*!]@}$]}]+))(!@@+^+{]!)%
+p30
+I13275
+sVm.emit_stop_by_name('on_Start')
+p31
+I8056
+sVprint urllib2.urlopen.__doc__
+p32
+I3294
+sVb = [ i for i in ii for ii in a ]
+p33
+I1495
+sVSpecialOffer.add_to_class('a', 1)
+p34
+I7156
+sVf.has_changed()
+p35
+I7366
+sVq = q.copy()
+p36
+I18201
+sV+*!}^^{}{([&#{}]}$}@!%[$@]!#!+!^({))$}]#{&)!^)@}${@%^]%}#$%+^*)[&^+)+)@@#_^+)^&*
+p37
+I13315
+sVvar validChars='\u005c[^\u005c\u005cs'+specialChars+'\u005c]';
+p38
+I9632
+sVi.category.name
+p39
+I3978
+sVfunc(1, 2, True, 1, 2, 3)
+p40
+I18171
+sV'%dakj' < 'A'
+p41
+I14159
+sVlanding.out.close()
+p42
+I12142
+sVp.kwargs
+p43
+I15175
+sVATTR_NAMES_RE = re.compile(r'%\u005c(([^\u005c)]+)\u005c)s%')
+p44
+I16496
+sVDES3.__doc__
+p45
+I943
+sVx = i.translations.get(_language='es')
+p46
+I17868
+sVreadline.read_history_file()
+p47
+I3253
+sVx.is_active()
+p48
+I16859
+sVs.count?
+p49
+I14097
+sVf.base_fields['raw'].name
+p50
+I9115
+sVarr(1, 1) * arr(9, 1) * arr(9, 3) / 2 / 2  / 2 / 3 / 3 / 3 / 7
+p51
+I5656
+sVfrom tipocms.models import CmsFragment
+p52
+I830
+sVs[s.index('-')+1:s.rindex('.')]
+p53
+I17006
+sVo[0].query
+p54
+I7737
+sVct = ContentType.objects.get(name="systemuser")
+p55
+I7381
+sVb.props.visible = True
+p56
+I8121
+sVmicrosite_articles.microsite_content()
+p57
+I9194
+sVitem.select('./img[contains(@src, "/img/default/images/stars")]/@title').extract()[0]
+p58
+I16646
+sVsock.recv(1024)
+p59
+I16930
+sVtagid = 0
+p60
+I15405
+sVglade.get_widget_name.__doc__
+p61
+I8027
+sVc = Category('/%s' % 1049)
+p62
+I10797
+sVcd.category['browse_exclude']
+p63
+I11455
+sVx = Notice.objects.all().order_by('-id')[0]
+p64
+I20927
+sVproductsInCategorySearch(['bathroom'], count=4)
+p65
+I10788
+sVh.list_ex
+p66
+I1679
+sVfrom django.core.exceptions import ImproperlyConfigured
+p67
+I7164
+sVbooks
+p68
+I6072
+sVdata2[1+1:2]
+p69
+I15639
+sVf.storage.url
+p70
+I14229
+sVquery = '?query=&view=geo_product"
+p71
+I15594
+sVPermission.objects.filter(codname="cms_admin")
+p72
+I6022
+sVdef expand_item(item):
+p73
+I504
+sV!}#_(#![^%%+(^&*(({%[]@^]$([@@@@*@@)&}@)^^{*^_@*{){*((%!($+^_!_!^$$_!(@+%&[!_$#$
+p74
+I13666
+sVx = Question.objects.select_related('optionsx').all()
+p75
+I19028
+sV+($@!]^[_%$__&@+[]^%@)[((]#&$&+}!+(}$^^+&{!)&@$$]}!![$&)&][+}+)#]#}(_@@^*!)_)[^$
+p76
+I13293
+sVChatterbox.objects.get(pk=8)
+p77
+I21036
+sVfloat?
+p78
+I10703
+sVNotice.objects.get_event_for_object(p, 'blog.post')
+p79
+I20965
+sVd = datetime.datetime.strptime('10', '%M')
+p80
+I17941
+sVlibxml2.htmlParseDoc(t, "utf-8")
+p81
+I1792
+sVlen(m.hexdigest())
+p82
+I20887
+s.

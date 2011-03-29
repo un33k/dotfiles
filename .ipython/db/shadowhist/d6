@@ -1,0 +1,293 @@
+(dp1
+Vfor x in o:
+p2
+I20990
+sVdef input_handler(*args, **kwargs):
+p3
+I9745
+sVfrom optparse import OptionParser
+p4
+I7017
+sVQueue.deque?
+p5
+I16170
+sVct_group = ContentType.objects.get_for_model(Group)
+p6
+I20922
+sVCmsPage._meta.fields[0]
+p7
+I12098
+sVa[start:end]
+p8
+I1693
+sVqs.query.get_meta()
+p9
+I12046
+sVkw = {'count': 15, 'order_by': '-updated', 'filters': [u'type,montage', u'category,Bathroom'], 'offset': 0}
+p10
+I4207
+sVtokenize = build_tokenizer(phrases, HtmlPhraseTokenizer)
+p11
+I6466
+sV_get_raters_data
+p12
+I7680
+sVs.handle_fk_field(p, p._meta.get_field('template'))
+p13
+I11379
+sV"%s = %%s" % 1
+p14
+I2705
+sVh = Child(name='Pedrito')
+p15
+I18710
+sVfd.get_fragments(prefix='partner')
+p16
+I626
+sVb.alter_content("/search/", "cms=true", contents)
+p17
+I1519
+sVbooks[0].Title
+p18
+I6083
+sVhxs.select('/html/head/title/text()').extract()
+p19
+I10561
+sVCmsPage.objects.filter(live_date__lt=datetime.now(), state='work_in_progress')
+p20
+I18348
+sVcname = m.category.classification_name.lower()
+p21
+I5317
+sVv[0].name
+p22
+I8904
+sVt.name = 'Test tag 9'
+p23
+I15319
+sVValue._meta.fields[0].fname
+p24
+I8928
+sVCmsTextContent._meta.get_field('text');
+p25
+I14838
+sVa[0:9]
+p26
+I1463
+sV@}({%&@}#_^#+_^(*+$)$@+(^[$*#!{_!_]}!(#)_)*(!{^(@(*!#$){[#]&$^[+]!%_}+*]}}}%^_@#
+p27
+I13434
+sVu.delete?
+p28
+I18703
+sVx.product_price
+p29
+I17544
+sVimport tzinfo
+p30
+I17445
+sV(1,) + a
+p31
+I14390
+sVfrom tipocms.models import RenderedData
+p32
+I10430
+sV)^}(+{(++(]}#@{&^@^_}!]!]%+[[(!_]${(*+[}*_@_@*_^@^_]+!)$)!)]*&*$}&[+[)%}#%^))]%^
+p33
+I13292
+sVm.page
+p34
+I14915
+sV#]$]%^)$!{]&_[%%*}_#_)__^[^^#(})}&^%%%_&}&$_$!&{![*^}#+@!*){%)+!]_&*[$)%[)!{]!#^
+p35
+I14024
+sVreadline.have_readline()
+p36
+I3258
+sVdatetime.now().date()
+p37
+I18850
+sVTYPES.values()
+p38
+I4857
+sVimport hyde
+p39
+I17903
+sVresp.headers.getheader('x-mydeco-search-idx')
+p40
+I19302
+sVqs.__class__
+p41
+I12039
+sVmap(clone, zip(input, [keys.copy()]*len(input)))
+p42
+I7655
+sVItem.objects.filter(QLeftOuterJoins(Q(_language='es'))
+p43
+I10995
+sVa = {}
+p44
+I1359
+sVlist(q.filter(PhotoTag.tag_id in [6]))
+p45
+I15350
+sVdata = ph.sections_data()
+p46
+I4827
+sV[ Show » ]
+p47
+I2290
+sVexcept KeyError, e:
+p48
+I6786
+sV}[}}*{)%&]}}+*!$%$[}[@[}%*^{%(^])&&_[*)+%*!%^[*()[)#%_!{]}%@)_&@#$%&(*+)#(]$&!_*
+p49
+I13056
+sVm.signal_connect.__doc__
+p50
+I8058
+sVff
+p51
+I9119
+sVdo_search('red sofa',category=2271,**{})
+p52
+I3761
+sVr.data
+p53
+I21177
+sV'' == 1
+p54
+I19802
+sVconverter = 'pods/%d/pod/%d/title'
+p55
+I17629
+sVnodes[3]
+p56
+I10186
+sVdomain interna.insophia.com
+p57
+I3779
+sVc.move('Qd5'')
+p58
+I16055
+sVsum(xrange(10))
+p59
+I9250
+sV[ x.id for x in p.versions ]
+p60
+I15328
+sVa = {'1': 'b', 'z': 3, 'a': 5}
+p61
+I17175
+sVTranslateableModel.translations
+p62
+I5767
+sVfrom pychess.Utils.GameModel import GameModelfrom pychess.Utils.TimeModel import TimeModelfrom pychess.Utils.const import *from pychess.Variants import variantsfrom pychess.Utils.GameModel import GameModel
+p63
+I15906
+sV].name
+p64
+I18930
+sVu.has_perms(['hola', 'tipocms.cms_producer'])
+p65
+I5977
+sVa = dict(x=1, a=2, z=3)
+p66
+I17166
+sVc = CategoryHierarchy.objects.get(parent=1533, child=1504)
+p67
+I4624
+sVa = range(10)
+p68
+I357
+sVp.codename
+p69
+I6000
+sVo.headers
+p70
+I7840
+sVa.valor
+p71
+I9011
+sVos.path.basename('a/b/c.img')
+p72
+I279
+sVs = Son()
+p73
+I393
+sVp.date.month
+p74
+I15713
+sVimport string, random
+p75
+I10304
+sVItem._default_manager.all()
+p76
+I11129
+sVCONSUMER_KEY = KEY
+p77
+I16436
+sVas_sql(qs)
+p78
+I21446
+sVtpl.render(Context())
+p79
+I10341
+sVdef p():
+p80
+I1821
+sVfrom collections import defaultdict
+p81
+I3287
+sV#&&{{^+[}@$$)]*{!_]#}+^{}*%*$[$)@@^_!*^#*(+}_()$@%$#){_!{_%!${_^!}}!^$#_]$)^]*)]
+p82
+I13165
+sVContentType.objects.get_for_model(Article)
+p83
+I19634
+sVr2 = re.compile('.*(?P:<guards>[A-Z]{3})(?P<letter>[a-z])(?P=guards).*')
+p84
+I14202
+sV(#*+!#@&+{_{&%&$}+}]!@*$#&&({(^(_#{+$*+_)}^&$##&+$]$(&$}!}!](%#+^]*$%]%)}^}])#_!
+p85
+I14037
+sVhal.set_context
+p86
+I2180
+sVprint unicode(y).decode('ascii')
+p87
+I21387
+sVa[a.find("mundo"):]
+p88
+I1576
+sVitems = dict((name, list(values)) for name, values in groupby([a, b, c], lambda x: x['type']))
+p89
+I19343
+sVpq.games
+p90
+I16216
+sVb = ecs.ItemLookup(ItemId=asin, ResponseGroup="OfferFull")
+p91
+I6120
+sVl = 'en'
+p92
+I7415
+sVf.iteritems()
+p93
+I12728
+sV"a" % {}
+p94
+I3638
+sVc = pepe.__class__
+p95
+I1492
+sVfrom django.db.models.query import DoesNotExist
+p96
+I21242
+sVfrom  django.views.generic import redirect_to
+p97
+I16849
+sVos.execle(('/usr/bin/mpc', 'pause'))
+p98
+I306
+s.

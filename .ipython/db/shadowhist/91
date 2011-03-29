@@ -1,0 +1,233 @@
+(dp1
+VSITE-1993
+p2
+I3909
+sVb.ratings.all()[0].rate_type
+p3
+I15684
+sVp.port
+p4
+I18511
+sV_%{#*!{!@]@${%!_$}#_@_#(!(^!#_*#_$&@(@^]_@%)!^&^&{%)({+}}_{%%]%^{&&^@_@&&^[](}(]
+p5
+I13191
+sVv = p.values.select_related().all()
+p6
+I5038
+sVw.show()
+p7
+I7993
+sVa.update(dict((i, i) for i in xrange(200, 300)))
+p8
+I9231
+sVminifb.call('pages_isFan', settings.FACEBOOK_API_KEY, settings.FACEBOOK_SECRET_KEY, sid='3123213123')
+p9
+I10588
+sVbase64.encodestring("ahora hay que cuidarse con los comentarios y cuidar las miradas a las gomas también FFFFFUUUU")
+p10
+I14511
+sVif(validCharset.indexOf(domain.charAt(i))==-1){
+p11
+I9654
+sVct = ClassificationTokenizer({ 'article': 'html' }, phrases=['sofa bed'])
+p12
+I6348
+sVu = User.objects.get(pk=35)
+p13
+I20215
+sVfilter(r.match, lines)
+p14
+I15941
+sVACTIVATE_SH = ACTIVATE_SH.replace('PS1="(`basename \u005c\u005c$VIRTUAL_ENV\u005c\u005c"`)$PS1', 'PS1="${COLOR_RED_BOLD}(`basename \u005c\u005c'$VIRTUAL_ENV\u005c\u005c"`)${COLOR_NONE} $PS1')
+p15
+I19617
+sVt.get_choices()
+p16
+I687
+sVr.search(s).span()
+p17
+I4495
+sVa.__class__.valor = property(AClass)
+p18
+I9013
+sVfor s in search:
+p19
+I159
+sVreverse_with_args('plan_my_room', get_arguments={'_nc': 1, 'day': ['today', 'tomorrow'] })
+p20
+I10611
+sV[ n for n in notices if n.parent]
+p21
+I20972
+sVRoomCompetitionEntry.objects.filter(competition__in=rooms.keys()).order_by('-id')
+p22
+I19101
+sVThe humble sofa bed is probably one of the most popular forms of space saving bed around. It provides an easy way of making a spare bed available at short notice.
+p23
+I6335
+sVbase64.b32encode('abcde')
+p24
+I19237
+sVACCOUNT_KEY    = '172436287-AUTMk19AnrKL08C1iphA3823uDEoS8oGJ4ZqT54Q'
+p25
+I18437
+sVm.group
+p26
+I4485
+sVitem.select('./span[@class="secundario"]/text()').extract()
+p27
+I16638
+sVdef pepe(s):
+p28
+I3697
+sVf = open("/home/omab/Downloads/blacklist.sig")
+p29
+I17752
+sV((1,2),)
+p30
+I14392
+sVdjango.VERSION[1]
+p31
+I52
+sV3 - 1 > 1
+p32
+I20997
+sVqs2.defer?
+p33
+I20161
+sVu.obnob_groups.active(group__slug='group_1')
+p34
+I20257
+sVa = list(1, 2, 3, 4)
+p35
+I17052
+sVclient.SetOAuthToken(gdata.auth.OAuthToken(urllib.unquote(u.extra_data)))
+p36
+I19771
+sV''.split('|')[0]
+p37
+I10133
+sVi.get_file_name
+p38
+I3944
+sVnotices[0]
+p39
+I20958
+sVf.rel.through
+p40
+I10084
+sV[ print(a) for a in articles ]
+p41
+I1782
+sVcallable(1)
+p42
+I8887
+sVstr(f.widget)
+p43
+I15465
+sVa_img_re.split("hola mundo como <a href='http://google.com'><img src='hdai'></a> va todo?")
+p44
+I9854
+sVserializers.register_serializer('csv', 'lib.serializers.csv')
+p45
+I11397
+sVhasattr(c.obj, "credits")
+p46
+I1324
+sVx.incidents(None)
+p47
+I19167
+sVTranslateableModel.objects.select_related()
+p48
+I5857
+sVcgi.parse_qs("a=1&b=2")
+p49
+I7256
+sVfrom django.db.models.sql.compiler import SQLCompiler
+p50
+I19081
+sVa = 'photo-snapshot'
+p51
+I17591
+sVp = Place.objects.filter(name__icontains='Providence', type_name='Town')[1]
+p52
+I19906
+sVcat OUT_LINES
+p53
+I15990
+sVs = u"\u005cufffd10 off orders over \u005cufffd25"
+p54
+I11675
+sV[_&!$]_$%$*]#!^}(%!*+_^}&@++_!%$(!!_#]{{$()))&*+}#[@@!_%%%*!_+)(@*@%)_{^!%![#_+!
+p55
+I13471
+sVre.sub(pepe, "pepepepepepepepepe")
+p56
+I2644
+sVbot.conn
+p57
+I4389
+sVpt_alias
+p58
+I15362
+sVfrom tipocms import lock
+p59
+I8489
+sVfrom lib.wsmodels import models
+p60
+I17549
+sVSystemUser.objects.values('id').get(username="matias")
+p61
+I10522
+sVdel b[8]
+p62
+I5686
+sVimport microsite_articles
+p63
+I9174
+sVfrom tipocms import context_processors
+p64
+I8485
+sVd.xpathEval("/a")
+p65
+I1794
+sVph.data
+p66
+I5052
+sVa.__class__.prueba = property(prueba)
+p67
+I8997
+sVurlize?
+p68
+I12642
+sVsr.get_result().items[0].images
+p69
+I11547
+sVp.absolute_url
+p70
+I7954
+sVprint u"\u005c00257"
+p71
+I21368
+sVurlparse.urlsplit(u).netloc
+p72
+I21161
+sVpyexiv2.Image.readMetadata?
+p73
+I8320
+sVdict(dotted_dict_to_choices(PAGES))
+p74
+I17785
+sVmimetypes.guess_type('file:///home/omab/.backgrounds/14004.jpg')
+p75
+I14802
+sVm.house = h
+p76
+I18752
+sVa.user.username
+p77
+I9472
+sVs[0][0][0].name
+p78
+I16975
+s.

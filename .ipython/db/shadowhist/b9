@@ -1,0 +1,233 @@
+(dp1
+Vc[0].user.get_avatar_url()
+p2
+I4276
+sVl.name
+p3
+I10698
+sVCmsPage.objects.get_fragments_ids(20)
+p4
+I746
+sVlong('')
+p5
+I14925
+sVpage_data(p)
+p6
+I8964
+sVtest.products_category_test(116)
+p7
+I6545
+sVfor c in comments:\u000a    print c.content_type_name
+p8
+I752
+sV%runlog
+p9
+I4408
+sVfrom tagging.models import Tag, TaggedItem
+p10
+I20387
+sVs.types
+p11
+I12842
+sV}%%@@)]^)_](&!#[@+^$)$#}{@^{***{[^*@](}%}(#&*!}+}%][]]@#^$[*!+!@{](*]*&&@$%&[}^+
+p12
+I13452
+sVp.parent.parent.type_name
+p13
+I19889
+sVhpt.tokenize(text)
+p14
+I6343
+sVNone or [] + [1, 2, 3, 4]
+p15
+I20596
+sVTemplate('{% templatetag openblock %}').render()
+p16
+I14384
+sVx.search('blue bedbig')
+p17
+I19372
+sVtimedelta(seconds=4000).__class__
+p18
+I20604
+sVp.has_shared_fragments()
+p19
+I597
+sVall(s.query(PhotoTag, pt_alias).outerjoin((pt_alias, pt_alias.c.photo_id==PhotoTag.photo_id and pt_alias.c.tag_id!=PhotoTag.tag_id)))
+p20
+I15369
+sVphotos.bind?
+p21
+I15140
+sVqs.__dict__
+p22
+I20166
+sVdef func(*names):
+p23
+I17384
+sVIOError.__doc__
+p24
+I2939
+sVa.expand_items("\u005crhola,\u005ctcomo,\u005cr\u005cn\u005cnandas")
+p25
+I523
+sVt.__table
+p26
+I15247
+sVres = 'bot'
+p27
+I4374
+sVPoll.objects.filter(Q(author=u, group=g))
+p28
+I21443
+sVreduce(lambda x, y: (x[0] + y[0], x[1] + y[1]), a)
+p29
+I17219
+sVweakref.ref
+p30
+I4145
+sVimp.__doc__
+p31
+I5763
+sVlist(purple.PurpleGetIms())[0]
+p32
+I5600
+sVr.result.get_items()[0].category
+p33
+I4204
+sVu.i
+p34
+I20329
+sVp = subprocess.Popen(['/usr/games/gnuchess -e'], stdin=subprocess.PIPE, stdout=subprocess.PIPE)
+p35
+I15849
+sVt = models.get_app('tipocmsx')
+p36
+I18304
+sVp.is_bound
+p37
+I7780
+sVt = Template('{% load google %}{% gwo_experiments "gts" "experiments" %}')
+p38
+I14956
+sVr = re.compile("(([A-Za-z][A-Za-z0-9+.-]{1,120}:)?[A-Za-z0-9/](([A-Za-z0-9$_.+!*,;/?:@&~=-])|%[A-Fa-f0-9]{2}){1,333}(#([a-zA-Z0-9][a-zA-Z0-9$_.+!*,;/?:@&~=%-]{0,1000}))?)")
+p39
+I1627
+sVassert(a['a'])
+p40
+I11512
+sVfrom django.template import Context, loader
+p41
+I10200
+sV$}([#)%(!(#[([@^)%+[#&[#%)}+&*{(^*(])^{_]%{^+^^}{#&#[*$^*{#!&](}_#$++#]$[^%+}*&@
+p42
+I13744
+sVf[0].is_list
+p43
+I1884
+sVauth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
+p44
+I16457
+sVlen("CategoryBrowse:candles &amp; candle holders".encode('ascii'))
+p45
+I14614
+sVp = re.compile(r'[^\u005c{]%\u005cs*article_tracked_url')
+p46
+I15032
+sVc = CategoryHierarchy.objects.filter(parent=129)
+p47
+I4553
+sVx = []
+p48
+I17242
+sV[^*@}@})[%{_{_^_((&%^{@#%}()$}[&*{]*])%)@{]#((&#+)&+&_}#+&]{_@#%[*)&+!@!^)+$[@![
+p49
+I13353
+sVh.whats_hot.columns.fields.keys()
+p50
+I17132
+sVfrom django.db.models import QuerySet
+p51
+I5862
+sVs = tl[0]
+p52
+I16365
+sV*%&[$$]+@){!{($$*!}]{$!{+^+*%%%!{%^$(!$)%^{(&)!{!^^]#$]%#^@!^(]$$^!^]@&*{)_())!(
+p53
+I13887
+sVa = range(7)
+p54
+I5380
+sVall((True, 2))
+p55
+I19514
+sVfrom obnob.apps import threadedcomments
+p56
+I20370
+sVos.urandom(3)
+p57
+I19226
+sVc.catid
+p58
+I5422
+sVdir(books[0])
+p59
+I6093
+sVp.meta_title.value
+p60
+I5489
+sVlines = f.readlines()
+p61
+I17756
+sVpd.fragments
+p62
+I2462
+sVp.update
+p63
+I12512
+sVfor o in i:\u000a    print o.get_object()
+p64
+I121
+sVtitulares.select('./h1[@class="titulo"]/text()').extract()
+p65
+I16718
+sVArticle
+p66
+I18094
+sVget_all_photos()
+p67
+I14832
+sV$}^%_]#$!#@[@])[_]*[]_+!(}([]$&}{([[&&}@$@*+]]{&{#[_{^)@&@[$(#{&{$]!$#_#(}^]{+_[
+p68
+I13380
+sVo = N('ttp') + V('id') + N('as') + V('as') + O()
+p69
+I7211
+sVmul
+p70
+I9831
+sVqs.query.__dict__
+p71
+I20167
+sV$#!&#[%{)(%&}^}[]()]$@])$])^#!]!%)_)!(])(}&*($%@%]#&(+^+]+%@[([@^]$_)&&%^*${[!_*
+p72
+I13693
+sVs.st_mode
+p73
+I10619
+sV[](&#^!(@$]**_&*#!_[$]#__+$_$!$}[](!({{}%[^@&&{+{}}%+(%%%#)#]*!][_][}$+[)#)$&**)
+p74
+I13178
+sV_$]^[]+__${$@%&@[^}}#}+]_#(@_}+^+%^##]^$_{@+!_$}##_@#&{@_++@)*${*%^))%{}_@@&[)*$
+p75
+I13393
+sVtest)(
+p76
+I21122
+sVdump.PageDumper?
+p77
+I12328
+sVdatetime.datetime.utctimetuple?
+p78
+I11890
+s.

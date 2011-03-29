@@ -1,0 +1,242 @@
+(dp1
+Vpage = CmsPage.objects.get(pk=pageid).select_related('template').\u005c\u000a                           values(*values)
+p2
+I9531
+sV$()#}$%}@^_()+[!(!*($##%!)$])$+@*[{)&+)&%+}[[}^_#}#*&(^)@[_*^[%$}%)#)#!](+([%*+)
+p3
+I13907
+sV{+[@#@$)@[])__$^&++]+(%*[#]%#@([#]({#%&%%^+&+(](@}@{@*([$)%%}&$%[+[[(@![#@!)(!*_
+p4
+I13177
+sVi[0].translations.all()[0].language
+p5
+I11534
+sVfact(32)
+p6
+I7804
+sVw.raw_bit
+p7
+I10247
+sVModel1.objects.exists()
+p8
+I18895
+sVstatusIcon.set_blinking(blinking)
+p9
+I7316
+sVgrouped.contents
+p10
+I670
+sV+}***@+[!)@{[+^[+[##}*%$[!!%_!!@[#@#@&#![%]@())_}!##%+#{}#(+_&{}!%_@)^}++^*!%)!_
+p11
+I12990
+sVreverse('alert_list', kwargs={ 'username':'hola'})
+p12
+I12375
+sVdatetime.datetime.astimezone(e.created)
+p13
+I9568
+sVet[0]
+p14
+I17292
+sV%timeit 'a ' + 'xxx' + ' b' % 'xxx'
+p15
+I16834
+sVclient.authorizations
+p16
+I16434
+sVpepe.__get__
+p17
+I3674
+sVparsed = p.parse()
+p18
+I10103
+sVItem.objects.all().set_language('es')[0]._language
+p19
+I11033
+sVm = shopping_link_re.match('href="http://mydeco.com/c/furniture/258/"')
+p20
+I8549
+sV+&#@%&](*@}&}#[{@@]+))&^#%!#*}#[+{!^]*+&{^)&}{#+}@+!]$@(&(##)_]$%#_+![}_}}}(($*[
+p21
+I13269
+sVt.ctime()
+p22
+I18386
+sVch._meta.get_data_holders()
+p23
+I4590
+sVbatteries
+p24
+I2192
+sVc = SQLCompiler(qs.query, connection, using=qs.using)
+p25
+I19082
+sV[%&[[&+{}%@}}*]##]}%#[_+{)!*_)[[^#!(+$+(_!})]()#)}*!)_{^#[@!#]]^()_@]^]$@!+_$!(^
+p26
+I13567
+sVimport dateutil
+p27
+I20381
+sVr.finditer(a)
+p28
+I6209
+sVlist(photos.select().execute())
+p29
+I15136
+sVd.month.real
+p30
+I17959
+sVprint unicode('\u005cx0262e')
+p31
+I4615
+sVd.replace(month=d.month + 1)
+p32
+I19280
+sVfrom decimal import Decimal
+p33
+I2082
+sVx.model
+p34
+I20147
+sVr.search('super bedding eh?')
+p35
+I19073
+sVc = HTTPSConnection('social.matiasaguirre..com')
+p36
+I21144
+sVurllib2.unquote("%C2%A3700")
+p37
+I11662
+sVimport PIL
+p38
+I8284
+sV1 < a > 9
+p39
+I1211
+sVnodes.__class__
+p40
+I10180
+sVsum([1, 2, 3])
+p41
+I4016
+sVa = reload(a)
+p42
+I513
+sVb.alter_content("/search/", "cms=true", ['<a href="https://extranet.qa1.mydeco.com/search/?query=jaybe&prefdb=#query%3Djaybe%26prefdb%3Dproduct%26facet%3Dsupplier%252Csleeping%2520solutions">',])
+p43
+I1531
+sVlinks_re.findall(s, re.M)
+p44
+I1253
+sVr.match(x)
+p45
+I18691
+sVos.urandom(10)
+p46
+I10302
+sVisinstance(lambda: None, types.FunctionType)
+p47
+I14464
+sVa.split(None, 4)
+p48
+I11585
+sVurllib2.urlopen?
+p49
+I17090
+sVa['a']
+p50
+I5586
+sVc.categoryfacet_set.all()
+p51
+I2383
+sVvalues = []
+p52
+I2606
+sVimort urll
+p53
+I9525
+sVp = SearchParams({ 'prefdb': 'product', 'db': 'product', 'query': 'blue sofa', 'count': 10, 'display': ['images', 'name', 'guid'] })
+p54
+I14339
+sVdef dec1(fn):
+p55
+I8731
+sVt = datetime.timedelta(milliseconds=37133700)
+p56
+I17603
+sVresponse = s.weblogUpdates.ping(name, url)
+p57
+I8437
+sVPhotoTag.filter(tag_id=1)
+p58
+I15341
+sVmap(sum, a)
+p59
+I6834
+sVu.obnob_groups.filter(group_name='Group 1')
+p60
+I20463
+sVupdate cms_fragment_template set content_names = "module_bottom_link/text,mo
+p61
+I6744
+sVorphans = 1
+p62
+I14988
+sVpt = sqlalchemy.Table('photo_tags', meta,
+p63
+I15145
+sVappend_titles(Video.objects.all(), "pepe")
+p64
+I129
+sVg.membership_set
+p65
+I20124
+sVf.serialize()
+p66
+I2348
+sVd2 > d
+p67
+I7136
+sVb_iface.GetProperty("battery.is_rechargeable")
+p68
+I2211
+sVc.kill()
+p69
+I16040
+sVos.execle('/usr/bin/mpc', 'pause', 'mpc', {})
+p70
+I312
+sVint(d)
+p71
+I7540
+sVc = CatInfo(catid=m.category_id, display="image_big")
+p72
+I5173
+sVf.data
+p73
+I3390
+sVx.admin_1
+p74
+I19899
+sVTrue.__nonzero__()
+p75
+I12054
+sVa = Answers.Answers()
+p76
+I9138
+sVitems[0]
+p77
+I11863
+sV]!*])&}[%&)*&#}}(][]&{+@)(+&^[(#}^*]#+&}]#![@*}()($#{}+_(#[{&}*{$_&[$^%%[$*[{%^)
+p78
+I13258
+sVs.match(a)
+p79
+I6203
+sVsettings.LANGUAGE_CO
+p80
+I14379
+sVc.id is None
+p81
+I3667
+s.

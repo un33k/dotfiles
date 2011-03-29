@@ -1,0 +1,286 @@
+(dp1
+Vfrom django.utils.datastructures import DotExpandedDict
+p2
+I17767
+sVCmsPage.objects.values('template_id').distinct()
+p3
+I14411
+sVa.sort(lambda i: x.index(i))
+p4
+I17682
+sV!($(#@)*%{]*+$++)]{){{@#}%)^]#{&){^+]+]++{_)&$*+&][}&#^^{__{))^^{&@{%+][[{*!_!+$
+p5
+I13805
+sVa = "butler's trays and tables"
+p6
+I3116
+sVfrom bydesign.categorization.models import Category
+p7
+I20618
+sVfrom tipocms import utils
+p8
+I8483
+sVfor btl in BuyTheLook.objects.all():
+p9
+I17642
+sVurllib.urlencode("cat129,1000")
+p10
+I5680
+sVget_language()
+p11
+I7433
+sVu = urllib.urlopen("http://api.brightcove.com/services/library?command=find_playlist_by_reference_id&token=UPUtRybtfc76LmZN8jibktRaeIVp1qhhwo2JmVMY3xQ.&reference_id=MyDecoDefault")
+p12
+I3211
+sVcms_type_contenttype()["text"]
+p13
+I1951
+sVfor i in input:
+p14
+I7610
+sVusers_ids
+p15
+I7795
+sVa = StringIO.StringIO()
+p16
+I15836
+sVfor name, xpath, sl in data:\u000a    value = hxs.select(xpath).extract()\u000a    item[name] = value[sl] if sl is not None else value
+p17
+I16798
+sVo = urlopen(r)
+p18
+I21175
+sVx = dict([('rooms.tutorial', '3D Room Tutorial'), ('blogaward', 'Blog award poll pages'), ('highend.generic', 'Highend Generic pages'), ('highend.message', 'Highend Messages'), ('homepage', 'Homepage'), ('product', 'Product page'), ('suppliers', 'Supplier page')]
+p19
+I17769
+sVf = forms.ChoiceField(choices=choices(), widget=forms.widgets.HiddenInput())
+p20
+I15479
+sV[ (k, v['dsc']) for k, v in TYPES.items() ]
+p21
+I4858
+sVapnumber("2")
+p22
+I6259
+sVa.append(a.pop())
+p23
+I2654
+sVfor idx, x in enumerate(c):
+p24
+I19933
+sVfor name, xpath in plain:\u000a    item[name] = ''.join(hxs.select(xpath).extract())
+p25
+I16819
+sVlen('rnbqkbnr/ppp1pppp/8/8/P3p3/8/1PPP1PPP/RNBQKBNR w KQkq - bm 1; id 1;\u005cn')
+p26
+I16312
+sV(!_}&&}&}!_@$#)]{!#^{%(#]#^&]#}^%{&&*}&(+@^+_%]#)#)_()[(_&!$+^#[%@+$]]]!!&^%[]!^
+p27
+I13729
+sVtpl.nodelist[0].nodelist
+p28
+I11352
+sVa[a.find('('):a.find(')')]
+p29
+I501
+sVisinstance(pepe, function)
+p30
+I1487
+sV_[[%]!(&{({])*][{!%_)@%!%_&)_+(@!*)(]^{)$)^*)*{[+$#(}_]_%_*+^[_)*}(]{)}^+[&[@$&{
+p31
+I13149
+sVi = CmsImageContent.objects.order_by('-id')[0]
+p32
+I17237
+sVprint u'BR\u005cxc4M'.encode('ascii')
+p33
+I21299
+sVtokenize = build_tokenizer(phrases, HtmlPhraseTokenizer(stopwords=['sofa']))
+p34
+I6483
+sVfrom django.template import TOKEN_VAR, TOKEN_BLOCK
+p35
+I10039
+sVfields.ChoiceField?
+p36
+I15459
+sVlist(d)
+p37
+I4783
+sVs = u'\u005cufffd10 off orders over \u005cufffd25 at very.co.uk'
+p38
+I11681
+sVvar domain=matchArray[2];
+p39
+I9649
+sVf.related.field.name
+p40
+I18808
+sVg.headers.getheaders('cookie')
+p41
+I21092
+sVp = a()
+p42
+I5759
+sVid(u)
+p43
+I21452
+sVg = ChatterboxThread.objects.all()
+p44
+I21339
+sVg = list(groupby([a, b, c], lambda x: x['type']))
+p45
+I19333
+sVcontents = [u'/search/?cms=true&query=bryonie+porter&prefdb=', u'/search/?cms=true&query=glow+brick&prefdb', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=spinifex&prefdb=', u'/search/?cms=true&query=supplier%3A55max&prefdb=', u'/search/?cms=true&query=sofa%20workshop%20footstool&prefdb=product&view=images&count=70', u'/search/?cms=true&query=white+coffee+table&prefdb=', u'/search/?cms=true&query=heal%27s&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=REVOLVER+FIREPIT&prefdb=', u'/search/?cms=true&query=B%26Q+wallpaper+design&prefdb=', u'/search/?cms=true&query=feather+%26+black&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=homebase+bbq&prefdb=', u'/search/?cms=true&query=feather+%26+black&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=furniture+village&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=eyestorm&prefdb=', u'/search/?cms=true&query=bryonie+porter&prefdb=', u'/search/?cms=true&query=laura+ashley&startrank=0&prefdb=product&view=compare&sort=-discount_percent&ranges=discount_percent,1,100', u'/search/?cms=true&query=the+pier&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=cath+kidston&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=spinifex&prefdb=', u'/search/?cms=true&query=artificial+plant&prefdb=', u'/search/?cms=true&query=feather+%26+black&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=crocus&prefdb=', u'/search/?cms=true&query=Vitamin&prefdb=', u'/search/?cms=true&query=Reiko+Kaneko+London&prefdb=', u'/search/?cms=true&query=furniture+village&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=furniture+village&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=the+pier&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=furniture+village&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=dominic+crinson&prefdb=', u'/search/?cms=true&query=wallace+sacks&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=Jen+Bowmast&prefdb=', u'/search/?cms=true&query=heal%27s&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=eyestorm&prefdb=', u'/search/?cms=true&query=Johanna+Basford+Designs&prefdb=', u'/search/?cms=true&query=laura+ashley&startrank=0&prefdb=product&view=compare&sort=-discount_percent&ranges=discount_percent,1,100', u'/search/?cms=true&query=the+pier&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=laura+ashley&startrank=0&prefdb=product&view=compare&sort=-discount_percent&ranges=discount_percent,1,100', u'/search/?cms=true&query=crocus&prefdb=', u'/search/?cms=true&query=crocus&prefdb=', u'/search/?cms=true&query=the+pier&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=feather+%26+black&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=heal%27s&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=crocus&prefdb=', u'/search/?cms=true&query=eyestorm&prefdb=', u'/search/?cms=true&query=feather+%26+black&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=heal%27s&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=feather+%26+black&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=crocus&prefdb=', u'/search/?cms=true&query=crocus&prefdb=', u'/search/?cms=true&query=garden+trading&prefdb=', u'/search/?cms=true&query=furniture+village&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=furniture+village&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=wallace+sacks&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=wallace+sacks&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=heal%27s&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=the+pier&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=cath+kidston&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=eyestorm&prefdb=', u'/search/?cms=true&query=furniture+village&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=crocus&prefdb=', u'/search/?cms=true&query=crocus&prefdb=', u'/search/?cms=true&query=nest&startrank=0&prefdb=product&view=compare&sort=-discount_percent&ranges=discount_percent,1,100', u'/search/?cms=true&query=cotswold+company&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=heal%27s&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?query=silk+sheets&prefdb=', u'/search/?query=memory+foam+pillow&prefdb=', u'/search/?query=pyjama&prefdb=', u'/search/?query=diary&prefdb=', u'/search/?query=silk+flat+sheets&prefdb=', u'/search/?query=satin+sheet&prefdb=', u'/search/?cms=true&query=recessed+spotlight&prefdb=', u'/search/?cms=true&query=table+lamp&prefdb=', u'/search/?cms=true&query=wall+light&prefdb=', u'/search/?cms=true&query=flat+pack+bed&prefdb=class', u'/search/?cms=true&query=dimmer+switch&prefdb=', u'/search/?cms=true&query=spotlight&prefdb=', u'/search/?query=silk+sheets&prefdb=', u'/search/?query=memory+foam+pillow&prefdb=', u'/search/?query=pyjama&prefdb=', u'/search/?query=diary&prefdb=', u'/search/?cms=true&query=laura+ashley&startrank=0&prefdb=product&view=compare&sort=-discount_percent&ranges=discount_percent,1,100', u'/search/?cms=true&query=the+pier&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?query=silk+flat+sheets&prefdb=', u'/search/?query=satin+sheet&prefdb=', u'/search/?query=father%27s+day+card&prefdb=', u'/search/?cms=true&query=white+coffee+table&prefdb=', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=cath+kidston&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=feather+%26+black&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=crocus&prefdb=', u'/search/?cms=true&query=wardrobe&prefdb=product', u'/search/?cms=true&query=furniture+village&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=wallace+sacks&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=heal%27s&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=fairy+light&prefdb=', u'/search/?cms=true&query=garden+trading&ranges=price,15,', u'/search/?cms=true&query=cath+kidston&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=knockers&prefdb=', u'/search/?cms=true&query=mirror&prefdb=', u'/search/?cms=true&query=blind&prefdb=', u'/search/?cms=true&query=neutral+carpet&prefdb=', u'/search/?cms=true&query=natural+rug&prefdb=', u'/search/?cms=true&query=garden+furniture&prefdb=', u'/search/?cms=true&query=Darlings+of+Chelsea&prefdb=', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=fairy+light&prefdb=', u'/search/?cms=true&query=crocus&prefdb=', u'/search/?cms=true&query=sofa%20workshop%20footstool&prefdb=product&view=images&count=70', u'/search/?cms=true&query=homebase+bbq&prefdb=', u'/search/?cms=true&query=Darlings+of+Chelsea&prefdb=', u'/search/?cms=true&query=laura+ashley&startrank=0&prefdb=product&view=compare&sort=-discount_percent&ranges=discount_percent,1,100', u'/search/?cms=true&query=the+pier&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=eyestorm&prefdb=', u'/search/?cms=true&query=garden+trading&prefdb=', u'/search/?cms=true&query=silentnight&prefdb=#query%3Dsilentnight%26prefdb%3Dproduct%26facet%3Dsupplier%252Csleeping%2520solutions', u'/search/?cms=true&query=jaybe&prefdb=#query%3Djaybe%26prefdb%3Dproduct%26facet%3Dsupplier%252Csleeping%2520solutions', u'/search/?cms=true&query=homebase+bbq&prefdb=', u'/search/?cms=true&query=feather+%26+black&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=furniture+village&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=wallace+sacks&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=the+pier&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=heal%27s&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=laura+ashley&startrank=0&prefdb=product&view=compare&sort=-discount_percent&ranges=discount_percent,1,100', u'/search/?cms=true&query=mirror&prefdb=mirror', u'/search/?cms=true&query=muslin+panel&prefdb=', u'/search/?cms=true&query=cath+kidston&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=the+pier&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=cath+kidston&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=feather+%26+black&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=laura+ashley&startrank=0&prefdb=product&view=compare&sort=-discount_percent&ranges=discount_percent,1,100', u'/search/?cms=true&query=eyestorm&prefdb=', u'/search/?cms=true&query=the+pier&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=B%26Q+wallpaper+design&prefdb=', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=furniture+village&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=crocus&prefdb=', u'/search/?cms=true&query=crocus&prefdb=', u'/search/?cms=true&query=wallace+sacks&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=garden+trading&ranges=price,15,', u'/search/?cms=true&query=heal%27s&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=furniture+village&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=feather+%26+black&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=wallace+sacks&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=wardrobe&prefdb=product', [u'https://extranet.mydeco.com/search/?cms=true&query=supplier%3Asleeping+AND+solutions&prefdb=', u'/search/?cms=true&query=the+pier&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?query=father%27s+day+card&prefdb=', u'/search/?cms=true&query=homebase+bbq&prefdb=', u'/search/?cms=true&query=wallace+sacks&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=homebase+bbq&prefdb=', u'/search/?cms=true&query=heal%27s&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=open+coil+mattress&prefdb=', u'/search/?cms=true&query=pocket+sprung+mattress&prefdb=', u'/search/?cms=true&query=latex+mattress&prefdb=', u'/search/?cms=true&query=foam+mattress&prefdb=', u'/search/?cms=true&query=willoughvale&prefdb=#query%3Dwilloughvale%26prefdb%3Dproduct%26startrank%3D0=', u'/search/?cms=true&query=laura+ashley&startrank=0&prefdb=product&view=compare&sort=-discount_percent&ranges=discount_percent,1,100', u'/search/?cms=true&query=garden+trading&ranges=price,15,', u'/search/?cms=true&query=feather+%26+black&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=foam+mattresses&prefdb=', u'/search/?cms=true&query=slatted+base&prefdb=', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=upholstered+headboard&prefdb=', u'/search/?cms=true&query=high+footboard&prefdb=', u'/search/?cms=true&query=low+footboard&prefdb=', u'/search/?cms=true&query=cath+kidston&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=dunlopillo&prefdb=class', u'/search/?cms=true&query=feather+%26+black&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=slatted+base&prefdb=class', u'/search/?cms=true&query=sprung+divan&prefdb=class', u'/search/?cms=true&query=Tina+Tsang&prefdb=', u' /search/?cms=true&query=lamp&prefdb=lamps ', u'\u005cn/search/?cms=true&query=floor+cushion&prefdb=', u'/search/?cms=true&query=furniture+village&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=wallace+sacks&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=B%26Q+wallpaper+design&prefdb=', u'/search/?cms=true&query=heal%27s&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=laura+ashley&startrank=0&prefdb=product&view=compare&sort=-discount_percent&ranges=discount_percent,1,100', u'/search/?cms=true&query=glow+brick&prefdb', u'/search/?cms=true&query=laura+ashley&startrank=0&prefdb=product&view=compare&sort=-discount_percent&ranges=discount_percent,1,100', u'/search/?cms=true&query=the+pier&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=the+pier&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=dartington&prefdb=', u'/search/?cms=true&query=garden+trading&prefdb=', u'/search/?cms=true&query=eyestorm&prefdb=', u'/search/?cms=true&query=eyestorm&prefdb=', u'/search/?cms=true&query=silentnight&prefdb=#query%3Dsilentnight%26prefdb%3Dproduct%26facet%3Dsupplier%252Csleeping%2520solutions', u'/search/?cms=true&query=jaybe&prefdb=#query%3Djaybe%26prefdb%3Dproduct%26facet%3Dsupplier%252Csleeping%2520solutions', u'/search/?cms=true&query=crocus&prefdb=', u'/search/?cms=true&query=feather+%26+black&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=supplier:dwell&ranges=discount_percent,25,100', u'/search/?cms=true&query=supplier:dwell&ranges=discount_percent,25,100', u'/search/?cms=true&query=cath+kidston&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=furniture+village&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=wallace+sacks&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=wallace+sacks&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=heal%27s&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=heal%27s&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=homebase+bbq&prefdb=', u'/search/?cms=true&query=sony+bravia&prefdb=', u'/search/?cms=true&query=cotswold+company&startrank=0&prefdb=product&sort=-discount_percent&view=compare&ranges=discount_percent,1,100', u'/search/?cms=true&query=garden+trading&prefdb=', u'\u005cn/search/?cms=true&query=floor+cushion&prefdb=', u'/search/?cms=true&query=bryonie+porter&prefdb=', u'/search/?query=silk+sheets&prefdb=', u'/search/?query=memory+foam+pillow&prefdb=', u'/search/?query=pyjama&prefdb=', u'/search/?query=diary&prefdb=', u'/search/?cms=true&query=nest&startrank=0&prefdb=product&view=compare&sort=-discount_percent&ranges=discount_percent,1,100', u'/search/?cms=true&query=B%26Q+wallpaper+design&prefdb=', u'/search/?cms=true&query=garden+trading&prefdb=', u'/search/?cms=true&query=laura+ashley&startrank=0&prefdb=product&view=compare&sort=-discount_percent&ranges=discount_percent,1,100', u'/search/?cms=true&query=bryonie+porter&prefdb=', u'https://extranet.mydeco.com/search/?cms=true&query=supplier%3Asleeping+AND+solutions&prefdb=']
+p46
+I1545
+sVr.match('abbbbbc')
+p47
+I14872
+sV[7] > tokenize("I like the blacks sofas beds, but the blue sofas beds would be nice with the black out blinds"
+p48
+I6476
+sV#@}&$[[%]_&$+)$!%{(}$^$}*"""
+p49
+I14094
+sVurlparse.urlparse("/community").hostname
+p50
+I9926
+sVu.obnob_groups.filter(group__poll__isnull=True).distinct()
+p51
+I20488
+sVa[1]
+p52
+I1761
+sVtime.strptime("07/27/2010", "%b/%d/%Y")
+p53
+I17186
+sVPhotoTag.filter(PhotoTag.tag_id == t.id)
+p54
+I15261
+sVfrom django.db.transaction import commit_on_success
+p55
+I19960
+sVpage_value = ''.join(page_value)
+p56
+I2243
+sVr.match('curtains')
+p57
+I19380
+sVt = ' article_tracked_url "homebase.co.uk"  "http://www.homebase.co.uk/webapp/wcs/stores/servlet/ProductDisplay?langId=-1&storeId=20001&partNumber=8421519"" target="_blank"'
+p58
+I15050
+sVt = Template('{% abs_url sitemap_section "product-index" %}')
+p59
+I21203
+sVw = webkit.WebView()
+p60
+I18037
+sVurl = "/aff/?article=66942&website=duvetandpillowwarehouse.co.uk&url=http%3A%2F%2Fwww.duvetandpillowwarehouse.co.uk%2F"
+p61
+I14771
+sVEmailVisionIntegration.objects.active_competitions()
+p62
+I19966
+sVCmsPage.objects.filter(http_path="/rooms/detail/vibrant-and-colourful-contemporary-bedroom--buy-the-look-1045220/")
+p63
+I17639
+sVph.data.section1
+p64
+I5067
+sVc.entries_images
+p65
+I19397
+sVmath.floor?
+p66
+I10704
+sVf = PluginForm(plugin, family)
+p67
+I14472
+sVr._get_url(params)
+p68
+I5265
+sVsqlalchemy.Column('photo_id', sqlalchemy.Integer, sqlalchemy.ForeignKey('photos.id')),
+p69
+I15146
+sVjson = json[len("blip_ws_results("):-2]
+p70
+I11592
+sVi.id_es
+p71
+I11537
+sVslugify('djakdj dasdka')
+p72
+I14383
+sVfrom lib.html import safehtml
+p73
+I20841
+sVbase64.decodestring('aG95IGN1YW5kbyBzYWxpIGEgaGFibGFyIHBvciB0ZWwsIGVzdGFiYSBhaGkgYWZ1ZXJhIGNvbiBlc2FzIGRvcyBnb21hcyBlcGljYXMsIGJhaWxhbmQgZW4gbGEgcHVlcnRhIHkgZW4gdW5hIHBvbmUgbGEgbWFubyBzb2JyZSBsYSBwYXJlZCBvbmRhIGJhaWxhcmlhbiBkZSBzdHJpcCB5IG1lIGNsYXZhIGxvcyBvam9z')
+p74
+I20742
+sVt.img
+p75
+I4899
+sVS
+I7383
+sVv2
+p76
+I8687
+sVfrom cgi import parse_qs
+p77
+I5900
+sVfrom django.utils.version import get_svn_version
+p78
+I54
+sVfunc(1, 2, 3)
+p79
+I10204
+sVp = Permission.objects.get(appname="tipocms")
+p80
+I6015
+sVboard = filter(r.match, lines)
+p81
+I15942
+sV]}@)%_(!##]#![{]%*((}$)]{}&(%{{$#+&)_!#)_%&@^()%*@#%&!%+^_+(+$@($&^!$_$%()!!_!(*
+p82
+I13399
+sVm.category_id
+p83
+I5171
+sVmod = __import__(name, fromlist=[module])
+p84
+I19485
+sVi.face_set.all()[0]
+p85
+I10904
+sVprint fs
+p86
+I3280
+sVf.cmscontentmapping_set.filter(name='image').values('object_id')[0]
+p87
+I9154
+sVmod.__dict__
+p88
+I19490
+sVw.front_image.file.path
+p89
+I2900
+sVtime.strptime("07/27/2010", "%B/%d/%y")
+p90
+I17181
+sV__future__.with_statement.__doc__
+p91
+I2032
+sVo._meta.get_all_related_objects()
+p92
+I18715
+sV@**]^)])*{^)*@%^)+**!%#)%!(_#!)(+#!+&{$*]^}%]{!_$^&!_@_)$%&#{^@^&!#&+&${#]*_)]^]
+p93
+I13339
+sVr = re.compile('pepe')
+p94
+I6232
+sVsum(1, 2, 3)
+p95
+I4015
+s.

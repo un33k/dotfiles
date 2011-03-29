@@ -1,0 +1,287 @@
+(dp1
+Vfd.options.items
+p2
+I637
+sVq.query.group_by = [('strftime("%m", date)')]
+p3
+I15725
+sVx = 1 / (1223.0 / 300.0)
+p4
+I10761
+sVCmsPage._meta.fields[0].name
+p5
+I12099
+sVu.scheme
+p6
+I4298
+sVp = CmsPage.objects.filter(http_path__startswith='/the-magazine/articles/', state='live')[0]
+p7
+I8540
+sVsys.call_tracing(1, 2)
+p8
+I2048
+sVt = "I like the children blacks sofas beds, but the blue sofas beds would be nice with the black out blinds"
+p9
+I6504
+sVst = re.compile('<[^>+>')
+p10
+I16899
+sVPhoto.by_tag(t.id)
+p11
+I14813
+sVstr.translate = new_trans
+p12
+I2016
+sV{@*&!$&]%{[_(^$}(({]^!#[)@@[[{*]{)_}]#*}$#_((#*+^]&]}]@^#^%^^[*@$}&{{&#*[_{]%#**
+p13
+I13575
+sVlist(b - a)
+p14
+I17381
+sVload.pages.__format__
+p15
+I17035
+sVrated_item.id
+p16
+I341
+sV''
+p17
+I20678
+sVCategoryImage.objects.all()
+p18
+I3571
+sVet.keys
+p19
+I17287
+sVhtmllib.HTMLParser(html)
+p20
+I9706
+sVu.user_permissions.filter(applabel='tipocms')
+p21
+I5993
+sVresolve("shopping_browse_category", "djaksdj")
+p22
+I3967
+sVt.save()
+p23
+I254
+sVhal_dot = 'org.freedesktop.Hal'
+p24
+I2187
+sVint(random.random() * 100)
+p25
+I2552
+sVupdate cms_fragment_template set content_names = "" where id = 23;
+p26
+I6618
+sVfrom site_categories.models import SiteCategoryProducts, SiteCategory
+p27
+I10533
+sVm.render({})
+p28
+I5154
+sVt.fragment.all()
+p29
+I562
+sVclass Z(A, B):
+p30
+I4367
+sVparsed[2]
+p31
+I10104
+sVlist(CmsPage.objects.most_viewed('/the-magazine/%\u005c'', ''))
+p32
+I12199
+sVMYMOVE_RE.match(l[-2])
+p33
+I16099
+sVurlparse.urlparse('?a=1&b=2').getstring
+p34
+I11720
+sVa = Area.objects.get(pk=4)
+p35
+I11191
+sVf.opts
+p36
+I18791
+sVa[-2] = 10
+p37
+I16315
+sV'B' < 'A'
+p38
+I14126
+sVprint_result(i)
+p39
+I133
+sVimport cookielib
+p40
+I9521
+sVclass Test(object):\u000a    __metaclass__ = Meta\u000a    a = 1\u000a    b = 2\u000a    z = 3\u000a    h = 4
+p41
+I17164
+sVc[0].is_empty
+p42
+I1746
+sVt.render(Context(data))
+p43
+I21057
+sVg.node_incidence.__doc__
+p44
+I6960
+sVxml = XMLGenerator(out=s)
+p45
+I17271
+sVw.token.split_contents()
+p46
+I10280
+sVfloat(100/300)
+p47
+I10747
+sVb.open('http://insophia.com')
+p48
+I18056
+sVop.headers.items()
+p49
+I19288
+sVitem = Item.objects.all().set_language('es')[0]
+p50
+I11037
+sVlimit 1""")
+p51
+I11809
+sVx = Context()
+p52
+I18207
+sVlist(books)
+p53
+I6073
+sV*})($_()()[*!!@#(&&}]{]+{[*+}%_$(@(}&{]*$!$]_]+&!%+{}$}+_**!@]_+(&[$}__@&[!}{#&_
+p54
+I13003
+sVa = pepe(10)
+p55
+I3700
+sV''.join(random.sample(string.letters + string.letters, 10))
+p56
+I15668
+sVa.insert(4, 3)
+p57
+I2531
+sVa.rpartition('/')
+p58
+I17492
+sVi.user.get_absolute_url()
+p59
+I4011
+sV[ i[0]['text'] for i in a['menu_data']['Magazine'] ]
+p60
+I5159
+sVu'BR\u005cxc4M'.encode('utf8')
+p61
+I21291
+sVu = urlparse.urlparse("a.com/b")
+p62
+I4299
+sVopr.name
+p63
+I412
+sVw.token.token_type
+p64
+I10281
+sVGroup.__class__
+p65
+I19794
+sVch._meta.get_data_holders()[1]
+p66
+I4591
+sVp.specialofferproduct_set.all()
+p67
+I4503
+sVg.fields['main'].data
+p68
+I17811
+sVfrom Crypto.Cipher import DES
+p69
+I949
+sV__import__('account.views.escapejs', fromlist=['.'])
+p70
+I8275
+sVprint s.encode('utf-8')
+p71
+I11660
+sVa = list((1, 2, 3, 4))
+p72
+I17053
+sVqs.migrate(using='xxx')
+p73
+I18800
+sVs.plugins
+p74
+I12845
+sVh = 'http://google.com/a'
+p75
+I20777
+sVg.get_node_attributes('37328')
+p76
+I6947
+sVu.moodboard_room_count
+p77
+I20106
+sVx = list(p)[0]
+p78
+I17543
+sVf = FindTalentForm(None, data={'query': 'me'})
+p79
+I12734
+sVx = IncorrectPriceReport.objects.all()[0]
+p80
+I20852
+sVfor idx, i in enumerate(xrange(1000)):\u000a    if idx > 0 and max % idx == 5:\u000a        percent += 5\u000a        sys.stdout.write("%d%%" % percent)\u000a        sys.stdout.flush()
+p81
+I11855
+sVp = Product.objects.get(pk="73f29b89907f5843082660e4e36b157ba0054d8c")
+p82
+I12411
+sVupdate cms_fragment_template set content_names = "dealImage/image[3],dealLin
+p83
+I6702
+sVr.model
+p84
+I17897
+sVdefaultdict(defaultdict(list))
+p85
+I12217
+sVc.total_diff()
+p86
+I2138
+sVa = ['z', 'b', 'd', 'a', 'h']
+p87
+I17679
+sVfrom common.utils import get_gwo_experiments
+p88
+I14957
+sV[ r.count() for r in idx.search("dia") ]
+p89
+I245
+sVd1 > d2
+p90
+I1111
+sV$)_#]*^{@_*[}@}*@@^+**+[[)**{!)!{##[(*}{)+@{}}{]+!*+&*&)_^&{*+@[*_#{)#(}_*]%{+!%
+p91
+I14068
+sVfd.fragments_list[0]
+p92
+I781
+sVprint u'\u005cx2661'
+p93
+I6823
+sVpage = Page.objects.select_related('path')\u005c
+p94
+I18651
+sVpages = CmsPage.objects_aux.get_work_in_progress_pages()
+p95
+I538
+sV[ field.name for field in Item._translation_model._meta.fields]
+p96
+I10982
+s.

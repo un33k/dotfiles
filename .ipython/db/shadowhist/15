@@ -1,0 +1,251 @@
+(dp1
+Vbot.send("matias@insophia.com/Work", "Hola")
+p2
+I4385
+sVprint(a)
+p3
+I10161
+sVa % { 'hello': "hola" }
+p4
+I14140
+sVa = { 'a': 1}
+p5
+I5585
+sVs.result.items[0]
+p6
+I14371
+sVcommands.getstatusoutput('ls /bin/ls')
+p7
+I315
+sVget_url(RM_PARAMETERS, 'matiasaguirre@gmail.com')
+p8
+I7905
+sVloader.get_template('base.html')
+p9
+I9955
+sVfrom tipocms.utils import replace_amp
+p10
+I4636
+sV[ (s.find(c), c) for c in 'aeilquty' ]
+p11
+I14103
+sVcvNamedWindow("win")
+p12
+I10859
+sVp._meta._field_name_cache[-1].name
+p13
+I6800
+sVdb.photo_version
+p14
+I15197
+sVlist(CategoryImageType.objects.all())
+p15
+I3621
+sVct = ClassificationTokenizer({ 'article': 'html' }, phrases=['sofas beds', 'worthing'])
+p16
+I6382
+sVjson.loads?
+p17
+I18507
+sVt = Template('{% media_url /media/data/avatars/images______________________.jpg %}')
+p18
+I11488
+sVcompetition_tags.SendToFriendsForm
+p19
+I7892
+sVItem.objects.set_language('es').clone()[0].title
+p20
+I11118
+sVt = CmsTextContent.objects.get(pk=526921).text
+p21
+I11347
+sVw = Wear.objects.all()
+p22
+I2899
+sVa = '1,2,3]
+p23
+I19134
+sVvar word='('+atom+'|'+quotedUser+')';
+p24
+I9636
+sVlist(r.order_by('filename'))
+p25
+I14827
+sVfrom django.templates.defaultfilters import slugify
+p26
+I20003
+sVclient.SetOAuthToken(gdata.auth.OAuthToken(u.extra_data))
+p27
+I19777
+sVmax([1, 2])
+p28
+I2507
+sVzip(*items)
+p29
+I7609
+sV!#&^^^}_^&!#%#$![)(]_)^}@[{[)*}[#@(*&#^*%*[_{)([{[(](+{^)@#&_%_&+}@^]$_@(&(_@![)
+p30
+I13121
+sVbf()
+p31
+I4341
+sVi = CmsImageContent.objects.all()[32]
+p32
+I10700
+sV(#})___!{^@*}#(%#)_]_%{{]+@%${+![^{(*$+)$[&[${)&#%+$![{}(@^+}]#(}@#]}($($[$[+{}(
+p33
+I13941
+sVRoomCompetition._meta.get_field('type').choices
+p34
+I20041
+sVd.pre_save
+p35
+I7768
+sVv = Variable('cms.value.text|title')
+p36
+I10366
+sVamazon.searchByASIN(asin, type="book", license_key=lk)
+p37
+I6103
+sVreplace_amp("gdjklgjdf&lt;ezghzkgrhrekgh&lkdjhgdljg{% rekjghrekgn lkdjsf=3&nkhn=1 %}kjdrhgerk{% article_tracked_url efh=2&jkhdg=4&fgjdfjk=blah%}khgfkjdhk&&&&&&&&&query;jhg&amp;d")
+p38
+I4698
+sVend - start
+p39
+I18989
+sVUserSocialAuth._meta.get_field('xxx')
+p40
+I19253
+sVurllib2.urlopen("http://feeds.directnews.co.uk/?f20db9c5-dbd0-43e8-86f6-35a90ea02d83")
+p41
+I1777
+sVf.name = 'pepe'
+p42
+I14226
+sVu.notices.all()
+p43
+I21013
+sVsys.__class__.__module__.__class__
+p44
+I10896
+sVq.answer_count
+p45
+I9465
+sVp.stdout.read()
+p46
+I15790
+sVfrom django.views.decorators.http import requires_POST
+p47
+I21202
+sVget_file(tagid, photo)
+p48
+I15407
+sVfrom django.contrib.contenttypes.models import *
+p49
+I2972
+sVdjango.views.generic.simple.redirect_to
+p50
+I16861
+sVpq.move('matias2', 'e4')
+p51
+I16248
+sVimg.im
+p52
+I12306
+sVp[0].discounted
+p53
+I8873
+sVCategory(path="root/%s" % m.category.id)
+p54
+I5418
+sVdivmod
+p55
+I17561
+sVurl, data, headers
+p56
+I21169
+sVclean_link("""hola mundo <a href="http://google.com">google</a> y esto <a href="http://yahoo.com">yahoo</a> y <a href="#">forum</a>""")
+p57
+I14549
+sVa = Decimal("10.03139831212389312")
+p58
+I2154
+sVt2.formfield()
+p59
+I703
+sVecho u"U+2665"
+p60
+I6808
+sVfor page in CmsPage.objects.filter(state__in=['live', 'work_in_progress']):
+p61
+I15647
+sVf.fields.tags
+p62
+I32
+sVfrom tipocms.state import live
+p63
+I8458
+sVpercent = 0
+p64
+I11854
+sVtar.extractall(tmp, "page")
+p65
+I1922
+sVunicode(val)
+p66
+I10409
+sVpingomatic('gg', 'http://google.com')
+p67
+I8429
+sVrooms
+p68
+I9264
+sVreduce(lambda x: x, range(10))
+p69
+I9830
+sVfor k, (v, c) in a.iteritems():\u000a    print k, v, c
+p70
+I11500
+sVs.delete()
+p71
+I3645
+sVp = Product.objects.get(pk="a6060d24a1a7f59cf5d2b52cc931a7023639ef3b", discounted=1)
+p72
+I8869
+sVf = IncorrectPriceForm(data={'product': 'GB15EC695NMLQTM5OC4XK5OCPJWXQPYUWSSG7NMZ'})
+p73
+I20860
+sVclient.profile.get_data()
+p74
+I9349
+sVi.item_trans.all()[0].language
+p75
+I11161
+sVVariable('article|title').resolve(Context({'article': 'hola'}))
+p76
+I10066
+sVf = tempfile.NamedTemporaryFile('w', suffix='.jpg')
+p77
+I12279
+sV128 * 3
+p78
+I16147
+sVfrom shopping.views import *
+p79
+I11435
+sVa += " mundo"
+p80
+I15767
+sVx = 'http://myapp.com:8000/complete/facebook/?code=2.dQHKTthSV1DL2u6p7Y3tmA__.3600.1301043600-100002200789926\u005cu00257CMgmuLIWeimhjFQ_5OZrnfGOYeDw
+p81
+I21372
+sVfrom lib.html import clean_html
+p82
+I20840
+sVbase64.encodestring("hola mundo")
+p83
+I12743
+sVp graph.readwrite.write_dot_digraph.__doc__
+p84
+I6878
+s.

@@ -1,0 +1,263 @@
+(dp1
+VTranslateableModel.translations.__class__
+p2
+I5775
+sVi = 381293829389128312
+p3
+I7943
+sVa[950:]
+p4
+I17560
+sVcm = CmsContentMapping.objects.filter(content_type=ct)[2000]
+p5
+I17462
+sVp = Pepe)(
+p6
+I17079
+sV"gdjklgjdf&lt;ezghzkgrhrekgh&lkdjhgdljg{% rekjghrekgn lkdjsf=3&nkhn=1 %}kjdrhgerk{% article_tracked_url efh=2&jkhdg=4&fgjdfjk=blah%}khgfkjdhkjhgd"[27:]
+p7
+I4682
+sVjoin('a/', 'v', 'c')
+p8
+I5036
+sVurllib.quote('http://google.com?q=big+table')
+p9
+I19452
+sVmodels.CharField.__bases__
+p10
+I18938
+sVm.send()
+p11
+I5467
+sVp = load.load_pages()
+p12
+I17015
+sVt.photos()
+p13
+I15400
+sVload.PLUGINS
+p14
+I17023
+sVa.__get__
+p15
+I1824
+sVcalendar.month(2011, 2)
+p16
+I21318
+sVurl.split('/')[3:]
+p17
+I9028
+sVs = CmsPage.objects.filter(state='live').values("http_path", "id", "state", 'since')[0]['since']
+p18
+I4976
+sVr = c.request('get', '/')
+p19
+I21146
+sVfrom toolbox import tokenizer
+p20
+I3107
+sVd = Decimal("holaa")
+p21
+I2186
+sVcm.object
+p22
+I17456
+sVsimplejson.JSONDecoder().decode("{'url': 'pepe', 'id': 1, 'name': 'pepepe'}")
+p23
+I2665
+sVurllib.urlencode("")
+p24
+I5717
+sV"\u005c\u005c\u005c'" in s
+p25
+I11641
+sVlen(a + "X" *(8 - (len(a) % 8))) % 8
+p26
+I1124
+sVu = g.user_set.all()[0]
+p27
+I6578
+sVclass B(A):\u000a    def save(self):\u000a        print "Save de B"\u000a        super(self.__class__, self).save()
+p28
+I3100
+sVt.render(Context({'data': data}))
+p29
+I21062
+sVupdate cms_fragment_template set content_names = "mainImage/image" where id = 44;
+p30
+I6639
+sVdef arr(m, n):
+p31
+I5632
+sVp.geturl()
+p32
+I14778
+sVa = '/a/b/c/1/2/3/'
+p33
+I15120
+sVmsg.send()
+p34
+I21262
+sVb_iface.GetProperty("battery.rechargeable.is_charging")
+p35
+I2215
+sVclient.profile.presence
+p36
+I9334
+sVJSD.decode('{"a": 1}')
+p37
+I18501
+sVsimplejson.dumps(range(10))
+p38
+I10378
+sVv = Val()
+p39
+I19139
+sVcgi.urllib.splitvalue(url)
+p40
+I5592
+sV[None]*10
+p41
+I20063
+sVg.incidents('37535')
+p42
+I6940
+sVif((domArr[domArr.length-1].length<2)||(domArr[domArr.length-1].length>6)){
+p43
+I9667
+sVtop = ''
+p44
+I14986
+sVsettings.TWITTER_CONSUMER_KEY
+p45
+I20672
+sVconsumer = oauth.Consumer(key=APP_KEY, secret=APP_SECRET)
+p46
+I18439
+sVclass FForm(forms.ModelForm):
+p47
+I3704
+sVDecimal("10")
+p48
+I2085
+sVfor x in range(10):
+p49
+I17927
+sVCategoryImage._meta.fields[1]
+p50
+I3544
+sVprint y.encode('utf-8')
+p51
+I21385
+sVjoin('a', 'b')
+p52
+I17367
+sVd = grouped_content(Name.objects.all(), Value.objects.all())
+p53
+I8944
+sVproducts = [ i.product_id for i in p ]
+p54
+I7410
+sVqs = Model1.objects.all()
+p55
+I18896
+sVr.match("aaa.bbbb")
+p56
+I3104
+sVDeprecationWarning?
+p57
+I17832
+sVmodule
+p58
+I4161
+sVctx = c
+p59
+I11443
+sVs = '/aff/?website=32892&param3=3232'
+p60
+I14858
+sVhtmlentitydefs.codepoint2name['amp']
+p61
+I14691
+sVst2.st_mode & os.path.stat.S_IFSOCK == os.path.stat.S_IFSOCK
+p62
+I16602
+sVa[0:]
+p63
+I7514
+sVv = simplejson.JSONDecoder().decode(value)
+p64
+I2281
+sVimport urlpars
+p65
+I1220
+sViter(p.metas)
+p66
+I1887
+sVx.meta_title
+p67
+I18613
+sVv = Video.objects.all()[0]
+p68
+I334
+sVt = threading.Timer(30, hello)
+p69
+I9389
+sVvalues = None
+p70
+I3639
+sVdatetime.fromtimestamp(float("1264713776"))
+p71
+I11587
+sVx.pl
+p72
+I18614
+sV$]#%{%${!!#^!#{}@)]$[%$(&[!&#![&+([@*&@]!}[[*+)%][*}@&!$*]_*+++{!!*!_+%{*++#*^#}
+p73
+I13117
+sVd.xpathEval("//a")[0].prop("href")
+p74
+I1797
+sVprint opr.parse("tag xxx as yyy from mmm ppp tttt".split())
+p75
+I452
+sVf = open('/tmp/test2', 'wr')
+p76
+I16568
+sVupdate cms_fragment_template set content_names = "actionLink/text,actionLink_text/text,backgroundImage/image,titleText/text,bodyText/largetext,link1_text/text,link1_href/text,link2_text/text,link2_href/text,link3_text/text,link3_href/text" where id = 2;
+p77
+I6600
+sVrange(4, 9)
+p78
+I15538
+sVif(!isEmail(document.getElementById('EMAIL_FIELD'))) return;
+p79
+I9677
+sVclass Ff(forms.Form):\u000a    name = forms.CharField()\u000a    label = forms.CharField()\u000a    def __init__(self, fname, *args, **kwargs):\u000a       super(Ff, self).__init__(*args, **kwargs)
+p80
+I4884
+sVd.month.conjugate()
+p81
+I17944
+sVsys.argv.len
+p82
+I2169
+sVitems = groupby([a, b, c], lambda x: x['type'])
+p83
+I19340
+sVexcept (IndexError, ZeroDivisionError), e:
+p84
+I2519
+sVqs = join_stats(qs, comment_count='comments_count',like_count='recommended',dislike_count='not_my_style',hits='view_count')
+p85
+I17438
+sVg.users.active()
+p86
+I20130
+sV(a, b), c = 'a,b'.split(',', 1), 'c'
+p87
+I17382
+sVhxs.select('//p[@id="titulo-error2"]')
+p88
+I16754
+s.

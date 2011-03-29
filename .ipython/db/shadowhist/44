@@ -1,0 +1,278 @@
+(dp1
+Vprint '\u005cn'.join(x.readlines())
+p2
+I20683
+sVa.lstrip("hola")
+p3
+I1658
+sVx.match('book/case')
+p4
+I19387
+sVany([ 1, 2, 3])
+p5
+I9126
+sV[{}] * 10
+p6
+I2440
+sVfrom django.template.defaultfilters import title
+p7
+I8989
+sVa or b
+p8
+I1557
+sVp.pid
+p9
+I15806
+sVhex('h')
+p10
+I5198
+sVos.environ["user"]
+p11
+I4225
+sVs = SystemUser.objects.get(pk=t.object_id)
+p12
+I11776
+sVimport stat
+p13
+I2096
+sVdatetime.__file__
+p14
+I9577
+sVfrom django.template import Template, Context
+p15
+I10416
+sVa.setdefault?
+p16
+I14481
+sVx = Pepe()
+p17
+I1161
+sVimport xml.sax
+p18
+I9942
+sV+]@#[&&*[^$(@&&{((^)%[%%@[])&}%]]^[)]&@{*@([($_]_{[[@}^(%#]@^]^$%_!%_$+*@&+[+)(&
+p19
+I13765
+sVc = connection.cursor()
+p20
+I7724
+sVinspect.getargs?
+p21
+I17174
+sVp s._meta.get_all_related_objects()
+p22
+I3306
+sVGroup.obnob_users.related.field
+p23
+I20171
+sVq.__class__
+p24
+I12774
+sVdef pepe():\u000a    raise StopIteration
+p25
+I3655
+sVItem._translation_model._meta.get_field('_language').choices
+p26
+I17851
+sVfunctools.update_wrapper.__doc__
+p27
+I2719
+sVids_sql = set(ids_sql)
+p28
+I1029
+sVd.getElementsByTagName('form')
+p29
+I20698
+sVinspect.stack()
+p30
+I17171
+sViri_to_uri(url)
+p31
+I2294
+sVp = CmsPage.objects.get(pk=20)
+p32
+I754
+sVf.new._list
+p33
+I1739
+sVp.handle_starttag('input', input_handler, (html))
+p34
+I9748
+sVa = dict((x, x * 10) for x in range(10))
+p35
+I14999
+sVfrom social_auth.models import UserSocialAuth
+p36
+I18669
+sVsettings.CMS_TEMPLATES
+p37
+I17207
+sVos.path.basename("/hola/mundo/como/va.jpg")
+p38
+I4020
+sVl = f.list_ex
+p39
+I1838
+sVa = ChildA(name='xxx', surname='yyy')
+p40
+I19530
+sVa = '5'
+p41
+I14121
+sVa.replace?
+p42
+I15064
+sVfrom search.search import do_search
+p43
+I3756
+sVr.get('test-key')
+p44
+I18250
+sVCity._meta.get_field('x')
+p45
+I20413
+sVn.widget.id_for_label()
+p46
+I2910
+sVIncorrectPriceReport.objects.all()
+p47
+I20871
+sVsearch_links.alter_content("/search/", "cms=true", contents2)
+p48
+I1552
+sVr = re.compile('/aff/?.*\u005c?website=([^&\u005c'"]+)')
+p49
+I14860
+sVimport cms.plugins
+p50
+I14211
+sVp.unescape.__doc__
+p51
+I5515
+sVr.get_image_url()
+p52
+I3822
+sVa.items
+p53
+I11248
+sVh = HTMLParser().feed(lines)
+p54
+I20687
+sVlist(chain((x for x in a)))
+p55
+I16534
+sVr.get('test-key-90000')
+p56
+I18257
+sVurlparse.urlsplit("/a/b/c")
+p57
+I3003
+sVimport readline
+p58
+I3248
+sVTag.search("tag1")
+p59
+I74
+sVr = ArticleSearch(filters=[('http_path', '/the-magazine/news/18727425')])
+p60
+I9505
+sVY2UgMTAwJSAK""")
+p61
+I14521
+sVs.cache.last_activity
+p62
+I11946
+sVf = MyForm()
+p63
+I18127
+sVa = u'\u005cxC2\u005cx92s'
+p64
+I10139
+sVOther sofa bed models take a different approach and use an inflatable air mattress. You can even buy ones where the entire unit, sofa and bed, is inflated with an air pump when needed. Don't forget to consider the size. Sofa beds are often used in small rooms. But will it still be possible to open the door when the bed is open? If not, could it make answering a night time visit to the bathroom tricky? And what happens to the sleeper if there is a fire or other emergency? Sometimes however the beds are so short that many people will find their feet hanging over the end!
+p65
+I6338
+sVq.children[0].children[0]
+p66
+I11009
+sVclient.profile.notify
+p67
+I9356
+sVdef check_links(url_like, text_contents):
+p68
+I1536
+sVa = 332L
+p69
+I2558
+sVr.value
+p70
+I14781
+sVc.hierarchy()
+p71
+I10489
+sVr.match('/microsite/bestonlinesofas.com/pep/le/pu')
+p72
+I8349
+sVf.get_result().items[0]
+p73
+I9451
+sV{% for item in items %}
+p74
+I21046
+sVx.
+p75
+I18647
+sVpages = tpl.cmspage_set.filter(state="live").order_by("http_path").values('http_path', 'id')
+p76
+I8836
+sVv._meta.fields.append(models.CharField(max_length=64, name='vfield'))
+p77
+I8567
+sVvalues = u.read()
+p78
+I3212
+sVprint __name__
+p79
+I10890
+sVp.logo_path
+p80
+I5272
+sVt = Template("{% url supplier_details supplier_slug=somethingfromus supplier_id=6912484 %}")
+p81
+I17911
+sVr.cookies
+p82
+I20655
+sVCity._meta.get_field_by_name('x', '')
+p83
+I20416
+sVp = Pepe(1, "hola", { "a": 231, "b": "buenas" }, (1, 2, 3, "djak"))
+p84
+I3163
+sVa['a'].append(1)
+p85
+I7623
+sVgtk.DrawingArea.set_scroll_adjustments
+p86
+I7998
+sVa, b = pepe()
+p87
+I2934
+sV[ (p.nombre, p.precio) for p in Producto.objects.all() ]
+p88
+I7451
+sVa = range(16)
+p89
+I5373
+sVUser.objects.filter(username__startswith='omab')[0]
+p90
+I18455
+sVmodule, name = 'social_auth.backends.contrib'.rsplit('.', 1)
+p91
+I19482
+sVCmsPage.objects.model
+p92
+I18280
+sVa = range(1000)
+p93
+I17556
+s.

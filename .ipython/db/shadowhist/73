@@ -1,0 +1,268 @@
+(dp1
+Vtranslation.activate('en-gb')
+p2
+I14575
+sVsock = socket.socket(socket.AF_UNIX, socket.SOCK_STREAM)
+p3
+I16927
+sVfrom django.core.serializers.python import Serializer
+p4
+I11372
+sV@commit_on_success
+p5
+I19961
+sV[f.name for f in Item._translation_model._meta.fields]
+p6
+I17849
+sVfrom werkzeug
+p7
+I20060
+sVc.execute("""
+p8
+I11805
+sVhasattr('__callable__', pepe)
+p9
+I15067
+sVa.type
+p10
+I869
+sVw._get_FIELD_display()
+p11
+I2893
+sVimg.contribute_to_class(o, 'img')
+p12
+I17372
+sV@}^[]@@[@[@}^(^!]%*_]&$!!^^#*[#*[*_}+[$#(_#%@](+[^+}%{_*#]+*(]}!$(%@%#^)}]_&]{${
+p13
+I12897
+sVfrom common.templatetags.filters  import urlize_html
+p14
+I9859
+sVarr(9, 5)
+p15
+I5634
+sVsax.parse(lines)
+p16
+I2029
+sVprint f.as_ul()
+p17
+I2377
+sVc = DebugClient(verbose=True)
+p18
+I19651
+sVa = [1, 2, 3, 4, 5, 6, 7]
+p19
+I18594
+sVct = ContentType.objects.get_for_model(CmsPage)
+p20
+I6016
+sV&!+]}]__^&@)^[}]!*#@)%!(%#)_*#}%*__}_+(**{[+)]%${+@^(]$()@([[{(]}$)}#!&+{%@$+{{^
+p21
+I14041
+sVprint urllib.quote
+p22
+I3343
+sV^#%!^}!&%%&!$+&%%$#$#$^**]!]+#((#_^$&#()(_#_{}}&_#^+++#_)@_)+@%[+(+![^&#][%**$+#
+p23
+I13368
+sVname. module
+p24
+I19480
+sVr.match("hole")
+p25
+I6183
+sVa = "hola mundo cruel, <a>como va? sigue igual</a> de cruel que antes? o esta mas cruel aun?"
+p26
+I6218
+sVrc.get_result()
+p27
+I14577
+sVfrom_draw.get_pixels_array()[0]
+p28
+I7972
+sV}!_($(^%^]}][{(^]@+{+%}+]!{%}%!@}&[}[&&^+!#$)]_{#$[]_@}_$${^%^^($%*]}$*_]^{%+$$_
+p29
+I13001
+sVagent = urllib2.build_opener()
+p30
+I21348
+sVi=PostIndex.search("hola")
+p31
+I102
+sVx.count()
+p32
+I177
+sVp = CmsPage.objects.filter(http_path__startswith='/article/')
+p33
+I9182
+sVreverse('ckeditor_config')
+p34
+I12596
+sVsorted(an.criterios)
+p35
+I11227
+sVhelp %runlog
+p36
+I4409
+sVimg2.save?
+p37
+I12267
+sVa xor b
+p38
+I2364
+sVfrom gdata import *
+p39
+I19694
+sVr
+I257
+sVfrom exceptions import GameExistsError
+p40
+I16207
+sV}^]#^(}@]&$]*_][])$]{_+})^_}]))()^&)(!*![!&}{][(]})[(*^}$&$_@^$)#${%[$_]!^]}}}*+
+p41
+I12887
+sVr.match(s)
+p42
+I3451
+sVfrom room.forms import PhotoRoomUploadForm
+p43
+I19915
+sVg.traversal('37535')
+p44
+I6954
+sVa[0:-1:100]
+p45
+I17558
+sVcontextlib.closing.__doc__
+p46
+I3001
+sVm = shopping_link_re.findall('href="http://mydeco.com/shopping/browse/furniture/"')
+p47
+I8552
+sVhtmllib.sgmllib.entityref
+p48
+I4647
+sVdatetime.datetime.strptime(d, '%a %b %d %Y')
+p49
+I16661
+sVf = p.fragments.top_panel
+p50
+I3785
+sVp.load('talent']
+p51
+I17796
+sVcgi.parse_qs("a=b&b=c&1=2&1=3&5")
+p52
+I2595
+sVpath = '/the-magazine/'
+p53
+I9542
+sVre.sub(r'm=(\u005cd+).*&ref=(\u005cd+)',r'&pid=\u005c1',url)
+p54
+I16516
+sVNotice.objects.chatterbox().filter(group__in=user_groups).order_by('-created')
+p55
+I20925
+sVos.path.splitext('a.b')
+p56
+I19678
+sVs.GetContactsFeed?
+p57
+I19756
+sVpd.page.fragment_pepe
+p58
+I2464
+sVh = md5.md5('matiasaguirre@gmail.com')
+p59
+I18489
+sVfrom Crypto.Cipher import Blowfish
+p60
+I951
+sV"%s " * 10
+p61
+I2700
+sVa.obra
+p62
+I11192
+sVcgi.urllib.splitquery(url)
+p63
+I5591
+sVa = '[0]'
+p64
+I10603
+sVc.move('Be2')
+p65
+I16134
+sVlen(u"CategoryBrowse:candles &amp; candle holders")
+p66
+I14611
+sVsock.send('new')
+p67
+I16929
+sVcgi.urllib.splitquery(url)[1]
+p68
+I5595
+sVlocale.setlocale(locale.LC_ALL, 'uy')
+p69
+I11418
+sVfor m in [Video, Post, Image]:
+p70
+I209
+sVmain.signal_connect??
+p71
+I8018
+sVb.id
+p72
+I6167
+sV[s.text for s in r[0]]
+p73
+I16376
+sVct = ContentType.objects.get_for_id(s.last_activity_content_type)
+p74
+I11919
+sVt.translations.add(TranslateableModelTranslation(_language='es', name='pepe_es', lastname='pepito_es'))
+p75
+I5840
+sVadd_parameter(add_parameter(u, 'pepe=1'), 'pepe=2')
+p76
+I1234
+sVr.items
+p77
+I4076
+sVB.__name__
+p78
+I17358
+sVd.fragments.galleryitems
+p79
+I12253
+sVPRODUCT2DB_RO = "mysql://root:r00tpass@zofa.insophia.com/product2"
+p80
+I3608
+sVa.catid
+p81
+I5438
+sVg = list(groupby([a, b, c], key=lambda x:x['type']))
+p82
+I19326
+sVprint timeit.__doc__
+p83
+I4782
+sVsettings.MEDIA_ROOT
+p84
+I2707
+sVpysqlite2.__all__
+p85
+I7504
+sVHTMLParser.piclose.findall(html)
+p86
+I9768
+sVappend_titles([Post], "maraca")
+p87
+I155
+sVisinstance(1, b)
+p88
+I16611
+sVx.save
+p89
+I19844
+s.

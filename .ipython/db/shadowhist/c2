@@ -1,0 +1,242 @@
+(dp1
+Vpq.pqueue.move('matias', 'a4')
+p2
+I16943
+sVp.variants
+p3
+I21277
+sVp.cmscontentmapping_set.select_related().all()
+p4
+I5405
+sVdef print_result(idx):
+p5
+I132
+sVp = i[0]
+p6
+I2629
+sVct = ClassificationTokenizer({ 'article': 'html' }, phrases=['sofa'])
+p7
+I6390
+sVsp.insert(-1, 'pepe')
+p8
+I10887
+sV_localize_time(d)
+p9
+I20101
+sVpyexiv2.libpyexiv2()
+p10
+I8331
+sVtpl.nodelist[0].nodelist[0].nodelist[0].nodelist
+p11
+I11356
+sVu.obnob_groups.filter(group__parent__isnull=True).order_by('group__name').query
+p12
+I20476
+sVminifb.call('pages_isFan')
+p13
+I10583
+sVf = f.fields['EMAIL_FIELD']
+p14
+I8205
+sVr = re.compile('(\u005cw)')
+p15
+I14966
+sVv._value
+p16
+I8639
+sVstr(reversed(a))
+p17
+I16583
+sVSpecialOfferAdmin.changelist_view()
+p18
+I6047
+sVct.tokenize_text._get_phrase_tokens()
+p19
+I6365
+sV[ a.id for a in articles if a.extra_data!='']
+p20
+I473
+sVfrom lib.twitter import timeline
+p21
+I11858
+sV{^}_%*{^**@&)[&!#_#){@+@}&$()!][*_**#(&*{&]@&@#^${&!]}%^*@)!**&&(@^()@*!_$@]@($+
+p22
+I13426
+sVq = Queue.Queue()
+p23
+I16168
+sV!}(%%@_+}{(]$+@[+%_+$%){#[{[++&)&&^&@&*%&&}@@{^!*^((@]^^{}($}_$_]@[&]%++$[^#]{]^
+p24
+I13073
+sVtxt = text(page=p, name=n, grou=uuid.uuid4().hex, value='hola mundo', attrs=None)
+p25
+I8613
+sVstr(val.encode('utf-8'))
+p26
+I10412
+sVimport copy_reg
+p27
+I4719
+sVr.match('b')
+p28
+I14874
+sVf = NewValueForm(initial={'plugin': v.plugin, 'name': v.name, 'template_name': v.template_name, 'pos': v.pos})
+p29
+I15512
+sV[!^%%$+%*%&&!!&+^])}&^$$!*&(#){&^&[$}#*&}%#(}@@_*}*(}]_*}%*]+&){*{_&^%+]$)&($!!_
+p30
+I13811
+sVp = htmllib.HTMLParser()
+p31
+I9741
+sVa = range(100, 200)
+p32
+I9494
+sVp = ProductShortlist.objects.filter(user__username="matias")
+p33
+I7408
+sV(a, b), c = 'a,b'.split(',', 1), None
+p34
+I17383
+sVfields = ('guid', 'name', 'supplier', 'thumbnail_110')
+p35
+I14348
+sVx[2] += 3
+p36
+I15601
+sVfr
+p37
+I1304
+sVa.title
+p38
+I5345
+sVo._meta.many_to_many
+p39
+I18737
+sVprint '%s' % unichr(2665)
+p40
+I6831
+sVfrom tipocms.admin.views import *
+p41
+I1370
+sVfields[0]
+p42
+I18953
+sVa[::100]
+p43
+I17557
+sVm.objects.all()
+p44
+I5793
+sVx.sort(key=lambda x: x[1], reverse=True)
+p45
+I20541
+sVupdate cms_fragment_template set content_names = "" where id = 10;
+p46
+I6607
+sVweb.page()
+p47
+I18016
+sVp.fragments
+p48
+I3783
+sVadmin.site._registry[Item].change_form_template
+p49
+I17828
+sVsocket.gethostbyname_ex(socket.gethostname())
+p50
+I19577
+sV&(!@(^{^$_&^^}))&}[+&[$*^_%_[@^([**&#&[@{+&^](^}}]#_%###[){^{+[$%!$![^)[&#*@{+]#
+p51
+I13701
+sVr.path[0:10]
+p52
+I8797
+sVContentType.objects.get_for_model('room')
+p53
+I19548
+sV[*%!@+*^{}&^&]}$#{*]!}{+#%@]$!+^$_*(@]@%})%$!{[&!({[##$))(@#+(%}@)$)*@++}%*&(#^{
+p54
+I13667
+sVh.body.name
+p55
+I1165
+sVsimplejson.__doc__
+p56
+I1046
+sVf[4].name
+p57
+I1937
+sVconnection.connection.autocommit
+p58
+I11898
+sVopr.left.left
+p59
+I418
+sVf.base_fields['text'].optios
+p60
+I711
+sVa.__iter__()
+p61
+I17209
+sVr2 = x.split(', ')
+p62
+I15571
+sVo.func2(1, 2, 3, a=3)
+p63
+I20342
+sV*]!^&+%_}#@&&]%}@#^#!##*#[])*#}*](){+*}@)]+)](_(+&%{#}}})_!+*_}%%}%}(#!&*+{!!]](
+p64
+I13676
+sVgroupby([a, b, c], key=lambda x:x['type'])
+p65
+I19325
+sVu.avg_rating()
+p66
+I7387
+sVWebsite.to_websites
+p67
+I10092
+sV_websites = None
+p68
+I14784
+sVfrom cms.templates import *
+p69
+I17773
+sVf.list_ex[0].previous
+p70
+I1871
+sVr2 = re.compile("\u005cd{10}\u005c.\u005cd{1,2}")
+p71
+I2773
+sV[ f for f in dir(b) if 'signal' in f or 'click' in f ]
+p72
+I8014
+sVev.list_membership
+p73
+I8392
+sVcgi.parse(url)
+p74
+I5594
+sV%timeit cgi.parse_qs(urllib.urlencode(data2))
+p75
+I15625
+sVitem['program']
+p76
+I16725
+sVprint a.encode('utf-16')
+p77
+I10150
+sVfrom blog.models import Article
+p78
+I12750
+sVEmailVisionEntryField.objects.select_related('entry', 'entry__ev').order_by('entry')[0]
+p79
+I11507
+sVurljoin('a?', 'b')
+p80
+I9618
+sVf['query']
+p81
+I12725
+s.

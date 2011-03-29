@@ -1,0 +1,269 @@
+(dp1
+Vu.user = u
+p2
+I20574
+sVbisect.insort?
+p3
+I17049
+sVlen(xrange(10))
+p4
+I9865
+sVdef a(b):
+p5
+I3524
+sVso = StringIO)(
+p6
+I16026
+sVurlparse.urlunsplit(list(urlparse.urlsplit(u)))
+p7
+I1229
+sV@(_#_&[!%$@&)![]((}!]]$&+}{{[_[+[@({+@^#((@_&[%($)&![*(^$+!^$#&@!+_}_[_]&$!]^]#{
+p8
+I13654
+sVs.stamptext
+p9
+I3299
+sVcallable(p.p)
+p10
+I7960
+sVc = p._meta._field_cache[-1]
+p11
+I6803
+sVfor v in a.split("&"):
+p12
+I2603
+sVs[0][0][1]
+p13
+I16997
+sVp.front_stamp
+p14
+I3746
+sVt.render(Context({'x': 8}))
+p15
+I18283
+sVstr(f['query'][0])
+p16
+I12727
+sVcm = CmsContentMapping.objects.all()[200]
+p17
+I17457
+sV_[(^$@!+**!!*!#*]$*]@{%{$*$]*{#%)*^})*$[{$&^(^@)%!_!}({@#)%&$(+(^{+[%}++#]{[((^@
+p18
+I13022
+sVfrom product.models import Categorization
+p19
+I8729
+sVfor n in g.nodes():\u000a    if g.degree(n) == 0:\u000a        print ' '.join(list(g.traversal(n)))
+p20
+I6897
+sVfor i in input:\u000a    mk = list(set(r.keys()) - set(i.keys()))\u000a    r.update(dict((k, ([None]*(len(mk) if k in mk else 0)) + r[k] + [v]) for k, v in i.iteritems()))\u000a    r.update(dict((k, r[k] + [None]) for k in mk))
+p21
+I7635
+sVs.query(PhotoTag).filter_by(tag_id=t.id).filter(PhotoTag.photo_id 1= 1)
+p22
+I14750
+sVfact(1550)
+p23
+I7810
+sVprint NotImplemented
+p24
+I3516
+sVd['s1']['header']['values'][0]()
+p25
+I8959
+sVguids = [p.guid for p in sr.get_result().items if p.image]
+p26
+I11540
+sVimport builtins
+p27
+I6548
+sVt = Template('{% url ckeditor_config %}')
+p28
+I12598
+sV&}_!$_+$_($*{!*#&$]%_)[({}+^}[@#+**%*}#[([@$][)[&+_%!!}@@}*!@%(#[}&$#]&{+^{#_*^]
+p29
+I14042
+sVimport tz
+p30
+I17714
+sVn = parsed[1]
+p31
+I10118
+sVs.connect(('192.168.2.2', '80'))
+p32
+I7290
+sVh = load.PAGES['homepage']()
+p33
+I17136
+sVCmsPage.objects.all().values('http_path')[:4]
+p34
+I14243
+sV_[#@@$}}{^&&$^_{}%]{]&#(@_!]%_)^$$!#*@##^!($+*&$+&__@***][!@$]$)*$^[}$^&{}([+{}&
+p35
+I13037
+sVcreate_wordmap(['sofas beds'])
+p36
+I6422
+sVGroup.objects.all()
+p37
+I19797
+sVm = MenuData()
+p38
+I5160
+sVdef 404
+p39
+I5019
+sVt = Template('{% with "hola \u005c"mundo\u005c"" as value %}{{ value|title }}{% endwith %}')
+p40
+I10284
+sVmongoengine.connect()
+p41
+I19817
+sVv.attrib['type']
+p42
+I17312
+sVord('e') % len(letters)
+p43
+I5185
+sVfrom scrapy.selector import HtmlXPathSelector
+p44
+I16889
+sVsorted(a)
+p45
+I1996
+sVpq = PlayQueue()
+p46
+I16212
+sVdata['key2'].append('item 2')
+p47
+I21056
+sVr.search('curtains')
+p48
+I19447
+sVs.__class__
+p49
+I1133
+sVa[0:-1]
+p50
+I10605
+sVi = pyexiv2.Image('img_1785.jpg')
+p51
+I5533
+sVclass A(defaultdict):
+p52
+I4824
+sVstr(int(i))
+p53
+I7946
+sVItem._default_manager.all().filter(QJoins(trans={'item_translation': 'left outer join', 'trans._master_id=app_item.id AND trans._language="es"'}))
+p54
+I11051
+sVpassword = '#op3m5a'
+p55
+I4372
+sVdistutils.__doc__
+p56
+I4152
+sVsettings.ENABLE_CRON_UPDATES
+p57
+I18417
+sVp.products.values_list('guid', flat=True)
+p58
+I17539
+sVht.tokenize(text)
+p59
+I6377
+sVfrom tipocms.render import *
+p60
+I10195
+sVhxs.select('(//h1[@class="titulo"]/text()|//div[@id="Contenido"]//h1/b/text())').extract()
+p61
+I16742
+sVjson[-2:]
+p62
+I11604
+sVA.__class__.__name__
+p63
+I16350
+sVviews.search_redirect
+p64
+I15493
+sVos.path.basename("/pepe")
+p65
+I2716
+sViter(xrange(10))
+p66
+I3581
+sVARTICLES_IN_HOMEPAGE = 17
+p67
+I5476
+sVemail = "romumex@hotmail.com"
+p68
+I1189
+sVresolve("shopping_browse_category")
+p69
+I3966
+sVXapianIndexer.search("martin")
+p70
+I145
+sVf.writelines('hola mundo\u005cn')
+p71
+I7532
+sV[ n for n in nodes if hasattr(n, 'nodelist') ]
+p72
+I10220
+sVimprot os.path
+p73
+I18561
+sVs = r[0]
+p74
+I16375
+sVprint pepe()
+p75
+I2723
+sVd1 < d2
+p76
+I4427
+sVc = cookielib.CookieJar()
+p77
+I21350
+sVurljoin.__class__.__n
+p78
+I17658
+sVg.description
+p79
+I17022
+sVlists(range(20), 17, 1)
+p80
+I3055
+sVobj, created = IncorrectPriceReport.objects.get_or_create(product=product_id)
+p81
+I20875
+sVord
+p82
+I5201
+sVw.front_image.url
+p83
+I2896
+sVFalse or 'a' or False
+p84
+I8166
+sVpq.games['matias'].display()
+p85
+I16246
+sVRoomCompetitionEntry
+p86
+I19095
+sVxmlrpclib?
+p87
+I17907
+sV0xa
+p88
+I11689
+sVfrom urllib import urlencode
+p89
+I3433
+sVos.path.dirname('a.jpg')
+p90
+I289
+s.

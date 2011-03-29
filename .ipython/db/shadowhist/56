@@ -1,0 +1,260 @@
+(dp1
+Vurlparse.urlsplit.__doc__
+p2
+I1222
+sV[ c.content_object for c in comments]
+p3
+I21331
+sVb = range(7, 20)
+p4
+I5293
+sV}+$#&+}!^([^!](!%&)#!_^!#$*)[[{}#[_(@@^#+$)(}_$]^&[+#+})[#]%)(}!}+!}##_$$&#@^*]]
+p5
+I13556
+sVdict((n + '_' + v.split(',')[0], v.split(',')[1:]) for n, values in a.iteritems() for v in values)
+p6
+I9219
+sVre.sub(r'&view=\u005cw+(?=&*)', '', query)
+p7
+I15596
+sVcgi.parse_qs("a=b&b=c&1=2&1=3")
+p8
+I2594
+sV[(u.username, u.id) for u in User.objects.all()]
+p9
+I20082
+sVfrom adfero.utils import retrieve_feed
+p10
+I8553
+sVraise Warning, "Should be implemeted in a sub class"
+p11
+I3519
+sVfrom obnob.apps.tagging.models import Tag, TaggedItem
+p12
+I20396
+sVprint xapian.Database.__doc__
+p13
+I100
+sVurlresolvers.reverse("wears", "a=1")
+p14
+I2859
+sVRoomCompetition.objects.filter(type=None)[0]
+p15
+I19086
+sVfrom toolbox.tokenizer import create_wordmap
+p16
+I6420
+sV*)](+{^!&$)_#[*&^)))[#}$({(}!+{]#[_{[}*+]!@[*^%]&{^&{)]#{#)&${(]+{$])&@]{{)}&_$}
+p17
+I13422
+sV&)&)*]##)%#&){%!+*[$}{#]]$_(@(%])$^](*%#])[*({!^{&{%__!(%[*__)+#*_(*]_[%{(!_}^*{
+p18
+I13496
+sVlogging.basicConfig(level=logging.DEBUG) # allows us to see the protocol debug
+p19
+I9365
+sVx = ['a', 'b', 'd, 'h']
+p20
+I17680
+sVvotes[0].split('|')[-1].strip()
+p21
+I16781
+sVc = CatInfo(catid=m.category_id, display=["image_small", "name"])
+p22
+I5178
+sVi = Image.Image() #'/home/omab/misc/img/msn/hippy.jpg')
+p23
+I8293
+sVw = Product.objects.filter(guid__in=[u'2a8b152dbef21b9b9b9695ed02ed6a353b880507', u'409bc01a254b23639600601bd7abbf7bd98c77f5', u'000adf4ad62ede4853643a893dc6f3a7b5dcdcef', u'248329976311497ce7cd31b359a3ba55de5fb561', u'3413686bfca89348648052e9ac427312260ed21b', u'140bf11744a2a5a1fcc4fe7562eda4e77577ce3b', u'b1896bc816b9613a7a7c99f8d9bf122baef7e749', u'e38dd5cc28c393a52165a978f5a23cf717dd5a0f', u'8cbb13f1ecfccde12627793d5a5c52a37859841c']).fields("guid", "name")
+p24
+I5698
+sVqs = Page.objects.filter(state=DEFAULT_STATE).order_by('-id')
+p25
+I12799
+sVp SpecialOffer.__dict__
+p26
+I7151
+sVf.image.path
+p27
+I4187
+sVlocale.getlocale()[0]
+p28
+I7419
+sV<td>
+p29
+I9687
+sVs.translate?
+p30
+I12860
+sVw = nltk.tokenize.WordPunctTokenizer()
+p31
+I6480
+sVx.website.id
+p32
+I19835
+sVg.parent.obnob_users.memberships().filter(role='A').exclude(user=u)
+p33
+I20515
+sV^+@])!%}%^[)^)[(_$^@{**{(^%_[^{$)&*$^{^#%@)](}!^_#_[)!_%{[%]{#&*(^^[[{(+}^%+##]@
+p34
+I13018
+sVPhoto.order_by(Photo.filename).all()
+p35
+I14833
+sVt.fmap.select_related('page')[0].page
+p36
+I14922
+sVget_object_or_404(Question, pk=None)
+p37
+I20433
+sV}^*&%}{%[^]$&*]_%@&&]))$_@%[@@}!^@%[!_#@(#[[$_&!_+)@+!*#*({)**(]&])#^][[%_%[}${]
+p38
+I13767
+sVDatedItem._translation_model._translation_meta.translatable_fields
+p39
+I11151
+sVr.findall("hola, mundo")
+p40
+I4521
+sV]@][(&@)#{#_*^[@]$[(]{()*}$[}*{^]&]$!%)*!}}()^^(]+*!]^*[^&+$({]%!@)]^#$(^{@^!(}]
+p41
+I12953
+sV[(%%!{![]#[^$%_!#]^)!]![])!$@+!^@{%}$@[_#_+{#](!^*(%#@_^}^__[(@&]}]@&!)_!$^%*(}[
+p42
+I13731
+sVt = Tag('dia')
+p43
+I266
+sVf.fields['tags']
+p44
+I33
+sVfrom lib.html import HtmlCleaner
+p45
+I20829
+sVreverse('cms.edit_page', args=(10,))
+p46
+I12675
+sVr.match('xxx')
+p47
+I20824
+sVCategoryHierarchy._meta.fields
+p48
+I4567
+sVc.object
+p49
+I571
+sVc.autocommit()
+p50
+I11845
+sVsearch = [ ImageIndex.search("maraca"), VideoIndex.search("maraca"), PostIndex.search("maraca") ]
+p51
+I164
+sVf.get_players_names()
+p52
+I15591
+sVv.value = "cms/upload/images/image/2009-09-02-130744_1280x800_scrot.png"
+p53
+I8672
+sVcategories = ['contemporary', 'wallpaper']
+p54
+I10542
+sV%[_!#]_+(!%[&]+^%^&![^+##*&{_*[($#[@$%&${}_[_%)_*_&{#*#[!)&_#^}&&@#))]+{(&$##**+
+p55
+I13843
+sVfrom xml.etree import ElementTree, ExpatError
+p56
+I17400
+sVv.filter_expression.var.literal
+p57
+I10268
+sVa == int
+p58
+I16614
+sV%timeit dict((k, sum(y for x, y in data if x == k)) for k, v in data)
+p59
+I15606
+sVu.get_all_permissions('tipocms')
+p60
+I5988
+sVa = []
+p61
+I387
+sVgsZBx6jY5lxjh7sqnbrvnisQp1T6KNiX6fQV9m/D1GC9SvPEQ1v7g+WIrxjaMf9Js/QT5uh/ztB/
+p62
+I19611
+sVb = a[:]
+p63
+I15525
+sV%timeit dict((k, sum(y for x, y in data if x == k)) for k in dict(data).iterkeys())
+p64
+I15607
+sVurls.urlpatterns
+p65
+I4219
+sVa == b == 10
+p66
+I543
+sVinspect(conf)
+p67
+I2484
+sVPost.objects.all().count()
+p68
+I15735
+sVa.sort(cmp=lambda x, y: x in o and y in o and cmp(o.index(x), o.index(y))
+p69
+I19205
+sVp.easy_stem("almost")
+p70
+I5918
+sVgroup(notices)['blog_set']
+p71
+I20971
+sVfrom django.template import Parse
+p72
+I10098
+sVpage = urllib2.urlopen(url)
+p73
+I2239
+sV[ x.text for x in api.mentions()]
+p74
+I16460
+sVserialize('xml', p.values.all())
+p75
+I17339
+sVr.findall('mydeco.com/search')
+p76
+I6244
+sVv.name.save()
+p77
+I8650
+sV[+${^!)}($[!#$&(^!{^])({%%@{+$)!)[#$@!]({(}&$$&{]](@+@)*$&$[&(!!(^**[*#!){+!!)$$
+p78
+I13233
+sVp = reduce(or_, (X() for i in xrange(10)))
+p79
+I18601
+sV$@_$*@_{(_{$$$%_%}(}]+(}){}]]&$+*][)%]^@&#]]&}+%}**!+%*${^)^{%)&%%&#]}&%+^_@_^#]
+p80
+I13574
+sVsys.call_tracing(lambda *args, **kwargs: None, 1)
+p81
+I2052
+sV}]*_&%_]{^(_&$@&_({#!(_]@#%+{##_+*+^]!#]_]#](]${]][_]]%_{$*}[&^{!_)##%%)+)*&*__!
+p82
+I13517
+sVlist(s.query(PhotoTag).outerjoin((pt_alias, (pt_alias.c.photo_id==PhotoTag.photo_id) & (pt_alias.c.tag_id!=PhotoTag.tag_id))).filter(PhotoTag.tag_id==1).filter(pt_alias.c.tag_id==None | ~pt_alias.c.tag_id.in_([6])))
+p83
+I15391
+sVimport htmlentitydefs
+p84
+I4650
+sVf.model.objects.filter(**{f.field.name: p})
+p85
+I18790
+sVwords
+p86
+I6453
+sVg = f.groups
+p87
+I1850
+s.

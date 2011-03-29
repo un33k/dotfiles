@@ -1,0 +1,248 @@
+(dp1
+Vi = Image.open("/home/omab/misc/fotos/2009/02/07/img_2379.jpg")
+p2
+I5526
+sV@^#^$&}#)}#*@)*#&[^]{)#*@(%(%[$}!{$}_}#(_}#^^+[(#]_}#}__&^{{@$+^!#}}[#{!+#&_^!_$
+p3
+I12973
+sVlen(landing_pages.landingpages.keys())
+p4
+I12131
+sVadd_parameter(add_parameter(u, 'pepe=1'), 'pepe=1')
+p5
+I1235
+sV[ l[x:x+3] for x in xrange(len(l)/3) ]
+p6
+I14179
+sVf()
+p7
+I3385
+sV#^)%(+@@+#(]**[#^[!($_]^@}+]_$[!(%![$$^!#+&$&#[*{]{$!@{{]!![&^%}[{(_)[@**_]&())^
+p8
+I13150
+sVg.parent.obnob_users.memberships().filter(role='O').exclude(user=u)
+p9
+I20514
+sVf = Facet._meta.fields[0]
+p10
+I3635
+sVEntry.objects.values('name', 'value').filter(group='/the-magazine/')
+p11
+I9597
+sVdatetime.datetime.astimezone()
+p12
+I9566
+sVb = [1, 2, 3]
+p13
+I15558
+sVhtmlentitydefs.codepoint2name('')
+p14
+I4655
+sVp = Product.objects.filter(pk=["eae29abfc8105425862df193baa0beb4e9ece52c", "f32effbec746022f07328643e08d50d90b7fa311"])
+p15
+I5282
+sVPLUGINS['hp_splash']
+p16
+I12839
+sVt._language
+p17
+I11527
+sVf = CmsFragmentTemplate.objects.all()[0]
+p18
+I733
+sVw = Product.objects.filter(guid=[u'2a8b152dbef21b9b9b9695ed02ed6a353b880507', u'409bc01a254b23639600601bd7abbf7bd98c77f5', u'000adf4ad62ede4853643a893dc6f3a7b5dcdcef', u'248329976311497ce7cd31b359a3ba55de5fb561', u'3413686bfca89348648052e9ac427312260ed21b', u'140bf11744a2a5a1fcc4fe7562eda4e77577ce3b', u'b1896bc816b9613a7a7c99f8d9bf122baef7e749', u'e38dd5cc28c393a52165a978f5a23cf717dd5a0f', u'8cbb13f1ecfccde12627793d5a5c52a37859841c'])
+p19
+I5691
+sVp.full_load()
+p20
+I1459
+sVp.variants.matrix
+p21
+I21278
+sVb = ecs.ItemLookup(ItemId=asin, ResponseGroup="ItemAttributes")
+p22
+I6122
+sVtype(n)
+p23
+I6284
+sVm.start
+p24
+I4680
+sVos.getuid()
+p25
+I10949
+sVp.goahead?
+p26
+I9778
+sVp.print_help()
+p27
+I12451
+sVs.start_object()
+p28
+I11381
+sVd.split(' ', 4)
+p29
+I16668
+sVr = RoomCompetition.objects.all()
+p30
+I11310
+sV[ (s['description'], s['offer_id']) for s in sp.special_offers ]
+p31
+I8773
+sVp2 = subprocess.Popen(['grep', '-e', '"^(My move is|Illegal move)"'], stdin=p.stdout, stdout=subprocess.PIPE)
+p32
+I15853
+sVi.contribute_to_class(v, 'value')
+p33
+I8644
+sVqs.add_extra
+p34
+I11056
+sV[ n for n in nodes if hasattr(n.node, 'nodelist') ][0].node.nodelist[2].node.raw_bits
+p35
+I10233
+sVlive(p)
+p36
+I8460
+sV{%endfor%}
+p37
+I10423
+sVa1 = A.objects.get(pk=1)
+p38
+I19414
+sVu.obnob_groups.values_list('obnob__id')
+p39
+I20457
+sVrange(0)
+p40
+I3057
+sVtmp = tempfile.mktemp()
+p41
+I1919
+sVr = cur.execute('select id, uri from photos')
+p42
+I7521
+sVgraphs['00202']
+p43
+I6928
+sVp.cmspagemetacontent_set.all()[0].meta
+p44
+I5494
+sV^#)$#{}]%%$(*}(]#&&$)@_&+)%}}*(([]![$!!^&[%!{&^(&@&%$)@{!@}!}$_*$%+#]{])@!@)@_)]
+p45
+I13956
+sVt = "I like the <a href="/">black sofa bed</a>, but the blue sofa bed would be nice with the <a href="/">black out blinds</a>"
+p46
+I6561
+sVs.delete(t)
+p47
+I15293
+sVimp.load_dynamic?
+p48
+I17816
+sV@)+}!{*_}__)(@%*&}!*@#+!_#@!&^$&})&*]!}{]]$#]&$_@[*!)%_[}}_@+%{&_+_$^&^)]]&&}(*%
+p49
+I13672
+sVdatetime.datetime.toordinal(d2)
+p50
+I4039
+sV2 << 16
+p51
+I6842
+sVnodes[2].node
+p52
+I10211
+sVresponse.body
+p53
+I10563
+sVappend_titles(Post.objects.all(), "pepe")
+p54
+I130
+sVid(db.photos)
+p55
+I15211
+sVs2.user_id = 814
+p56
+I7393
+sVx.insert(0, '0')
+p57
+I19125
+sV}]_)^&{]#@({}+_&!+#_([+)!#[%#{[}+&+(!%*{}^#)%)&^()^{((^^((%{#^&!%_%*+%{)$)^_}$][
+p58
+I13883
+sVi = Item.objects.all()[0]
+p59
+I10960
+sVp.images
+p60
+I5132
+sVp = c[0]
+p61
+I19982
+sVcd.category.id
+p62
+I11456
+sVc.categoryimage_set.all()
+p63
+I3537
+sVstatgrab.sg_get_cpu_percents()
+p64
+I2100
+sVimport hotshot
+p65
+I12529
+sVdict((id, list(items)) for id, items in groupby(o, key=lambda q: q.question_id)))
+p66
+I19040
+sVg.obnob_users.active().select_related('user').values_list('user')[0]
+p67
+I20141
+sVi.image.file
+p68
+I9162
+sVlist(CategoryImageType.objects.filter(description="big image"))
+p69
+I3623
+sVa = "hola mundo cruel y despiadado"
+p70
+I11746
+sVdef to_date(string_or_date):
+p71
+I1087
+sVpix = QPixmap(web.geometry().size())
+p72
+I18025
+sVf.is_hidden
+p73
+I4942
+sVkw = {'count': 15, 'order_by': '-updated', 'filters': [u'type,3d-room', u'category,Bathroom', ], 'offset': 0}
+p74
+I4199
+sVfrom lib import parse
+p75
+I6192
+sVa.index.__doc__
+p76
+I2532
+sVd.tzinfo(hours=-4)
+p77
+I17728
+sVwarnings.warn(Warning('xxx'))
+p78
+I17842
+sVdec(42)
+p79
+I18115
+sV}[+]](]_(#*{#*&%_*@$!_)^!*%#^+$*](*{$!{#)]^!}{+)^}][^%(%@({)}&_}+]!}%)}{}&$%$&{^
+p80
+I13176
+sVr = ProductSearch(query='', count=1000, display=['guid', 'variants'], locale='en-gb')
+p81
+I21271
+sVr.result.items[0].__class__
+p82
+I7486
+sVa.sort(key=lambda x: x in o and o.index(x) or -1)
+p83
+I19208
+s.

@@ -1,0 +1,233 @@
+(dp1
+Va.rfind('/')
+p2
+I15072
+sVa.match('jdkajsd')
+p3
+I14274
+sVsimplejson.dumps({ 'hola': 'mundo' })
+p4
+I4955
+sVurlparse.urlsplit('http://digg.com')
+p5
+I8827
+sVs = cStringIO.StringIO()
+p6
+I16033
+sVdatetime.datetime.strptime(s, '%Y-%m-%d %H:%M:%S %z')
+p7
+I17704
+sVurljoin.__class__.__name__
+p8
+I17659
+sVprint urllib.splitattr.__doc__
+p9
+I1240
+sVPath.objects.all().values_list('path')
+p10
+I17392
+sVa, b, c = range(1, 3)
+p11
+I3246
+sVVariable('cms_fragment.title').resolve(Context({'cms_fragment': { 'title': "hola" }}))
+p12
+I10299
+sVfrom functools import chain
+p13
+I18946
+sV</html>"""
+p14
+I9704
+sVfrom obnob.apps.qa.forms import VoteAnswerForm
+p15
+I20427
+sVForm = modelform_factory(models['image'])
+p16
+I8629
+sVfor v in i:
+p17
+I151
+sVfrom MySQLdb.cursors import SSCursor
+p18
+I11369
+sVrange(10, 20, 5)
+p19
+I7997
+sVa = lambda x: raise Exception, 'error'
+p20
+I16202
+sV&]@_[@@_*)}!}#_})]_@)^[^&#&^!&{](&_[!&#}%!{)$[$()}*^#*{@&{]*$%$$*}@^+*)@(&(+%$_[
+p21
+I13699
+sVCmsContentMapping.objects.filter(page__http_path__startswith="/the-magazine/", name="heading")
+p22
+I1947
+sVx.parent.parent.abbreviation
+p23
+I19859
+sVfrom product.templatetags.product_utils import *
+p24
+I5285
+sVt = Template('{% with \u005c'"hola mundo"\u005c' as value %}{{ value|title }}{% endwith %}')
+p25
+I10288
+sV250/6435
+p26
+I5570
+sVprint d['s1']['header']['form']()
+p27
+I8948
+sVs = Popen(['/usr/games/gnuchess', '-e'], stdout=PIPE, stdin=PIPE, stderr=STDOUT)
+p28
+I16031
+sVu.emailaddress_set.all()[0].verified
+p29
+I20303
+sVt.get_url()
+p30
+I19738
+sVgroupby(options, lambda o: int(o.question_id))
+p31
+I19057
+sV$_[(![!)+@[]][]($@%*(}$_(!^^)]^%){{(_#)*#][}$([)[]!_![![@}}}!%^^!}!*#%&{$&!#_!}#
+p32
+I14050
+sVcomb(1, 5)
+p33
+I5563
+sVHREF_RE.findall(v)
+p34
+I9884
+sVhosts?
+p35
+I18863
+sVs.find('EXACTLY')
+p36
+I14113
+sVuspages.undump('/tmp/tmpYGWPvF.tar.gz')
+p37
+I12386
+sV]{++}(!}}%@*[!{**_+^#^!(+%[^){_&&($!(!!@*){_)[]$($}@[&$!![_#+}[}%#@&+%%}*{[@#&)(
+p38
+I13166
+sVf._errors['query']
+p39
+I12719
+sVp = SearchParams({ 'prefdb': 'product', 'db': 'product', 'query': 'blue sofa', 'count': 10, 'display': ['primary_image_path', 'name', 'guid'] })
+p40
+I14340
+sVContentType.objects.filter(Video)
+p41
+I324
+sVsum(sum(ord(x) for c in s) for s in lines)
+p42
+I17758
+sVi.get_absolute_url()
+p43
+I4002
+sV(&[${_&)}[$$_{$[]{#{%%!&@(#+%@%)+_}&*##]!&^_[^[*]([*!]]!]{#*!^&$!*)!}_#{_#*[%[^)
+p44
+I13928
+sVa = filter(lambda i: i>0, [ -2, -3, -1, 0, 1, 2, 3, 4,5 ])
+p45
+I2302
+sVmap(a, sum)
+p46
+I6835
+sVfrom django.utils import get_object_or_404
+p47
+I8216
+sVemail = u'dherring67@aol.com'
+p48
+I1179
+sVord('u') % len(letters)
+p49
+I5190
+sVet = ElementTree.fromstring(''.join(f.readlines()))
+p50
+I17283
+sVu.is_new
+p51
+I20291
+sVu = "martina170767485@aol.com"
+p52
+I1190
+sVdatetime.fromtimestamp("1264713776")
+p53
+I11588
+sVp os.walk.__doc__
+p54
+I6864
+sVr = ArticleSearch(filters=[('http_path', '/new-magazine/')]
+p55
+I9503
+sVHtmlCleaner?
+p56
+I20830
+sVCatInfo(classification="cake stands & carriers")
+p57
+I5166
+sVisinstance([], Iterable)
+p58
+I21254
+sVp.variant_image_url
+p59
+I21275
+sVimport searchlib
+p60
+I2033
+sVhxs.select(dl).extract()[0].strip()
+p61
+I16824
+sVv.criterio.save()
+p62
+I10767
+sV_$%@%}*)!@[$+$[_[]^!][]{+!#]]*+&{){+)__$)_*%!{^&$&$!)*#_{{$!$!+[%[&$+!@!}@*_[$&_
+p63
+I13705
+sVpepe.__repr__ = pepe_g
+p64
+I3677
+sVRealm.objects.values_list()
+p65
+I12622
+sVa.name
+p66
+I9318
+sVsum
+p67
+I8379
+sV{[#)*^&(_^^$]{][%))[+!^[&[%@[*!]%_+@@}$^$^}**%%_&__{&&)_]+^(@%)+!}!]]^%}!++(&)(@
+p68
+I13484
+sVa.decrypt(a.encrypt("hola mundito"))
+p69
+I995
+sVfix_ampersands('&&amp;')
+p70
+I14700
+sVr = Room.objects.get(pk=233116)
+p71
+I19090
+sVRenderedData(page=p, name=n, value=a.encode('utf-8')).save()
+p72
+I10443
+sVstrip_tags('<p>hola mundo</p>')
+p73
+I12414
+sVr.regex.__class__
+p74
+I8243
+sVimport oath2 as oaut
+p75
+I18433
+sVfrom account.token import create_email_token
+p76
+I18202
+sVg.degree('37328')
+p77
+I6930
+sVt.fmap.count()
+p78
+I14917
+s.

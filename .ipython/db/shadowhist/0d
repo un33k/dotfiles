@@ -1,0 +1,251 @@
+(dp1
+Vp["hhHola"] = "a"
+p2
+I5049
+sVfd.fragments_list()[0]
+p3
+I782
+sVSystemUserCache.objects.get(user_id = 813)
+p4
+I11912
+sVs = ServerProxy('http://rpc.pingomatic.com/')
+p5
+I8413
+sVdef pre_super(fn):
+p6
+I1468
+sVdata2 = data[:30]
+p7
+I15614
+sVtime.ctime(1265818877)
+p8
+I11974
+sVf.prev
+p9
+I1764
+sVst.tokenize(text)
+p10
+I6427
+sVRoomCompetition._meta.fields
+p11
+I20039
+sVdbcache.set_values
+p12
+I9604
+sVt = models.models['text']
+p13
+I8601
+sVa[4]
+p14
+I634
+sVv.filter_expression.resolve(c)
+p15
+I10272
+sVclass Pepe(object):\u000a    def __init__(self, x=(), *args, **kwargs):\u000a        print x, args, kwargs
+p16
+I20188
+sVr = c.getresponse()
+p17
+I21152
+sVu = User.objects.get(username='matiasaguirre')
+p18
+I19580
+sVthread.start_new(mainloop.run, ())
+p19
+I9434
+sVtemplate.add_to_builtins("common.templatetags.common_tags")
+p20
+I10291
+sVt = TranslateableModel.objects.lang('es')[0]
+p21
+I5833
+sVan.as_list()
+p22
+I11218
+sVresults
+p23
+I172
+sVp.startters
+p24
+I9776
+sVthreading.Timer(30, hello)
+p25
+I9388
+sVfrom tipocms import users
+p26
+I8492
+sVph.fragments
+p27
+I1503
+sVT(text, only_matches=True)
+p28
+I6416
+sVf.__class__.__bases__
+p29
+I18773
+sVarr(1, 1) * arr(9, 1) * arr(9, 3) / 2 / 2
+p30
+I5650
+sVf.cmscontentmapping_set.filter(name='image').values('object_id')
+p31
+I9152
+sVg.data
+p32
+I17806
+sVcf
+p33
+I2398
+sVr = list(p)
+p34
+I10810
+sVf = Category._meta.fields[1]
+p35
+I2357
+sVglade.get_widget_name('start')
+p36
+I8028
+sVd.modify_bg
+p37
+I8073
+sVCmsContentMapping.objects.filter(page__in=ids, name='heading').values('id')
+p38
+I8840
+sVa[:1]
+p39
+I1465
+sVc.__class__.__subclasses__
+p40
+I3577
+sVct = ClassificationTokenizer({ 'article': 'html' }, phrases=['bed'])
+p41
+I6386
+sVv.parse('')
+p42
+I7224
+sVs = "hola(3), como(2), andas, hola(2)"
+p43
+I518
+sVforms.CheckboxInput?
+p44
+I14480
+sVUserSocialAuth.objects.filter(provider='google-oauth').values('extra_data')
+p45
+I19589
+sVCategory(path="root/%s" % m.category.classification_name)
+p46
+I5416
+sVItem.objects.set_language('es').all()[0].title
+p47
+I12035
+sVpepe.func_code.co_co
+p48
+I3932
+sVwidgets.DateTimeInput
+p49
+I7787
+sVpagination.pagination(10, 6, 2)
+p50
+I3073
+sVclass CForm(forms.Form):
+p51
+I14395
+sVurlencode(a=1)
+p52
+I12170
+sVmd5.md5().hexdigest
+p53
+I18452
+sV(][@+^$^$[#{@#)][}_@!]][)$_({%#)%&)!}(@])!{_#$((*[@[}##^($&]+{^]!$}^]&[&]}*{[{_^
+p54
+I13446
+sVt.fmap.page_id
+p55
+I14907
+sV]{[#[&+&_[]^(})!#!}]{}&{_$]&&@($[[[+_{!@$_+]}](![@}$[^!)_%]^*$#)*&)#[{%@!)[_({&_
+p56
+I13453
+sVa = range(15)
+p57
+I5377
+sVlinks_re = re.compile(r'href=["\u005c'](?P<address>[^"\u005c']*/search/[^"\u005c']*)["\u005c']')
+p58
+I1237
+sVx = f.save()
+p59
+I20861
+sVx = p.parent
+p60
+I19894
+sVi = models.models['image']
+p61
+I8587
+sVx.items
+p62
+I11273
+sVs.autoflush = True
+p63
+I15230
+sVkv = { "a": "holaa", "b": "holab", "c": "holac", "d": "holad" }
+p64
+I3411
+sVfrom gdata.auth import OAuthToken
+p65
+I19763
+sVrooms.get_result().items[0].username
+p66
+I11481
+sV10392 / 500 + (int(bool(10392 % 500)))
+p67
+I6770
+sVp.print_usage()
+p68
+I12450
+sVf.write("hola")
+p69
+I1926
+sV'a' < 'A'
+p70
+I14125
+sVlist(groupby(votes, lambda x: x.created.date()))
+p71
+I18842
+sVdef clean(value):
+p72
+I4744
+sVfield.widget.build_attrs
+p73
+I727
+sVurlparse.__file__
+p74
+I17660
+sVs = "hola(3)"
+p75
+I508
+sVos.path.basename("http://pdb1.mydeco.com/product_images/full/06c99e658cc69850968456768f73a0b27fa6f1dd.jpg")
+p76
+I4635
+sVa.pop('x', None)
+p77
+I20424
+sVx = BigIndexer.search("ayer|peludo", "and")
+p78
+I200
+sVpagination.pagination(10, 10, 2)
+p79
+I3079
+sVbase64.decodestring("""cXVlIGhkcCBlbCBkYW1pYW4sIG1lIGVzdGEgY29udGFuZG8gdG9kbyA6QGNsZWFyY2xlYXJjbGVh\u000acmNsZWFyISAsICBtZSBkaWNlICdwYSBubyBzYWJlcywgZXMgdW4gaW5maWVybm8nIAo=""")
+p80
+I14515
+sVs.decode('utf-16')
+p81
+I11682
+sVopr = Id('tag') + Var('xxx_name') + Id('as') + Var('yyy_name') + Optional(Id('from') + Var('zzz_name')) + Optional(Var('ttt_name') + Optional(Var('uuu_name')))
+p82
+I424
+sVSpecialOffer.add_to_class('a', SpecialOffer._meta.fields[2])
+p83
+I7159
+sVtime.strptime("07/27/2010", "%M/%d/%y")
+p84
+I17183
+s.

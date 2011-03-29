@@ -1,0 +1,257 @@
+(dp1
+Vrfc822.parsedate('Fri Feb 05 19:12:32 +0000 2010')
+p2
+I11883
+sVlist(Website.objects.get_by_name("Amazon"))
+p3
+I3617
+sV[x.split('=', 1)[1] for x in u.extra_data.split('&')]
+p4
+I19760
+sVr = re.compile('[^\u005cw]')
+p5
+I14267
+sVcursor = connection.cursor()
+p6
+I8355
+sVarr(9, 5) / 2 / 2 / 2 / 3 / 3
+p7
+I5662
+sVhxs.select('(//div[@id="Contextual"]//a/@href|//ul[@id="navlinks2"]//a/@href)').extract()[0]
+p8
+I16710
+sVFSet = formsets.formset_factory(lambda self, **defaults: PluginForm(plugin, 'items', auto_id='items_id_%s', **defaults), extra=1)
+p9
+I14456
+sVfrom cms.pages.shopping.special_offers import *
+p10
+I17813
+sVtpl.nodelist
+p11
+I11350
+sVimport os
+p12
+I278
+sV__import__('pepe')
+p13
+I12692
+sV"hola" + " " + "pepe %s" % (1,)
+p14
+I6332
+sVa = set(range(10))
+p15
+I1554
+sVpwd
+p16
+I18541
+sVlen("CategoryBrowse:candles &amp; candle holders".encode('utf-8'))
+p17
+I14613
+sVarticles.search_params.search_args
+p18
+I5333
+sVa = "xxx/yyy/zzz"
+p19
+I18231
+sVr.__dict__
+p20
+I20675
+sVm.search()
+p21
+I4490
+sVs.result.filtered
+p22
+I10648
+sVprint unicode('BR\u005cxc4M').encode('utf-8')
+p23
+I21295
+sV10.__sub__(5)
+p24
+I2936
+sV"pepe" if 0 else "pepito" if 1 else "pepipote"
+p25
+I1007
+sVDATE_RE.findall(s)[0].strip()
+p26
+I16761
+sVfrom django.core.exceptions import ObjectDoesNotExist
+p27
+I8718
+sVimport getpass
+p28
+I915
+sVimport cgi
+p29
+I2586
+sV1223.0 / 300.0
+p30
+I10753
+sV*{[]{@*]$%}{&#${_!%_(@(}_)){^(#_#@*}_]+))$_$[@+])^]{$]]__%*%(%}_@@^[[)^_[@(@&**+
+p31
+I13653
+sVq = u.obnob_groups.filter(group__parent__isnull=True).order_by('group__name').query
+p32
+I20477
+sVsimplejson.load('')
+p33
+I18465
+sVpages[0][5].id
+p34
+I16478
+sVr = re.compile("(?<!\u005cw)[a-fA-F0-9]{40}(?!\u005cw)")
+p35
+I4929
+sVGroup.link_set.all()
+p36
+I1584
+sVw = nodes[-2].node
+p37
+I10236
+sVs = "(41,11,'','related_articles::list_template',12,0)"
+p38
+I3449
+sVstatusIcon.set_tooltip("Tooltip text")
+p39
+I7315
+sVdo_change('matiasaguirre@gmail.com', 'pepelepu@gmail.com', 'matias')
+p40
+I7913
+sVResultRank.objects.distinct('user')
+p41
+I7788
+sVp.hola
+p42
+I1140
+sVa.since
+p43
+I5348
+sVstr('hola mundo')
+p44
+I8255
+sVf.type
+p45
+I3755
+sVdef prueba(self=None):
+p46
+I8996
+sVr.user.username
+p47
+I4006
+sVs.start_serialization()
+p48
+I11380
+sVb.props()
+p49
+I8109
+sVct.tokenize_html.tokenize(text)
+p50
+I6359
+sVHREF_RE  = re.compile(r'href=([\u005c'"][^\u005c'"]+[\u005c'"])', re.I)
+p51
+I9887
+sVt = Task.objects
+p52
+I900
+sV(1223/300) * 100 / 300
+p53
+I10743
+sVd.node_attr('hola')
+p54
+I7076
+sVt = 'I like the <a href="/">black sofa bed</a>, but the blue sofa bed would be nice with the <a href="/">black out blinds</a>'
+p55
+I6562
+sVf.widget.render()
+p56
+I15466
+sVf.load_items()
+p57
+I1285
+sVArticle.content_type
+p58
+I19631
+sVroom.original_author
+p59
+I9279
+sVr.findall("gdjklgjdf&lt;ezghzkgrhrekgh&lkdjhgdljg{% rekjghrekgn lkdjsf=3&nkhn=1 %}kjdrhgerk{% article_tracked_url efh=2&jkhdg=4&fgjdfjk=blah%}khgfkjdhkjhgd")
+p60
+I4677
+sVu.is_superuser = True
+p61
+I19574
+sVo.hits // o.num_per_page
+p62
+I2839
+sVa = u'To enter, <a href=\u201chttp://mydeco.com/rooms/detail/telegraph-week-2-template-444714/\u201dclass="c1">copy the 3D template into your own profile</a>.  Once completed, enter it into Room Rescue Week 2 competition and it will appear below.'
+p63
+I8759
+sVk.sort()
+p64
+I1995
+sVs = json2.replace('\u005c\u005c', '')[15230 - 20: 15230 + 20]
+p65
+I11635
+sVf = Folder.objects.order_by('-id')[20]
+p66
+I19647
+sVp.fragments[0].content
+p67
+I4180
+sVcgi.escape(x)
+p68
+I21419
+sVfrom switches.utils import *
+p69
+I12769
+sVm.inputs
+p70
+I9726
+sVa = AL()
+p71
+I10127
+sVc.category['facets'].sort(key=lambda x: x[1], reverse=True)
+p72
+I20630
+sVEmailVisionEntryAdmin?
+p73
+I9415
+sVuser_ids
+p74
+I7796
+sVdefaultfilters.escape(' ')
+p75
+I14622
+sVs.hexdigest()
+p76
+I936
+sVm = a.match('_')
+p77
+I14280
+sVurljoin('a/', 'b')
+p78
+I9617
+sV%!@!!!%{[(}{$$@%$}+#)*[^$}({)*{(@*(%]&%#%)&+[+$[]*{%)$$##)+}}!+@!%_$#+#!)[&%{*!@
+p79
+I13164
+sVb = range(7, 15)
+p80
+I15542
+sVr = re.compile('(aa|bb)cc')
+p81
+I18267
+sVs.names
+p82
+I4730
+sVr.image.name
+p83
+I19131
+sVTemplate('{% url highend_designer %}').render(RequestContext())
+p84
+I10774
+sVfor p in Post.objects.all():
+p85
+I188
+sVfrom django.forms.models import modelform_factory
+p86
+I3269
+s.

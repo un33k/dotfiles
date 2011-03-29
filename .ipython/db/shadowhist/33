@@ -1,0 +1,257 @@
+(dp1
+Vprogram
+p2
+I16700
+sVimport antigravity
+p3
+I3142
+sVtime.strptime(s, '%Y-%m-%d %H:%M:%S %Z%z')
+p4
+I17745
+sVre.compile('us\u005c.dev').search('uspdev.mydeco.com')
+p5
+I14592
+sVh.http_path
+p6
+I1163
+sVprint d['s1']['header']['values']
+p7
+I8949
+sVF = forms.formsets.formset_factory(CForm, formset=CForm2, extra=2)
+p8
+I14418
+sVloader.find_template_source('cms/fragment/microsites_top_panel2.html')
+p9
+I10001
+sV100 / (300.0 / 300.0)
+p10
+I10757
+sVpages[-1]
+p11
+I1020
+sVm.match
+p12
+I4491
+sVMYMOVE_RE  = re.compile('Black\u005c(\u005cd+\u005c): [RNBQKP][a-h][1-8]')
+p13
+I16094
+sVform horno.models import *
+p14
+I322
+sVt._sa_class_manager
+p15
+I15311
+sVr[1].__class__
+p16
+I4170
+sVprint x.decode('utf-8')
+p17
+I21375
+sVfrom common.templatetags import filters
+p18
+I11698
+sVos.walk('./backends')
+p19
+I19459
+sVsubprocess.select.select([s.stdout.fileno()], [], [])
+p20
+I15977
+sVhxs.select('//comment(contains(text(), 'CUERPO'))').extract()
+p21
+I16875
+sVdata['section2']['nousednames']['grouping']
+p22
+I4830
+sVARTICLE_TRACKER_URL.findall(r.value)
+p23
+I14783
+sVtitle.content_object
+p24
+I1458
+sVf[0][0][0][0]
+p25
+I17070
+sVd.props
+p26
+I8067
+sVp = r.findall(a)
+p27
+I6196
+sVb - a
+p28
+I1562
+sVt = Template('{% context { pepe: val } %}{{ pepe }}{% endcontext %}')
+p29
+I11337
+sVBase
+p30
+I15290
+sVdata.fragments['content']
+p31
+I12403
+sVr = re.compile("ab.+ab")
+p32
+I3935
+sVa = AuthenticationForm()
+p33
+I18961
+sVinspect.currentframe()
+p34
+I4249
+sVfrom competition.templatetags import competition_tags
+p35
+I7891
+sVr = RoomCompetition.objects.get(pk=185)
+p36
+I19177
+sVbrowers = webkit.WebView()
+p37
+I18052
+sVif a:
+p38
+I1874
+sVtxt.id
+p39
+I8620
+sVpymsn()
+p40
+I9326
+sVfrom Crypto.Cipher import ARC2
+p41
+I1125
+sVtokenize = build_tokenizer(phrases, HtmlPhraseTokenizer(stopwords=['']))
+p42
+I6482
+sVpq.move('matias', 'c5')
+p43
+I16307
+sVCmsPage._default_manager.filter(state="live").values("http_path")
+p44
+I3472
+sVadd_query_param('http://gooogle.com/?product=31232', { 'channel': '3123829'})
+p45
+I14284
+sVt.lastname_es
+p46
+I5837
+sVd.replace(tzinfo=utc)
+p47
+I20096
+sVs = Encoded(simplejson.dumps("Hola mundo"))
+p48
+I10385
+sV+$_{#_]%}[+)$++$}[(*!+[$]*}!$${@#@{^{{#}[!%!#$&^^[+[+^(%}(^]#+!)(@{$&}#{*)#$(&{$
+p49
+I13524
+sVcopy_reg.pickle
+p50
+I4720
+sV}_!@[##$@%)}&+!!@#&}$[]+%+({()@+}]#+%_#_{$_^}^}!&[^*^[&@@@^*[@}{+[[%^+]{@@}&+]](
+p51
+I12978
+sVcommands.getstatusoutput('mpc pause')
+p52
+I318
+sVr.start_date
+p53
+I20045
+sVuuid.uuid5("hola", 2)
+p54
+I4806
+sV^_*($_^)]#!%{]_[!@(&$}($!_#&!_&^%&((&#*{}[$}&
+p55
+I13844
+sVdef get(self, *args, **kwargs):\u000a    value = super(Ctx, self).get(*args, **kwargs)
+p56
+I10392
+sVi.set_language('es')
+p57
+I11281
+sVt.label
+p58
+I20026
+sVunicode(a)
+p59
+I643
+sVi = CmsImageContent.objects.filter(image__isnotnull=True)
+p60
+I17987
+sVurllib.urlretrieve.__doc__
+p61
+I7333
+sVp(**dict(("1", 1), ("2", 2)))
+p62
+I2332
+sVcomb(5, 2)
+p63
+I5556
+sVd = [{u'count': 29083, u'subcat_count': 5, u'name': u'throw pillows, bean bags & throws', u'image_big_credits': u'Marks and Spencer', u'image_small': u'categorization/cushions__.jpg', u'image_big': u'categorization/42_CUSHIONS_Marks-and-Spencers2.jpg', u'parents': [{u'subcat_count': 11, u'id': 128, u'name': u'living room'}, {u'subcat_count': 15, u'id': 332, u'name': u'home decor'}], u'special_offers': [], 'path': u'throw-pillows-bean-bags-throws/1131', u'id': 1131}]
+p64
+I14535
+sVItem.objects.set_language('es')[0].title_default
+p65
+I11124
+sVfrom common.templatetags.filters import tojson
+p66
+I10317
+sVxml.startDocument(out=s)
+p67
+I17270
+sVa.sum
+p68
+I12477
+sVfunc('z', *('a', 'b', 'c'))
+p69
+I17388
+sVs.SetAuthSubToken(unquote(auth_token))
+p70
+I19748
+sVu.
+p71
+I20338
+sV[ (x, x < u'A') for x in u'¡¿'.decode('ascii')]
+p72
+I14138
+sVcallable(test)
+p73
+I16344
+sV[@&[+^@$}&{]{)+^&^#{{}@!}{^{%}#)@!%([$(_!([+({)@^(#@!)$[_&](!}@$*$@!(#[$+!@][}_*
+p74
+I14033
+sVt = Template('{% if a and a in ("1", "2") %}{{ a }}{% else %}no a{% endif %}
+p75
+I17895
+sVoffers
+p76
+I9823
+sVo = ObjectPaginator(p)
+p77
+I2832
+sVos.urandom(1)
+p78
+I19224
+sVhxs.select('//div[@id="Contenido"]//h1//text()')
+p79
+I16799
+sVp = [ a[i*4:i*(4+1)] for i in range(len(a)/4) ]
+p80
+I5379
+sVn.__class__
+p81
+I6283
+sVw2 = w.node.nodelist[-1]
+p82
+I10251
+sVs = SystemUser.objects.get(id=813)
+p83
+I7673
+sVfrom django.core.urlresolvers import reverse
+p84
+I496
+sVfor p in r.result.items:
+p85
+I5267
+sVurlparse.urlunparse(('', 'google.com', '/a', '', 'a=1', 'xxx'))
+p86
+I20792
+s.

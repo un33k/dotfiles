@@ -1,0 +1,272 @@
+(dp1
+Vx = frozenset({1: 1, 2: 2})
+p2
+I18648
+sV&%(*@@#+!_[}&^$)}%[$%([$)!##{@))^_}_{*@+^)[&}
+p3
+I13028
+sVd.fma?
+p4
+I10728
+sVos.read(3, 1024)
+p5
+I16311
+sVl.tokenize
+p6
+I10068
+sVi.get_url()
+p7
+I4003
+sVa[0].capitalize()
+p8
+I461
+sVg.extra_names
+p9
+I20455
+sVval =  "hola {% just_a_tt \u005c"hola\u005c" %}"
+p10
+I11334
+sVtpl
+p11
+I10330
+sVmath.degrees?
+p12
+I12296
+sV{})$+)](^}{_&+%!}^&[)_%{(_#[{[[!$*&*&!%*%+)&+++!^#&$%@})$^{(+{)(@{(@]!^!%_)}*#$$
+p13
+I13880
+sVl = subprocess.Popen(['/bin/ls', '-l', '/usr/bin/'], stdout=subprocess.PIPE)
+p14
+I15924
+sVa['menu_data'].__class__
+p15
+I5164
+sVb = Blowfish.new("jdksaj", Blowfish.MODE_OFB)
+p16
+I973
+sV(*+%}(^(%!%^!+)!!)[#+_^+{+)]+^$%}{_]^@*@%#*#*%[^){([*[__##$)&{&+_)%$^}_@{^__)%[)
+p17
+I13187
+sVs[0][1].name
+p18
+I16981
+sVPAGES['shopping.s']()
+p19
+I17780
+sVr = re.compile(r'\u005cbcomo\u005cb', re.I)
+p20
+I6150
+sVrandom.randint(1, 10)
+p21
+I7045
+sV'?'.join(['1', '2'])
+p22
+I12174
+sVimport xchar
+p23
+I9371
+sVhtmlentitydefs.name2codepoint['&amp;']
+p24
+I14694
+sVlist(Website.objects.filter(pk=6912653))
+p25
+I9256
+sVprint a.encode('utf-16').decode('utf-8')
+p26
+I10148
+sVp = Product.objects.get(pk=120)
+p27
+I3745
+sVdef pepe(m):
+p28
+I2642
+sVHTMLParser.tagfind?
+p29
+I9754
+sVn.name
+p30
+I10231
+sVr.callback
+p31
+I8232
+sVfrom cms.views import names_form, values_form
+p32
+I8922
+sV*^{+)+{]^+%{^^&+@)#+@@}*^(^)^)_!%!&())^!+]&*@[*^@{+]$[_@%%%&)(&$$#[@&$%*{[_@)[{[
+p33
+I13637
+sVr = RoomSearch(order_by='-updated', offset=0, count=0, display=['id', 'slug', 'last_updated'])
+p34
+I18368
+sVunquote("http://%27a")
+p35
+I3436
+sVRoomCompetitionEntry.objects.order_by('-competition_id', '-vote_count')
+p36
+I11409
+sVF = forms.formsets.formset_factory(CForm, formset=CForm2)
+p37
+I14417
+sVa = { '1': 1, 'a':1 'h':1 'b': 1, 'd':1, 'z':1, 'j':1, '9':1, '4':1, 'p':1 }
+p38
+I12422
+sVlist(g)
+p39
+I4737
+sV({^(](}+#&[][%+]}^(#^*+&[{{$_$$@^(!%#^*{()%&$))#]{(@%*}}))@+^&)+%$^)&[(]{}^]}}*+
+p40
+I13041
+sVA()
+p41
+I14648
+sV6 % 5
+p42
+I4453
+sVx.postal
+p43
+I19851
+sVu.user_permissions
+p44
+I5966
+sVItem.objects.set_language('es').set_language('ru')[0].title_es
+p45
+I11121
+sVurllib2.quote_plus("http://www.argos.co.uk/static/Browse/ID69/10198115/c_1/1|category_root|Toys+and+games|10198115.htm?tag=PS6_1a")
+p46
+I3354
+sV}#%}+))(}+$)]@$^*$^$+^[#${*#%]{)@$@(_@%(@#+$]+(({@!#$__&*[[*}[!!+#%%%*(*%}%*}(*+
+p47
+I13171
+sVos.path.exists('/roe')
+p48
+I12315
+sVp.save
+p49
+I18028
+sVcontent_ids
+p50
+I8844
+sVitems = dict(items)
+p51
+I19342
+sVselect.select([p.stdout.fileno()], [], [], 0)
+p52
+I15848
+sVquestions = a.questionSearch({'query':'gatos', 'region': 'es'})
+p53
+I9144
+sVs.contents
+p54
+I17066
+sVa.setdefault('name', list())
+p55
+I8784
+sV"/shopping/style/classic/classic-beds/".split('/')
+p56
+I9477
+sVf.__str__()
+p57
+I40
+sVconnection.ops.quote_name.__doc__
+p58
+I7937
+sVfrom __future__ import pepe
+p59
+I7096
+sVsys.stdin.readline.__doc__
+p60
+I908
+sVrandom.random() * 100
+p61
+I2550
+sVv.criterio.orden
+p62
+I10765
+sVUncategorizedProduct.objects.all()[0:3]
+p63
+I2616
+sVset() & set()
+p64
+I11111
+sVitems = p.split('/')
+p65
+I15083
+sVurllib.addinfourl??
+p66
+I7869
+sVa.inder(6, 10)
+p67
+I12689
+sVvalor = [10, 5, 1, 5, 3, 10, 7, 7, 9, 5]
+p68
+I7175
+sVdatetime.datetime.strptime(d, "%Y-%m-%d %H:%M:00")
+p69
+I1085
+sVs.enabled = False
+p70
+I12236
+sVa.sort(cmp=lambda l, r: cmp(x.find(l), x.find(r)))
+p71
+I17684
+sVu = SystemUser.objects.order_by('-rank_count')[:5]
+p72
+I10939
+sVResultRank
+p73
+I7818
+sVa[::4]
+p74
+I7293
+sVch.add_to_class()
+p75
+I4587
+sVv.__class__
+p76
+I8677
+sVa = 'a.b.c.d'
+p77
+I17141
+sVPost.objects.all().delete()
+p78
+I15712
+sVUser.objects.all()
+p79
+I3501
+sVa.startswith(None)
+p80
+I1482
+sVo = ResultRankCriteria.objects.get_global_stats(start_date=datetime.date(2008, 1, 1), end_date=datetime.date(2009, 8, 1))
+p81
+I7776
+sVhxs.select('//div[@id="Contextual"]//a/@href').extract()
+p82
+I16683
+sVu.username
+p83
+I3504
+sVgetattr(__import__(m, {}, {}, [a]), a)
+p84
+I8463
+sVContentType.objects.get_for_model(Question)
+p85
+I20436
+sVsp
+p86
+I8768
+sVsr = ProductSearch(display=['guid', 'primary_image_path'], count=10)
+p87
+I11550
+sVbot.connect()
+p88
+I4379
+sV__import__('account.views.escapejs', fromlist=['.'], level=1)
+p89
+I8276
+sVfrom lib.getparams import GetParamsHelper
+p90
+I7813
+sVu.emailaddress_set.all()[0].email
+p91
+I20337
+s.

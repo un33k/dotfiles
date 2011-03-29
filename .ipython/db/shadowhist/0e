@@ -1,0 +1,239 @@
+(dp1
+Vstr(uuid.uuid4())
+p2
+I18619
+sV%)+$^^[!!#^]^+*}#{_(^*!_!@]}[}%]}#]!(_+[[_)%!+($*@&$#*_{^@[()&+)$_[%}(^*^+}[^&^#
+p3
+I13733
+sVlocale.LC_ALL
+p4
+I11987
+sVinspect.ModuleInfo?
+p5
+I14797
+sVos.path.basename("f.hml")
+p6
+I5030
+sVParent.objects.all().migrate(using='xxx')
+p7
+I18801
+sVlist(CategoryImageType.objects.filter(name="big image"))
+p8
+I3622
+sV5 % 3
+p9
+I14552
+sVslugify('new::
+p10
+I10623
+sVlist(languages('en-gb-us'))
+p11
+I12006
+sVd.second
+p12
+I11823
+sVph.thankyou.contents_list[0]
+p13
+I1510
+sVclass A(None.__class__):\u000a    def a(self):\u000a        print "pepe"
+p14
+I6289
+sVj.data
+p15
+I20550
+sVgraph.graph()
+p16
+I6875
+sVx = g.next()
+p17
+I19336
+sVgladefile = 'pp2.glade'
+p18
+I8003
+sVv = Value.objects.filter(id__lt=6)[0]
+p19
+I4889
+sVt.subtags.all()
+p20
+I15286
+sVfrom django import cache
+p21
+I9782
+sVapi.friends_timeline()
+p22
+I16424
+sVp = CmsPage.objects_aux.get(pk=974)
+p23
+I588
+sV))$&%(#&_^@(&$]&@*%]+_{@^)+({&&}[*%}[{#$${@*}@]*!(]&)+&!!^}+*%[])[)_!{$+^&#%+@(_
+p24
+I13486
+sV!**$*{[}#@#{+}@$]]_[)@&](]*{]#(**^_!^(@^!#**}#}+{!$@]_]@!&}}*[#$}!!]{[{]!_{&!](^
+p25
+I13289
+sVc.categorization
+p26
+I3596
+sVt = TranslateableModel(name="pepe", lastname="pepito")
+p27
+I5768
+sVp.back_stamp.TYPE
+p28
+I3750
+sVrange(0, 10592, 500)
+p29
+I6779
+sVr.findall('')[-1]
+p30
+I20827
+sVc.move('d4xc5')
+p31
+I16053
+sVa.split(None, 0)
+p32
+I11906
+sVCar._meta.get_all_related_many_to_many_objects()
+p33
+I18726
+sVwt = nltk.tokenize.word_tokenize(t)
+p34
+I6523
+sVCategoryHierarchy._meta.fields[1].attname
+p35
+I4571
+sVc.fetchone()
+p36
+I11850
+sVslugify('hola,mundo')
+p37
+I8882
+sVu.friendships_requested.select_related('friend_a').value_list('friend_a')
+p38
+I20077
+sVimport CVtypes as cv
+p39
+I10818
+sVa.update(("x=3".split("=")))
+p40
+I2964
+sVxd
+p41
+I3165
+sVlogging.__path__
+p42
+I20383
+sVpages[0]
+p43
+I539
+sVg.degree('37948')
+p44
+I6933
+sVa[:-len('::list_template')]
+p45
+I9969
+sVrc.query.resultrank_set.all().count()
+p46
+I7702
+sVTIKwEAmNoU3Xnhfh9hQ0W/DbA/o0QKNBCyqNAOVKaCUXKC2suBZ8lqIpskQMz9CW4J+x8d0texo+
+p47
+I19601
+sVDATE_RE   = re.compile('(Publicado|Adicionado): ([^|]+)')
+p48
+I16756
+sVisinstance(a, A)
+p49
+I16330
+sVCmsPagePath.objects.get(http_path="/")
+p50
+I4701
+sVRoom.objects.select_related().get(pk=736777)
+p51
+I17573
+sVlist(enumerate(a.iteritems()))
+p52
+I11837
+sVecs.ItemLookup(asin)
+p53
+I6107
+sVuuid.uuid()
+p54
+I18833
+sVrandom.random() * 10
+p55
+I7038
+sVp.template
+p56
+I5024
+sVprint u'BR\u005cxc4M'
+p57
+I21289
+sVdata2[:1]
+p58
+I15633
+sVbrowers.get_visual()
+p59
+I18074
+sVurllib2.quote("http://site-1419.pascal.users.dev.mydeco.com/shopping/living-room/Lighting\u2019s/")
+p60
+I2432
+sVthreading.currentThread
+p61
+I19303
+sVg.__class__
+p62
+I4892
+sVjoin('a', 'v', 'c')
+p63
+I5035
+sVb.encrypt("hola mundooo", Crypto.Cipher.Blowfish.MODE_CFB)
+p64
+I961
+sVa.encrypt("123456789")
+p65
+I986
+sVfor i in input:\u000a    mk = list(set(r.keys()) - set(i.keys()))\u000a    r.update(dict((k, ([None]*(len(mk) if k not in r else 0)) + r[k] + [v]) for k, v in i.iteritems()))\u000a    r.update(dict((k, r[k] + [None]) for k in mk))
+p66
+I7636
+sVnot ( False and False )
+p67
+I14720
+sVdatetime.datetime.strftime(datetime.datetime.now(), '%Y-%m-%d %H:%M:%S %Z')
+p68
+I17711
+sVWebsite.objects.filter(realm__id="mydeco-uk")
+p69
+I12629
+sVp.write('a4\u005cn')
+p70
+I15815
+sVhxs.select('.title/a/text()')
+p71
+I17531
+sVurljoin('a', 'b')
+p72
+I9616
+sVabsolute_reverse('search_results')
+p73
+I18228
+sVCategoryImage._meta.get_field("categorization2", None)
+p74
+I3557
+sVd.do_expose_event(d, gtk.gdk.Event())
+p75
+I8089
+sVGroup.DoesNotExist.__bases__
+p76
+I21244
+sVr = productsInCategorySearch(c, 10)
+p77
+I5254
+sVh.attr_holder.fragments
+p78
+I1758
+sVwhere s.id = 813
+p79
+I11808
+sVx.defer()
+p80
+I20149
+s.

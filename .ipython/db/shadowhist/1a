@@ -1,0 +1,239 @@
+(dp1
+Vforms.HiddenInput
+p2
+I17883
+sV###*#()&#*}%$#@^(*[!+#}*(}*!&{*$%%@@%[)_{))(+)[#_}$(^#$%}!$(#+(*{]![(]]^)@##@{#%
+p3
+I13758
+sVm1.model2
+p4
+I18887
+sVsimplejson.dump({ 'hola': 'mundo' })
+p5
+I4952
+sV''.join(wpt.tokenize(t))
+p6
+I6518
+sVQuestion.objects.filter(group=1)
+p7
+I19800
+sVDATE_RE.findall(s)
+p8
+I16759
+sVmodels.CharField?
+p9
+I18937
+sVtrav(graph, n)
+p10
+I6996
+sVSomeClass()
+p11
+I15518
+sVPerson.objects.filter(address='pepe').filter(address='marcos')
+p12
+I5852
+sVl = p.readlines()
+p13
+I1059
+sVf.value_from_object(c)
+p14
+I3532
+sVr.lang
+p15
+I5816
+sVa.rstrip('shot')
+p16
+I17593
+sVf.cmscontentmapping_set.all()
+p17
+I1516
+sVsplited = r.split(quote(a))
+p18
+I14685
+sVText.name()
+p19
+I17478
+sVcm.load()
+p20
+I15899
+sVnodes[0].node
+p21
+I10264
+sVWebsite.manufacturers.__class__
+p22
+I10087
+sVdata['section2']['nousednames']
+p23
+I4829
+sVs.write('mundo\u005cn')
+p24
+I16035
+sVr.findall("<a href='/search/?query=sofa'>")
+p25
+I1590
+sVdb.map?
+p26
+I15202
+sVany((1, 2, 3))
+p27
+I18447
+sVc.add_cookie_header?
+p28
+I21351
+sVurlparse.urlparse("hola pepe, esta es la direccion: /search/?query=a")
+p29
+I1621
+sVfrom toolbox.tokenizer import *
+p30
+I6424
+sVh.form
+p31
+I20690
+sVasin = "8466616446"
+p32
+I6110
+sVfrom cms.forms import *
+p33
+I4937
+sVusername = "Ann Maurice"
+p34
+I11741
+sVv.save()
+p35
+I8673
+sVa.rstrip('/').rsplit('/', 1)[-1].rsplit('-', 1)[-1]
+p36
+I20204
+sVr = re.compile('var ([^ ]+) = ([^;]+);')
+p37
+I17085
+sVr2 = re.compile('([\u005c'"])[^\u005c'"]+\u005c1')
+p38
+I14931
+sVfrom classification.models import *
+p39
+I2433
+sVarr(9, 5) / 2 / 2 / 2
+p40
+I5660
+sVclass X(forms.Form):\u000a    date = forms.DateTimeField(required=False)
+p41
+I20644
+sVslugs, ids = items[:len(items)], items[len(items):]
+p42
+I15122
+sVpage = browser.open('http://www.google.com')
+p43
+I18048
+sV[ p['http_path'] for p in CmsPage.objects.all().values('http_path').distinct8) ]
+p44
+I7339
+sVr = cgi.parse_qs('a=1&b=2')
+p45
+I18480
+sVper_date = defaultdict(lambda: defaultdict(tuple))
+p46
+I19012
+sVimport ImageDraw
+p47
+I1374
+sVItem._default_manager.filter()
+p48
+I11004
+sVi = Item.objects.get_translations('es').get(pk=1)
+p49
+I17870
+sVimport qa
+p50
+I20426
+sV[ a[i:i+10] for i in range(len(a))[::10] ]
+p51
+I9495
+sVc.move('d33')
+p52
+I16072
+sVr = RoomSearchResult(**kw)
+p53
+I4193
+sVb_iface.listen
+p54
+I2269
+sVprint base64.decodestring(x)
+p55
+I19558
+sVclass _DummyImageModel(models.Model):
+p56
+I4909
+sVdo_unsubscribe('matiasaguirre@gmail.com')
+p57
+I7910
+sVimport pymsn
+p58
+I9323
+sVfrom comments.models import *
+p59
+I4263
+sVa = {1: 1}
+p60
+I19424
+sV[ (p.guid, p.variants) for p in r.result.items]
+p61
+I21269
+sVimport battery
+p62
+I2116
+sVp SpecialOffer.__class__.__dict__
+p63
+I7150
+sVany(not x.isdigit() for x in a)
+p64
+I14645
+sVu = SystemUser.objects.get(pk=100977)
+p65
+I12356
+sVdatetime.datetime.strptime(d, '%c')
+p66
+I16660
+sVadd_to_builtins('site_navigation.templatetags.navigation')
+p67
+I17924
+sVt = Template("{% static_url common.ckeditor_config %}")
+p68
+I12615
+sVqs = Parent.objects.all()
+p69
+I18799
+sVzip(r)
+p70
+I7605
+sVcontent = ''.join(urllib.urlopen(r['Location']).readlines())
+p71
+I20728
+sVfor i in ph.data['section1']:
+p72
+I5066
+sVm._meta.fields
+p73
+I681
+sVv.sort(key=lambda x: x[0])
+p74
+I19015
+sVq = re.compile(r'(article_tracked_url\u005cs+.+?%)(?:$|[^}])')
+p75
+I15044
+sVo.add_handler?
+p76
+I21101
+sVp.productos
+p77
+I7439
+sVuuid.uuid5("ho
+p78
+I4807
+sVdatetime.strptime('Fri Feb 05 19:12:32 +0000 2010', None)
+p79
+I11870
+sVs[1].name
+p80
+I16996
+s.

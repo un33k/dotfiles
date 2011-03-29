@@ -1,0 +1,260 @@
+(dp1
+Vimport vimpdb
+p2
+I19501
+sVdata['session[password]'] = PASSWD
+p3
+I20756
+sVupdate cms_fragment_template set content_names = "content/largetext,introduction/largetext,linkUrl/text,photo/image,photo_caption/text,photo_position/text(left|right),photo_size/text,subheading/text" where id = 13;
+p4
+I6610
+sVa = [False, False, True, True, False]
+p5
+I20543
+sVsuite.run?
+p6
+I21125
+sV^!@(*&_)$[$]@]!^*]*!^)@(*]{@[)]}&+!%[][(#$_[$}!!+{*](((([#@!($(_$@*&^#)&+*%{_&%$
+p7
+I13230
+sVv = Valoracion.objects.filter(area=1)
+p8
+I10734
+sVurllib.os.path.split('')
+p9
+I7887
+sV#([]_)&_*^_^*($$+&[$!}&[[@{])[%*_$+%])[(!+)#@(()!+^{)})%@&&^@]}#^@]$]+)])&^_]_]#
+p10
+I13528
+sVfrom buythelook import models
+p11
+I4335
+sVr.params
+p12
+I8790
+sVlist(s.query(PhotoTag, Photo).join((Photo, PhotoTag.photo_id == Photo.id)).filter(PhotoTag.tag_id == None))
+p13
+I15396
+sVp.exifKeys
+p14
+I8326
+sVpepe(*(1, 2), **{ "b": 4 }, a=3)
+p15
+I3417
+sVrequ = urllib2.Request(u)
+p16
+I7845
+sVmodel_i18n.translator._translator._registry
+p17
+I10973
+sVa[0:5]
+p18
+I12767
+sVa["hola"]
+p19
+I4826
+sVdata['section1']['nousednames']['grouping']
+p20
+I4835
+sVord.__doc__
+p21
+I5202
+sVs.result.search_items
+p22
+I10657
+sVEmailConfirmation.objects.order_by('-id')[0]
+p23
+I20296
+sVa.ft_reduce(s)
+p24
+I532
+sVlen(r)
+p25
+I16374
+sVimport stub.VS
+p26
+I1806
+sV}&_]*_@$!}{}(]#)_#)%[)!+!${}(}_(}^@{_@!#*_()#$!_]%#@}[#{@)!{+{!&(]}][_#%*^#%!{!!
+p27
+I13886
+sVRoom.objects.select_related().all().get(pk=736777)
+p28
+I17582
+sVdef pepe(x, *args):
+p29
+I21037
+sVf2 = CategoryHierarchy._meta.fields[1]
+p30
+I4572
+sVget_values('/the-magazine')
+p31
+I9586
+sVi._languaje
+p32
+I11028
+sV%save "file" 1-12
+p33
+I4415
+sVprint a.fromkeys.__doc__
+p34
+I4523
+sVcv.LoadImage
+p35
+I10847
+sVp.state
+p36
+I577
+sVp cgi.parse_qsl.__doc__
+p37
+I7593
+sV[ ''.join((x, y, z)) for x in l for y in l for z in l]
+p38
+I9514
+sVAdminDateField.widget._meta
+p39
+I18412
+sVf[0].error
+p40
+I18977
+sVimport exceptions
+p41
+I16208
+sVunicode(f.heading)
+p42
+I18934
+sV[{]$#{!^]^$#+*$}#*)(]!@^&#){][$)}!+%^)@#&!%(+^^($(%}^+[*)#+{%!))}(*&]__})][_))}#
+p43
+I14058
+sVqs.query.related_select_cols
+p44
+I12042
+sVshopping_ctx
+p45
+I5501
+sVv.var
+p46
+I10368
+sVclass F(forms.Form):\u000a    name = forms.CharField()\u000a    label = forms.CharField()\u000a    def __init__(self, fname, *args, **kwargs):\u000a        self.base_fields[fname] = forms.CharField()\u000a        super(F, self).__init__(*args, **kwargs)
+p47
+I4876
+sVurllib2.unquote("http://site-1375-maguirre.users.dev.mydeco.com/quick-shop/top-ten/garden-accessories-under-%C2%A330")
+p48
+I2230
+sVl = [x.strip() for x in l]
+p49
+I16132
+sVope = urllib2.build_opener()
+p50
+I7864
+sVprint property.__doc__
+p51
+I9005
+sVa = dict((i, str(i)) for i in xrange(20))
+p52
+I2426
+sVUserSocialAuth.__class__.__name__
+p53
+I20590
+sVpd = CmsPageData("/")
+p54
+I2448
+sVr._headers['location']
+p55
+I20666
+sVp.template.path.name
+p56
+I5027
+sVs = parse('content', example['content'])
+p57
+I16971
+sVdef pepe(**kwargs):
+p58
+I4617
+sVmap(lambda o: letters.setdefaults(letter(o), []).append((o, obj_id_page[o.id])), objects)
+p59
+I1968
+sVfrom urllib import urljoin
+p60
+I20206
+sVsgmllib.attrfind?
+p61
+I20768
+sVj.getNode()
+p62
+I4324
+sVfrom pyaws impor ecs
+p63
+I6067
+sVtl
+p64
+I16364
+sVh = 'http://google.com/a?x=1#xxx'
+p65
+I20799
+sVimg.rotate(30).name
+p66
+I12292
+sVgen_word()
+p67
+I15653
+sVs = f.errors.copy()
+p68
+I14477
+sVurllib.unquote(y.split('?')[1].split('=')[1])
+p69
+I21411
+sVf = modelform_factory(CmsTextContent)
+p70
+I14863
+sVjson
+p71
+I11593
+sVimport facedetect
+p72
+I10911
+sVfrom phplist.utils import do_subscribe, do_unsubscribe, do_change
+p73
+I7912
+sV(1, 2, 3) == (1, 2, 3)
+p74
+I12239
+sVr.search_params
+p75
+I4097
+sVcd = c['catdata']
+p76
+I10477
+sV)#]**+*]@}!&($*])$}![%%%^+#{]*[$@@){@_}]@([}{](!&#[%_%}{&#^%@^_!}@[${&$&*$)]#(&_
+p77
+I13387
+sVb_iface.GetProperty("battery.charge_level")
+p78
+I2208
+sVCmsPage.objects.all().order_by("-since").distinct("http_path", "state").values("id", "http_path", "since", "state")
+p79
+I5006
+sVp = get_last_page(["/the-magazine", "/the-magazine/"], "live")
+p80
+I5002
+sVItem._default_manager.select_related('item_translation').extra('title_es': 'item_translation.title_es')
+p81
+I10986
+sVlist(itertools.izip(*[range(10), range(10)]))
+p82
+I14524
+sVFolder.objects.order_by('-id')[0]
+p83
+I19913
+sVt = 'no quibble guarantee approximate delivery time: 2 -10   days'
+p84
+I7469
+sVo._pages
+p85
+I2836
+sVst = re.compile('<[^>]+>')
+p86
+I16900
+sVa.__getitem__('hola')
+p87
+I6781
+s.

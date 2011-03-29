@@ -1,0 +1,230 @@
+(dp1
+V'<!-- CUERPO -->' in b
+p2
+I16886
+sVpaid = False
+p3
+I12353
+sVc = get_shopping_context(path="/129")
+p4
+I5433
+sVclient.override_token
+p5
+I19779
+sVdef save_file(page, name, group, value):
+p6
+I4852
+sVp.say_hi = pepe_say_hi
+p7
+I4240
+sVhtmllib.HTMLParser¡
+p8
+I9710
+sVr = productsInCategorySearch([c.catid], 4, extra_filters=['bathroom']).items
+p9
+I10799
+sVx.parent
+p10
+I19852
+sVupdate cms_fragment_template set content_names = "" where id = 6;
+p11
+I6604
+sVcvHaarDetectObjects([im], "/home/omab/haarcascade_frontalface_alt.xml", m)
+p12
+I10864
+sVt = Template('{% if x <= 10 %}si{% else %}no{% endif %}')
+p13
+I18282
+sVa.isdigit()
+p14
+I11744
+sVfrom django.db.models import  Q
+p15
+I19077
+sVPermission.objects.filter(content_type=ContentType.objects.get_for_model(User))[0]
+p16
+I7108
+sVp = get_categories_products(['contemporary-storage'])
+p17
+I10527
+sVval
+p18
+I10407
+sVsorted(a, lambda x, y: len(a[x]) - len(a[y])))
+p19
+I3590
+sV]_(_#!}]&&{]{*]]%{@{+$&!@&!_{!&!#]_(!%@[{)(&&[#)#$#{[!^{_*]%[^+%{^*+#[!%*#[(@^#(
+p20
+I13543
+sVdef choices():\u000a    return [(t.id, t.description or t.name) for t in TemplateName.objects.all()]
+p21
+I15476
+sVwords = ct.tokenize_html(text, with_indices=True, only_matches=True)
+p22
+I6452
+sVf.fields['query']
+p23
+I12709
+sVUserComment.objects.filter(content_type=ct, is_public=True).distinct(["object_id", "user"]).order_by("-date")[:2]
+p24
+I4271
+sVCity._meta.get_field_by_name('x')
+p25
+I20415
+sVd()
+p26
+I8062
+sVd[0]
+p27
+I19715
+sVfor i in ph.data:
+p28
+I5073
+sV[ b.contents for b in block ]
+p29
+I10051
+sVdef fff():
+p30
+I628
+sVclient.login(*account)
+p31
+I9330
+sVxxx(1, True, 10, 20, 30)
+p32
+I18161
+sVclass MyParser(sgmllib.SGMLParse):
+p33
+I9720
+sVr2.match("1222965720").group()
+p34
+I2778
+sV]}#*_+{)%[+!^{+{(&#_[_}_!{!*{[[)]][$[}*@[$*&))+$[&]@)[*}+^___%!]()^)&!@&[*@_+{}&
+p35
+I14057
+sVp = CmsPage.objects.filter(http_path='/')[0]
+p36
+I1279
+sVProductSearch(query='sofa', count=10, display=['name'], filter=['view_only,design_boutique'])
+p37
+I14625
+sVv.filter_expression.resolve
+p38
+I10271
+sVfrom os.path import stat
+p39
+I16621
+sVot = gdata.auth.OAuthToken(key=token, scopes=settings.GOOGLE_OAUTH_EXTRA_SCOPE + ['https://www.googleapis.com/auth/userinfo#email'], oauth_input_params=params)
+p40
+I19783
+sVp.expect([BOARD_RE, ILLEGAL_RE, MYMOVE_RE])
+p41
+I16110
+sVItem.objects.all()[0].title
+p42
+I11131
+sVarrayfns.construct3()
+p43
+I2734
+sVu.process_mydeco_mail()
+p44
+I14531
+sV_#$@)$@$@@})[$_([(_^[+##)@]*(#^%(%(${[&+#)@^))[^#$^_(]**&%+%&(+$^#[+}))^^]_%$@#[
+p45
+I13389
+sVquestions = a.questionSearch({'query':'cats',})
+p46
+I9141
+sVimg
+p47
+I12263
+sVc = Classification.objects.get(pk=1128);
+p48
+I2435
+sVw.logo.storage.path()
+p49
+I5106
+sVa.rstrip('-snapshot')
+p50
+I17592
+sVdaskdjkasda
+p51
+I2802
+sVw._meta.get_field("logo").upload_to
+p52
+I4435
+sVfor m in [ Post, Video, Image ]:\u000a    for obj in m.objects.all():\u000a        obj.title = obj.title + " " + "peludo"\u000a        obj.save()
+p53
+I170
+sVf.xreadlines()
+p54
+I3456
+sVparser.print_help()
+p55
+I7065
+sVimport pygraph
+p56
+I6879
+sV'login_form' in ''.join(x)
+p57
+I21109
+sVrange(a[max(i-2, 0)], a[min(i+3, len(a))])
+p58
+I2923
+sVv = x.values()
+p59
+I20984
+sVimport collections
+p60
+I2729
+sVpq.move('matias2', 'd4')
+p61
+I16271
+sVreduce?
+p62
+I9836
+sVpt
+p63
+I15142
+sVp.language.__class__
+p64
+I11996
+sV]])![(]_(*@!)_!&{@__%{$[)]&!*$@()+_][@}&#_*)+%_%^&#${^]$$@+$&]&(%][&[@[^{*%@#+${
+p65
+I13214
+sVprint u"\u005cu03C0"
+p66
+I21128
+sVurlsplit('http://localhost:8000/').netloc
+p67
+I9043
+sVa[None:None:None]
+p68
+I1732
+sVRoomCompetition.objects.active_competitions(type='photo')
+p69
+I19969
+sVr = re.compile('window.location.replace\u005c("(.*)"\u005c);')
+p70
+I21357
+sVpt = sqlalchemy.Table('photo_tags', meta, autoload=True)
+p71
+I15141
+sVr.body = e
+p72
+I16895
+sVimp.load_module?
+p73
+I17815
+sVImage.__doc__
+p74
+I8290
+sVr = c.result[0]
+p75
+I3847
+sVf[0].name
+p76
+I1932
+sVprint Product.objects.get(pk=x[157])
+p77
+I18570
+s.

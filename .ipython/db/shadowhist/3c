@@ -1,0 +1,236 @@
+(dp1
+Vv.value.__class__
+p2
+I8638
+sVa = dict(((i, i) for i in xrange(20)))
+p3
+I1675
+sVr = re.compile('[-\u005cw\u005cs]+', re.U)
+p4
+I4519
+sVp.fragments[0].is_empty
+p5
+I4181
+sVUser.objects.create_superuser()
+p6
+I20227
+sVStock.objects.get(pk=132)
+p7
+I3567
+sVrooms.result.items[0].rankin
+p8
+I11462
+sV)_#$&()$+[((_}]*!!_[*{*%[%+&$!}@({#%@%[%!%[!*](]%^}##@(*)]{@%@^@^#(]^[{_&&**)^+!
+p9
+I13278
+sVtext = """
+p10
+I6334
+sVtime_format("134964", None)
+p11
+I3226
+sVi.get_choices()
+p12
+I8147
+sVtype
+p13
+I2413
+sVu = User.objects.get(pk=34);
+p14
+I6589
+sVcomments = ThreadedComment.objects.filter(content_type=ct, object__in=posts)
+p15
+I21327
+sVb.encrypt("hola mundoooooo")
+p16
+I959
+sVfrom obnob.apps.chatterbox.templatetags import chatterbox_tags
+p17
+I20921
+sVf.widget.render('name', '2')
+p18
+I15469
+sVt.render(Context({ 'cat': { 'shortname': 'sale' } }))
+p19
+I10869
+sVct.model_class()
+p20
+I21449
+sVa = "global pepe"
+p21
+I11734
+sVuser_ids = [ v['user'] for v in\u000a                        ResultRank.objects.distinct().values('user') ]
+p22
+I7794
+sVa = 'hola[]'
+p23
+I17479
+sV@[}{_[@$}**_%+]${[&*#[^!#]*[(*$)@]*[*}*&_{%(@)]%%$]({]@&%]&_)%_#%)#**{&*(%&!*+_}
+p24
+I13562
+sVf.model
+p25
+I18787
+sV[(e.id, e.room.real_image_url) for e in c.entries.order_by('-id')]
+p26
+I19402
+sVf.fragments
+p27
+I3245
+sVx = c[0]
+p28
+I6806
+sVnltk.tokenize.WordPunctTokenizer().tocanize(text)
+p29
+I6450
+sVa % { "name": "matias" }
+p30
+I4622
+sVdef as_sql(qs):
+p31
+I21445
+sVmd5(str(urandom(10))).hexdigest()[:30]
+p32
+I19355
+sVdef new_trans(slf, olds, news):
+p33
+I2006
+sVdec(1)
+p34
+I2521
+sVcgi.__doc__
+p35
+I5893
+sVfrom cms.forms import PluginForm, PluginFormSet
+p36
+I14447
+sVconn = pymongo.Connection()
+p37
+I19927
+sVp.save('/tmp/out.png')
+p38
+I18030
+sV"%s" % time.mktime(d2.timetuple())
+p39
+I4068
+sVre.MULTILINE
+p40
+I6160
+sVd.props()
+p41
+I8068
+sVfrom chatterbox.templatetags.chatterbox_tags import group
+p42
+I20966
+sVpq.fen('matias')
+p43
+I16356
+sVkw = {'count': 15, 'order_by': '-updated', 'filters': [u'type,3d', ], 'offset': 0}
+p44
+I4201
+sVbatteries = hal.FindDeviceByCapability("/")
+p45
+I2183
+sV)(+%_&($]$){!#_%$!)$(^$%)^[_*$$*#{([^$_]%{%%+@]^{)}]+%$^%[)@^+(+}_+)$#)##][&{^$^
+p46
+I13184
+sVr.sub('', s)
+p47
+I11613
+sVa = "Lighting\u2019s"
+p48
+I2439
+sVi = Image.open("/home/omab/img_5631.jpg")
+p49
+I10826
+sV[ { 'field': field, 'errors': ' '.join(err[:] for err in errors) } for field, errors in f.errors.iteritems() ]
+p50
+I12732
+sVfrom product.forms import *
+p51
+I20854
+sVimport mimetypes
+p52
+I14798
+sVr.href_name
+p53
+I7685
+sVfrom twitchess.playqueue import PlayQueue, Fen
+p54
+I16354
+sVfrom django.templates import defaultfilters
+p55
+I20430
+sVphotos = sqlalchemy.Table('photos', meta, autoload=True)
+p56
+I15131
+sVurllib.url2pathname?
+p57
+I9095
+sVu.has_perms(g.permissions.all()[0])
+p58
+I6582
+sVprint uuid.__doc__
+p59
+I4262
+sVp.get('deals')
+p60
+I17980
+sVi.thumbnail
+p61
+I4000
+sVp = Pepe((1, 2, 3))
+p62
+I20191
+sVr = Request('https://www.googleapis.com/userinfo/email?alt=json&oauth_nonce=23714567&oauth_timestamp=1300226278&oauth_signature_method=HMAC-SHA1&oauth_consumer_key=anonymous&oauth_verifier=SeNpYl8SOdH3%2FLDmK26j%2F%2BgU&xoauth_displayname=Social+Auth&oauth_version=1.0&oauth_token=1%2FI0bv__38mQPuSe8JZYx-3YPatjX_UffBZ6a9qNiN53I&oauth_signature=MKBWYyNacaBQfzUI9wT187rcS9Y%3D&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo%23email+https%3A%2F%2Fwww.google.com%2Fm8%2Ffeeds%2F&oauth_callback=http%3A%2F%2Fmyapp.com%3A8000%2Fcomplete%2Fgoogle-oauth%2F', headers={'Authorization': 'alt=json&oauth_nonce=23714567&oauth_timestamp=1300226278&oauth_signature_method=HMAC-SHA1&oauth_consumer_key=anonymous&oauth_verifier=SeNpYl8SOdH3%2FLDmK26j%2F%2BgU&xoauth_displayname=Social+Auth&oauth_version=1.0&oauth_token=1%2FI0bv__38mQPuSe8JZYx-3YPatjX_UffBZ6a9qNiN53I&oauth_signature=MKBWYyNacaBQfzUI9wT187rcS9Y%3D&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo%23email+https%3A%2F%2Fwww.google.com%2Fm8%2Ffeeds%2F&oauth_callback=http%3A%2F%2Fmyapp.com%3A8000%2Fcomplete%2Fgoogle-oauth%2F'})
+p63
+I21188
+sVt0=t[0]
+p64
+I46
+sVp.abbreviation
+p65
+I19893
+sVset(keys)
+p66
+I7641
+sVResultRankCriteria.objects.filter(QJoins(ranked_count=('result_rank', 'left join', 'ranked_count.query_id = rr_criteria.query_id')))
+p67
+I7706
+sVv.filter_expression.var.var
+p68
+I10270
+sVm.match()
+p69
+I4492
+sVTaggedItem.objects.filter(content_type=ct, article=p)
+p70
+I4714
+sVbase64.b32encode('ab')
+p71
+I19234
+sV%save "file"
+p72
+I4414
+sVwith v as p:
+p73
+I2093
+sVlocale.currency(10000000, symbol=False)
+p74
+I11416
+sV"http://www.wolframalpha.com/input/?i=" + urllib.quote("plot+x^2+(y-(x^2)^(1/3))^2=1")
+p75
+I20115
+sVp.thumbnail_medium_url
+p76
+I5273
+sVr.match("aaa.bbbb").group()
+p77
+I3105
+sVa[:a.find("mundo")+len("mundo")].replace("mundo", "pepepepe")
+p78
+I1579
+sVItem.objects.all().set_language('en')[0]
+p79
+I11069
+s.

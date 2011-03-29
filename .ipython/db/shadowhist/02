@@ -1,0 +1,278 @@
+(dp1
+Vresp = urllib2.urlopen(req)
+p2
+I19300
+sVResultRank.objects.distinct().values('user', 'user__name')
+p3
+I7790
+sVimport tempfile
+p4
+I1906
+sVr = RoomSearch([ 'public,1'], count=3)
+p5
+I9295
+sVfrozenset([(1, 1), (2, 2)])
+p6
+I18645
+sVvalues = [ CmsTextContent.objects.filter(id__in=content_ids).values('id', 'text') ]
+p7
+I8846
+sVp.domain
+p8
+I9846
+sVfrom search.models import productsInCategorySearch
+p9
+I6533
+sVos.path.abspath('../pepe.p')
+p10
+I15426
+sVg.fields['info']
+p11
+I17808
+sVlist(CategoryImage.objects.all())[0]
+p12
+I3594
+sV[ (x, y, z) for x in l for y in l for z in l]
+p13
+I9513
+sVs = "00202=38178=38080=38177.mpg"
+p14
+I6869
+sVdef lambda_loop():
+p15
+I4801
+sVf = CmsUserRoleForm({'user_id': 32})
+p16
+I6032
+sVapply(lambda i: i, range(10))
+p17
+I10685
+sVa = 3
+p18
+I6269
+sVn.total()
+p19
+I21310
+sVLink.objects.all()
+p20
+I1583
+sVsafehtml(html)
+p21
+I20843
+sVupdate cms_fragment_template set content_names = "" where id = 65;
+p22
+I6660
+sVgetattr(c.obj, "credits") or "Pepe"
+p23
+I1327
+sVgc.end()
+p24
+I16139
+sVr = re.compile(r"(?P<w>..).+(?P=w)")
+p25
+I3937
+sVimpor time
+p26
+I18399
+sVfrom pyflakes import checker, ast, messages
+p27
+I14818
+sVc.match(a)
+p28
+I20771
+sVr2.findall('AAAzAAA')
+p29
+I14199
+sVtime.sleep(2)
+p30
+I10702
+sVa.split?
+p31
+I9212
+sVreq = urllib2.Request('http://site.dev.mydeco.com/ws/search/search?db=product&prefdb=product&query=blue+sofa&count=10&display=name')
+p32
+I19282
+sVr.match('ab?')
+p33
+I14876
+sVsha.sha("yea").hexdigest()
+p34
+I12070
+sVItem.objects.get(pk=1).set_language('es').title_es
+p35
+I11099
+sVa[1:-2]
+p36
+I5123
+sVr.GET['simid'] = 'a6060d24a1a7f59cf5d2b52cc931a7023639ef3b'
+p37
+I10629
+sVord('h')
+p38
+I5196
+sVx = group(notices)
+p39
+I20980
+sVdatetime.date.strftime(s)
+p40
+I17939
+sVimport int
+p41
+I2522
+sVg.nodes()
+p42
+I6892
+sVx.parent.parent.iso_country_code
+p43
+I19864
+sVheapq
+p44
+I15008
+sVs[0][0][0][0][0][0].name
+p45
+I16990
+sVhxs2 = HtmlXPathSelector(e)
+p46
+I16891
+sVimg2 = img.crop((0, 0, 50, 50))
+p47
+I12266
+sVbase64.decodestring('L21lIGNhc2kgaW5mYXJ0YSBjb24gbGEgcG9sbGVyaXRh\u005cn')
+p48
+I20102
+sVround(a)
+p49
+I2157
+sVopencv.cv.CV_HAAR_DO_CANNY_PRUNING
+p50
+I12273
+sVimport statgrab
+p51
+I2098
+sVdb.entity?
+p52
+I15205
+sVTYPES.keys()
+p53
+I4856
+sVr.image.path
+p54
+I19128
+sVe = dbcache.Entry.objects.all()[0]
+p55
+I9608
+sVci
+p56
+I3541
+sVfrom django.db.models import ForeignKey
+p57
+I20909
+sVv = Valoracion.objects.filter(area=1, criterio=1)[0[
+p58
+I10736
+sVa, b, c = 'a,b,c,d'.split(',')
+p59
+I20920
+sVfrom cms.plugins import import_plugin
+p60
+I12829
+sVfrom itertools import chain
+p61
+I12017
+sV<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+p62
+I9624
+sVr.read
+p63
+I21154
+sVm.parse()
+p64
+I9732
+sV)%}%]}&]$]*#^{]%^$}&$(#&+[[][!@&}$]_]({)(#!@_((^@@%%_]___%]][&}})]{%%}[#@__+%)(%
+p65
+I13856
+sVimg2.im.rotate?
+p66
+I12312
+sVUserExtraInfo._meta.fields
+p67
+I3358
+sVinspect.getargspec()
+p68
+I17172
+sVd['s1']['header']
+p69
+I8945
+sVa = u'To enter, <a href=\u201chttp://mydeco.com/rooms/detail/telegraph-week-2-template-444714/\u201dclass="c1">copy the 3D template into your own profile</a>.  Once completed, enter it into 'Room Rescue Week 2' competition and it will appear below.'
+p70
+I8757
+sVnltk.tokenize.RegexpTokenizer(text, re.compile('sofas beds')).tokenize(text)
+p71
+I6440
+sVreplace_amp("gdjklgjdf&lt;ezghzkgrhrekgh&lkdjhgdljg{% rekjghrekgn lkdjsf=3&nkhn=1 %}kjdrhgerk{% article_tracked_url efh=2&jkhdg=4&fgjdfjk=blah%}khgfkjdhk&jhg&amp;d")
+p72
+I4696
+sV]$&]}#[&[#]]]^#%])](!+]]%!+$(*@^_#^*_&)@[${{$]]#&]!+&_!{!)!%*+%_%_)$]#!]{+_[){$^
+p73
+I13457
+sVconv = purple.PurpleGetIms()[0]
+p74
+I1432
+sVint('0b101010')
+p75
+I18118
+sVurlparse.parse_qs('a=1&a=2')
+p76
+I18190
+sVurllib.quote('http://google.com?q=site:mydeco.com+big+brown+tall+table')
+p77
+I19450
+sVACCESS_SECRET = 'm2VtprRH2ByiuxnmSATv9FziDsf0USVfseVXHE4'
+p78
+I16456
+sVsend_comments_notifications(posts)
+p79
+I21336
+sVfloat(250/6435)
+p80
+I5571
+sVa.appid = '0IB1TsDV34F.UXhTDqmjQJe6m6zPDGFvXuyzaYAWlkCNw1RkkduAa_YFcvZhyStrSwsy9TqzuB9MVC4-'
+p81
+I9139
+sVfrom cms.dtypes import Text, BigText, Image, Room
+p82
+I18101
+sVa.result
+p83
+I5449
+sVcv.CvImage()
+p84
+I10851
+sVfrom urlparse  import *
+p85
+I9615
+sVcv.cvHaarDetectObjects([i], "/home/omab/haarcascade_frontalface_alt.xml", m)
+p86
+I10836
+sVarr(9, 5) / 2 / 2 / 2 / 3
+p87
+I5661
+sVd.add_node_attribute('hola', ('fillcolor', '#ff0000'))
+p88
+I7079
+sVp = zeros(5)
+p89
+I12507
+sVfd.options.list_item_template
+p90
+I639
+sVi = pyexiv2.Image('img_2379.jpg')
+p91
+I5581
+sVPhotoTag.filter(tag_id=6, photo_id=28).first()
+p92
+I15338
+sVdef pepe(x):
+p93
+I16525
+s.

@@ -1,0 +1,56 @@
+# vim:filetype=sh
+
+umask 022
+
+# xterm, rxvt, title
+# printf "\033]0;${USER}@${HOSTNAME}\007"
+
+# no bell
+setterm -blength 0
+
+# latam keyboard
+# setxkbmap latam
+
+# En algun momento ignoreeof es deshabilitada por defecto
+# esto la habilita haciendo que funcione ctrl+d para desloguear
+# correctamente
+shopt -u -o ignoreeof
+
+export MYSQL_PS1="\\u@$HOSTNAME \\d> "
+
+# xterm escape colors
+COLOR_RED="\[\e[31;40m\]"
+COLOR_GREEN="\[\e[32;40m\]"
+COLOR_YELLOW="\[\e[33;40m\]"
+COLOR_BLUE="\[\e[34;40m\]"
+COLOR_MAGENTA="\[\e[35;40m\]"
+COLOR_CYAN="\[\e[36;40m\]"
+
+COLOR_RED_BOLD="\[\e[31;1m\]"
+COLOR_GREEN_BOLD="\[\e[32;1m\]"
+COLOR_YELLOW_BOLD="\[\e[33;1m\]"
+COLOR_BLUE_BOLD="\[\e[34;1m\]"
+COLOR_MAGENTA_BOLD="\[\e[35;1m\]"
+COLOR_CYAN_BOLD="\[\e[36;1m\]"
+COLOR_WHITE_BOLD="\[\e[38;1m\]"
+
+COLOR_NONE="\[\e[0m\]"
+
+DFT_FG='#aaaaaa'
+DFT_BG='#1a1a1a'
+DFT_FN='-*-terminus-medium-r-normal-*-12-*-*-*-*-*-*-*'
+
+XMODMAP=~/.Xmodmap
+SCREEN_WIDTH=1280
+SCREEN_HEIGHT=800
+
+export XDG_DATA_HOME=~/.config
+export XDG_CONFIG_HOME=~/.config
+
+export TERM=xterm-256color
+
+# virtualenvwrapper
+export WORKON_HOME=~/.virtualenvs
+source /usr/local/bin/virtualenvwrapper.sh
+export PIP_VIRTUALENV_BASE=$WORKON_HOME
+export PIP_RESPECT_VIRTUALENV=true

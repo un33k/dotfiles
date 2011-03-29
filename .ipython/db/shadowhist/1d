@@ -1,0 +1,221 @@
+(dp1
+Vprint d.form().as_p()
+p2
+I4842
+sVCmsPagePath.objects.with_page().filter(state='live', where='page_state="live"')[:3]
+p3
+I12110
+sVHTMLParser.starttagopen.findall(html)
+p4
+I9757
+sV%#+&$}#&_%&[%{+[{@_$!$])!*#*_$($))#!+)))&_[^!&)*}+)_){@{+(&&_^&{]$&!%_{*&&!#[+*@
+p5
+I13378
+sVlist(a)
+p6
+I1001
+sVa = set([ str(i) for i in range(10)])
+p7
+I11254
+sVr = re.compile('(?<=(mydeco.com)?)/search/')
+p8
+I6251
+sVt=Tag.objects.filter(name='tag1')[0]
+p9
+I68
+sVi.get_content_cache_object()
+p10
+I19630
+sVdef gen(x):
+p11
+I17095
+sVupdate cms_fragment_template set content_names = "rowTitleImage/image,rowDescription/largetext,trendUrl/text[3],trendImage/image[3],trendDescription/largetext[3]" where id = 95;
+p12
+I6688
+sVa.split('/', -1)
+p13
+I19925
+sVc.execute("""\u000aSELECT p.* FROM model_counter c FORCE INDEX (content_type_id) LEFT JOIN\u000a                                 cms_page_path pp ON pp.id = c.object_id LEFT JOIN\u000a                                 cms_page p ON p.http_path = pp.http_path AND p.locale = pp.locale\u000a                            WHERE c.content_type_id = 104 AND\u000a                                  p.http_path LIKE "/the-magazine/%" AND\u000a                                  p.locale = '' AND\u000a                                  p.state = "live"\u000a                            ORDER BY c.hits DESC\u000a""")
+p14
+I12196
+sVh.names
+p15
+I17020
+sVx = BigIndexer.search("ayer peludo")
+p16
+I193
+sVa = "cms__meta__pppp"
+p17
+I12631
+sVcodecs.decode('hola', 'rot_13')
+p18
+I16913
+sVs = SystemUser()
+p19
+I17418
+sVr.findall('xxx')[-1]
+p20
+I20826
+sVget_template_from_string(tpl, origin, 'microsite/base_microsite.html')
+p21
+I8346
+sV`?
+p22
+I21228
+sVimport ConfigParser
+p23
+I16543
+sVraise OSError?
+p24
+I12516
+sV$$!^&!({]{)(@(%]%}{]]{%#{&!{*@&)%%&)#$+($[[[$+_#@!]%#)&&&+*^%*]#_@)[]]+++[]^}]%$
+p25
+I13613
+sVt.result
+p26
+I12393
+sVopr.start_parse("tag xxx as yyy from mmm".split())
+p27
+I443
+sVfind
+p28
+I16257
+sVs = '\u005cufffd'
+p29
+I11687
+sVa or (b and c) or d
+p30
+I5714
+sVcv
+p31
+I10845
+sVarticles = ArticleSearch(query=['cake stands', 'carriers'], count=5, display=display)
+p32
+I5337
+sVinit_session('sqlite:////home/omab/.config/f-spot/photos.db', True)
+p33
+I15187
+sVph.sections_data
+p34
+I4959
+sVi.hex
+p35
+I4812
+sVord('b') % (len(string.letters)/2)
+p36
+I5182
+sVqs = SystemUser.objects.select_related('cache')
+p37
+I11787
+sVfor i in r.result.items:\u000a    rooms[i.type].append(i)
+p38
+I9306
+sVreload.__doc__
+p39
+I8157
+sVprint r.content
+p40
+I20649
+sVsocial_auth.backends.get_backends()
+p41
+I20232
+sVdef common(a, b):
+p42
+I1654
+sVx = list(range(100000000))
+p43
+I19062
+sV$^&*(+$(*{$$%)%+]#_&#}*+@%[(__$}$(@_]{)&%&$_^%])(]$()(^#]_(!^@{{))&^$_({^)@()#%+
+p44
+I13242
+sVSpecialOfferAdmin().changelist_view()
+p45
+I6048
+sVmod = __import__("os")
+p46
+I11168
+sVShopSearch()
+p47
+I8532
+sVor_?
+p48
+I18589
+sVCategoryHierarchy._meta.parents
+p49
+I4560
+sVs[0][0][0]
+p50
+I16974
+sVfrom tipocms.models_helpers import Fragment, FormObj
+p51
+I3243
+sVprint a.errors
+p52
+I21211
+sV'_dakj' < 'A'
+p53
+I14160
+sVa.insert(10, "p")
+p54
+I2536
+sVs.result.items[0].id
+p55
+I14373
+sVzip((1, 2), (3, 4), (5, 6))
+p56
+I3293
+sVi.image_url
+p57
+I4010
+sVpages_ids = [ p['id'] for p in pages ]
+p58
+I8856
+sVx._meta.fields
+p59
+I7774
+sVfrom django.db.models import TextField
+p60
+I20569
+sVreload?
+p61
+I8158
+sVs.split(';', 1)
+p62
+I15105
+sV)&@*+@])](_%^#!))@#%)+!(!^@%[}{{(^}{}%&[$[+&$+}]!$%_[$!*]!{]^#@)+))$)#)@^^&]+#[^
+p63
+I13273
+sVExifTags.__doc__
+p64
+I8305
+sV"\u005c\u005c\u005c'" in json2
+p65
+I11642
+sVp.readline()
+p66
+I16118
+sVos.environ
+p67
+I4224
+sV*^^[%)%@[&%}!+&!}*&*!)_$[^^#]$$}@(*)&)}@}^+@@!!}&%[]*#$}+}+#!&+}]&&#^))(*_][@!*{
+p68
+I12970
+sVGroup.obnob_users.related.field.rel.get_related_field().name
+p69
+I20172
+sVforms.ModelForm
+p70
+I21008
+sVd.today()
+p71
+I10688
+sVr = re.compile('\u005cbmun\u005cb')
+p72
+I6144
+sVu.extra_data['c'] = {'a': 32}
+p73
+I20583
+sVbasename(dirname('/home/omab/src/django-social-auth/example/social_auth/backends/__init__.py'))
+p74
+I19472
+s.

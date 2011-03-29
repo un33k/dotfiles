@@ -1,0 +1,310 @@
+(dp1
+Va = getattr(__import__(m, {}, {}, [a]), a)
+p2
+I8466
+sVclass Pepe(object):\u000a    def __len__(self):
+p3
+I3488
+sVHREF_RE.match(v)
+p4
+I9882
+sVthumbnail(i.get_image_filename(), "width=80,height=80")
+p5
+I3818
+sVfrom operator improt mul
+p6
+I17587
+sVopen('/tmp/f.jpg').write(base64.decodestring(s))
+p7
+I14111
+sVt = "g fmnc wms bgblr rpylqjyrc gr zw fylb. rfyrq ufyr amknsrcpq ypc dmp. bmgle gr gl zw fylb gq glcddgagclr ylb rfyr'q ufw rfgq rcvr gq qm jmle. sqgle qrpgle.kyicrpylq() gq pcamkkclbcb. lmu ynnjw ml rfc spj."
+p8
+I9906
+sVfrom aff.views import wait_and_redirect
+p9
+I11730
+sVbot.jid
+p10
+I4400
+sVfrom phplist.forms import *
+p11
+I8200
+sVurllib.unquote("%252B")
+p12
+I3353
+sVos.path.basename
+p13
+I2710
+sVf._get_changed_data()
+p14
+I7362
+sVu2.has_perm(p)
+p15
+I7116
+sVv.virtual_instance
+p16
+I8936
+sVd = _DummyImageModel()
+p17
+I4913
+sVimport nltk
+p18
+I2036
+sVpepe.func_defaults
+p19
+I3926
+sVmax = 3229
+p20
+I6529
+sVsp = SpecialOffers(cid=2)
+p21
+I8771
+sVr.match("/search/?query=sofa")
+p22
+I1588
+sVa[9:]
+p23
+I9929
+sVr.match("/pepep.jpg").group()
+p24
+I2769
+sVfrom pyamazon import amazon
+p25
+I6100
+sVtoken = urllib.unquote(u.extra_data.split('=')[-1])
+p26
+I19781
+sVu =
+p27
+I21001
+sVe.save()
+p28
+I9553
+sV[ item['path'] for item in h.values() ]
+p29
+I10516
+sVILLEGAL_RE = re.compile('^Illegal move')
+p30
+I15959
+sVf = open('/home/omab/out.diff', 'w')
+p31
+I19562
+sVQuestion.objects.filter(grou=1)
+p32
+I19799
+sVtpl.nodelist[0].nodelist[0].nodelist[0].text
+p33
+I11357
+sV]#%{_[){!)}_#]}!#%{#][_+]}^$}))#{@{+#(!_]$[!!&{{&+}!!)@)&)}]^^@^((]&^!+!]$}${#$*
+p34
+I13516
+sVimport re
+p35
+I1193
+sVx.ur
+p36
+I11933
+sVx = l[-2]
+p37
+I16102
+sVmin(1, 2)
+p38
+I4455
+sVScoredItem.objects.create(content_type=ct, object_id="3929", user_id="813", uuid="vQRo3cCoZM4AAAczEhkAAAAA", score="1", rate_type="rating")
+p39
+I7379
+sVs.result.search_params.search_args
+p40
+I10656
+sVa = "dkajsdklja"
+p41
+I3498
+sVm = '10'
+p42
+I17937
+sV)#$_#{&)!$@]@@[#(!]^&^+!_+@^!&[*!)(*)*&[{_@%$!__!%%[#$(%#(]$$![[@!^#%(_)#!{%]]*[
+p43
+I13978
+sVimport mmap
+p44
+I15437
+sV(1223.0/300.0) / 300.0
+p45
+I10751
+sVimport urllib2
+p46
+I1051
+sVdict("hola")
+p47
+I2875
+sVPerson.objects.lang('es').all()
+p48
+I5843
+sVprint f.fields['tags']
+p49
+I34
+sVval = "/the-magazine/style/articles/Andrée-Putman"
+p50
+I10406
+sVg.subgroups._model
+p51
+I20505
+sVlist(iter(p.metas))
+p52
+I1888
+sVB
+I3096
+sVw._meta.get_field("logo")
+p53
+I4434
+sVu = UserSocialAuth.objects.all()[0]
+p54
+I19695
+sVi.current_language
+p55
+I17874
+sVACTIVATE_SH = ACTIVATE_SH.replace('PS1="(`basename \u005c\u005c'$VIRTUAL_ENV\u005c\u005c"`)$PS1', 'PS1="${COLOR_RED_BOLD}(`basename \u005c\u005c'$VIRTUAL_ENV\u005c\u005c"`)${COLOR_NONE} $PS1')
+p56
+I19616
+sVdr.text((100, 100), "Hello", fill="#ddd"), font=ttf)
+p57
+I1406
+sVa = set(xrange(10))
+p58
+I12484
+sVemail = "Jag@homecollins.fslife.co.uk"
+p59
+I1187
+sVval.valoracion_scaled
+p60
+I11217
+sVapi.mentions.pagination_mode
+p61
+I16410
+sVimport crypt
+p62
+I930
+sVa[a.find('My move is'):]
+p63
+I15876
+sVi = Image.open('/home/omab/misc/img/msn/hippy.jpg')
+p64
+I8294
+sVc = RoomCompetition.objects.active_competitions().exclude(slug='')
+p65
+I19978
+sVfrom cms.views import names_form
+p66
+I8914
+sV[+!%^#%)!#_}]#]]_)]^**_^)^%&$$)%!*!+@#*[^&@^}^[{(@{%(![]#{&%[$]))(}[)^(({_&*#}*}
+p67
+I13917
+sVplocale.setlocale.__doc__
+p68
+I5740
+sVs.truncate(0)
+p69
+I16011
+sVrc.query
+p70
+I7701
+sVimport utf8
+p71
+I2674
+sVstr(settings.FACEBOOK_SECRET_KEY)
+p72
+I10578
+sVprint F()
+p73
+I3720
+sVpickle.loads(r.get('1000'))
+p74
+I18266
+sVmove(p, 'd4')
+p75
+I15831
+sVi.image.readinto(s)
+p76
+I17243
+sVa = { {'1': 2}: "hola" }
+p77
+I11502
+sVguspCFm4ytsL6sNB8IFtu7UjFWlUnO00s7nhDWqssdth0Lu567OHx/H9w+TkjYWKd8ItyvlTAo+S
+p78
+I19609
+sVd = d+".0000"
+p79
+I1080
+sVlists(range(10), 19, 1)
+p80
+I3043
+sVdatetime.datetime.timetz
+p81
+I9564
+sVu.user_permissions.filter(content_type=ContentType.objects.get_for_model(CmsPage))
+p82
+I5997
+sVb = { 3: 4, 1: 10 }
+p83
+I3529
+sVfrom datetime import date
+p84
+I453
+sVfor i in input:\u000a    mk = list(set(r.keys()) - set(i.keys()))\u000a    r.update(dict((k, ([None]*(len(r[k]) if k in mk else 0) + r[k] + [v]) for k, v in i.iteritems()))\u000a    r.update(dict((k, r[k] + [None]) for k in mk))
+p85
+I7633
+sVcv.cvCreateImage
+p86
+I10824
+sV)(_)[&{!]%*{^{{]$_&]^![{_##($%)%}#})(]$&^^}&!#@@#]*^^$[)@}!!)@)_*$$[{@%)_^!}_^]]
+p87
+I13738
+sVu = urllib.urlopen(x)
+p88
+I17977
+sVtime.mktime?
+p89
+I17493
+sVtes.t
+p90
+I6536
+sV[{10}] * 10
+p91
+I2441
+sVlist_detail.__doc__
+p92
+I2873
+sVa.split(None, 3)
+p93
+I11584
+sVadd_query_param('http://gooogle.com/', { 'channel': '3123829'})
+p94
+I14285
+sVsi.base_fields.values()
+p95
+I3424
+sV^_+#+$({}@%{^%*#()(^@%$^%%]#}&^)_{%(!$)]{@(#)*@}$&(){*%+](_+}#)(_!@*$@$]$)@%{*%$
+p96
+I13060
+sVd.split(3)[1:]
+p97
+I16663
+sVp = porter.PorterStemmer()
+p98
+I5953
+sVnltk.tokenize.RegexpTokenizer.__doc__
+p99
+I6441
+sV[)@#!}%!+$&@]@_&+*$[$_(&(}@)()_^([%!^^*_+*}^)
+p100
+I13181
+sV$!^#){]%}*_%&@$$[*[&{*@[^}+&)_{+])}][]))%%([[[}[_%}!}[^(}^{{%![@+]][*+{^[}+++![(
+p101
+I13089
+sVresult.get?
+p102
+I20361
+sVmd5.new('hola mundo cruel y malvado')
+p103
+I9547
+s.

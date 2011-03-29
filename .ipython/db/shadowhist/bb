@@ -1,0 +1,239 @@
+(dp1
+VPage._meta.get_latest_by.__doc__
+p2
+I5143
+sVf.contribute_to_class(v, 'vfield')
+p3
+I8572
+sVfrom room_competition.models improt *
+p4
+I19092
+sVfrom pychess import Players
+p5
+I15580
+sVfrom itertools import permutations
+p6
+I15528
+sVs.result.paid_search
+p7
+I10651
+sVraise Exception, "hpla"
+p8
+I2298
+sVprod
+p9
+I7453
+sVprint urllib.quote.__doc__
+p10
+I3344
+sVr.GET = QueryDict('query=Living+room&prefdb=buythelook&debug=1')
+p11
+I10691
+sVa, b = splitquery("http://search.yahoo.com/search?p=hola+mundo&fr=yfp-t-501&toggle=1&cop=mss&ei=UTF-8")
+p12
+I5899
+sVprint y
+p13
+I21383
+sV<script language="javascript">
+p14
+I9625
+sVany(pepe(i) for i in range(13))
+p15
+I3285
+sV'location' in r.headers
+p16
+I7883
+sVp.base
+p17
+I9708
+sVMYDECONET_BASKET = MYDECONET_AFF_SERVICE + '&'.join('%s=%s' % (k, v) for k, v in MYDECONET_AFF_PARAMS['basket'].iteritems())
+p18
+I14253
+sVcm.move('e3')
+p19
+I15893
+sVprint unicode(y).encode('utf-8')
+p20
+I21389
+sVlist(w)
+p21
+I5692
+sVa.__doc__.split('\u005cn', 1)
+p22
+I17146
+sVp = Product.objects.filter(pk__in=["a6060d24a1a7f59cf5d2b52cc931a7023639ef3b"], discounted=True)
+p23
+I8871
+sVforms.RadioSelect
+p24
+I8174
+sVreduce(lambda x, y: x+y, a, [])
+p25
+I21113
+sVids_qs = [ p.id for p in pages ]
+p26
+I1023
+sVsorted(a.iteritems(), key=lambda k, v: v)
+p27
+I14167
+sVpages.__package__.__new__
+p28
+I17522
+sVfrom common import test_helpers
+p29
+I19650
+sVclient = pymsn.Client(server)
+p30
+I9329
+sVm = r.search(s)
+p31
+I4479
+sVget_advanced_stats
+p32
+I19020
+sVa = '0'
+p33
+I12702
+sVfrom django.utils.safestrings import mark_safe
+p34
+I8202
+sVint(time.mktime(time.localtime()))
+p35
+I7556
+sVtime_format(datetime.datetime.fromtimestamp(134964), "G:i")
+p36
+I3236
+sVcms_type_contenttype()
+p37
+I1950
+sVa[:-1]
+p38
+I359
+sVt = Template('{% url highend_blog_user "kartell" %}')
+p39
+I18314
+sVa.sort(key='name')
+p40
+I14657
+sVct.tokenize_html(text)[0]
+p41
+I6372
+sVpprint(1, 2)
+p42
+I12
+sVforms.CharField.__bases__[0]
+p43
+I14467
+sVp.hola("1", c=3)
+p44
+I1367
+sVi.category
+p45
+I3977
+sVa[:a.find("mundo")+len("mundo")]
+p46
+I1578
+sVfrom cms.views import names_forms
+p47
+I8913
+sVStringIO?
+p48
+I17313
+sVa.add_view()
+p49
+I7126
+sVch.paren
+p50
+I4594
+sVnext = actual + 1
+p51
+I3032
+sV{}*_#+*%(}*(%$^^&$[_)[*)%)_(^&&!&&%$(([**+)_)$[!]%{$[({[$$!}_(]^_%{^[%$*@^_!!&))
+p52
+I13542
+sVu = join_stats(u)
+p53
+I7405
+sVB.objects.all().order_by('-dref__id')
+p54
+I19423
+sV#@%{&_@})$}*&!$}@^&[}%*!$(]![&@+[!()}}^}*$](+*++}*)(#[#$+}@#%&(+($*}$]%]$$]$*%%%
+p55
+I13817
+sVvalues =  CmsTextContent.objects.filter(id__in=content_ids).values('id', 'text')
+p56
+I8852
+sVContentType.objects.all()[:None]
+p57
+I362
+sVCmsPage.Meta
+p58
+I18305
+sViter(a) + iter(b)
+p59
+I5294
+sV*@^{*@^[&}])(!%&(_%*&}{*$}^@#]*^%&^$__$)(![@$)@]+*!+__{#*_^}%@)_$]]#@{$__%*#!_*+
+p60
+I13550
+sVq = Queue()
+p61
+I16166
+sVp = CmsPage.objects.filter(state='live')[0]
+p62
+I8451
+sVWebsite._meta.get_field('manufacturers').throght
+p63
+I10078
+sVr.get('test-key-1000')
+p64
+I18255
+sVarr(9, 5) / 2 / 2
+p65
+I5659
+sVmodels.BooleanField().to_python('True')
+p66
+I17215
+sVtojson.func_name
+p67
+I10319
+sVf = ev_form(ev, { 'EMVADMIN1_FIELD': 'violet' })
+p68
+I8187
+sVx = SocialAuthTestsCase()
+p69
+I21073
+sVviews.FS4_VIEWS
+p70
+I12388
+sVfrom django.conf.settings import URLRewriteNode
+p71
+I8281
+sVARTICLE_TRACKER_TT  = re.compile('article_tracked_url(\u005cs+["\u005c'][^\u005cd]+["\u005c'])')
+p72
+I14846
+sVnltk.tokenize.WordPunctTokenizer.batch_tokenize()
+p73
+I6472
+sVq = Post.objects.filter(date__month=7)
+p74
+I15695
+sVp = re.compile(r'[^{]*%\u005cs*article_tracked_url')
+p75
+I15036
+sVPIL()
+p76
+I8287
+sVf = IncorrectPriceForm(data={'product': 'GB69BB54REXC2P4NLCAMAZCHL65O6VWWQTGBU5PS'})
+p77
+I20856
+sVforms.fields.ImageField.widget
+p78
+I14482
+sVl = LogEntry.objects.change_entries()[0]
+p79
+I2978
+sVq.unfinished_tasks
+p80
+I16194
+s.

@@ -1,0 +1,281 @@
+(dp1
+VAttributeError?
+p2
+I18629
+sVweb = QWebView()
+p3
+I18009
+sVhxs.select('//div[@id="Contenido"]//h1/b/text()').extract()
+p4
+I16743
+sVfrom pp.models import *
+p5
+I19527
+sVlen(str("CategoryBrowse:candles &amp; candle holders"))
+p6
+I14612
+sVc.totals
+p7
+I2141
+sVp.tpl.values
+p8
+I17789
+sVfrom django.db import connection, transaction, IntegrityError
+p9
+I7918
+sVu.has_perms([g.permissions.all()[0]].name)
+p10
+I6584
+sVs.freeze_notify()
+p11
+I7313
+sVlist(g.traversal('37328', 'post'))
+p12
+I6944
+sVfrom djanog.contrib.admin import site
+p13
+I17819
+sVf.username
+p14
+I3900
+sVp.translations.add(PersonTrans(address='hello world', _language='en'))
+p15
+I5884
+sVDatedItem.objects.all().set_language('es')[0].title_master
+p16
+I11143
+sVRealm.objects.values_list('id', 'description')
+p17
+I12624
+sV$]_!&++!)*+%*)@#}!)@)_*]&{)[**)*[@[%{(%#)%$!*}&%[^]*_+{(!+&%(_]{#(!#)#!]]}*^+[}+
+p18
+I13152
+sV@@^})&)$@[@*&#$&+*!)]*+%#]$%$(}&!#}*[))(]@#+_
+p19
+I13793
+sVu.obnob_groups.get(pk=1)
+p20
+I21002
+sVdict((id, list(items)) for id, items in groupby(o, lambda q: q.question_id))
+p21
+I19042
+sVset.forms
+p22
+I14421
+sVh = Hola()
+p23
+I8154
+sVs.result.results['products']
+p24
+I10662
+sVg.add_edge('c', 'z')
+p25
+I6901
+sVimg.filename
+p26
+I12576
+sVrender_to('base.html')(lambda r: {'x': 1})
+p27
+I18333
+sVk = a.keys()
+p28
+I1993
+sVt2.GetReplies()
+p29
+I16380
+sVLtIUYi5St1/NMi7LKdZpDhdLuwZ6FwkTmhsTUMaMR2SNdc7XLaoXFrahqQdTqtUs6Myu4YoUu6vb
+p30
+I19608
+sV100 / 1223.0 / 300.0
+p31
+I10754
+sVbot = jabberbot.JabberBot(username, password, res)
+p32
+I4375
+sVs = "<a href="/search/?q=1">link1</a> <a href="/search/">link2</a> <a href="http://mydeco.com/search/?q=1">link2</a> <a href="http://mydeco.com/search/">link2</a> <a href="http://google.com/">link3</a>"
+p33
+I1248
+sVEmailVisionIntegration.objects.all()
+p34
+I19965
+sVc.sql_insert_or_update("pepe", { "row1": "value1", "row2": "value2", "row3": "value3", "pk": 32 }, pk_field="pk")
+p35
+I3566
+sVfrom django.db.models import RelatedField
+p36
+I7939
+sVa not in (None, 0)
+p37
+I2528
+sVpepe.func_code.co_filename
+p38
+I9820
+sVsearch_links = reload(search_links)
+p39
+I1543
+sVa = u'\u005cxe9'
+p40
+I18572
+sVload.pages.__path__
+p41
+I17032
+sVurllib.urlopen('http://www.google.com/', data=urllib.urlencode({'q': 'blue'}))
+p42
+I17984
+sVtempfile.tempdir()
+p43
+I12330
+sVr = ArticleSearch(filters=[('http_path', '/the-magazine/news/18727425/')])
+p44
+I9504
+sVboard.insert(0, '1 2 3 4 5 6 7 8')
+p45
+I15946
+sVquery =
+p46
+I7933
+sVtxt.save()
+p47
+I8615
+sVurllib.urlencode({ 'a': [1, 2] }, doseq=True)
+p48
+I12811
+sVstr(urandom(10))
+p49
+I19362
+sVs = Senator.objects.get(pk=2)
+p50
+I1115
+sVd.draw
+p51
+I8070
+sVfrom collection import defaultdict
+p52
+I12215
+sVc.sql_insert_or_update("pepe", { "row1": "value1", "row2": "value", "row3": "value3", "id": 32 })
+p53
+I3564
+sVsimplejson.decode(values)
+p54
+I3213
+sVCmsFragmentMapping.objects.filter(fragment_id__in=[ 41, 42, 44 ])
+p55
+I740
+sVcomb(1, 5) * comb(2, 5) * comb(4, 5) / comb(7, 15)
+p56
+I5561
+sVDES3.new("passjfsdkfjskdfjksjdfkjsd")
+p57
+I945
+sVch = CategoriesHierarchy([1045, 1012])
+p58
+I10483
+sVos.path.join('/a/b/c', '../d')
+p59
+I18864
+sVa.__getitem__('holas', 1)
+p60
+I6782
+sVo._meta.many_to_many[0].rel.to
+p61
+I18739
+sV${!_{]{)$)#{*@+@@{$_]]+&+)^+!()[_*]{^^]*([(@!{&{}@()%_{+_[+&&@}{}(}$*%@$_^){*![{
+p62
+I13690
+sVp = paginator.page('1')
+p63
+I12808
+sVfd.options.list_item_template.template_path
+p64
+I640
+sVr = c.get('/login/twitter/')
+p65
+I20650
+sVos.path.dirname(os.path.abspath("/home/omab/Desktop/a"))
+p66
+I3429
+sV+][}!&^*}_@!*}*#()$^&*%%#{_*@_+[({!_%_]!^#@(&@$&]]%%+)!]_{&[}^^)!#]_{$^({(^**_[$
+p67
+I13398
+sVFuse.usage
+p68
+I7499
+sV{@^+!([!)_!+@+}_+^!%_([(+)($@&@##($_&!@##$%+$@#[_[$!^&*])!&(_]*]}&)[(((]}%[@&[^@
+p69
+I14021
+sVx.parent.parent.belongtos
+p70
+I19863
+sVapnumber("23")
+p71
+I6260
+sV!{!_*#*[*^(*%_@&_^]^^#!((!*#{#]#(%!{)]#++@@_&}&@+_}+&!#$${^^_(^%_+&)!@*[(])])&+_
+p72
+I13065
+sVa |= 2
+p73
+I2495
+sV[ m.groups() for m in r.finditer('"hola mundo"    esto no va     \u005c'hola2 mundo2\u005c'')]
+p74
+I14943
+sVRoomCompetitionEntry.objects.order_by('-competition', '-vote_count')
+p75
+I11410
+sVp.trans_id
+p76
+I5871
+sV]+*_^$@&!)+!{+{}&_&))@&{{++{{}@#[*)%%$]{%#!+#%@@_*}!!)&%!{{($$&%[*{[!^**&[_[_+}^
+p77
+I13392
+sVwhere s.user_id = %s
+p78
+I11826
+sVlist(enumerate(["a", "b", "c"]))
+p79
+I4291
+sVdef pepe(i):\u000a    print "i:", i\u000a    return i == 13
+p80
+I3284
+sVfrom redis import Redis
+p81
+I18247
+sVfull_url(urlresolvers.reverse('highend_action', args=('dajdkasj',)))
+p82
+I14304
+sVf.fragment
+p83
+I4178
+sVr.result.items[1].type
+p84
+I9298
+sVb.get_properties?
+p85
+I18064
+sVr.subn.__doc__
+p86
+I6221
+sVCmsPage.objects.values_list?
+p87
+I9478
+sVs.connect.__doc__
+p88
+I7288
+sVu"asd\u005cxe9asdfj".decode('UTF8")
+p89
+I18573
+sVstr(f)
+p90
+I8261
+sVvalues = [
+p91
+I2602
+sVx = AuthenticationForm(data={})
+p92
+I18963
+sVa = ChildA()
+p93
+I19959
+sVImage.warnings
+p94
+I12491
+s.

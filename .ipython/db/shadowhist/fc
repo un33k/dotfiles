@@ -1,0 +1,280 @@
+(dp1
+V^+][](^[]^^($_#[+})__}@{{%_%*&_[)!}+[!@&*}}$#%**#}%})_^$^}}&+*}({(]_!*)#[%(!+_%*
+p2
+I13935
+sVf = list(f)[0]
+p3
+I1768
+sVxxx()
+p4
+I19963
+sVProduct.objects.get("7494ae7730e1ddde415ab198db8c74287e59b248")
+p5
+I8861
+sVFForm._meta.exclude = ("description", "page")
+p6
+I3709
+sVa.join()
+p7
+I9947
+sVPhotoTag.filter(PhotoTag.tag_id=t)
+p8
+I15258
+sVrandom.randrange(len(range(10))\u000a)
+p9
+I5110
+sVdef p():\u000a    print "hola"\u000a    return "hola"
+p10
+I2647
+sVdb = conn.mydeco.product.translated
+p11
+I19928
+sVc.obj.get_image_url()
+p12
+I1315
+sVp.communicate('a4\u005cn
+p13
+I15817
+sVp.rel.to
+p14
+I8980
+sVxml.dom?
+p15
+I20692
+sVreverse('alert_list', username=u.username)
+p16
+I12372
+sVimport django.views.generic.redirect_to
+p17
+I16848
+sVd.strftime('%Y-%M-%d %H')
+p18
+I20090
+sVa._get_url
+p19
+I5451
+sVu.provider
+p20
+I19428
+sVupdate cms_fragment_template set content_names = "subcatName/text,subcatUrl/text,subcatLinkText/text,articleImage/image,articleImageCaption/text,articleDescription/largetext" where id = 33;
+p21
+I6628
+sVparams = { 'title': s.encode('utf-8') }
+p22
+I11712
+sVc.execute("""\u000aselect (select concat(id, "/", max(last_updated)) from room where user_id = s.id group by user_id) room,\u000a       (select concat(id, "/", max(date_published)) from blog_article where user_id = s.id group by user_id) blog,\u000a       (select concat(id, "/", max(created)) from question where user_id = s.id group by user_id) question,\u000a       (select concat(id, "/", max(created)) from answer where user_id = s.id group by user_id) answer,\u000a       (select concat(id, "/", max(date)) from product_shortlist where user_id = s.id group by user_id) product\u000afrom systemuser s\u000awhere s.id = 813\u000alimit 1""")
+p23
+I11810
+sVsplited
+p24
+I10013
+sVitem['brief']
+p25
+I16726
+sVroom.user.get_avatar_thumbnail_url()
+p26
+I9288
+sVPhoto.filter(base_uri='file:///home/omab/Photos/2010/06/07', filename='made_in_china.jpg').get()
+p27
+I15333
+sVipdb.set_trace()
+p28
+I19211
+sVf = FForm(("description", "page"))
+p29
+I3714
+sVcount(text)
+p30
+I5220
+sVos.tmpnam
+p31
+I1903
+sVminifb.call?
+p32
+I10579
+sVdatetime.date?
+p33
+I15716
+sVChildA(name='xxx', surname='yyy')
+p34
+I19529
+sVet.getchildren('name')
+p35
+I17288
+sVl.tokenize()[3]
+p36
+I10059
+sVr.findall('mydeco.com/search/')
+p37
+I6249
+sVfunc(1, 2, True, 1, 2, 3, p=1)
+p38
+I18172
+sVa.add(1)
+p39
+I662
+sVd['main']
+p40
+I12746
+sVa[::]
+p41
+I2678
+sVper_date
+p42
+I19006
+sVreverse('associate_complete', args=('yahoo',))
+p43
+I18661
+sVclass FForm(forms.ModelForm):\u000a    def __init__(self, exclude, *args, **kwargs):\u000a        super(FForm, self).__init__(*args, **kwargs)\u000a        for f in self.base_fields.keys():
+p44
+I3715
+sVa.translate(t)
+p45
+I20239
+sVSystemUser._meta.module_name
+p46
+I17348
+sVf.get_cache_name()
+p47
+I4575
+sVroom.type
+p48
+I11761
+sVarr(8, 2) * arr(8, 3)
+p49
+I5638
+sVs.query(PhotoTag).filter_by(tag_id=t.id).filter_by(~PhotoTag.tag_id.in_([x.id for x in t.subtags]))
+p50
+I14763
+sVc = get_shopping_context(path="129")
+p51
+I5432
+sVt.num_of_rates
+p52
+I7694
+sVu.has_perms
+p53
+I5961
+sVAttributeError
+p54
+I11256
+sVa.__iter__ ?
+p55
+I11571
+sVs.get_result()
+p56
+I14317
+sV])
+p57
+I14761
+sVbot.send("german@insophia.com", "te llegan?")
+p58
+I4399
+sVh = tweepy.OAuthHandler('yK9iKbmVoJ7k0tqqMbCrww', '3aQl9WsBxyLbfTPBYPYraSwPmPsUHLH4frTCZ39WcM')
+p59
+I16399
+sVtt = tokens[5]
+p60
+I10017
+sVdatetime.datetime.timetz(1)
+p61
+I9565
+sVf = CmsFragmentTemplateForm()
+p62
+I7355
+sVpepe.func_code.co_argcount
+p63
+I3930
+sVfd.prev
+p64
+I844
+sVfrom microsite import urls
+p65
+I8250
+sVt.utcoffset('GMT-0400')
+p66
+I17743
+sV*]([*$@+!_#&@#)}&!(%)}{(+!)]{_^#{+%}{[!^(+@!++$)}{[_@[)$]_)%#*+{)})($**{{]&^*_^%
+p67
+I13180
+sV__import__('types')
+p68
+I14443
+sV}
+I9642
+sVprint urllib.splitquery.__doc__
+p69
+I1242
+sVr.status_code, 'class="project-list-item"' in r.content
+p70
+I19670
+sVv.add_entry('9')
+p71
+I19150
+sVd['s1']['header']['values']
+p72
+I8957
+sVPH.hola(1)
+p73
+I20185
+sVx.url
+p74
+I11934
+sV[ a[i*6:i*6+6] for i in range(len(a)/6+int(bool(len(a)%6))) ]
+p75
+I490
+sVapi.send_direct_message('linuxaddict', 'api test')
+p76
+I16464
+sVs[1]
+p77
+I2620
+sVdata.__class__
+p78
+I11646
+sVstring.uppercase('aaaa bbbb cccc')
+p79
+I282
+sV, with_indices=True)
+p80
+I6469
+sVr = defaultdict(list)
+p81
+I7613
+sV({}[*$@]#*[#&%#!^){@__[]#]@}^$*]$%%(^@^]+!}$#$#@$[@}{#+!)!#%%!#[(^*(*_+*{#%#)%(*
+p82
+I13722
+sVCONFIG
+p83
+I12833
+sVshopping_link_re.match('href="http://mydeco.com/c/browse/furniture/"')
+p84
+I8547
+sVndarray?
+p85
+I12480
+sVcgi.parse_qs("a=b&b=c&1=2&1=3&amp;5")
+p86
+I2596
+sVtype(b.__class__)
+p87
+I3098
+sV[ a[x] for x in sorted(a)]
+p88
+I12824
+sVclient.token
+p89
+I16432
+sVlists(range(10)[1:-1], 19, 1)
+p90
+I3044
+sV]+(_@_{#]^^!&}%^(*^*[)#]({+@+@}#(*##{)&[#}]{!#!@+++^_](%+(()_^]*}!}!$(+}&{*_!@#]
+p91
+I13712
+sVa = {datetime.now().date() + timedelta(1): 10}
+p92
+I18854
+sVModelForm
+p93
+I17882
+s.

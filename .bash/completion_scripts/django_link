@@ -1,0 +1,19 @@
+# vim:filetype=sh
+
+DJANGO_REPOS="/home/omab/tmp/django_repos/"
+DJANGO_SED_EXPR='s!/home/omab/tmp/django_repos//!!'
+LINK_PATH="$DJANGO_REPOS/django"
+
+complete_django_repo() {
+    files=$(ls -1 -d --color=none $DJANGO_REPOS/django-* | sed 's/django-//' | sed $DJANGO_SED_EXPR)
+    cur="$2"
+    COMPREPLY=(${COMPREPLY[@]:-} $(compgen -W "$files" $cur))
+}
+
+switch_django() {
+    rm -f $LINK_PATH
+    val=$(echo $1 | sed 's!$DJANGO_REPOS/!!')
+    ln -s "django-$val" $LINK_PATH
+}
+
+complete -o bashdefault -o default -F complete_django_repo switch_django 2>/dev/null

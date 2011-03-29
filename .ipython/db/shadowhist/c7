@@ -1,0 +1,218 @@
+(dp1
+Vs.do_popup_menu()
+p2
+I7309
+sVs['public'] = True
+p3
+I17971
+sVgetattr(p, 'name', None)
+p4
+I19507
+sVimport ipdb
+p5
+I10956
+sVobjects = ct.rateditem_set.all().order_by('-rate_average')[:5]
+p6
+I345
+sV_*+@[!(^)&++[+&_^%(_@]_@!^&{]+*+&@(&{@@&{##@)
+p7
+I13589
+sVecs.ItemLookup(ItemId=asin, ResponseGroup="Images")
+p8
+I6111
+sVc.process
+p9
+I15964
+sVu.social_auth.filter(provider='facebook')
+p10
+I20219
+sVa = u'hola muño'
+p11
+I7578
+sVbase64.encode(u"solo un pedo azúl\u005cn")
+p12
+I14487
+sVfrom cms.utils import dotted_dict_to_choices
+p13
+I17775
+sVp.website.supplier_type
+p14
+I2475
+sVurlparse.urlparse('/microsite/bestonlinesofas.com/th-magazine/pepe/le/pu')
+p15
+I8785
+sVfrom django.conf.urls.defaults import *
+p16
+I4721
+sVhelp(urllib.urlretrieve)
+p17
+I7334
+sVr.findall('http://mydeco.com/search/')
+p18
+I6246
+sVFalse or 'a' or 'b'
+p19
+I8167
+sV$(&#[{@*#{]_@!(}#${)(!#@+#{^@_^${[+]*(![$(_{$%+(!+(!}[&)((((*^)^@%+![!_{][#%++*_
+p20
+I13081
+sVfrom playqueue import *
+p21
+I16203
+sVmd5_constructor(os.urandom(10))
+p22
+I19358
+sVurllib.urlencode("djaskdj akdjas")
+p23
+I3971
+sVerrno.EINVAL
+p24
+I10359
+sVu = User.objects.all()[1]
+p25
+I19935
+sVPerson.objects.all().lang('es').filter(address__startswith="hola")
+p26
+I5868
+sVlong(long(True) / 10)
+p27
+I4308
+sVarr(1, 1)
+p28
+I5645
+sVp.standard_option_list()
+p29
+I12448
+sVimport web.services.urls
+p30
+I2949
+sV&&*&(){[+#%($]^&[($(@$^*[^%](*#[$_*{&{!_#*}$&]&}^}_[}{@*(!@**^!()]#%$[^}&]%}}^%}
+p31
+I13104
+sVm = re.compile('qa|dev').search('site-5644.maguirre.users.dev.mydeco.com')
+p32
+I14589
+sVc = p.full_page_comments()
+p33
+I770
+sV)**$}#})*@$@*$^(]+)#^$]!^&]$#!#$+](!%(*^$@*!_]@_@){+(%*^^&*@]%+_([^^%}&%!#@_({+[
+p34
+I13869
+sVfrom model_i18n import *
+p35
+I10967
+sV^*{##%*!!&]{_[$#_]!&{(!@*(+%*[%_($]*#)($)%][^]#+}[+_{})@)}*&(]{(&(}%%@(++$}@(#[_
+p36
+I13981
+sVqs.query.get_meta().get_base_chain(ParentItem)
+p37
+I12048
+sVHREF_RE.findall("djaskdja")
+p38
+I9890
+sVemailAddress.focus();
+p39
+I9645
+sVg.shortest_path('a')
+p40
+I6911
+sVa.update(None)
+p41
+I19689
+sV^{+))%$_%]$&{#+(+!+_&!{^(@]}(@)^$$@@+_$#@^_){%)#*]+][$&(&&&*$_*{*$#(*^&*(_%%^*++
+p42
+I13080
+sVdate(2010, 5, 10)
+p43
+I16675
+sVfrom urls import  MICROSITE_PREFIX
+p44
+I9023
+sVu.obnob_groups.add
+p45
+I20152
+sV@$*]^]!^}[)#%!]+$@%[^**{*+!*@{}$!]%[(*(]+)+!)}[^{+&{[{%{+$))(]^%(@%]}&_(%@$)_$+)
+p46
+I13114
+sV(^&!^*@){%)@@)+*]!@$!#](%&}$_+}+@)}}[+&_+#!*[$$+[(&{!^{)[@_%[])@+)@&&(!!#$&+_+)*
+p47
+I13222
+sVimport vim_debug
+p48
+I19520
+sVu.has_perms(['hola'])
+p49
+I5972
+sVtags
+p50
+I252
+sVsorted(a.items(), lambda a, b: cmp(len(a[1]), len(b[1])))
+p51
+I8377
+sVlong(a)
+p52
+I3237
+sVurlparse.urlunparse("")
+p53
+I5014
+sVinspect.stack
+p54
+I17170
+sVa[3:3+1]
+p55
+I21234
+sVs = a.find('[')
+p56
+I17482
+sVa.insert(0, "p")
+p57
+I2539
+sVcur.execute('select * from photo_tag where uri like "%img_3585.jpg"')
+p58
+I7523
+sVr.search(s)
+p59
+I4478
+sVtime.sleep(1)
+p60
+I9391
+sVd.utcnow()
+p61
+I7543
+sVgc.get_referrers(a)[0]
+p62
+I4165
+sVg.obnob_users.active().select_related('user').values_list('user', flat=True)[0]
+p63
+I20142
+sVversion_info
+p64
+I17666
+sVdata['key1'].append('item 2')
+p65
+I21054
+sVf = open("/home/omab/photos_dir")
+p66
+I4017
+sVr.result.query
+p67
+I7494
+sVfrom cms import dtypes
+p68
+I18096
+sVp nltk.tokenize.SpaceTokenizer.__doc__
+p69
+I6445
+sVtraceback.print_last()
+p70
+I1698
+sVd.keys()
+p71
+I4776
+sVdef save_text(page, name, group, value):
+p72
+I4849
+sVItem.objects.set_language('es')[0]
+p73
+I11092
+s.

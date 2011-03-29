@@ -1,0 +1,335 @@
+(dp1
+V#_%@([]^*][%!{@)#}[])($[]*()_*[@)^&!%+]%%]&{(^{{%[!!!!_#+!@$]&#(({!_*]]+{#**^*&)
+p2
+I13096
+sVu.has_perms([p.codename])
+p3
+I6588
+sV@}!^+[]&}{&{&%]*{_*#^++#+_&(%]+_&}}^^+@+]@])}[${%$*^@]{^^{+#(#*%*[&_*(+#(*[$[*]$
+p4
+I13665
+sVa.decode('utf-16')
+p5
+I10159
+sVr = _get_raters_data(datetime.date(2008, 10, 10), datetime.date.today())
+p6
+I7683
+sVs._deleted
+p7
+I15301
+sVp = Post(title="ayer", content="insert brain")
+p8
+I192
+sVa.append(2)
+p9
+I390
+sVos.path.splitext('a.jpg')[0]
+p10
+I292
+sVd.replace?
+p11
+I19266
+sVf.storage.path()
+p12
+I14236
+sVfrom fspotfs.fspotdb import *
+p13
+I14724
+sVhxs.select('//div[@id="Contenido"]/tabel[@class="Paginador"]//a/@href').extract()
+p14
+I16628
+sVTAG_REGEX = r'(<[a-zA-Z]+[^>]*>|</[a-zA-Z]>)'
+p15
+I9869
+sVqs.not_my_style
+p16
+I17442
+sVlist(s)
+p17
+I12782
+sVimport web
+p18
+I2948
+sVp._meta._fields
+p19
+I6796
+sV_+&}__!_#^&(%!&^%)(@)^!^)$([_[_{_$!){*[!*&#+((%(@#)!%!_[!#[_]%[#]}}%[$)+#@%%*[%+
+p20
+I13507
+sVfrom django.http import HttpResponseBadRequest
+p21
+I15432
+sVp = Pepe
+p22
+I3480
+sVurlparse.urlparse('http://digg.com', 'https')
+p23
+I8820
+sVC.objects.filter(bref__dref__pk=1).select_related().values('aref')
+p24
+I19422
+sVa[m.start()-10:m.end()]
+p25
+I6208
+sVs.stdin.write('a4\u005cn')
+p26
+I16024
+sV'CUERPO' in bool
+p27
+I16883
+sVsetattr(None, 'pepe', lambda slf: 1)
+p28
+I6292
+sVph.section1
+p29
+I5056
+sV''.join(l)
+p30
+I12871
+sVm = md5.md5('navigation_bar_v2.shopping.main.en-us')
+p31
+I17428
+sVa = {'facet': [u'finish,chromed']}
+p32
+I9217
+sVurllib2.urlopen("http://googleabc.com/").read()
+p33
+I2992
+sVa.changelist_view(None)
+p34
+I9422
+sVo.count
+p35
+I7744
+sVx.pepe()
+p36
+I11184
+sVMOVE_RE.match('a4')
+p37
+I16946
+sVnotices += [x.notice for x in ReceiverNotice.objects.notices_for(self.obj).select_related('notice').filter(notice__notice_type__in_chatterbox=True)]
+p38
+I21031
+sVreverse('admin_media', args=('img/admin/selector-search.gif',))
+p39
+I17188
+sVc = CmsImageContent()
+p40
+I17415
+sVc = CmsImageContent.objects.all()[0]
+p41
+I5404
+sVi.save()
+p42
+I213
+sVqs = Item._default_manager.get_query_set()
+p43
+I11089
+sVurlparse.urljoin('a', 'b')
+p44
+I8159
+sVurljoin('http://google.com', 'http://yahoo.com')
+p45
+I7962
+sVs.result.upperbound - s.result.estmatches
+p46
+I14357
+sVurlparse.urljoin('http://google.com/', '/a/e/i')
+p47
+I17812
+sVreverse("mydeco_tv", '')
+p48
+I3952
+sVr2[0]
+p49
+I7669
+sVp._meta._fi
+p50
+I6794
+sVSEOLandingLink.objects.filter(parent=None).order_by('term').values_list('slug')
+p51
+I18419
+sVp.stdin.write('d4\u005cn')
+p52
+I15825
+sVstr(os.urandom(10))
+p53
+I10303
+sVt.category_id
+p54
+I15188
+sVp.child
+p55
+I18760
+sVauthor
+p56
+I16686
+sVtry:\u000a    a = 1 / 1\u000aexcept Exception, e:\u000a    print e\u000aelse:\u000a    print "aca"
+p57
+I12436
+sVclient.profile.msn_object
+p58
+I9354
+sVcm = CmsContentMapping.objects.all()[100]
+p59
+I17454
+sVbisect.bisect?
+p60
+I17046
+sVr.ratings
+p61
+I11465
+sVurl, data, headers = 'https://accounts.google.com/o/oauth2/token', {'code': u'4/4ej98V161tLK3fTBYywz5vnX4jcs', 'client_secret': '7+NVcdJvVL5V8uctGFko1fjl', 'grant_type': 'authorization_code', 'client_id': '475232891386.apps.googleusercontent.com', 'redirect': 'http://myapp.com:8000/complete/google-oauth2/'}, {'Content-Type': 'application/x-www-form-urlencoded'}
+p62
+I21168
+sVu.has_perm([])
+p63
+I5970
+sVu = User.objects.get(username='kevin.tran@obnob.com')
+p64
+I21440
+sV#$^#$&$_(@(()$(@+*)^{(})[#%}%$(@@[*&!]_+&%%^###]%[+)$[_+$%$$_]#&#*#$+@#)%&^#_}_}
+p65
+I13617
+sVi = Item.objects.all().set_language('pt')[0]
+p66
+I11232
+sVs[10]
+p67
+I12789
+sVu.set_password?
+p68
+I12091
+sVclass Z(A, B):\u000a    def __init__(self, *args, **kwargs):\u000a        A.__init__(self, *args, **kwargs)
+p69
+I4369
+sVrooms = [ 'id,%s' % i for i in (414138, 414137, 414136) ]
+p70
+I9263
+sVless django
+p71
+I2525
+sVNotice.objects.in_chatterbox().filter(receivers=user)
+p72
+I21196
+sVprod.thumbnail_small_url
+p73
+I14324
+sVUserSocialAuth.objects.get(uid="100001787895262").user
+p74
+I20327
+sVOptional('')
+p75
+I7233
+sVgc = GNUChess()
+p76
+I16135
+sVadm.__class__.get_urls
+p77
+I17860
+sVr.thumbnail
+p78
+I11467
+sVp = ProductShortlist.objects.filter(user__name="matias")
+p79
+I7407
+sVr = c.get('/search/?query=black+table&prefdb=articles&sv=default')
+p80
+I19667
+sVs.groups
+p81
+I9080
+sVr.match('AAzBBB')
+p82
+I14117
+sVp.tags
+p83
+I44
+sVv._default_manager.model
+p84
+I8956
+sVupdate cms_fragment_template set content_names = "content/largetext,heading/text,image/image,linkUrl/text,title/t
+p85
+I6754
+sVp = urllib2.urlopen("http://google.com")
+p86
+I1056
+sVline = sys.stdin.readline().strip()
+p87
+I2042
+sVr.status_code
+p88
+I19653
+sVfrom django.core.files.images import ImageFile
+p89
+I14232
+sVimport landing_pages
+p90
+I12129
+sVr = get_raters_report(datetime.date(2008, 10, 10), datetime.date.today())
+p91
+I7697
+sVhxs.select('(//div[@id="Contextual"]//a/@href|//div[@id="navlinks2"]//a/@href)').extract()[0]
+p92
+I16706
+sVContinent().importdata()
+p93
+I800
+sVchr((46 + ord('a') - 2) % len(letters))
+p94
+I5210
+sV"pepe" if 0 else "pepito" if 0 else "pepipote"
+p95
+I1006
+sVimprot urlpa
+p96
+I9619
+sVfrom search.params import HighendSearchParams
+p97
+I9054
+sVmd5.new('hola').hexdigits
+p98
+I8399
+sVarr(8, 2)
+p99
+I5637
+sVx = list(range(1000000))
+p100
+I19060
+sVfrom cms.templatetags.cms import mkform
+p101
+I17062
+sVhxs.select('//p[@align="JUSTIFY"]//a[contains(@href, "#")]//text()').extract()
+p102
+I16806
+sV&$__@@)$!**_[*%!]#$%]@!@]()]%!!%_+%}[]$+%)^)#_[[}+)*{%(^%#}*%&[{{%%%[)%*%_(%%&)*
+p103
+I13450
+sVp.stdout
+p104
+I15781
+sVtr: Template('{{ cms_fragment.contents.backgroundImage.image.url|thumbnail:"567x187" }}')
+p105
+I10022
+sVx.seconds % 3600
+p106
+I19192
+sVfunc(1, 2, r=True)
+p107
+I18180
+sV(x for x in []).next()
+p108
+I16264
+sV@{&_@[#&^!#!%%@]^]]@{[[@](]][)+)^%![#%@%]%&@)[@@]^[!*]&!^+^!]{+&#%()+{@$)*{#([^(
+p109
+I13381
+sVr.match("bb")
+p110
+I4926
+sVCategory._meta.get_data_holders()[0].value
+p111
+I2337
+sVlu=PhpListListUser(userid=u.id,listid=9,entered=now,modified=now)
+p112
+I1183
+s.

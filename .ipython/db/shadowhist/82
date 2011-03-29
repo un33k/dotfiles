@@ -1,0 +1,203 @@
+(dp1
+Va = "kdjaskdjak"
+p2
+I552
+sVsearch = BigIndexer.search("maraca")
+p3
+I158
+sVg.obnob_users.officer().active()
+p4
+I20248
+sVb = a.encode('utf-8')
+p5
+I7586
+sV*}&{)_[*[_*%[$_(@]!@#}${^#+)^$]@^{#]^_%&@%(})@!{{!_%@#(@(_@{^#[!^**)!*&](![[![&_
+p6
+I13553
+sVr = cur.execute('select id, uri from photos where uri like "%img_3585.jpg"')
+p7
+I7522
+sVx.append((len(x) +1,) + a)
+p8
+I14585
+sV__import__('os')
+p9
+I12693
+sVr.sub('', 'columns(3),top_splash(3)')
+p10
+I12684
+sVhp.iso({})
+p11
+I9245
+sVv2 = list(Page.objects.all()[0].values.all())[-1]
+p12
+I8686
+sVi = Image.objects.get(pk=1)
+p13
+I806
+sVcsv.list_dialects()
+p14
+I10680
+sVraise Exception, "hola"
+p15
+I2299
+sVh = DotExpandedDict(x)
+p16
+I17771
+sVusers = g.obnob_users.filter(condition)
+p17
+I20494
+sVu = User.objects.all()[2]
+p18
+I19936
+sVapply(lambda i: i%2 == 0, a)
+p19
+I8370
+sVt = datetime.timedelta(19816)
+p20
+I17676
+sVcvShowImage("win", im)
+p21
+I10861
+sVhola_mundo = HM()
+p22
+I4601
+sVd + timedelta(1)
+p23
+I20056
+sVurllib.quote("http://www.argos.co.uk/static/Browse/ID69/10198115/c_1/1|category_root|Toys+and+games|10198115.htm?tag=PS6_1a", "+", "+")
+p24
+I3346
+sVprod.short_description
+p25
+I14337
+sVf2
+p26
+I4573
+sVp.parse('sum 1 2 3 as "total"')
+p27
+I7243
+sV[ p['http_path'] for p in CmsPage.objects.values('http_path').distinct() ]
+p28
+I7341
+sVq = PhotoTag.filter(tag = t)
+p29
+I15280
+sV}]{_}!%{^$))&_(+}+#&+*&+!{_*^)[}(((}_@(]^)_}!]}&}{&[((}@{+(([{])_}^(@^+^+^}(!)&]
+p30
+I13957
+sVtry:\u000a    raise Exception("dkaslkdla")\u000aexcept Exception, e:\u000a    print e.message
+p31
+I2686
+sVSystemUser.objects.filter(pk__in=user_ids)
+p32
+I7797
+sVsum.__doc__
+p33
+I8380
+sVc = RoomCompetition.objects.get(slug='marrakech-dreams')
+p34
+I19389
+sVp.stdout.readinto?
+p35
+I15834
+sV_tokenize = nltk.tokenize.WordTokenizer().tokenize
+p36
+I6507
+sVr.match("/a/b/c/d/3283913.jpg")
+p37
+I2763
+sVapi = tweepy.API(a)
+p38
+I16406
+sVos.execle('/usr/bin/mpc', 'pause', 'mpc')
+p39
+I311
+sVos.listdir("/dsp")
+p40
+I7026
+sVCategoryImage._meta.get_field("categorization2")
+p41
+I3556
+sVc.categoryfacet_set.model.classification
+p42
+I2389
+sVfunc(1, 2, r=True, *(1,))
+p43
+I18177
+sVclass Author(models.Model):
+p44
+I4456
+sVurllib2.unquote(urllib2.unquote("http://mydeco.com/search/?query=sofa&prefdb=product#curfacets%3Dfacet_cat129%26curfacets%3Dfacet_finish%26curfacets%3Dfacet_price%26curfacets%3Dfacet_supplier_id%26curfacets%3Dfacet_designer%26curfacets%3Dfacet_material%26curfacets%3Dfacet_image_colour%26curfacets%3Dfacet_distance%26query%3Dsofa%26prefdb%3Dproduct%26db%3Dproduct%26ranges_width%3D100%252C300"))
+p45
+I5473
+sVos.read(3)
+p46
+I16309
+sVfrom django.db.models.base import ModelBase
+p47
+I16957
+sVcf.facet.id
+p48
+I2400
+sVshove.Shove("bsddb:///home/omab/iriss_db/training_metadata.db", 9)
+p49
+I3137
+sV]*!*}}*_(+&%{&#$&+*_]#+#]!&*@}$%)!})@&)*}#(@}!^(]^@}]#&%)![^!$*)&_]^%{{}(!)_&{_{
+p50
+I12907
+sVpage = CmsPage.objects.select_related('template').\u005c
+p51
+I9532
+sVf = c._meta.get_field('text')
+p52
+I1333
+sVarr(9, 2)
+p53
+I5643
+sVimport aff.views
+p54
+I11727
+sVget_or_none([1, 2, 3])
+p55
+I18518
+sV)*!@&[+$}#!&@{&@+#[]*)}!_+}){{+)@!}!!#(#)_#!{][}@{^#}}_$]&*%*[^(@]]*@($]$$]$_+^[
+p56
+I13783
+sVurllib2.urlopen("http://localhost:8001/tipocms/sync/live-pages/list/")
+p57
+I1113
+sVord('e') % (len(string.letters)/2)
+p58
+I5183
+sVpd._view_state
+p59
+I2454
+sVp = Person.objects.select_related().all().lang('en')[0]
+p60
+I5880
+sVfor i in s.split():
+p61
+I1624
+sVitem.select('./img[contains(@src, "/img/default/images/stars")')
+p62
+I16641
+sVValue.objects.filter(name='article/date/text').values_list('page', 'value')
+p63
+I18121
+sVfrom django.template import builtins
+p64
+I10369
+sVarr
+p65
+I10838
+sVf._errors['query'].__str__()
+p66
+I12722
+sVresp, content = client.request(request_token_url, "GET")
+p67
+I16429
+sVstr(int(True))
+p68
+I5396
+s.

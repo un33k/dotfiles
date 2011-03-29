@@ -1,0 +1,269 @@
+(dp1
+Vq.qsize
+p2
+I16190
+sVgdata.__doc__
+p3
+I19698
+sVclass X(forms.Form):
+p4
+I20640
+sVfrom cms.forms import PluginForm
+p5
+I14422
+sVu.id
+p6
+I1186
+sVr.findall(v)[0]
+p7
+I16656
+sVet[2]['type']
+p8
+I17307
+sVfrom tt.models import *
+p9
+I18704
+sVMostPopularRoomsCoverFlow.title_template
+p10
+I3222
+sVDl1LulgScozeUX/TC6jpbbVZ/QwG7Kn/GAzHoyPkF09r6xo9HzUxuDzWveDyoG2UeNCv4PJko8rw
+p11
+I19605
+sVd.remainder_near?
+p12
+I10717
+sVr = RootCategoryBrowseCatInfo('room')
+p13
+I3870
+sVupdate cms_fragment_template set content_names = "module_image/image,
+p14
+I6758
+sVItem.objects.lang
+p15
+I10962
+sVp = pyexiv2.Image('/home/omab/misc/img/msn/hippy.jpg')
+p16
+I8322
+sVd.documentElement.childNodes
+p17
+I20697
+sVany(not a.get(i) for i in ('a', 'b', 'd', 'c'))
+p18
+I19540
+sVd.max()
+p19
+I10714
+sVp(**{ 1: 1, 2:2})
+p20
+I2328
+sVgzip?
+p21
+I17226
+sV[%{*]&{${#_)(+%^}$}$}#)^^#($##%@{&}@){+*!+!%^{}@]%!}#*_^#+_&&&##^^[{})*((*{!_+)]
+p22
+I13310
+sVfor i in range(2, 1000):
+p23
+I5627
+sVct = ContentType.objects.all()[-2]
+p24
+I325
+sVm.groupdict()
+p25
+I3455
+sVs = parse('', example)
+p26
+I16978
+sVdef dec(fn):
+p27
+I1450
+sVd.image
+p28
+I4914
+sVa = "djaskdja"
+p29
+I3473
+sVopr.left.left.left
+p30
+I436
+sVp = CmsPage.objects.get(pk=957)
+p31
+I768
+sVpagination.pagination(10, 1, 2)
+p32
+I3075
+sVitem = x[1]
+p33
+I16645
+sVh = getattr(p, 'house')
+p34
+I18777
+sVc = Car.objects.all()[0]
+p35
+I18815
+sVopr.left.left.left.left.left
+p36
+I438
+sVa['luis'] = 8
+p37
+I8516
+sVdata['session[username_or_email]'] = 'social_auth'
+p38
+I20711
+sVd = browers.get_display()
+p39
+I18072
+sVh.groups
+p40
+I1666
+sVurllib2.quote('&pound;')
+p41
+I11664
+sVlist(Product.objects.filter(name="table", count=10))
+p42
+I14309
+sVraise StopIteration
+p43
+I3527
+sVp = [ (slugify(l), l) for l in f.readlines() ]
+p44
+I3922
+sVf.item_tpl
+p45
+I1837
+sVfrom room.utils import get_recent_comments
+p46
+I4273
+sVx = Rendered.objects.get(pk=751)
+p47
+I17991
+sVurllib.quote(urllib.quote("]"))
+p48
+I5723
+sVp.date.month += 1
+p49
+I15714
+sVfrom numpy import zeros
+p50
+I12505
+sVv.
+p51
+I8645
+sV[ item['path'] for item in cd.hierarchy()]
+p52
+I10504
+sVfrom Queue import Queue
+p53
+I16180
+sV}]!${+_[*)+#[#^^&))@^$%&^_!(^{}[])%$][&_!)])@%}+({}+]%#{$]@^{@_]%*#!_#!((+_(#_]+
+p54
+I13608
+sVcsv.excel
+p55
+I10678
+sVimport gconf
+p56
+I15411
+sVf = Category._meta.fields[0]
+p57
+I2325
+sVa = "Hola:Mundo:Que:Tal:eee"
+p58
+I14670
+sVv.add_entry('7')
+p59
+I19148
+sVfrom model_i18n.managers import QLeftOuterJoins
+p60
+I10993
+sVi.title_es
+p61
+I11027
+sV{%include "cms/fragment/thumbnails_2column_item.html%}
+p62
+I10422
+sVurllib.quote_plus("http://www.argos.co.uk/static/Browse/ID69/10198115/c_1/1|category_root|Toys+and+games|10198115.htm?tag=PS6_1a".replace("+", " "), { "+": "+" })
+p63
+I3339
+sVRoom.objects.get(pk=736777)
+p64
+I17572
+sVlen(f)
+p65
+I15590
+sVRoomCompetitionEntry._meta.get_add_permission()
+p66
+I11504
+sVprint inspect.currentframe()
+p67
+I4250
+sVw.base_fields["special_offer"].errors
+p68
+I4131
+sVs.query(PhotoTag).filter_by(tag==t.id)
+p69
+I14736
+sVfor k, v in a.iteritems():\u000a    clauses.append("%s IN (%s)" % (k, ", ".join("%s" for i in xrange(len(v)))))\u000a    new_values.extend(v)
+p70
+I4550
+sVl = s.result.facets.filters[2]
+p71
+I10695
+sVclient.SetOAuthInputParameters(gdata.auth.OAuthSignatureMethod.HMAC_SHA1, 'default', 'default')
+p72
+I19778
+sVa = ArticleSearch(order_by='-since', count=10)
+p73
+I20615
+sVsorted(a, key=lambda x: a[x])
+p74
+I14166
+sVlist(chain(*(x for x in iter(a))))
+p75
+I16536
+sVphoto = "made_in_china.jpg"
+p76
+I15406
+sVf.has_next
+p77
+I1301
+sVc.display
+p78
+I20534
+sVq.findall(t)
+p79
+I15042
+sVdatetime.datetime.utctimetuple(d2)
+p80
+I4043
+sVfrom cms.templatetags.cms import mkform, FormSet
+p81
+I17064
+sVdef cipher_text(key, text):
+p82
+I1127
+sVf.list_ex[0].has_next()
+p83
+I1864
+sVl.source[0]
+p84
+I9998
+sVclass Pp(dict):
+p85
+I5045
+sVt = Template('{% var cms_value %}"hola mundo"{% endvar %}{% with cms_value|make_list as value %}{{ value|title }}{% endwith %}')
+p86
+I10293
+sVa = "abcd"
+p87
+I15540
+sVContentType.objects.get_for_model(CmsPage)
+p88
+I5996
+sVfunc(1, 2, r=True, *(1, 2))
+p89
+I18176
+sVlist(Product.objects.filter(pk__in=x[:158]))
+p90
+I18560
+s.

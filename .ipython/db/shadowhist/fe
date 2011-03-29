@@ -1,0 +1,215 @@
+(dp1
+Vfrom obnob.apps.topic_board.models import TopicBoard, Forum, Topic, Thread, Visit
+p2
+I20395
+sVc.get?
+p3
+I11907
+sVimg.crop((1350, 815, 1816, 1280)).save(f)
+p4
+I12552
+sVImage = models['image']
+p5
+I8633
+sVurllib.urlencode(data2, doseq=True)
+p6
+I15618
+sVtime.sleep(0.50)
+p7
+I2131
+sVmodels.get_models('tipocms.models')
+p8
+I18300
+sVi = 10L
+p9
+I7944
+sVr.match("Kelly Hoppen").group()
+p10
+I4513
+sV%timeit.__doc__
+p11
+I4791
+sV["Hola"]
+p12
+I3205
+sVfrom cms import templates
+p13
+I17328
+sVq = Question.objects.values_list('pk', flat=True)
+p14
+I19050
+sVtraceback.print_stack()
+p15
+I3467
+sVcategories = hxs.select('//div[@id="Breadcrumb"]//a/text()').extract()[1:]
+p16
+I16695
+sVbase64.decodestring(s)
+p17
+I14109
+sVdict(gen(10))
+p18
+I17100
+sVa.split("&")
+p19
+I2598
+sVg.find_cycle()
+p20
+I6907
+sVItem.i18n_languages
+p21
+I17853
+sVp = Name('hola') + Value('pepe') + Name('as') + Value('as_name')
+p22
+I7238
+sVVariable('cms_fragment.title|title').resolve(Context({'cms_fragment': { 'title': "hola" }}))
+p23
+I10300
+sVs.kwargs
+p24
+I2622
+sVlist(r.get_result())
+p25
+I3985
+sVd.split(' ', 3)[1:]
+p26
+I16664
+sVp.display("this will be down the bottom.")
+p27
+I7250
+sVet = ElementTree.fromstring('\u005cn'.join(f.readlines()))
+p28
+I17281
+sV{($#%_!%!&%!@^$@)}}%[_%@}$@!^*!%$^%+%)!]_[)}*{&%^$$)}+^!_][^}@##%#$}*!&*@%}*{{%#
+p29
+I13115
+sV'/'.join(a)
+p30
+I16163
+sVc.wait(2)
+p31
+I16068
+sVa.find(32)
+p32
+I8507
+sVr2 = re.compile('.*(?:P<guards>[A-Z]{3})(?P<letter>[a-z])(?P=guards).*')
+p33
+I14201
+sV','.join(a.split(',')[:2] + ['0'])
+p34
+I19136
+sVfrom pygraph import digraph
+p35
+I19160
+sVprint i.encode('utf-8')
+p36
+I9790
+sVpepe.func_code.co_code
+p37
+I3933
+sVgetGroupByQuerySet(ResultRankCriteria.objects.filter(QJoins(ranked_count=('result_rank', 'left join', 'ranked_count.query_id = rr_criteria.query_id'))), ['rr_criteria.id'])
+p38
+I7710
+sVbinascii.unhexlify("4d75636861732067726163696173206120746f646f7320706f7220656c20726567616c6f2e2053656775726f20717565207365206c6c6576612c20706f72206c656a6f732c20656c207072696d65722070756573746f20656e20656c2072616e6b696e6720646520726567616c6f73206765656b2e")
+p39
+I14496
+sVa.__name__
+p40
+I19465
+sV+@&][&^[[&!]*!)$%[#*]!*[*^^(_[*]^]!+#$[*##!!__&}^&^(^*%!&%{[**@%$%]}+^!]_#&+@+[{
+p41
+I13435
+sVa = "/shopping/furniture/Coffee%20Tables/"
+p42
+I1799
+sVp graph.graph.write
+p43
+I6880
+sVaXN0ZSBjdWFuZG8gdGUgZXMgY29tcGxpY2FkbyBkZSBjcmVlcj8/Pwo=""")
+p44
+I14509
+sVr3 = re.compile('(.+) \u005c1')
+p45
+I14934
+sVserializers?
+p46
+I11308
+sV'%02x' % 16
+p47
+I6267
+sVpartial?
+p48
+I16923
+sVLogEntry._meta.get_change_permission()
+p49
+I3160
+sVbatteries = hal.FindDeviceByCapability("/battery")
+p50
+I2182
+sVb.encrypt.__doc__
+p51
+I963
+sVdatos = [ (peso[i], valor[i], factores[i], 1) for i in range(len(peso)) ]
+p52
+I7190
+sVCategory.objects.all()
+p53
+I2421
+sVh = cd.hierarchy()
+p54
+I10508
+sVp = Product.objects.filter(guid=["eae29abfc8105425862df193baa0beb4e9ece52c", "f32effbec746022f07328643e08d50d90b7fa311"])
+p55
+I5284
+sVs = "g fmnc wms bgblr rpylqjyrc gr zw fylb. rfyrq ufyr amknsrcpq ypc dmp. bmgle gr gl zw fylb gq glcddgagclr ylb rfyr'q ufw rfgq rcvr gq qm jmle. sqgle qrpgle.kyicrpylq() gq pcamkkclbcb. lmu ynnjw ml rfc spj.".encode('rot13')
+p56
+I12866
+sVTranslateableModelTrans
+p57
+I5774
+sV[ 'http://mydeco.com' + p.get_url() for p in r.items ]
+p58
+I10792
+sVfd.title
+p59
+I612
+sVc.classification_name
+p60
+I2438
+sVu = "http://mydeco.com/search/?q=1&q2=2"
+p61
+I1224
+sVi.title__master
+p62
+I11139
+sVsys.argv[0]
+p63
+I124
+sVblock
+p64
+I10043
+sVupdate cms_fragment_template set content_names = "" where id = 158
+p65
+I6751
+sVa = [(1, 'a'), (8, 'z'), (5, 'b'), (3, 'h')]
+p66
+I17124
+sV[ (x, x < 'A') for x in '!"#$%&/()=?¡¿1234567890']
+p67
+I14133
+sVt = Page._meta.get_field('template')
+p68
+I17787
+sVgetattr(p, '_language')
+p69
+I5876
+sVEmailVisionEntryAdmin(EmailVisionEntry, None).chage_view
+p70
+I9418
+sVa = { 1: 2, 2: 3 }
+p71
+I3512
+sVf = PluginForm(plugin, family, data={})
+p72
+I14475
+s.

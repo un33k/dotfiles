@@ -1,0 +1,229 @@
+(dp1
+Vp = urlparse.urlparse('linenme.com/a/b')
+p2
+I15060
+sVfor i in t.result:\u000a    print i if 'name' in i else 'None'
+p3
+I12396
+sVmax((i['since'] for i in CmsPage.objects.filter(since__gt=s).values("since").order_by("since")))
+p4
+I4981
+sVp2.stdout
+p5
+I15855
+sVisinstance(a, (list, tuple))
+p6
+I8876
+sVchain?
+p7
+I16156
+sVwarnings.warn('xxx')
+p8
+I17837
+sVbool((False, False))
+p9
+I19515
+sVRenderedData(page=p, name=name, value=a)
+p10
+I10433
+sVf.cmscontentmapping_set.get(name='image').values('object_id')
+p11
+I9153
+sVa.add(5)
+p12
+I665
+sVfrom PIL import Image
+p13
+I8289
+sVx.last_updated
+p14
+I9310
+sVa.pop("a", [])
+p15
+I4609
+sVfrom copy import copy
+p16
+I8233
+sVsubprocess.select.epoll?
+p17
+I15973
+sVgetGroupByQuerySet(CmsPage.objects.filter(state="live").order_by("-live_date"), ["http_path",]).count()
+p18
+I1013
+sVi.get_file_height()
+p19
+I824
+sVpages = CmsPage.objects.most_viewed('/the-magazine/', '', 25)
+p20
+I12213
+sVCmsPage.objects.filter(live_date__lte=datetime.now(), state='work_in_progress')
+p21
+I18339
+sVr.result["search_args"]
+p22
+I4087
+sVDatedItem._translation_model._translation_meta.related_db_column
+p23
+I11150
+sVf = getattr(d.fragments, 'galleryitems')
+p24
+I12256
+sVprint f.base_fields['text']
+p25
+I696
+sVa[:50]
+p26
+I12209
+sVa[1:None:None]
+p27
+I1731
+sVm.free_space
+p28
+I10831
+sVprint os.execle.__doc__
+p29
+I310
+sVe = c.entries.order_by('-id')[2]
+p30
+I19403
+sVa.pop('1', None)
+p31
+I19804
+sVfrom django.db import Q
+p32
+I2470
+sV**^[)[%$_^)*)_%+]&_[)&$}}_]%+%)}^_]#}]__]*!}&
+p33
+I13946
+sVs.test_cookie_worked()
+p34
+I4334
+sV}&]&&[*^@#}&++#{]%*^@%)}@)]+(_^!}*^]_@#__#^#[&]&%]{_(_{)}&}}(_{}+(]&{^))}${}%]_]
+p35
+I12985
+sVd.tzinfo
+p36
+I17451
+sVimport ipodhal
+p37
+I4466
+sVf.product
+p38
+I3393
+sVr.result.items[0]
+p39
+I7484
+sVRoomCompetition.objects.filter(type=None)[0].id
+p40
+I19087
+sV!#%**!^!&^@}!*@)[&[!__]]^(#&$%#&(@&#+{${%(+##$$[%%%^}@%+]!^)+#%{%%!+{[#}}+!)+#%[
+p41
+I13259
+sV' AND '.join(clauses) % new_values
+p42
+I4547
+sVclient.SetOAuthToken(u.extra_data)
+p43
+I19776
+sVs.search()
+p44
+I6204
+sVy.options
+p45
+I19031
+sVf.storage.url()
+p46
+I14230
+sVurlparse
+p47
+I5011
+sV`eval`
+p48
+I21229
+sV{)*]%({&%^@))_)&(}*((_]&$+&(}_)]{$^+]$+}{[#[#$%]#(%+_(@*&!]@)&*${@#+&_#^_}+&@*&#
+p49
+I13846
+sVos.path.commonprefix('/a/', '/a/b/c/')
+p50
+I18563
+sVt._meta.get_field("text")
+p51
+I1638
+sVb.encrypt("hola mundoooo")
+p52
+I957
+sV0.0 == 0
+p53
+I11086
+sVlink_re = re.compile('href=(?P<open>["\u005c'])(?P<address>[^"\u005c']+)(?P<close>["\u005c'])')
+p54
+I1203
+sVprint c.wait()
+p55
+I16071
+sVrandom.rand(1)
+p56
+I7036
+sVs.query(PhotoTag, pt_alias).outerjoin((pt_alias, pt_alias.photo_id==PhotoTag.photo_id && pt_alias.tag_id!=PhotoTag.tag_id))
+p57
+I15363
+sVx = EmailVisionIntegration.objects.get(slug='mysqueeze')
+p58
+I19823
+sVf = u._meta.fields[0]
+p59
+I3382
+sVq
+I7354
+sVa = f[0]
+p60
+I18967
+sV)[*#&#(***+@{}^@$$!]&+%&&$]##!@)%@#!}}%%_*%[^)]%{%)%^[}}[+}#+*({_*%*!]({#}+!*_)#
+p61
+I13179
+sVc.process._process
+p62
+I16038
+sVd.xpathEval("//a")[0]
+p63
+I1796
+sVcm = chess.ChessManager('matias', '/tmp/matias')
+p64
+I15860
+sVp = subprocess.Popen(['/usr/games/gnuchess'], ['-e'], stdin=subprocess.PIPE, stdout=subprocess.PIPE)
+p65
+I15850
+sVct.model
+p66
+I7382
+sVlen(x for x in a if x == 7)
+p67
+I19727
+sVurlencode({ 'a': 'hola mundo' })
+p68
+I7894
+sV`eval` == eval
+p69
+I21230
+sVfrom __future__ import antigravity
+p70
+I11427
+sVCategory._meta.fields[1]
+p71
+I2356
+sVr.tell()
+p72
+I20674
+sVrewrite_url('bestonlinesofas.com', 'http://mydeco.com/microsite/bestonlinesofas.com/the-magazine', force_rewrite=True)
+p73
+I8805
+sVf.widget
+p74
+I38
+sVs.stem("The humble sofas beds is probably one of the mos popular forms of space saving bed around.")
+p75
+I6410
+sVi._meta
+p76
+I8591
+s.

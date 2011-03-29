@@ -1,0 +1,55 @@
+hex(10)
+hex(10)[:2]
+hex(10)[2:]
+a = ''
+a.split(',')
+x = "0; url='http://www.google.com.uy/accounts/SetSID?ssdc=1&sidt=ALWU2ctT7NxmarJTa5qSIxJI2OjAtXJxs%2FaCH6IVFqM746kLFUHmF6sDzXRnpByS6U6zWiJDxwx77UW%2BVd6GXKI0uTEhoiqk5Ywh2prFSNHJdzTh23G%2BQB2w633ntEQdc%2F2HxURh6uwtnRWTdDjIUlTQnhIS6usJNenCFJf0uppCn6SewqurtUGA%2Fva7Qdyz7bQv1CyeUIrqbA6hykiAV%2BFYXqp27HvPwuJVOZ1NoIAFPtTYtpxrHoEO9YkrMBw2Vb2ADgmGELVgU07mehlSUWIHUzA6Mxw53e2gkoBeVt7Moks3boMldy0USgKR3wLUBoB2EiPPhlajJlAsfyhBekDt7lyimirS%2FqCFNyJXuIzfM%2BLQbn0uKcM%3D&continue=https%3A%2F%2Fwww.google.com%2Faccounts%2FServiceLogin%3Fpassive%3Dtrue%26go%3Dtrue%26continue%3Dhttps%253A%252F%252Faccounts.google.com%252Fo%252Fopenid2%252Fauth%253Fst%253DxjRmmZP0dUybPmX-EP8R%2526hl%253Des%2526from_login%253D1%26followup%3Dhttps%253A%252F%252Faccounts.google.com%252Fo%252Fopenid2%252Fauth%253Fst%253DxjRmmZP0dUybPmX-EP8R%2526hl%253Des%2526from_login%253D1%26hl%3Des%26shdf%3DChYLEgZkb21haW4aClRlc3RzZXJ2ZXIMEgNsc28iFKzpAoeVF5LfJ60Wl5Ft6YT-wowxKAEyFM7_GRzE19-LovBgKeG4IwBvYM8j%26service%3Dlso%26fss%3D1'"
+improt re
+import re
+REFRESH_RE = re.compile(r'\d;\s*url=')
+REFRESH_RE.sub?
+REFRESH_RE.sub('', x)
+x = local()
+from threading import local
+x = local()
+x['x'] = 1
+a = [1, 2]
+l = 3
+a += [None for x in range(l - len(a))]
+a
+a += [None for x in range(l - len(a))]
+a
+p = Post.objects.all()[0]
+n = Notice(content_object=p)
+n
+from django.db.models.query import Q
+Poll
+Poll._meta.fields
+[(f.name, f) for f in Poll._meta.fields]
+u = User.objects.get(username='kevin.tran@obnob.com')
+u = User.objects.get(username='kevin.tran')
+g = Group.objects.get(slug='group_1')
+from django.db.models.query import Q
+Poll.author
+Poll.objects.filter(Q(author=u, group=g))
+qs = Poll.objects.filter(Q(author=u, group=g))
+def as_sql(qs):
+    from django.db.models.sql import compiler
+    from django.db import connection
+    c = compiler.SQLCompiler(qs.query, connection, qs._db)
+    a, b = c.as_sql()
+    return a % b
+as_sql(qs)
+ct = ContentType.objects.get_for_model(Poll)
+ct.model_class
+ct.model_class()
+from datetime import datetime, timedelta
+timedelta?
+timedelta(7)
+d = timedelta(7)
+t = datetime.now()
+t - d
+t > (t - d)
+t >= (t - d)
+a = "facet=supplier_id,77&"
+len(a * 50)

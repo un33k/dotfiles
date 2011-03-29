@@ -1,0 +1,12 @@
+#!/bin/bash
+PATH=$PATH:$HOME/.bin
+while read line; do
+    if [[ $line = [Ss]"ubject:"* ]]; then
+        subject=${line#*: }
+    elif [[ $line = [Ff]"rom:"* ]]; then
+        from=${line#*: }
+        from=${from% <*>}
+    fi
+done
+DISPLAY=:0.0 notify-send -t 1000 --icon /home/omab/.icons/mail-icon.png "$from" "$subject"
+#DISPLAY=:0.0 gnome-osd-client -f "<message id='mail-notify' osd_fake_translucent_bg='on' osd_vposition='bottom' animations='on' hide_timeout='5000' osd_halignment='center'>$from: $subject</message>"

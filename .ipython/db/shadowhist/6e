@@ -1,0 +1,299 @@
+(dp1
+Vb = range(1, 7) + range(10, 20) + range(7, 10)
+p2
+I8388
+sVg.accessibility.__doc__
+p3
+I6976
+sVd + timedelta(604800)
+p4
+I20054
+sV[ '{%' + ''.join(('s', x, y)) + '%}' for x in l for y in l]
+p5
+I9517
+sVd = graph.digraph()
+p6
+I7073
+sVch.
+p7
+I10485
+sVfrom tipocms import dump
+p8
+I8486
+sVFSet = forms.formsets.formset_factory(CForm, extra=2)
+p9
+I14419
+sVt = Template('{% with "hola \u005c\u005c"mundo\u005c\u005c"" as value %}{{ value|title }}{% endwith %}')
+p10
+I10286
+sVlen('oauth_token=uNjksRsvhMxm0D7o2y3BE0SOc3b5NaJPjAkH3i854&oauth_verifier=aU8j3s8KUqbNw225hvbNhnf1i9pt95NPVnXNMxkWxvA')
+p11
+I18639
+sVset(UserSocialAuth._meta.get_all_field_names()) + [1, 2, 3]
+p12
+I19260
+sV[ c if a_img_re.match(c) for c in a_img_re.split(v) ]
+p13
+I9878
+sVc.credits
+p14
+I1322
+sVbrowser.get_snapshot()
+p15
+I18051
+sVpepe.func_code.co_names
+p16
+I3929
+sVprint a.decode('utf-16')
+p17
+I10151
+sVp.parent.coords.length
+p18
+I19882
+sVp s._collect_sub_objects.__doc__
+p19
+I3305
+sVname = titulares.select('./h1[@class="titulo"]/text()').extract()
+p20
+I16677
+sV_@*!^_%}@[$)#%($+!]!)(!}]+%!+*{%]$^*][%({]@][}!%_*)^]}+)[[)(!&{]$(^%#_$!#!#!}&#(
+p21
+I13839
+sVtime.sleep(0.2)
+p22
+I14710
+sVa.rjust?
+p23
+I17598
+sVp = Permission.objects.get(content_type=ct)
+p24
+I6017
+sVlists(range(10), 8)
+p25
+I3038
+sVd.pre_save(1)
+p26
+I7770
+sVh.reduced_fragments[0].items
+p27
+I1683
+sVimport pepe
+p28
+I2125
+sVn.render(Context())
+p29
+I10120
+sVr._get_url(params.get_args())
+p30
+I5266
+sVviews.
+p31
+I7902
+sVa.start, a.stop, a.step
+p32
+I655
+sVr = urllib.urlretrieve("http://www.google.com.uy/logos/tesla09.gif")
+p33
+I7336
+sVthumbnail(i.image, "width=80,height=80")
+p34
+I3812
+sVfrom tipocms.models import CmsPage
+p35
+I825
+sVsw.result
+p36
+I11447
+sVfrom cms.models import *
+p37
+I4724
+sVtext.s
+p38
+I10208
+sVset(nltk.corpus.stopwords.words('english')) | set(['amp'])
+p39
+I6433
+sVu |= any(filter(None, a))
+p40
+I20547
+sVo = object()
+p41
+I644
+sVfrom django.utils import unittest
+p42
+I20636
+sVrandom.random(1)
+p43
+I7037
+sVn['blog_set'][1]
+p44
+I20978
+sVt = template.Template('{% if a in (1, 2) %}not in{% else %}it\u005c's in{% endif %}')
+p45
+I11968
+sVcm.move('d1')
+p46
+I15882
+sVx = notices[0]
+p47
+I20959
+sVurlparse.urlunparse(('http', '', '/pepe'))
+p48
+I8800
+sVtitle = c[0]
+p49
+I1457
+sVr.findall(s)
+p50
+I4477
+sV[ i.depth for n in x['blog_set'] for i in n]
+p51
+I20982
+sVp.tagDetails(p)
+p52
+I8328
+sVgetattr(o, f.name).all()
+p53
+I18734
+sVupdate cms_fragment_template set content_names = "image/image,linkText/text,linkUrl/text,status/text(enabled|disabled),text/largetext,title/text" where id = 99;
+p54
+I6692
+sVcgi.parse_qs(s)
+p55
+I7591
+sVmap(lambda x: x, xrange(10)) + map(lambda x: x, xrange(10, 20))
+p56
+I19518
+sViter
+p57
+I3009
+sVcur.execute('select id, name, category_id from tags')
+p58
+I7509
+sVA.__n
+p59
+I17435
+sV''.join(x.title() for x in 'hola mundo'.split())
+p60
+I18460
+sVu.obnob_groups.filter(group__parent__isnull=True).order_by('group__name')
+p61
+I20475
+sVval = p.communicate()[0]
+p62
+I15816
+sVDES3.new("asdfghjklzxcvbnm")
+p63
+I947
+sVyield
+p64
+I3196
+sVmap(lambda i: i%2 == 0, a)
+p65
+I8369
+sV+*({}{*&($(})@]+#_{!!@*%^_$+#($(}%}&[!*}[$^{(*#[#%+}%${}^*[#&{!&@(%^^{+_}@{*[%!!
+p66
+I13169
+sVCandidato.objects.get(pk=7)
+p67
+I11205
+sVr.embed_images
+p68
+I19640
+sVw.node.nodelist[-1]
+p69
+I10250
+sV%^%{[{{}+&{*]*_[*$[%[)_{!*&*+@)_@@_!+*(#!}_[(!]@@*{#&#(_{]@&$[[&&(#^{)++}#(#&{+(
+p70
+I13559
+sVp2 = p.deep_copy('/blogs/hola/mundo/2/', 'blogs blogs')
+p71
+I582
+sVpepe(1, 2, a=1)
+p72
+I8736
+sVhome_timeline = oauth_req(
+p73
+I16435
+sVcf.classification
+p74
+I2402
+sVreplace_amp("gdjklgjdf&lt;ezghzkgrhrekgh&lkdjhgdljg{% rekjghrekgn lkdjsf=3&nkhn=1 %}kjdrhgerk{% article_tracked_url efh=2&jkhdg=4&fgjdfjk=blah%}khgfkjdhkjhg&d")
+p75
+I4683
+sVname = "heading"
+p76
+I10431
+sVfrom Crypto import Cipher
+p77
+I941
+sVr = c.request('GET', '/')
+p78
+I21145
+sVu.is_superuser
+p79
+I7104
+sVp = sgmllib.SGMLParser()
+p80
+I9742
+sVa = [ "h", "b", "a" ]
+p81
+I5077
+sVimport HTMLParser
+p82
+I5512
+sVurlparse.urlunparse(('', '', '/a', '', ''))
+p83
+I20785
+sVf.info
+p84
+I7871
+sVos.sep
+p85
+I17765
+sVprint f.fields["product"]
+p86
+I3388
+sVos.path.isfile('/tmp/sock')
+p87
+I16585
+sVopen('/usr/share/dict/words').readlines()
+p88
+I15547
+sVissubclass?
+p89
+I16289
+sVi = Item.objects.all().get_translations(['es', 'pt']).set_language('pt')[0]
+p90
+I11291
+sVfrom django.template.defaultfilters import escape
+p91
+I12647
+sVqs.query.related_select_fields
+p92
+I12043
+sV'&' in htmlentitydefs.entitydefs.keys()
+p93
+I4653
+sVvalue
+p94
+I2279
+sVf = IncorrectPriceForm(data={'product': 'GB69BB54REXC2P4NLCAMAZCHL65O6VWWQTGBU5PT'})
+p95
+I20858
+sVUser.obnob_groups.related.field.name
+p96
+I20177
+sV$]]%++!!^^[$@(&@(%^!@!$)[{[%@))&^#}*&+((]([_^&}%!&+^*@($}}$&[$(}__{)+][%!@{({$]&
+p97
+I13308
+sVfrom django.contrib import admin
+p98
+I7121
+sV%timeit dict((k, sum(y for x, y in data2 if x == k)) for k in dict(data2).iterkeys())
+p99
+I15616
+sVf.base_fields['raw'].verbose_name
+p100
+I9117
+s.

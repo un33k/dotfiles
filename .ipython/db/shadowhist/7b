@@ -1,0 +1,296 @@
+(dp1
+VString.prototype.trim = function() { return this.replace(/^\u005cs*(\u005cb.*\u005cb|)\u005cs*$/, "$1");ction mandatoryText(input,fieldName){
+p2
+I9670
+sVmimetypes.encodings_map
+p3
+I14799
+sVc.form_set.im_func
+p4
+I1350
+sVi.image.path
+p5
+I9160
+sVa = "%(hello)s mundo"
+p6
+I14139
+sVmd5_constructor(os.urandom(10)).hexdigest()
+p7
+I19359
+sVr.findall(v)[0].strip()
+p8
+I16657
+sVarr(1, 1) * arr(9, 1) * arr(9, 3) / 2 / 2  / 2 / 3 / 3 / 3 / 7 / 3
+p9
+I5657
+sV(+]]@{++#)@@%(!&_#@^$*%^)*](^}#]@]}]@++*^+$_+]^_][]@^#$^&!_+!(^+((&@^@_^@)$[#!)*
+p10
+I14067
+sVa[1:-1]
+p11
+I1466
+sVi._indexer.model._meta.verbose_name
+p12
+I262
+sVinit_session('sqlite:////home/omab/.config/f-spot/photos.db')
+p13
+I14726
+sV*&}@&^#}%%!^)!{}))!%[$^_^{@%*#!_[_&&!!^)[]@!{[+!^+([+%+*@[]}*^$$^#$]&$%$}@_[[[}!
+p14
+I13206
+sVNotice.objects.chatterbox().filter(receivers=[u])
+p15
+I21010
+sVmicrosite_articles.get_content(p)
+p16
+I9176
+sVbase64.encodestring(x)
+p17
+I18224
+sVfrom rooms.models import *
+p18
+I4265
+sV&[#_)$){$*!)!){$*$(]{]_&%%}$@&[**+![#{$}]@$$[@@]@{[#])^$***+_#%@$%]{_+}&*!&_%&()
+p19
+I14017
+sV''.join(x.title() for x in 'hola mundo')
+p20
+I18459
+sVd.__class__.__bases__
+p21
+I7756
+sVr.match('aa')
+p22
+I18268
+sVx = d - datetime.today()
+p23
+I19182
+sV</ul>
+p24
+I21048
+sVtest()
+p25
+I14713
+sVcm.move('d4')
+p26
+I15878
+sVp['homepage']
+p27
+I17016
+sVpprint(c.dicts)
+p28
+I10184
+sV(1223/300) * (100 / 300)
+p29
+I10744
+sV[ x.manual_classified_count for x in c ]
+p30
+I3183
+sVp.set_font("-xos4-terminus-medium-r-normal--32-320-72-72-*-160-iso8859-1")
+p31
+I7255
+sVBuyTheLook._meta.get_field('creator')
+p32
+I5733
+sVtype/())
+p33
+I3194
+sVf['query'][0]
+p34
+I12726
+sVfrom urllib import quote
+p35
+I6052
+sVr = re.compile('\u005cs')
+p36
+I15063
+sVl[-1]
+p37
+I16097
+sVItem.objects.set_language('es')[:1]
+p38
+I11095
+sVw = nodes[-2]
+p39
+I10246
+sVa = a.replace('/microsites/')
+p40
+I5673
+sVg = groupby(a, key=lambda (x, y): x)
+p41
+I19214
+sVv = Value.objects.get(pk=24)
+p42
+I15513
+sVa = dict(kv.split("=") for kv in qs.split("&"))
+p43
+I2962
+sVr.start_date.month = 3
+p44
+I20046
+sVa.sort(key=lambda x: x in b and b.index(x))
+p45
+I18111
+sVt.render(Context({'data': data.items()}))
+p46
+I21066
+sVw.open('http://google.com')
+p47
+I18040
+sV)+}[@({%[$!(](!)_)#[&[]}^]@*#([}^]@%%%@}[)($($]&^+$][*(%%+*$}%_]]$!@+(_%+&+{))@}
+p48
+I13678
+sVclass Pepe(object):
+p49
+I1137
+sVs.query(PhotoTag).filter_by(tag_id=t.id).filter_by(~tag_id.in_([x.id for x in t.subtags
+p50
+I14760
+sVi = a.rfind('.')
+p51
+I8502
+sVval.valoracion
+p52
+I11216
+sVt = t.replace('H', 'u').replace('U', 'q')
+p53
+I5229
+sVuf
+p54
+I3377
+sVs = "article_tracked_url '3232'"
+p55
+I14847
+sVPoll
+p56
+I21437
+sVreload('electric')
+p57
+I7000
+sVa = ()
+p58
+I3161
+sVp = Permission(codename='pepe', content_type=ct, name='add')
+p59
+I7917
+sV[ f.get_attname() for f in CategoryImage._meta.fields ]
+p60
+I3535
+sVu.delete()
+p61
+I12757
+sVp f.errors
+p62
+I8221
+sVsys.modules['os.path']
+p63
+I11181
+sVfrom phplist import urls
+p64
+I8229
+sVp.pedidoelemento_set.all()
+p65
+I7443
+sVp.communicate('b4\u005cn')
+p66
+I15796
+sVimport ratings
+p67
+I16840
+sVop = urllib2.urlopen(req).read()
+p68
+I19289
+sVos.remove(f.name)
+p69
+I12281
+sVhaar.this
+p70
+I10920
+sVfrom django.core.management.base import NoArgsCommand
+p71
+I8352
+sVu.obnob_groups.__dict__
+p72
+I20164
+sVfrom django.db.models import get_models, sql
+p73
+I19682
+sVlen("Subsection") + len("CategoryBrowse:candles &amp; candle holders &amp; home fragrance")
+p74
+I14602
+sV'\u005cn'.join([ '{% include_' + ''.join(('s', x, y)) + ' %}' for x in l for y in l])
+p75
+I9520
+sVa[1:3]
+p76
+I5125
+sVs.auth_token
+p77
+I19749
+sVu.get_avatar_thumbnail_url()
+p78
+I10473
+sVd._meta.get_field('image')
+p79
+I4924
+sVupdate cms_fragment_template set content_names = "" where id = 88;
+p80
+I6683
+sVProduct.objects.get(category=1793)
+p81
+I5240
+sVUserSocialAuth.objects.all()[0].uid
+p82
+I20318
+sVa['pepe'] = 32
+p83
+I8514
+sVurlparse.urlunsplit.__doc__
+p84
+I5012
+sVmd5.md5(str(os.urandom(10))).hexdigest()[:30]
+p85
+I19351
+sVp.pa
+p86
+I15061
+sVo._meta.many_to_many[0]
+p87
+I18738
+sV_(@}(^[&@)^&}#+}{#(!@$@&*@+}%(@)]!#_#){^%^%_[&+[(&{^[**@^(&]+!#(}&%]_^_{(&**$@*_
+p88
+I13797
+sVnext?
+p89
+I16258
+sVCAPLETTERS.sub(' \u005c\u005c1', 'AbCde')
+p90
+I17156
+sVf.get_attname()
+p91
+I2360
+sVg.obnob_users.active().select_related('user').values_list('user', flat=True)[0].__class__
+p92
+I20143
+sVa = "hola(3)"
+p93
+I499
+sVCity._meta.get_all_field_names
+p94
+I20417
+sVsubprocess?
+p95
+I18337
+sVtext = """\u005cn\u005cnThe humble sofas beds is probably one of the most popular forms of space saving bed around. It provides an easy way of making a spare bed available at short notice.\u005cn\u005cnIt\u005c's actually surprisingly difficult to define the term sofas beds. This is partly because of the difficulty in defining the word "sofa" itself. The definition of "sofas beds" is more complex. You can buy sofas bedss in all sizes, including single seat versions. These should, strictly speaking be called "chair beds". However they are often simply called "sofas bedss". And what about the Western futon? The spread of interpretations underlines how important it is to know what you are purchasing before you buy, be it online or in a store. The simplest thing is probably to define a sofas beds as a convertible multi-functional piece of furniture that can be used as a seat during the day and reconfigured as a bed at night.\u005cn\u005cnSofa bed designs vary considerably. In some cases, the mattress simply slides out or the back folds down. Other sofas bedss unfold themselves in a masterpiece of engineering which requires a degree in quantum physics to operate. The ease of assembly is a point to consider if the sofas beds is likely to be set up late at night when people are tired and emotional. Some modern sofas bedss on the market have enough internal space that allow them to be made up with basic bedding even when they are closed and in use as seats, thereby saving a lot of time. However you will still need to find somewhere to store the pillows, etc.\u005cn\u005cnOther sofas beds models take a different approach and use an inflatable air mattress. You can even buy ones where the entire unit, sofa and bed, is inflated with an air pump when needed. Don\u005c't forget to consider the size. Sofa beds are often used in small rooms. But will it still be possible to open the door when the bed is open? If not, could it make answering a night time visit to the bathroom tricky? And what happens to the sleeper if there is a fire or other emergency? Sometimes however the beds are so short that many people will find their feet hanging over the end!\u005cn\u005cnSofa bed prices and designs vary - from the most basic and functional design to top of the range contemporary leather models. It\u005c's certainly possible to get a bargain - however you have to ask yourself whether it\u005c's worth justifying the extra cost for the best in the store if it will only be used occasionally."""
+p96
+I6379
+sV0v7YAbBd6CS8ehaBLCktmmgSlRGpEVqiv+gPcBnBm0m+Qp6IMIGErxA4/VAoVIuFC9uE26L1ZSkS
+p97
+I19603
+sVrewrite_url('bestonlinesofas.com', '/microsite/bestonlinesofas.com', force_rewrite=True)
+p98
+I8812
+sVfrom microsite.templatetags.microsite_tags import do_category_links
+p99
+I6279
+s.

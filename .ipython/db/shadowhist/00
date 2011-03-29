@@ -1,0 +1,275 @@
+(dp1
+Vclass Pepe:\u000a    def __init__(self, name):
+p2
+I386
+sVoperator.mul(1, 2)
+p3
+I9834
+sVitems = groupby(qs, lambda x: x.competition.id)
+p4
+I19111
+sVimport array
+p5
+I2730
+sVb.image
+p6
+I4344
+sVcms.plugins.PLUGINS
+p7
+I14212
+sVrandom.randrange()
+p8
+I15655
+sVcontent_pages = dict((c['object_id'], c['page_id']) for c in contents)
+p9
+I8858
+sV''.split(',')
+p10
+I19146
+sVthumbnail(i.get_image_url(), "70x70")
+p11
+I3825
+sVa = [4, 2, 6, 1, 5, 8]
+p12
+I18109
+sVs = 'hola mundo buel y cruel'
+p13
+I12429
+sVProduct.objects.get(guid__in=["09e8ce7a7e04806ace56c00ee8b4927f477d11a5", "10ae977d234f754d1b6e024955c7a27c1b8a7c32"])
+p14
+I5129
+sVtraversal_pages(possible_paths("/"), "live")
+p15
+I2458
+sVlist(g.traversal('37328', 'pre'))
+p16
+I6943
+sVi = Image.open('/home/omab/misc/img/msn/msn_sp.jpg')
+p17
+I12525
+sVimport werkzeug
+p18
+I20061
+sV1L/10
+p19
+I4311
+sVd + datetime.datetime.second()
+p20
+I9579
+sVrandom.randint(1, 20)
+p21
+I19993
+sVapply(None, range(10))
+p22
+I10684
+sVfrom django.template import defaultfilters
+p23
+I14620
+sVp.model._meta.fields
+p24
+I8891
+sVd - datetime.today()
+p25
+I19181
+sVfrom app.models import *
+p26
+I10965
+sVprint inspect.__doc__
+p27
+I2487
+sVdo_search('red sofa',category=2273,**{})
+p28
+I3760
+sVn = "heading"
+p29
+I10436
+sVt = Template('{% load aff_url %}{% article_tracked_url "www.habitat.co.uk" "http://www.habitat.co.uk/fcp/categoryhome/browse/sale/" %}')
+p30
+I11240
+sVlogin_content
+p31
+I20752
+sVos.environ['DJANGO_SETTINGS_MODULE'] = 'settings'
+p32
+I8815
+sVf.related.var_name
+p33
+I18806
+sVf.choices = [ str(i) for i in xrange(10) ]
+p34
+I1335
+sVpq.move('matias', 'e4')
+p35
+I16214
+sVCategory
+p36
+I4442
+sVa[a.find("_")+1:]
+p37
+I3463
+sV@)][!!*((]}^(*([__#*#}%$!]+&_[}*@(@^()_*]%&%)&[){((@*%%+)@$+_+{]^$+{%^%}@[*_${]!
+p38
+I13810
+sVTranslateableModelTrans.objects
+p39
+I5783
+sVcd.catid
+p40
+I10480
+sVa = 1
+p41
+I2493
+sVImage.new?
+p42
+I12470
+sVpickled = pickle.dumps({ "1": "hola", }, pickle.HIGHEST_PROTOCOL)
+p43
+I3170
+sVfrom tipocms import admin
+p44
+I8462
+sVlen([x for x in a if x == 7])
+p45
+I19728
+sVp.is_locked = True
+p46
+I6790
+sVb.ratings.all()[0]
+p47
+I15682
+sV$(){)%!+{!_]+][}(($!_+^&_+_#&{%)$_#)!#_+@[{#*{]^+)@%&{@$$$@+_+^[%&(&#^^%}}%!)&&*
+p48
+I13756
+sVMembership.objects.all()
+p49
+I20243
+sVt.replace('V', 'l').replace('I', 's').replace('T', 'n').replace('G', 'd').replace('Y', 'r')
+p50
+I5232
+sVx = set(a) - set(b)
+p51
+I8817
+sVChatterboxThread.objects.get(pk=7)
+p52
+I21034
+sVos.listdir('/home/omab/tmp/a/')
+p53
+I17763
+sVb_iface.GetA
+p54
+I2261
+sVx = trans_real._active[t]
+p55
+I14573
+sVsum?
+p56
+I11269
+sVsp = SpecialOffers(cid=3)
+p57
+I8770
+sVurllib.quote('a,1')
+p58
+I9049
+sVfor words, bound in ct.tokenize_html(text, with_indices=True, only_matches=True):
+p59
+I6400
+sVpath = "/proc/acpi/battery/C1AC/info"
+p60
+I2086
+sVx.pop(0)
+p61
+I19133
+sVr['Location']
+p62
+I20676
+sVu.has_perms([g.permissions.all()[0]])
+p63
+I6583
+sVu = models.Url(url='/')
+p64
+I8604
+sVapi.mentions()
+p65
+I16395
+sVe = e.replace('\u005cn \u005cn', '\u005cn')
+p66
+I16903
+sVdisp
+p67
+I5343
+sV%!&#*{*[&}](*&)*)!(%%#$%)[&_&]@{*%+@%@%**}&+]+!*][&^)%_^@@}#%%&]#$${%}_[@(%!+}))
+p68
+I13126
+sVhtml = ' '.join(html.split())
+p69
+I9765
+sVb()
+p70
+I3702
+sVcalendar?
+p71
+I11880
+sVurljoin('/x/b/c/', 'name/')
+p72
+I20210
+sVurllib.quote("~")
+p73
+I3956
+sVc.widget.id_for_label?
+p74
+I14463
+sVp = Value._meta.get_field('page')
+p75
+I8975
+sVprint s.encode('utf-16')
+p76
+I11684
+sVissubclass(forms.BooleanField, forms.Field)
+p77
+I14441
+sVs + 20
+p78
+I397
+sVurllib2.HTTPRedirectHandler.redirect_request.__doc__
+p79
+I7856
+sVmodel_i18n.translator._translator.register
+p80
+I10972
+sVvalues.append((Permission._meta.get_field('content_type'), str(ct.id)))
+p81
+I7930
+sVb = ecs.ItemLookup(ItemId=asin, ResponseGroup="Images")
+p82
+I6112
+sVT = models['text']
+p83
+I8618
+sVs = "hola/text, como/image(a |\u005cr   b\u005ct |\u005cnc|\u005ct), andas/text[2], bien/text(d|e)[3] "
+p84
+I536
+sVfrom tipocms.models import CmsPageTemplate
+p85
+I743
+sVprint tpl.render(c)
+p86
+I10334
+sV&[$%*#!}+_@$)_}[+^[^{})!}]_#(&}+[!)!}}*}}[_^((![#*_+[$$[*)(_{+&{@^*}()@@&$]^#+^&
+p87
+I13220
+sVr = productsInCategorySearch(['bathroom'], count=4)
+p88
+I10789
+sVclass AClass(object):
+p89
+I9006
+sV[@%**}){@}}[*!@@)^]*+%{!}&+^*]}&#{*[{}]]^#!%_@!}*+(#*$@@{&}_$^^[_[@[%}]@}{])!+*@
+p90
+I13890
+sVItem._translation_model._transmeta.translatable_fields
+p91
+I11517
+sVRenderedData(page=p, name=n, value=a)
+p92
+I10437
+s.

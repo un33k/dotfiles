@@ -1,0 +1,287 @@
+(dp1
+VcvShowImage?
+p2
+I10881
+sVu.has_perms(['tipocms.cms_producer'])
+p3
+I5976
+sV[ a.id for a in articles ]
+p4
+I468
+sVp = PorterStemmer()
+p5
+I5911
+sVs = SendToFriendsForm()
+p6
+I3768
+sVmain.get_data()
+p7
+I8008
+sVa.sort(lambda x, y: x)
+p8
+I15631
+sVCategoryHierarchy.objects.get(parent=catid, child=subid)
+p9
+I4623
+sVr.match("00000c9394e3b1be64bea1f6c395ef6aa95c7276")
+p10
+I4931
+sVclass B(A):\u000a    def save(self):\u000a        print "Save de B"\u000a        super(self, self).save()
+p11
+I3099
+sVUser.objects.filter(username__startswith='mab')[0]
+p12
+I18457
+sVwarnings.warn(object('xxx'))
+p13
+I17838
+sVc.category.facets
+p14
+I20622
+sVu.set_password("fuckingr00t")
+p15
+I12092
+sVSQLCompiler?
+p16
+I18904
+sVm.text
+p17
+I685
+sVa[:2].upper() + a[2:].upper()
+p18
+I463
+sVARTICLE_BASE_URL   = "/the-magazine/news/"\u005c
+p19
+I18649
+sV((1,2))
+p20
+I14391
+sVdata['session[username_or_email]'] = USER
+p21
+I20755
+sVd.max(1)
+p22
+I10715
+sVet[2].attrs['type']
+p23
+I17309
+sVc.getresponse()
+p24
+I21151
+sVsys.stdout.write("Processing: 0%%")
+p25
+I11857
+sVrated_item = RatedItem.objects.add_rate(p, 12, u)
+p26
+I354
+sVcgi.escape?
+p27
+I21421
+sVSiteCategoryProducts.objects.distinct('category__id').filter(category__slug__in=categories).values('product', 'category__slug').order_by('-priority')[0]
+p28
+I10553
+sVprint t.widget_attrs('initial')
+p29
+I20034
+sVsettings.TEMPLATE_DIRS
+p30
+I8341
+sV<h2>{{ key }}</h2>
+p31
+I21043
+sVupdate cms_fragment_template set content_names = "designersImage/image[4],designersName/text[4],designersUrl/text[4],title/text" where id = 141;
+p32
+I6734
+sVs.result.search_params.search_args['simids']
+p33
+I10670
+sVfunc(1, 2, r=True, *(1, 2, 3))
+p34
+I18175
+sVfrom xml.etree import ElementTree
+p35
+I17278
+sVb_iface.GetProperty("battery.reporting.low")
+p36
+I2219
+sVc = a
+p37
+I2062
+sVbot.conn.send.__doc__
+p38
+I4391
+sVl= getGroupByQuerySet(ResultRankCriteria.objects.filter(QJoins(ranked_count=('result_rank', 'left join', 'ranked_count.query_id = rr_criteria.query_id'))), ['rr_criteria.id'])
+p39
+I7711
+sVope = urllib2.build_opener(RedirectHandler())
+p40
+I7860
+sVprint simplejson.dumps.__doc__
+p41
+I2677
+sVprint f.fields["product"].html
+p42
+I3389
+sVa and ' ' or ''
+p43
+I8781
+sVm.groups()
+p44
+I3453
+sVs.handle_fk_field(p, p._meta.get_field('template.template_path'))
+p45
+I11385
+sVi.user
+p46
+I4005
+sVcgi.parse_qs(base64.b64decode("c3VwcGxpZXJfdGV4dD1Ub3ArcXVhbGl0eStiZWRkaW5nK2F0K3VuYmVsaWV2YWJsZStwcmljZXMuJndlYnNpdGVfbmFtZT1EdXZldCslMjYrUGlsbG93K1dhcmVob3VzZSZkZXNjcmlwdGlvbj1DaGVhcGVzdCtkdXZldHMlMkMrcGlsbG93cythbmQrdG93ZWxzKy0rZXZlbitpbitzYWxlK3RpbWUmZXhwaXJlcz0zMSUyRjAxJTJGMjAxMCZ0aXRsZT1VcCt0bys1MCUyNStvZmY="))
+p47
+I11732
+sVph.section1.4a8e64c2156011deab23001f3c609307
+p48
+I5070
+sVBuyTheLook._meta.module_name
+p49
+I17349
+sVr.split(quote(a))[::1]
+p50
+I14682
+sVmax(a, lambda x, y: x-y)
+p51
+I7070
+sVA = C
+p52
+I10176
+sVAdminDateField.widget.Media
+p53
+I18413
+sVv = v[-1]
+p54
+I8658
+sVre.match(r"xxx/yyy/zzz", a)
+p55
+I18235
+sV^+@@+##_]]*#^_^&%_&@!$[}*&$+!_@*)$[&$[*$(!^#@#+%_*[^{@}]}#+]}&!@_+)(++&&(#{[#*@{
+p56
+I13370
+sVs = tokenizer.SingleTokenizer()
+p57
+I3108
+sVprint y.decode('utf-8')
+p58
+I21384
+sVp.stdout.flush()
+p59
+I15788
+sVlist(s.result.facets)
+p60
+I10692
+sVm.expand()
+p61
+I4483
+sVProduct.__class__
+p62
+I7412
+sVw.logo.name
+p63
+I4436
+sVimport celery
+p64
+I19565
+sVmodels.Field?
+p65
+I18939
+sVsha.sha("POST").hexdigest()
+p66
+I12060
+sVfrom market.models import *
+p67
+I18327
+sVfromstr
+p68
+I19648
+sVset(x for x in f.readline())
+p69
+I17997
+sV__import__('cms.plugins.hp_splash')
+p70
+I12837
+sVdef test(method='post', *args):
+p71
+I19545
+sVim = cvLoadImage("img_5631.jpg")
+p72
+I10860
+sVtype(())
+p73
+I3195
+sVurlparse.urlparse("a=b&b=c&1")
+p74
+I2577
+sVp.language
+p75
+I11995
+sVt.render(template.Context({'value': 'hola mundo'}))
+p76
+I10358
+sV[ a[:prev], [ a[prev], a[actual], a[next], a[next:], ]
+p77
+I3035
+sVSITE-1990
+p78
+I3908
+sVf.verbose_name
+p79
+I2981
+sVcmp(True, False)
+p80
+I3491
+sVx = 100 / (1223.0 / 300.0)
+p81
+I10763
+sVupdate cms_fragment_template set content_names = "bottomImage/image,linkUrl/text,mainText/largetext,titleText/text" where id = 155;
+p82
+I6748
+sVclient.login?
+p83
+I9338
+sVconnection.ops.prep_for_like_query('hola " mundo')
+p84
+I12185
+sV)##]]}_@]}__{#}++!{![*^%]{]]^}%!{{&@}!#&[^$[}]{%$)({#(%@$%[(()#^]%^$!}$$$&_%#&{+
+p85
+I13341
+sVp._Pepe__pepe
+p86
+I1139
+sVwith closing(database.connect(PRODUCT2DB_RO)) as conn:\u000a    items = database.iteritems(conn, sql, database.DICT, { "id": 2221 })\u000a    print list(items)
+p87
+I3611
+sV{@[]$*({${#(%&+!)$^(#!}_}}%%@}^]((%{)*${([_+@^+]${)&+%(@)!{[(+*{[__*}*%)$&^$%[$)
+p88
+I13148
+sVfrom djang.db.models.fields import Field
+p89
+I11395
+sVt = TaggedItem.objects.filter(content_type=ct, article=p)[0]
+p90
+I4715
+sVfrom designers.views import *
+p91
+I12744
+sVCmsPage.objects.filter(http_path__in=[u'/microsites/bestcakestands.com/', u'/microsites/bestbathroomsuites.com/', u'/microsites/bestonlinebathroom.com/', u'/microsites/bestonlinecoffeemakers.com/', u'/microsites/bestonlinetoasters.com/', u'/microsites/onlinefoodprocessors.com/', u'/microsites/bestonlineovens.com/', u'/microsites/besthobs.com/', u'/microsites/cookerhoodsonline.com/', u'/microsites/bestcookers.com/', u'/microsites/bestonlineblinds.com/', u'/microsites/fridgefreezersonline.com/', u'/microsites/bestromanblinds.com/', u'/microsites/bestonlinedishwashers.com/', u'/microsites/allwashingmachines.com/', u'/microsites/bestonlinefitnessequipment.com/', u'/microsites/bestonlinetreadmills.com/', u'/microsites/bestonlinetrampolines.com/', u'/microsites/everyflooring.com/', u'/microsites/bestonlineradiators.com/', u'/microsites/everylighting.com/', u'/microsites/buyhomeoffice.com/', u'/microsites/bestonlinekitchen.com/', u'/microsites/bestonlinetables.com/', u'/microsites/bestonlinebeds.com/', u'/microsites/bestonlinefireplaces.com/', u'/microsites/bestonlineofficefurniture.com/', u'/microsites/firesurroundsonline.com/', u'/microsites/bestgasfires.com/', u'/microsites/bestelectricfires.com/', u'/microsites/bestonlineclocks.com/', u'/microsites/bestonlinesofas.com/', u'/microsites/onlinewallclocks.com/', u'/microsites/cornersofasonline.com/', u'/microsites/bestonlinerugs.com/', u'/microsites/onlinesofabeds.com/', u'/microsites/bestonlinecoffeetables.com/', u'/microsites/nestoftablesonline.com/', u'/microsites/bestphotoframes.com/', u'/microsites/bestonlinephotoalbums.com/', u'/microsites/storageboxesonline.com/', u'/microsites/bestonlinebookcases.com/', u'/microsites/bestonlinecandles.com/', u'/microsites/onlinetvstands.com/', u'/microsites/everybedroomfurniture.com/', u'/microsites/laminateflooringshoponline.com/', u'/microsites/vinylflooringonline.com/', u'/microsites/bestonlinebunkbeds.com/', u'/microsites/onlinemosesbaskets.com/', u'/microsites/armchairsonline.com/', u'/microsites/bestcabinbeds.com/', u'/microsites/bestonlinegarden.com/', u'/microsites/bestfishtanks.com/', u'/microsites/onlinecomputerdesks.com/', u'/microsites/bestonlinevases.com/', u'/microsites/onlinediningchairs.com/', u'/microsites/bestduvetcovers.com/', u'/microsites/bestonlinebarstools.com/', u'/microsites/bestonlinebeanbags.com/', u'/microsites/alltheworldsfurniture.com/', u'/microsites/bestbarbecuesonline.com/', u'/microsites/bestfloortiles.com/', u'/microsites/bestfilingcabinets.com/', u'/microsites/bestcrockery.com/', u'/microsites/bestonlinedesks.com/', u'/microsites/alldecking.com/', u'/microsites/bestonlinemattresses.com/', u'/microsites/bestonlinemirrors.com/', u'/microsites/bestonlinepaint.com/', u'/microsites/allhealthandbeauty.com/', u'/microsites/bestonlinecutlery.com/', u'/microsites/bestonlinetiles.com/', u'/microsites/bestonlinecushions.com/', u'/microsites/bestonlinewallpaper.com/', u'/microsites/everygardenfurniture.com/', u'/microsites/bestchildrensbeds.com/', u'/microsites/bestonlinediy.com/', u'/microsites/bestwardrobes.com/', u'/microsites/everybedding.com/', u'/microsites/bestonlinecabins.com/', u'/microsites/bestonlinesheds.com/', u'/microsites/bestonlinegazebos.com/', u'/microsites/bestonlinechairs.com/', u'/microsites/bestonlineofficechairs.com/', u'/microsites/bestonlinegardentools.com/', u'/microsites/kitchentapsonline.com/', u'/microsites/pressurewashersonline.com/', u'/microsites/onlinediningtables.com/', u'/microsites/onlinebathroomaccessories.com/', u'/microsites/bestonlinepooltables.com/', u'/microsites/bestonlineladders.com/', u'/microsites/bestonlinechristmas.com/', u'/microsites/bestonlinecurtains.com/', u'/microsites/bestonlineposters.com/', u'/microsites/bestonlineartprints.com/', u'/microsites/onlinefloorlamps.com/', u'/microsites/bestonlinedoors.com/', u'/microsites/walllightsonline.com/', u'/microsites/ceilinglightsonline.com/', u'/microsites/tablelampsonline.com/', u'/microsites/clocks.co.uk/', u'/microsites/us.mydeco.com/'], state='live')
+p92
+I9196
+sV*[*#_*&%)&)}@%!@!&#]+%^#))#_#(#]*#*!@^{()&}[{%(&[^)@$^%(}&#@(%+@%{%%]*{$(@%$]*$]
+p93
+I13593
+sVdbcache.get_values('/the-magazine/')
+p94
+I9606
+sV'&dkajs' < 'A'
+p95
+I14161
+sVp = Product.objects.get(pk="7494ae7730e1ddde415ab198db8c74287e59b248", discounted=1)
+p96
+I8868
+s.

@@ -1,0 +1,316 @@
+(dp1
+Vhxs.select('(//ol//text()|//p[@align="JUSTIFY"]//text())').extract()
+p2
+I16803
+sVct.tokenize_html(text)
+p3
+I6349
+sV)$%!#}@!*_[_%!^+[)}!#{}{)*]!@#)%{&*#(&_[$)&)@[_+][(${%%((}#+[)!+[*@+$$[^$[!]_!#&
+p4
+I12999
+sVsudo nodes.render(c)
+p5
+I10326
+sVp.get_image_url()
+p6
+I2633
+sVlist(q2)
+p7
+I15348
+sVx = VoteAnswerForm()
+p8
+I20428
+sVfor x in c:\u000a    x.room_template = r\u000a    x.save()
+p9
+I19979
+sVrange(0, 10392 + (500 - (10392 % 500)), 500)
+p10
+I6776
+sVsr.get_result().items[0]
+p11
+I11544
+sVtype('HolaMundo', (object,), {})
+p12
+I5757
+sVs.write('hola mundo cruel')
+p13
+I17318
+sVl.add(gtk.ListItem('button', gtk.Button()))
+p14
+I7987
+sV$(()%}]#!])+#[]({{*!$&(@&#}[}#[]#[(![#{*})@^]*!})#*+}@}^}^%]^!}}#({[&!^(%}]}{$*}
+p15
+I13549
+sVf = CmsFragment.objects.get_data().filter(pk=10911)
+p16
+I834
+sVlist(CmsPage.objects.most_viewed('/the-magazine/"))
+p17
+I12193
+sV_&&^(#_])*)+_]!+&)$%+[](){)+_#*_#[[[%$!^#!!$(_^}(#%({%$!_}$}(()$]!&]}^^)+&+!@%$@
+p18
+I13192
+sVa = [False, False, True, True, False, True, False]
+p19
+I18591
+sVclass Fen(Command):
+p20
+I16346
+sVp.meta_title.__class__
+p21
+I5490
+sVaccount = ('matiasaguirre@gmail.com', '#op3m5a')
+p22
+I9328
+sVa = '/a/b/c/d/'
+p23
+I17041
+sVfrom gdata import gdata
+p24
+I19697
+sVwith closing(database.connect(PRODUCT2DB_RO)) as conn:\u000a    items = database.iteritems(conn, sql, database.DICT)\u000a    print list(items)
+p25
+I3609
+sVp.image
+p26
+I2632
+sVfor x in c:
+p27
+I19977
+sVimport pychess
+p28
+I15576
+sV# DATABASE_NAME = 'site'
+p29
+I4639
+sVlist(reversed(a))[-1]
+p30
+I9903
+sV]+!%*_!++[[+]]@+]@}$)$^)_#^@}%}#+[+%^*!!{+${$]*$!#@](@@$*#*^+@{^_+%#!^()*&(}+$_}
+p31
+I13482
+sVp urllib2.HTTPRedirectHandler.redirect_request.__doc__
+p32
+I7857
+sVimport rememberthemilk
+p33
+I15078
+sVlen(CmsPage.objects.get_last_live_pages())
+p34
+I1004
+sVc.stampimage_set.all()
+p35
+I3737
+sVarr(9, 5) / 2
+p36
+I5658
+sVcsv.excel_tab
+p37
+I10679
+sVdatetime.
+p38
+I11866
+sVfrom django.utils.encoding import force_unicode
+p39
+I10154
+sVthread.start_new(mainloop.run)
+p40
+I9433
+sVfor line in fd.readlines():\u000a    match = r.findall(line)\u000a    if match:\u000a        print match
+p41
+I1634
+sVint('329389182132')
+p42
+I16575
+sV{)@_&{_[^++^{[%*!(]]@_]}_})(%+_#!+]$$_&!+*[(])$(!^($)}^+{&!&__+_{@+}[((&%)$][^{&
+p43
+I13970
+sVmap(clone, zip(input, [keys.copy() for i in xrange(len(input))]))
+p44
+I7657
+sVpages = [ (p[0], p[1], p[2].strftime("%y - %m - %d %H:%M")) for p in pages ]
+p45
+I1049
+sVWebsite.manufacturers
+p46
+I10072
+sVitem.extract?
+p47
+I16634
+sVreverse('alerts_list', ('matias',))
+p48
+I12363
+sVi.image.readinto(x)
+p49
+I17241
+sV())&#@*[#}+#^}#%!![#&*}^{^(({+#*[!{!}){(!*@!+@[_(*^+*]$]+@+*_##)&)^(@$^]e@][#&)(
+p50
+I12904
+sVfrom categorizatio.models import *
+p51
+I3843
+sVs.query(PhotoTag).filter_by(PhotoTag.tag_id == t.id)
+p52
+I14739
+sVa[:-2]
+p53
+I5116
+sVfrom pp import models
+p54
+I19956
+sVprint nltk.tokenize.WordPunctTokenizer().batch_tokenize.__doc__
+p55
+I6479
+sVi.image.file.name
+p56
+I17317
+sVs
+I514
+sVitr = RoomCompetitionEntry.objects.all().iterator()
+p57
+I11406
+sVi.name
+p58
+I4001
+sVurllib.URLopener?
+p59
+I19430
+sVdatetime.datetime.strptime(s, '%Y-%m-%d %H:%M:%S %Z-%e')
+p60
+I17709
+sV%@_)%@([#{@$({[^*(${(}#*@[))+[^!([#]{$*^[)_^}*{$#&$$%+!%}($$!{+[$}&#^$&!^@^@{!**
+p61
+I13526
+sVVideoIndex.search("peludo")
+p62
+I174
+sV]{(&!!%+#^^!#}@@&+[{@@$^{+%%{{!}**%!*+_#!_([(!*%!@)(!@)[+*!!*_+_[%_}]&)$^{!)+!*]
+p63
+I13161
+sVp = Permission.objects.filter(content_type=ContentType.objects.get_for_model(User), codename='add_user')[0]
+p64
+I7110
+sVstr(y).decode('utf-8')
+p65
+I21407
+sVr.values
+p66
+I3849
+sVsetattr(u, 'username', 'MatiasAguirre')
+p67
+I18636
+sVc.__class__.__subclasses__()
+p68
+I3578
+sVtime.strptime("07/27/2010", "%B/%d/%Y")
+p69
+I17185
+sVreverse('alerts_list', ())
+p70
+I12362
+sVsys.modules['os'] == x
+p71
+I17818
+sVsock.connect('/home/omab/.t2chess/queue.sock')
+p72
+I16928
+sVarticles._get_url(articles.result.search_params.search_args)
+p73
+I5336
+sVstr(f.errors)
+p74
+I12582
+sVf.field.rel.to
+p75
+I18788
+sVfrom django.template.defaultfilters import iriencode
+p76
+I12643
+sVCmsContentMapping.objects.filter(fragment__in=f).values('id', 'object_id')
+p77
+I9172
+sV@}{[!&_%]{_{*+$#&#*$%!@]}[$]!!^#^&)#}#__[@$#(})(_!((*#){)$#+%_%[{+#_+&@}[}^*%$&#
+p78
+I13246
+sVf.contents_list[1].name
+p79
+I1725
+sVf = os.open("/tmp/file", '+rw')
+p80
+I11667
+sVC(aref=a1, bref=b).save()
+p81
+I19417
+sVt.img.save.__doc__
+p82
+I4901
+sVn.strftime?
+p83
+I11842
+sVr = RoomSearch(count=10)
+p84
+I12783
+sVa.iterkeys()
+p85
+I8228
+sVx.get('k')
+p86
+I18208
+sVItem._translation_model._meta.pk
+p87
+I11518
+sVopen('/tmp/log')
+p88
+I7529
+sVAdminDateField.widget.Media.js
+p89
+I18414
+sV_(@%{}(%#]*^!@$[&^]}&*&}%%%^()]!((_%^{$[_[}_$$+&^%@@+%[(]+{$+$_^+#*%[#_!%)!#%_@%
+p90
+I13342
+sV@)(}&*@+*$$*@&&^](+#%+)+@*]_%}*^@*_!#@%)$![*&#&[]&%@}_}$]{}&^{%+{})#%%$[+*#!@{*[
+p91
+I13891
+sVurllib.urlcleanup("a?b=1&c=2&b=3")
+p92
+I2956
+sVbisect?
+p93
+I17045
+sVr.findall(s)[0].replace('\u005c\u005c', '')
+p94
+I21360
+sVl = x.readlines()
+p95
+I21347
+sVisinstance(r, re._sre)
+p96
+I6234
+sVlist(a).reverse()
+p97
+I17501
+sVtype(t)
+p98
+I5859
+sV!%!!^&*^+{*(*@$((]_$_*+]!{%^$)#__]*+@(__$%&#]@#]%(}$*)#*!(^#_]&&))(+]@%(_{__+%)!
+p99
+I13174
+sVa.upper ()
+p100
+I9380
+sVre.S
+p101
+I6236
+sVweb.render
+p102
+I18018
+sVpingomatic.pingomatic('pepe', 'http://pepe.com')
+p103
+I8441
+sVp.easy_stem("given")
+p104
+I5927
+sVurlparse.urlunparse('?a=1&b=2')
+p105
+I11723
+s.

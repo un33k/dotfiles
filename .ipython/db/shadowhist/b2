@@ -1,0 +1,260 @@
+(dp1
+Va[slice(1)]
+p2
+I16746
+sVEMV_REF         = 'BdX7CqkdFhamshd_dJR3ncLXIEx6HKrA8ww5'
+p3
+I7829
+sVreload(a)
+p4
+I510
+sVplugin['items']
+p5
+I14473
+sVc = cpu.CpuUsage()
+p6
+I2135
+sVmsg = EmailMultiAlternatives(subject, text_content, from_email, [to])
+p7
+I21260
+sVx.product
+p8
+I20862
+sVprint p
+p9
+I4939
+sVt = urllib.urlopen(f.getAttribute('action'), data=data)
+p10
+I20713
+sV(*&)$*)#_#&%%!$}_^}+%]${}&($}!]!*()@!{*)%%*%}}_^_*}@@_}%&^[])*(_}_#_$@(!$*+#*)+$
+p11
+I13384
+sVc.template_name
+p12
+I1347
+sVauth.access_token.secret
+p13
+I16452
+sVi = Item.objects.get(pk=1).get_translations('es')
+p14
+I17871
+sVapi = tweepy.API()
+p15
+I16403
+sVch.hierarchy
+p16
+I10484
+sV[ i for i in xrange(10) ]
+p17
+I1219
+sVp = CmsPage.objects.get(pk=870)
+p18
+I769
+sVrc.query.resultrank_set.all().distinct().count()
+p19
+I7703
+sVfrom tipocms.moldes import *
+p20
+I17647
+sV}{)}][[*]{#(+(@)[_]$$_&[]_&#$)_(&}][&}&%#)@%!)+!]{%*)^%{([!&^%)}+*)%&&(@*$$[{@$&
+p21
+I13211
+sVimport VimPdb
+p22
+I19502
+sVb_iface.GetProperty("battery.charge_level.percentaje")
+p23
+I2197
+sVg.parent.obnob_users.memberships().filter(role='A')
+p24
+I20516
+sVd + datetime.timedelta(seconds=120)
+p25
+I9583
+sVv = ValidationError()
+p26
+I17322
+sVurllib.urlcleanup.__doc__
+p27
+I2958
+sV$^%**@$[$^]@%+%__*}+$)*(*]{[$](]#)!)#@}_]+**)@!%##*^#(!*!+}^{!){}$^@_^!_%$}*&[#}
+p28
+I12995
+sV__import__("os").__path__
+p29
+I11167
+sVGroup.obnob_users.related.field.rel.field_name
+p30
+I20175
+sVv = v[1]
+p31
+I8935
+sVapi.mentions.pagination_mode.count
+p32
+I16392
+sVp = CmsPage.objects.get(pk=7911)
+p33
+I5402
+sVdatetime.date.today8)
+p34
+I3878
+sVdatetime.timedelta?
+p35
+I17674
+sVlocale.setlocale.__doc__
+p36
+I5739
+sVforms.CharField.__bases__
+p37
+I14466
+sVRoom.objects.filter(parent__isnull=True).count()
+p38
+I17917
+sV%{[!])]^]_[%%]{&%#{!*_$[%@}@^]@)!#(&#{(#(_{([+@)%!@(@[$$_$_!@_$&[))*}){+(]}(*^[)
+p39
+I13163
+sV%&!#a}#+#^#{_&)({%!_]!_][}^_%*+}$)&!@[)#@{@[%*!*#_[$$(_[+!^[[[[+*{[*+{!#&*^@&+%)
+p40
+I13428
+sVp.template.path.path
+p41
+I5028
+sVs = '{% article_tracked_url "conranshop.co.uk"  "[ url 6275 ]" %}" target="_blank""'
+p42
+I15017
+sVf.status
+p43
+I7853
+sVww.node.nodelist
+p44
+I10242
+sVdo_category_links()
+p45
+I6280
+sVfrom categoryeditor.models import Category
+p46
+I2310
+sVg['e1c44ca80f2511debf8e001f3c609307']
+p47
+I4894
+sVa.split('.')
+p48
+I10884
+sVfrom tipocms.admin.views import welcome
+p49
+I1369
+sVdatetime.strptime('Fri Feb 05 19:12:32 +0000 2010', '%a %b')
+p50
+I11875
+sVrange(1, 10)
+p51
+I3062
+sVa['pepe']
+p52
+I6785
+sVqs.reverse.__class__
+p53
+I20158
+sVj = JSONTest.objects.all()[0]
+p54
+I20553
+sVprint x.decode('ascii')
+p55
+I21377
+sVj.data.__class__
+p56
+I20565
+sVfrom cms.plugins.hp_splash import CONFIG
+p57
+I12832
+sVimport pymongo
+p58
+I19926
+sVg = os.walk('/home/omab/.sheep')
+p59
+I6862
+sVTranslateableModelTrans.all()
+p60
+I5773
+sVTranslateableModelTrans.db_table
+p61
+I5787
+sVurljoin('matias', None)
+p62
+I17650
+sV(None or [5]) + [1, 2, 3, 4]
+p63
+I20598
+sVa = a | 2
+p64
+I2494
+sVpage_info.attrib
+p65
+I17304
+sVsql.InsertQuery?
+p66
+I19684
+sV}!&]!%!+@){](^(*}^_!$%]^[&*)_^}!@]*+((!^+_$+]_%[@&+(*@}}+}!]#})!*}!)+@}^}_+*#+^!
+p67
+I13977
+sVx += [{'a': i, 'b': random.randint(1, 20)} for i in range(20)]
+p68
+I19995
+sVs.result.facets_class
+p69
+I10649
+sVfrom dajngo.templates import Template
+p70
+I20612
+sVa = dict((i, i) for i in range(5))
+p71
+I11411
+sVw.base_fields["special_offer"]
+p72
+I4130
+sVs.cache.last_activity.select_related('topic')
+p73
+I11948
+sVtpl.nodelist[0].nodelist[0].nodelist
+p74
+I11354
+sVa = 'Maio'
+p75
+I16769
+sVarticles = Article.objects.filter(tag__slug__in=['axxi-digital'])
+p76
+I466
+sVm = r.scanner(s)
+p77
+I4488
+sVr = re.compile('(\u005cd+)\u005c/')
+p78
+I20821
+sVr.terms()[0]
+p79
+I7692
+sVd = DateTimeField(datetime.datetime.now())
+p80
+I7764
+sVr = Room.objects.get(slug="living-room-27b-96000")
+p81
+I5127
+sVUserSocialAuth._meta.fields
+p82
+I19255
+sVl = ''.join(p.readlines())
+p83
+I1061
+sVos.environ['PYTHONPATH']
+p84
+I15522
+sVst.sub('', e)
+p85
+I16906
+sV%{%{&#(*]$}}{}&]$*%(}]{#*(+#%(@]&[^!{&}(^*[@)$^!^+$*]&])@##@*+![&+%_{+_)[[)+)(#_
+p86
+I12957
+sV$[}%@{)&#_}#$&[&(]})&__!_@&]$]&(_{}^&_*$!@)[+%)+#()(+$_$!)*+((_)*@##{+#++}[^@{@+
+p87
+I13475
+s.
