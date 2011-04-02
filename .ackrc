@@ -1,9 +1,3 @@
 --nogroup
---type-set
-pig=.pig
---type-set
-spec=.spec
---type-set
-scala=.scala
---type-set
-tac=.tac
+--type-set=htmf=.htmf
+--type-set=json=.json
