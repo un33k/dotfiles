@@ -23,4 +23,3 @@ map <silent><C-Right> <C-]>
 
 " Ctrl-space displays menu
 inoremap <Nul> <C-x><C-o>
-
