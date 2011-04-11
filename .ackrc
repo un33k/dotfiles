@@ -1,3 +1,4 @@
 --nogroup
 --type-set=htmf=.htmf
 --type-set=json=.json
+--type-set=haml=.haml
