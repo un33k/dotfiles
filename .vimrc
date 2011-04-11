@@ -19,7 +19,7 @@ set ruler                    " show cursor position
 set showmode                 " show current mode
 set showcmd                  " show command in status line
 set encoding=utf-8           " default encoding
-set scrolloff=5              " 5 lines of context when moving
+"set scrolloff=5              " 5 lines of context when moving
 set ttyfast                  " faster tty I/O
 set number                   " display numbers
 "set relativenumber          " relative numbering
@@ -37,6 +37,7 @@ set directory=$HOME/.vim/backups " set swap files here
 set gdefault                 " global sustitution by default
 set completeopt=longest,menuone " completion menu style
 set t_Co=256                 " 256 color compatibility
+set clipboard=unnamed        " use + clipboard by default
 
 """""""""""""""""""
 """ Tabs and spaces
@@ -68,10 +69,11 @@ colorscheme jellybeans      " current colorscheme
 au BufRead,BufNewFile *.html set filetype=htmldjango
 au BufRead            sup.*  set ft=mail
 au BufRead,BufNewFile *.less set filetype=less
+au BufRead,BufNewFile *.ru   set filetype=ruby
 
 """""""""""""""
 """ Status line
-set statusline=%<%F%h%m%r%h%w\ %{strftime(\"%c\",getftime(expand(\"%:p\")))}%=\ %y\ [%{&ff}]\ (%l,%c)\ %P
+set statusline=%<%F%=%h%m%r%h%w\ %{strftime(\"%c\",getftime(expand(\"%:p\")))}\ %y\ [%{&ff}]\ (%l,%c)\ %P
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -166,6 +168,7 @@ nmap <silent> <leader>t :NERDTreeToggle<cr>
 let g:sparkupExecuteMapping = '<c-p>'
 
 autocmd FileType python map <buffer> <F5> :call Pep8()<CR>
+autocmd FileType ruby set shiftwidth=2 softtabstop=2 tabstop=2
 
 " Command-T
 nmap <leader>ff :CommandT<cr>
