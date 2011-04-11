@@ -81,9 +81,6 @@ scratchpads = [ NS "ipython" "gnome-terminal --title='sc-python'"
               , NS "iotop" "gnome-terminal -e iotop --title='sc-iotop'"
                     (title =? "sc-iotop")
                     (customFloating $ W.RationalRect (1/6) (1/6) (2/3) (2/3))
-              , NS "mydeco" "gnome-terminal --title='sc-mydeco' -e '/home/omab/.bin/mydeco'"
-                    (title =? "sc-mydeco")
-                    (customFloating $ W.RationalRect (1/6) (1/6) (2/3) (2/3))
               , NS "obnob" "gnome-terminal --title='sc-obnob' -e 'fab -f ~/.python/fabfile.py obnob'"
                     (title =? "sc-obnob")
                     (customFloating $ W.RationalRect (1/6) (1/6) (2/3) (2/3))
@@ -101,7 +98,8 @@ mykeys c@(XConfig {modMask = modm}) = M.fromList $
                                     , ((modm .|. shiftMask, xK_q     ), io (exitWith ExitSuccess)) -- Quit xmonad
                                     , ((modm              , xK_q     ), restart "xmonad" True)     -- Restart xmonad
                                     , ((modm              , xK_s     ), spawnSelected defaultGSConfig ["google-chrome", "pidgin", "firefox",
-                                                                                                       "rhythmbox", "VirtualBox", "skype"])
+                                                                                                       "firefox-trunk", "rhythmbox",
+                                                                                                       "VirtualBox", "skype", "xchat"])
 
                                     -- *** Move focus up or down the window stack
                                     , ((modm,               xK_j     ), windows W.focusDown)
@@ -122,7 +120,6 @@ mykeys c@(XConfig {modMask = modm}) = M.fromList $
                                     , ((modm              , xK_n     ), namedScratchpadAction scratchpads "htop")
                                     , ((modm              , xK_v     ), namedScratchpadAction scratchpads "iotop")
                                     , ((modm              , xK_e     ), namedScratchpadAction scratchpads "obnob")
-                                    , ((modm              , xK_w     ), namedScratchpadAction scratchpads "mydeco")
 
                                     , ((modm,               xK_Return), spawn myTerminal)
                                     , ((modm,               xK_x     ), spawn myTerminal)
@@ -144,10 +141,6 @@ myManageHooks = composeAll . concat $
     , [ className =? "Google Chrome" --> doShift "www" ]
     , [ className =? "Buddy List" --> doShift "im" ]
     , [ className =? "Contact List" --> doShift "im" ]
-    , [ className =? "mydeco" --> doShift "im" ]
-    , [ className =? "cafe" --> doShift "im" ]
-    , [ className =? "infrastructure" --> doShift "im" ]
-    , [ className =? "qa" --> doShift "im" ]
     ]
 
 
