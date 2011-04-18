@@ -2,3 +2,4 @@
 --type-set=htmf=.htmf
 --type-set=json=.json
 --type-set=haml=.haml
+--type-set=less=.less

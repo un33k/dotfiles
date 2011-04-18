@@ -1,15 +1,6 @@
 # vim:filetype=sh
 
-
 export DJANGO_SETTINGS_MODULE=settings
 export NLTK_DATA=/usr/local/share/nltk/data
 export PYTHONSTARTUP=~/.pythonstartup.py
-
-INSOPHIA=~/job/insophia
-MYDECO=$INSOPHIA/mydeco
-SRC=~/src
-
-PYTHONPATH=~/.python:$SRC/django/django
-PYTHONPATH=$PYTHONPATH:$MYDECO
-#PYTHONPATH=$PYTHONPATH:$MYDECO:$MYDECO/search:$MYDECO/pdbe/translate:$MYDECO/pdbe/toolbox:$MYDECO/pdbe/autoscraping
-export PYTHONPATH
+export PYTHONPATH=~/.python:~/src/django/django

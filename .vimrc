@@ -37,7 +37,7 @@ set directory=$HOME/.vim/backups " set swap files here
 set gdefault                 " global sustitution by default
 set completeopt=longest,menuone " completion menu style
 set t_Co=256                 " 256 color compatibility
-set clipboard=unnamed        " use + clipboard by default
+"set clipboard=unnamed        " use + clipboard by default
 
 """""""""""""""""""
 """ Tabs and spaces
@@ -70,6 +70,7 @@ au BufRead,BufNewFile *.html set filetype=htmldjango
 au BufRead            sup.*  set ft=mail
 au BufRead,BufNewFile *.less set filetype=less
 au BufRead,BufNewFile *.ru   set filetype=ruby
+au BufNewFile,BufRead *.prawn set filetype=ruby
 
 """""""""""""""
 """ Status line
@@ -103,8 +104,8 @@ nnoremap k gk
 map Y "+y$
 
 " \v disables vim regex rules
-nnoremap / /\v
-vnoremap / /\v
+" nnoremap / /\v
+" vnoremap / /\v
 
 " togle highlighting off
 nnoremap <leader><leader> :noh<cr>
@@ -138,6 +139,8 @@ nmap <leader>spen :set spell spelllang=en<cr>
 nmap <leader>spr :setlocal nospell<cr>
 map <leader>c ]sz=
 map <leader>C ]s1z=
+
+imap jj <ESC>
 
 " helpful mercurial shortcuts
 map <leader>au :!hg annotate -nu % \| less<CR>

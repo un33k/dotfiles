@@ -147,3 +147,277 @@ import sys
 sys.append('/home/omab/.virtualenvs/andres/lib/python2.6/site-packages/')
 sys.path.append('/home/omab/.virtualenvs/andres/lib/python2.6/site-packages/')
 import snappy
+a = {u'first_name': u'Ernesto', u'last_name': u'Ernestino', u'name': u'Ernesto Ernestino', u'locale': u'es_LA', u'gender': u'male', 'expires': '4264', u'email': u'django.social.auth@gmail.com', 'access_token': '141564835905859|2.9kHpvVgV_PHsrIRYxlx2wg__.3600.1301446800-100002200789926|l9e2cavwfOJQzPNHJ1X39I3bZRg', u'link': u'http://www.facebook.com/profile.php?id=100002200789926', u'timezone': -3, u'updated_time': u'2011-03-29T18:09:57+0000', u'id': u'100002200789926'} {'username': u'Ernesto Ernestino', 'fullname': u'Ernesto Ernestino', 'last_name': u'Ernestino', 'email': u'django.social.auth@gmail.com', 'first_name': u'Ernesto'}
+a, b = {u'first_name': u'Ernesto', u'last_name': u'Ernestino', u'name': u'Ernesto Ernestino', u'locale': u'es_LA', u'gender': u'male', 'expires': '4264', u'email': u'django.social.auth@gmail.com', 'access_token': '141564835905859|2.9kHpvVgV_PHsrIRYxlx2wg__.3600.1301446800-100002200789926|l9e2cavwfOJQzPNHJ1X39I3bZRg', u'link': u'http://www.facebook.com/profile.php?id=100002200789926', u'timezone': -3, u'updated_time': u'2011-03-29T18:09:57+0000', u'id': u'100002200789926'}, {'username': u'Ernesto Ernestino', 'fullname': u'Ernesto Ernestino', 'last_name': u'Ernestino', 'email': u'django.social.auth@gmail.com', 'first_name': u'Ernesto'}
+a
+b
+from django.utils.simplejson import decoder
+decoder?
+decoder('{"a": 1}')
+from django.utils import simplejson
+simplejson.dumps('{"a": 1}')
+simplejson.loads('{"a": 1}')
+data = """
+{
+-data: [
+-{
+name: "Programacion"
+category: "Interest"
+id: "412839916872"
+created_time: "2011-03-29T23:59:20+0000"
+}
+-{
+name: "Astronomía"
+category: "Field of study"
+id: "103964412973949"
+created_time: "2011-03-29T23:59:17+0000"
+}
+]
+}"""
+simplejson.loads(data)
+%edit
+simplejson.loads(data)
+data
+data = data.split()
+data
+data = ''.join(data)
+simplejson.loads(data)
+data
+%edit
+xxx
+%edit
+xxx
+simplejson.loads(xxx)
+simplejson.loads(''.join(xxx.split()))
+print xxx
+print "matias
+print "matias"
+%edit
+print xxx
+simplejson.loads(''.join(xxx.split()))
+import urllib
+urllib.urlencode('{'timeStmp': '1301620351', 'oauth_callback': 'http://myapp.com:8000/complete/google-oauth/', 'oauth_token': '4/qErPX3pSTmLOMiYvedO7Rpmr-0oj', 'secTok': '.AG5fkS_Y7LquXtNOlYfWN59jdo1bpnVQxA=='}')
+urllib.urlencode({'timeStmp': '1301620351', 'oauth_callback': 'http://myapp.com:8000/complete/google-oauth/', 'oauth_token': '4/qErPX3pSTmLOMiYvedO7Rpmr-0oj', 'secTok': '.AG5fkS_Y7LquXtNOlYfWN59jdo1bpnVQxA=='})
+import urllib
+urllib.urlencode({'a': 'b|c'})
+User.objects.order_by('?')[0]
+User.objects.order_by('-id')[0]
+User.objects.order_by('-id')[0].delete()
+UserSocialAuth.objects.all().delete()
+Nonce.objects.all().delete()
+Association.objects.all()
+FileThread.objects.filter(group__in=get_current_user().obnob_groups.all()).order_by('-created_at')
+UserSocialAuth.objects.all().delete()
+User.objects.order_by('-id')[0].delete()
+from django.utils import simplejson
+simplejson.JSONDecodeError
+from social_auth.models import *
+UserSocialAuth?
+UserSocialAuth._meta.db_table
+ls
+ls --color=autho
+ls --color=auto
+clear
+for i in $(ls):
+import glob
+glob.glob('/*.*')
+glob.glob('/*')
+import buildbot
+from setuptools import find_packages, setup
+setup?
+from os.path import abspath, dirname, basename, join
+dirname()
+dirname(__file__)
+import os
+os.env
+import os
+os.getcwd()
+os.getcwdu()
+class Pepe(object):
+    def __init__(self, *args, **kwargs):
+        self.args = args
+        self.kwargs = kwargs
+class Pepe(object):
+    def __init__(self, *args, **kwargs):
+        self.args = args
+        self.kwargs = kwargs
+    @classmethod
+    def as_view(self):
+        def func(*args, **kwargs):
+            print args, kwargs
+        return func
+p = Pepe(1, 2, a=1, b=2).as_view()
+p
+p()
+p(1, 2, a=1, b=2)
+p
+p = Pepe(1, 2, a=1, b=2)
+f = p.as_view()
+from sys import getrefcount
+getrefcount(p)
+getrefcount(f)
+f
+from sys import _getframe
+_getframe()
+f = _getframe()
+f.f_locals
+u = User.objects.get(username='kevin.tran')
+FileThread.objects.filter(group__in=u.obnob_groups.all()).order_by('-created_at')
+FileThread.objects.filter(group__in=u.obnob_groups.select_related('group')all()).order_by('-created_at')
+FileThread.objects.filter(group__in=u.obnob_groups.select_related('group').all()).order_by('-created_at')
+u.obnob_groups.select_related('group').all()
+u.obnob_groups.all()
+u.obnob_groups.values('group')
+u.obnob_groups.values?
+import pkg_resources
+pkg_resources.__package__
+pkg_resources.__package__.__class__
+import this
+import random
+random.choice?
+', '.join(['a', 'b'])
+list('a')
+list(None)
+a = [None or 1]
+a
+[1 or 2]
+48 / 2 * (9+3)
+48 / (2 * (9+3))
+import time
+time.time()
+str(time.time())
+str(int(time.time()))
+time.ctime()
+time.time?
+time.struct_time?
+time.struct_time()
+referred_signup_url = u'http://%s%s?ref_key=%%s' % ('google.com', '/a/s/')
+referred_signup_url
+referred_signup_url % '123'
+from django.contrib.auth import get_backends
+get_backends()
+get_backends()[0
+]
+b = get_backends()[0
+]
+b
+b.__module__
+b = get_backends()[1]
+b.__module__
+b.__class__.__name__
+import operator
+operator.ne?
+apply(operator.ne, (1, 2, 3))
+all(operator.ne, (1, 2, 3))
+reduce(operator.ne, (1, 2, 3))
+reduce(operator.eq, (1, 2, 3))
+import operator
+reduce(operator.ne, [1, 2, 3])
+reduce(operator.ne, [1, 1, 1])
+reduce(operator.ne, [1, 1, 1], [])
+reduce(operator.eq, [1, 1, 1], [])
+reduce(operator.eq, [1, 1, 1])
+reduce?
+any(reduce(lambda x, y: x != y, [1, 1, 1]))
+any(lambda x, y: x != y, [1, 1, 1])
+import urlparse
+urlparse?
+urlparse.urlunparse?
+urlparse.urlunparse('')
+urlparse.urlunparse(('http', 'google.com', '/q/')
+)
+urlparse.urlunparse(('http', 'google.com', '/q/', 'a=1', 'b=1', 'c')
+)
+urlparse.urlunparse(('http', 'google.com', '/q/', 'a=1', 'b=1', 'c'))
+urlparse.urlunparse(('http', 'google.com', '/q/', '', 'b=1', 'c'))
+urlparse.urlunparse(('http', 'google.com', '/q/', '', 'b=1', ''))
+urlparse.urlunparse(('https', 'google.com', '/q/', '', 'b=1', ''))
+urlparse.urlunparse(('https', 'google.com', '/q/', '', {'b': '1'}, ''))
+from obnob.apps.helpers.utils import full_url
+full_url('account_reset_passwd', query={'reset_key': '123'})
+from urllib import urlencode
+urlencode({})
+from obnob.apps.helpers.utils import full_url
+from urllib import urlencode
+full_url('account_reset_passwd', query={'reset_key': '123'})
+full_url('account_reset_passwd')
+full_url('account_reset_passwd', query='a=1')
+full_url('account_reset_passwd', query='')
+full_url('account_reset_passwd', query=None)
+full_url('account_reset_passwd', query={})
+from django.contrib.auth.models import User
+User.objects.get()
+from django.contrib.contenttypes.models import ContentType
+ContentType.objects.get()
+u = User.objects.get(pk=32)
+u.signup_completed_stage
+u.signup_completed_stage = u''
+u.save()
+u = User.objects.get(pk=32)
+u.signup_completed_stage = u''
+u = User.objects.get(pk=32)
+u.signup_completed_stage
+u.signup_completed_stage = ''
+u.save()
+u = User.objects.get(pk=32)
+u.signup_completed_stage
+u = User.objects.get(pk=32)
+u.signup_completed_stage
+print u.signup_completed_stage
+print '#%s#' % u.signup_completed_stage
+u = User()
+u.signup_completed_stage
+u = User.objects.get(pk=32)
+u.signup_completed_stage
+u.signup_completed_stage = ''
+u.save()
+u = User.objects.get(pk=32)
+u.save()
+u.signup_completed_stage
+u.signup_completed_stage = 'E'
+u.save()
+u = User.objects.get(pk=32)
+u.save()
+u.signup_completed_stage
+u.signup_completed_stage = ''
+u.save()
+u = User.objects.get(pk=32)
+u.signup_completed_stage = ''
+u = User.objects.get(pk=32)
+u.signup_completed_stage
+u = User.objects.get(username='kevin.tran')
+u
+ChatterboxThread(content_object=u)
+c = ChatterboxThread(content_object=u)
+c.content_object
+c.object_id
+c.content_type_id
+c.content_object
+from django.utils.simplejson import JSONDecodeError
+JSONDecodeError.__bases__
+from django.utils.simplejson import JSONDecodeError
+JSONDecodeError.__bases__
+from django import VERSION
+print VERSION
+from django.utils.simplejson import JSONDecodeError
+from django import VERSION
+print VERSION
+from django.utils.simplejson import JSONDecodeError
+print x
+irint x
+print x
+rint "hola"
+from django import VERSION
+print VERSION
+from django import VERSION
+print VERSION
+from django.utils.simplejson import JSONDecodeError
+JSONDecodeError
+class X(ValueError)
+class X(ValueError):
+    pass
+try:
+    raise X
+except ValueError, e:
+    print "aca"
+print a
