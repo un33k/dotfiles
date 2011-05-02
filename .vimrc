@@ -143,7 +143,7 @@ map <leader>C ]s1z=
 imap jj <ESC>
 
 " helpful mercurial shortcuts
-map <leader>au :!hg annotate -nu % \| less<CR>
+map <leader>au :!hg annotate -nu % \| less<cr>
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 """"""""""""""""" Plugins configurations """"""""""""""""""""""
@@ -170,8 +170,9 @@ nmap <silent> <leader>t :NERDTreeToggle<cr>
 " sparkup mapping
 let g:sparkupExecuteMapping = '<c-p>'
 
-autocmd FileType python map <buffer> <F5> :call Pep8()<CR>
+autocmd FileType python map <buffer> <F5> :call Pep8()<cr>
 autocmd FileType ruby set shiftwidth=2 softtabstop=2 tabstop=2
+autocmd FileType js map <leader>l :JSLintUpdate<cr>
 
 " Command-T
 nmap <leader>ff :CommandT<cr>

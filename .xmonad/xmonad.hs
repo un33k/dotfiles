@@ -98,8 +98,8 @@ mykeys c@(XConfig {modMask = modm}) = M.fromList $
                                     , ((modm .|. shiftMask, xK_q     ), io (exitWith ExitSuccess)) -- Quit xmonad
                                     , ((modm              , xK_q     ), restart "xmonad" True)     -- Restart xmonad
                                     , ((modm              , xK_s     ), spawnSelected defaultGSConfig ["google-chrome", "pidgin", "firefox",
-                                                                                                       "firefox-trunk", "rhythmbox",
-                                                                                                       "VirtualBox", "skype", "xchat"])
+                                                                                                       "rhythmbox", "VirtualBox", "skype",
+                                                                                                       "xchat"])
 
                                     -- *** Move focus up or down the window stack
                                     , ((modm,               xK_j     ), windows W.focusDown)

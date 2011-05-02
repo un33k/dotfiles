@@ -3,4 +3,8 @@
 for file in ~/.bash/completion_scripts/*; do
     . $file
 done
+
+if [[ -f /etc/bash_completion ]]; then
+    . /etc/bash_completion
+fi
 #run-parts ~/.bash/completion_scripts

@@ -421,3 +421,436 @@ try:
 except ValueError, e:
     print "aca"
 print a
+from django.core.urlresolvers import resolve, reverse
+resolve?
+resolve('/profile/kevin.tran/')
+a = 'hola mundo'
+a = 'hola mundo hola'
+a.replace('hola', 'hello', 1)
+import re
+r = re.compile(r'(?P<name>\d+) (?P<name>\d+)')
+from django.core.urlresolvers import reverse
+reverse('association_complete', args=('google',))
+reverse('association_complete', args='google')
+reverse('association_complete', kwargs=('google',))
+reverse('association_complete', kwargs={'backend': 'google'})
+reverse('associate_complete', kwargs={'backend': 'google'})
+reverse('associate_complete', args=('google',))
+help zip
+isinstance(u'aaa', basestring)
+isinstance('aaa', basestring)
+%edit
+say_hi
+say_hi()
+%edit
+os?
+import os
+os?
+%edit
+%edit -p
+x()
+isinstance('aaa', (basestring,))
+isinstance(u'aaa', (basestring,))
+a = range(64)
+a
+import operator
+reduce(operator.mul, a)
+a = a[1:]
+reduce(operator.mul, a)
+1982608315404440064116146708361898137544773690227268628106279599612729753600000000000000L / 63
+1982608315404440064116146708361898137544773690227268628106279599612729753600000000000000L / 63 / 62
+1982608315404440064116146708361898137544773690227268628106279599612729753600000000000000L / 63 / 62 / 61
+1982608315404440064116146708361898137544773690227268628106279599612729753600000000000000L / 64
+1982608315404440064116146708361898137544773690227268628106279599612729753600000000000000L / 63
+x = a[0]
+x
+y = a[-1]
+x | y
+x || y
+operator.ior?
+operator.truth?
+x = 0
+for i in a: x << a[i]
+for i in a: x << i
+x
+x << 1
+x
+x = 1
+x << 1
+x = 1
+for i in a:
+    x << 1
+    
+x
+a
+for i in a:
+    x << i
+x
+import mat
+import math
+sum(a)
+a
+a[43]
+a[42]
+a[42] = 44
+sum(a)
+for x, idx in enumerate(a):
+    pass
+total = 0
+fot x, idx in enumerate(a):
+total, in_array = 0, 0
+for x, idx in enumerate(a):
+    total += idx + 1
+    in_array += x
+    end
+for x, idx in enumerate(a):
+    total += idx + 1
+    in_array += x
+total = 0
+in_array = 0
+for x, idx in enumerate(a):
+    total += idx + 1
+    in_array += x
+total
+in_array
+a
+sum(a)
+sum(range(64))
+reduce(operator.mul,range(64))
+reduce(operator.mul, range(1, 64))
+reduce(operator.mul, range(1, 64)) / 65
+reduce(operator.mul, range(1, 64)) / 64
+reduce(operator.sum, range(1, 64))
+reduce(operator.add, range(1, 64))
+reduce(operator.add, range(1, 64)) / len(range(1, 64))
+a
+sum(a)
+sum(a) / 44
+reduce(operator.mul, a)
+reduce(operator.mul, a) / (44 * 2)
+x = 1
+for i in a:
+    x <<= i
+x
+x >> 44
+x >> 44 >> 44
+x / 44
+divmod(x, 44)
+arr_out = reduce(operator.mul, a)
+a = range(1, 64)
+a[16] = 44
+should_out = reduce(operator.mul, range(1, 64))
+arr_out = reduce(operator.mul, a)
+arr_out
+should_out
+arr_out - should_out
+for x in a:
+    print x, divmod(should_out, x)
+h = should_out
+for x in a:
+    print x, divmod(should_out, x)
+h = should_out
+for x in a:
+    print x, divmod(h, x)
+    h = h / x
+h = arr_out
+for x in a:
+    print x, divmod(h, x)
+    h = h / x
+h = should_out
+for x in a:
+    print x, divmod(h, x)
+    h = h / x
+    print x, divmod(h, x)
+h = should_out
+for x in a:
+    print x, divmod(h, x)
+    h = h / x
+    print x, divmod(h, x)
+%edit
+from django
+from django.tests.utils import get_runner
+from django.test.utils import get_runner
+get_runner()
+from django.conf import settings
+get_runner(settings)
+get_runner(settings)()
+from django.core.urlresolvers import resolve
+resolve('/qa/question/2/answer/')
+f, args, kwargs = resolve('/qa/question/2/answer/')
+f
+f.func_name
+clear
+NoticeType.objects.get(label='qa.new_answer')
+NoticeType.objects.filter(label='qa.new_answer')
+NoticeType.objects.all()
+[x.label for x in NoticeType.objects.all()]
+n = Notice.objects.all().order_by('-id')[0]
+nt = n.notice_type
+g = n.group
+g
+NoticeEmailSetting.objects.should_send(list(User.objects.all()), nt, g)
+dict(NoticeEmailSetting.objects.should_send(list(User.objects.all()), nt, g))
+import weakref
+import module
+weakref.ref?
+weakref.proxy?
+globa x = 1
+globa x
+x = 1
+global x = 2
+global x
+x = 2
+%pdoc
+%pdoc?
+%quickref
+%bookmark
+%bookmark name
+from django.views.decorators.http import require_POST
+from functools import wraps
+wraps?
+from django.template import Template, Context
+t = Template("{{ SITE_URL }}")
+t.render(Context({}))
+import setuptools
+setuptools.__
+setuptools.__version__
+a = None
+b = range(3)
+a or [] + b
+a = range(5)
+a or [] + b
+(a or []) + b
+try:
+    raise ValueError('err', range(10))
+except ValueError, e:
+    print e
+e
+e.message
+e.messages
+e.args
+try:
+    raise ValueError('err')
+except ValueError, e
+try:
+    raise ValueError('err')
+except ValueError, e:
+    print e
+e
+e.message
+import mock
+mock.sentinel
+mock.sentinel.return_value
+mock.sentinel.return_value = User.objects.get(username='kevin.tran')
+mock.sentinel.return_value
+m = Mock(return_value=User.objects.get(username='kevin.tran'))
+m = mock.Mock(return_value=User.objects.get(username='kevin.tran'))
+m
+m()
+m(1, 2, 3)
+m.return_value = User.objects.all()[0]
+m()
+@mock.patch('obnob.middleware.get_current_user', mock)
+def xxx():
+    return monk()
+monk()
+@mock.patch('obnob.middleware.get_current_user', mock)
+def xxx():
+    return mock()
+mock()
+@mock.patch('obnob.middleware.get_current_user', mock)
+def xxx():
+    return m()
+m()
+from obnob.middleware import get_current_user
+get_current_user()
+xxx()
+mock.sentinel
+mock.sentinel.xxx
+mock.sentinel.xx
+@patch('obnob.middleware.get_current_user', sentinel.attribute)
+def test():
+    from obnob.middleware import get_current_user
+    assert get_current_user is sentinel.attribute
+@mock.patch('obnob.middleware.get_current_user', sentinel.attribute)
+def test():
+    from obnob.middleware import get_current_user
+    assert get_current_user is sentinel.attribute
+@mock.patch('obnob.middleware.get_current_user', mock.sentinel.attribute)
+def test():
+    from obnob.middleware import get_current_user
+    assert get_current_user is mock.sentinel.attribute
+test()
+mock.sentinel.attribute.return_value = u
+mock.sentinel.attribute.return_value = User.objects.get(username='kevin.tran')
+test()
+from obnob.middleware import get_current_user
+@patch
+@mock.patch('obnob.middleware.get_current_user', m)
+def test()
+@mock.patch('obnob.middleware.get_current_user', m)
+def test():
+    return m.return_value
+test()
+get_current_user
+get_current_user()
+from obnob.middleware import get_current_user
+get_current_user()
+m.side_effect = lambda *args, **kwargs: User.objects.get(username='kevin.tran')
+get_current_user()
+test()
+from mock import patch, sentinel, Mock
+@patch('obnob.middleware.get_current_user')
+def test(func):
+    print func
+    func.return_value = User.objects.get(username='kevin.tran')
+test()
+@patch('obnob.middleware.get_current_user')
+def test(func):
+    print func
+    func.return_value = User.objects.get(username='kevin.tran')
+    return func()
+test()
+from obnob.middleware import get_current_user
+get_current_user()
+@patch('obnob.middleware.get_current_user')
+def test(func):
+    print func
+    func.return_value = User.objects.get(username='kevin.tran')
+    from obnob.middleware import get_current_user
+    print "gcu:", get_current_user()
+test()
+from mock import patch
+with path('obnob.middleware.get_current_user') as func:
+    print func
+    func.return_value = User.objects.get(username='kevin.tran')
+    print func()
+with patch('obnob.middleware.get_current_user') as func:
+    print func
+    func.return_value = User.objects.get(username='kevin.tran')
+    print func()
+with patch('obnob.middleware.get_current_user') as func:
+    print func
+    func.return_value = User.objects.get(username='kevin.tran')
+    from obnob.middleware import get_current_user
+    print func()
+    print get_current_user()
+from mock import patch
+p = patch('obnob.middleware.get_current_user')
+p
+p()
+p?
+m = p.start()
+m
+m()
+u = User.objects.get(username='kevin.tran')
+m.side_effect = lambda *args, **kwargs: u
+m()
+u = User.objects.all()[0]
+m()
+from obnob.middleware import get_current_
+from obnob.middleware import get_current_user
+get_current_user()
+u = User.objects.get(username='kevin.tran')
+get_current_user()
+u.stop()
+m.stop()
+p.stop()
+get_current_user()
+p.stop()
+get_current_user()
+from obnob.middleware import get_current_user
+get_current_user()
+u = User.objects.order_by('-id').all()[0]
+u
+from obnob.apps.facebook.utils import load_facebook_data
+load_facebook_data(u)
+u = User.objects.order_by('-id').all()[0]
+from obnob.apps.facebook.utils import load_facebook_data
+load_facebook_data(u)
+from obnob.apps.facebook.utils import load_facebook_data
+u = User.objects.order_by('-id').all()[0]
+load_facebook_data(u)
+u.social_auth.all()
+u.social_auth.all()[0]
+u.social_auth.all()[0].uid
+u.social_auth.all()[0].extra_data
+load_facebook_data(u)
+from obnob.apps.facebook.utils import load_facebook_data
+u = User.objects.order_by('-id').all()[0]
+load_facebook_data(u)
+from obnob.apps.facebook.utils import load_facebook_data
+u = User.objects.order_by('-id').all()[0]
+load_facebook_data(u)
+u.get_profile()
+p = u.get_profile()
+p.birthday
+p.political_views
+p.religious_views
+p.books
+load_facebook_data(u)
+p.stop()
+p = u.get_profile()
+p.books
+p.movies
+p.music
+from obnob.apps.facebook.utils import load_facebook_data
+u = User.objects.order_by('-id').all()[0]
+load_facebook_data(u)
+u = User.objects.order_by('-id').all()[0]
+from obnob.apps.facebook.utils import load_facebook_data
+load_facebook_data(u)
+from obnob.apps.facebook.utils import load_facebook_data
+u = User.objects.order_by('-id').all()[0]
+load_facebook_data(u)
+p = u.get_profile()
+p.books
+p.music
+p.games
+p.movies
+p.interests
+p.gender
+u = User.objects.order_by('-id').all()[0]
+u
+p = u.get_profile()
+p.books
+p.movies
+p.music
+u = User.objects.order_by('-id').all()[0]
+u.social_auth.all()[0].extra_data
+from obnob.apps.facebook.utils import load_facebook_data
+load_facebook_data(u)
+p = u.get_profile()
+p.people
+from obnob.apps.facebook.utils import load_facebook_data
+u = User.objects.order_by('-id').all()[0]
+load_facebook_data(u)
+p = u.get_profile()
+p.people
+p.quote
+p.quotes
+p.quote
+u = User.objects.order_by('-id').all()[0]
+from obnob.apps.facebook.utils import load_facebook_data
+load_facebook_data(u)
+p = u.get_profile()
+p.quote
+p.quote_id
+from obnob.apps.facebook.utils import load_facebook_data
+u = User.objects.order_by('-id').all()[0]
+load_facebook_data(u)
+u.get_profile()
+p = u.get_profile()
+p.quote
+p.quote.text
+from django.template import Template, Context
+t = Template('{% load helpers_tags %}{% site_url %}')
+t.render(Context({}))
+from django.template import Template, Context
+t = Template('{% load helpers_tags %}{% site_url %}')
+t.render(Context({}))
+from django.template import Template, Context
+t = Template('{% load helpers_tags %}{% site_url %}')
+t.render(Context({}))
+t = Template('{% load helpers_tags %}{% site_url %}{% url welcome_welcome %}')
+t.render(Context({}))
