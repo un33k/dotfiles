@@ -172,7 +172,7 @@ let g:sparkupExecuteMapping = '<c-p>'
 
 autocmd FileType python map <buffer> <F5> :call Pep8()<cr>
 autocmd FileType ruby set shiftwidth=2 softtabstop=2 tabstop=2
-autocmd FileType js map <leader>l :JSLintUpdate<cr>
+autocmd FileType javascript nmap <leader>l :JSLintUpdate<cr>
 
 " Command-T
 nmap <leader>ff :CommandT<cr>
