@@ -35,7 +35,7 @@ set formatoptions=qrn1       " auto formating options see fo-table
 set backupdir=$HOME/.vim/backups " set backup files here
 set directory=$HOME/.vim/backups " set swap files here
 set gdefault                 " global sustitution by default
-set completeopt=longest,menuone " completion menu style
+set completeopt=menuone,longest,preview " completion menu style
 set t_Co=256                 " 256 color compatibility
 "set clipboard=unnamed        " use + clipboard by default
 
@@ -148,13 +148,13 @@ map <leader>au :!hg annotate -nu % \| less<cr>
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 """"""""""""""""" Plugins configurations """"""""""""""""""""""
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" supertab
-let g:SuperTabDefaultCompletionType = "context"
-
 autocmd FileType python set omnifunc=pythoncomplete#Complete
 autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS
 autocmd FileType html set omnifunc=htmlcomplete#CompleteTags
 autocmd FileType css set omnifunc=csscomplete#CompleteCSS
+
+" supertab
+let g:SuperTabDefaultCompletionType = "context"
 
 " python_open_module, open current module below cursor in v-split
 let pom_key_open_in_win='<leader>p'

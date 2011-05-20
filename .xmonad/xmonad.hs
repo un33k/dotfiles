@@ -115,7 +115,7 @@ mykeys c@(XConfig {modMask = modm}) = M.fromList $
                                     , ((modm              , xK_b     ), sendMessage $ ToggleStruts)
 
                                     -- Commands
-                                    , ((modm,               xK_p     ), spawn "dmenu_path | dmenu_run -b -p '$' -nb '#000' -nf '#fff' -sb green -sf black")
+                                    -- , ((modm,               xK_p     ), spawn "dmenu_path | dmenu_run -b -p '$' -nb '#000' -nf '#fff' -sb green -sf black")
                                     , ((modm              , xK_m     ), namedScratchpadAction scratchpads "ipython")
                                     , ((modm              , xK_n     ), namedScratchpadAction scratchpads "htop")
                                     , ((modm              , xK_v     ), namedScratchpadAction scratchpads "iotop")

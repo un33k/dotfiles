@@ -20,6 +20,7 @@ hgext.parentrevspec =
 hgext.bookmarks =
 hgext.graphlog =
 hgext.transplant =
+hgshelve = ~/.hgext/hgshelve.py
 hgpaste = ~/.hgext/paste.py
 hgprompt = ~/.hgext/prompt.py
 
