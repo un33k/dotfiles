@@ -40,6 +40,13 @@ set t_Co=256                 " 256 color compatibility
 "set clipboard=unnamed        " use + clipboard by default
 
 """""""""""""""""""
+""" Persistent undo
+set undodir=~/.vim/undodir
+set undofile
+set undolevels=1000  " number of changes that can be undone
+set undoreload=10000 " number lines to save for undo on a buffer reload
+
+"""""""""""""""""""
 """ Tabs and spaces
 set autoindent                      " enable autoindenting
 set smartindent                     " smarter indenting
