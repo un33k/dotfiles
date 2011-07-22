@@ -4,7 +4,6 @@
 #     exec screen
 # fi
 
-
 . ~/.bash/python
 . ~/.bash/completions
 . ~/.bash/misc
@@ -64,3 +63,5 @@ if [ "$PS1" ]; then
     alias flashcd="cd /proc/$(pgrep npv)/fd/"
     alias dotfiles="GIT_DIR=~/.dotfiles.git GIT_WORK_TREE=~ git"
 fi
+
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" # Load RVM function'

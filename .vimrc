@@ -88,6 +88,7 @@ set statusline=%<%F%=%h%m%r%h%w\ %{strftime(\"%c\",getftime(expand(\"%:p\")))}\ 
 """"""""""""""""""""""""" Mappings """"""""""""""""""""""""""""
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 let mapleader = ","         " set mapleader to something useful
+let maplocalleader = ";"    " set mapleader to something useful
 
 " Enter introduces a new line on command mode
 nmap <cr> i<cr><esc>
@@ -146,6 +147,10 @@ nmap <leader>spen :set spell spelllang=en<cr>
 nmap <leader>spr :setlocal nospell<cr>
 map <leader>c ]sz=
 map <leader>C ]s1z=
+
+" gist
+nmap <leader>g :Gist -p<cr>
+vmap <leader>g :Gist -p<cr>
 
 imap jj <ESC>
 

@@ -5,3 +5,4 @@
 --type-set=less=.less
 --type-set=mail=.mail
 --type-set=scss=.scss
+--type-set=coffee=.coffee
