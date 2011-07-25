@@ -1,0 +1,4 @@
+#!/bin/sh
+export SANDBOXES_HOME=$HOME/.sandboxes
+echo "Loading sandbox $1: $SANDBOXES_HOME/$1/bin/activate_sandbox"
+. $SANDBOXES_HOME/$1/bin/activate_sandbox

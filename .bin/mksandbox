@@ -1,0 +1,3 @@
+#!/bin/sh
+export SANDBOXES_HOME=$HOME/.sandboxes
+sandbox $SANDBOXES_HOME/$1
