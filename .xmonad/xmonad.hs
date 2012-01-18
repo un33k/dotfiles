@@ -32,6 +32,7 @@ import XMonad.Hooks.UrgencyHook
 import XMonad.Hooks.EwmhDesktops
 import XMonad.Hooks.ManageDocks
 import XMonad.Hooks.SetWMName
+import XMonad.Hooks.FadeInactive
 
 import XMonad.Util.Run (spawnPipe)
 import XMonad.Util.Themes
@@ -98,7 +99,7 @@ mykeys c@(XConfig {modMask = modm}) = M.fromList $
                                     , ((modm .|. shiftMask, xK_q     ), io (exitWith ExitSuccess)) -- Quit xmonad
                                     , ((modm              , xK_q     ), restart "xmonad" True)     -- Restart xmonad
                                     , ((modm              , xK_s     ), spawnSelected defaultGSConfig ["google-chrome", "pidgin", "firefox",
-                                                                                                       "rhythmbox", "VirtualBox", "skype",
+                                                                                                       "banshee", "VirtualBox", "skype",
                                                                                                        "xchat"])
 
                                     -- *** Move focus up or down the window stack
@@ -117,9 +118,11 @@ mykeys c@(XConfig {modMask = modm}) = M.fromList $
                                     -- Commands
                                     -- , ((modm,               xK_p     ), spawn "dmenu_path | dmenu_run -b -p '$' -nb '#000' -nf '#fff' -sb green -sf black")
                                     , ((modm              , xK_m     ), namedScratchpadAction scratchpads "ipython")
+                                    , ((modm              , xK_v     ), namedScratchpadAction scratchpads "irb")
                                     , ((modm              , xK_n     ), namedScratchpadAction scratchpads "htop")
-                                    , ((modm              , xK_v     ), namedScratchpadAction scratchpads "iotop")
-                                    , ((modm              , xK_e     ), namedScratchpadAction scratchpads "obnob")
+                                    -- , ((modm              , xK_v     ), namedScratchpadAction scratchpads "iotop")
+                                    -- , ((modm              , xK_e     ), namedScratchpadAction scratchpads "obnob")
+                                    , ((modm              , xK_g     ), goToSelected defaultGSConfig)
 
                                     , ((modm,               xK_Return), spawn myTerminal)
                                     , ((modm,               xK_x     ), spawn myTerminal)
@@ -134,6 +137,7 @@ mykeys c@(XConfig {modMask = modm}) = M.fromList $
                                      , (f, m) <- [(W.view, 0),
                                                   (W.shift, shiftMask),
                                                   (copy, shiftMask .|. controlMask)]]
+
 myManageHooks = composeAll . concat $
     [ [manageDocks]
     , [ className =? "Firefox" --> doShift "www" ]
@@ -141,8 +145,12 @@ myManageHooks = composeAll . concat $
     , [ className =? "Google Chrome" --> doShift "www" ]
     , [ className =? "Buddy List" --> doShift "im" ]
     , [ className =? "Contact List" --> doShift "im" ]
+    , [ resource  =? "Do" --> doIgnore ]
     ]
 
+myLogHook :: X ()
+myLogHook = fadeInactiveLogHook fadeAmount
+   where fadeAmount = 0.45
 
 -- *** Main
 main = do
@@ -156,4 +164,5 @@ main = do
                                    , normalBorderColor  = "#333333"
                                    , focusedBorderColor = "#98db98" -- #9acd32
                                    , keys = \c -> mykeys c `M.union` keys gnomeConfig c
+                                   , logHook = myLogHook
                                    }
