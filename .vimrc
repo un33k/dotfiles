@@ -81,7 +81,7 @@ au BufNewFile,BufRead *.prawn set filetype=ruby
 
 """""""""""""""
 """ Status line
-set statusline=%<%F%=%h%m%r%h%w\ %{strftime(\"%c\",getftime(expand(\"%:p\")))}\ %y\ [%{&ff}]\ (%l,%c)\ %P
+" set statusline=%<%F%=%h%m%r%h%w\ %{strftime(\"%c\",getftime(expand(\"%:p\")))}\ %y\ [%{&ff}]\ (%l,%c)\ %P
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -148,6 +148,9 @@ nmap <leader>spr :setlocal nospell<cr>
 map <leader>c ]sz=
 map <leader>C ]s1z=
 
+" GUndo
+map <leader>u :GundoToggle<cr>
+
 " gist
 nmap <leader>g :Gist -p<cr>
 vmap <leader>g :Gist -p<cr>
@@ -185,6 +188,11 @@ let g:sparkupExecuteMapping = '<c-p>'
 autocmd FileType python map <buffer> <F5> :call Pep8()<cr>
 autocmd FileType ruby set shiftwidth=2 softtabstop=2 tabstop=2
 autocmd FileType javascript nmap <leader>l :JSLintUpdate<cr>
+autocmd FileType javascript set shiftwidth=4 softtabstop=4 tabstop=4
+autocmd BufWritePost,FileWritePost *.coffee :silent !coffee -c <afile>
+autocmd BufNewFile,BufRead [vV]agrantfile set filetype=ruby
+autocmd BufNewFile,BufRead [cC]apfile set filetype=ruby
+autocmd BufNewFile,BufRead [tT]horfile set filetype=ruby
 
 " Command-T
 nmap <leader>ff :CommandT<cr>
@@ -197,3 +205,16 @@ let python_highlight_string_formatting = 1
 let python_highlight_indent_errors = 1
 let python_highlight_space_errors = 1
 let python_highlight_doctests = 1
+
+" syntastic
+let g:syntastic_javascript_checker = 'jslint'
+let g:syntastic_javascript_jslint_conf = "--white --undef --nomen --regexp --plusplus --bitwise --newcap --sloppy --vars --es5=false"
+
+" powerline
+let g:Powerline_symbols = 'fancy'
+
+" UltiSnips
+let g:UltiSnipsSnippetsDir = "$HOME/.vim/ultisnips"
+
+" VimColor
+let g:cssColorVimDoNotMessMyUpdatetime = 1
