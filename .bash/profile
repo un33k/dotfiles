@@ -17,13 +17,6 @@ done
 export PATH=${PATH}:/var/lib/gems/1.8/bin # put lessc in the path
 export PATH=$HOME/.bin:$HOME/src/django/django/django/bin:$PATH:/usr/local/sbin:/usr/sbin:/sbin
 
-# Locales
-# LANG=es_UY.UTF-8
-# LC_ALL=es_UY.UTF-8
-# LC_MESSAGES=es_UY.UTF-8
-# LC_CTYPE=es_UY.UTF-8
-# export LC_MESSAGES LC_CTYPE LC_ALL LANG
-
 export EDITOR="/usr/bin/vim"
 #export AWT_TOOLKIT=MToolkit
 export TSOCKS_CONF_FILE=~/.tsocksrc
@@ -38,9 +31,7 @@ if [ "$PS1" ]; then
     alias ols='/bin/ls --color'
     alias ls='ls --color -h'
     alias ll='ls -l'
-    alias lla='ls -Al'
     alias la='ls -A'
-    alias l='ls -CF'
     alias rm='rm -f -i'
     alias cp='cp -i'
     alias mv='mv -i'
@@ -48,19 +39,11 @@ if [ "$PS1" ]; then
     alias grep='grep --color'
     alias vipriv='vi $HOME/misc/.priv/pass'
     alias screen='screen -q'
-    alias mzscheme='mzscheme -U'
-    alias e2i='es2en'
-    alias i2e='en2es'
-    alias gvimr="gvim --remote-tab-silent"
-    alias mplayer="mplayer -stop-xscreensaver"
-    alias df="df -h"
+    alias mplayer="mplayer -stop-xscreensaver -nojoystick"
     alias ssh="TERM=xterm /usr/bin/ssh"
-    alias rmepiphany="rm -rf $HOME/.gnome2/epiphany"
     alias vi="gvim"
     alias v="/usr/bin/vim"
     alias mkvirt="mkvirtualenv --no-site-packages"
-    alias flash="mplayer /proc/$(pgrep npv)/fd/11"
-    alias flashcd="cd /proc/$(pgrep npv)/fd/"
     alias dotfiles="GIT_DIR=~/.dotfiles.git GIT_WORK_TREE=~ git"
 fi
 

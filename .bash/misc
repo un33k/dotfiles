@@ -9,6 +9,7 @@ umask 022
 
 # no bell
 setterm -blength 0
+xset b off
 
 # latam keyboard
 # setxkbmap latam
@@ -53,7 +54,7 @@ export TERM=xterm-256color
 
 # virtualenvwrapper
 export WORKON_HOME=~/.virtualenvs
-source /usr/local/bin/virtualenvwrapper.sh
+source `which virtualenvwrapper.sh`
 export PIP_VIRTUALENV_BASE=$WORKON_HOME
 export PIP_RESPECT_VIRTUALENV=true
 
