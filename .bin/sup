@@ -1,5 +1,4 @@
 #!/bin/sh
-
 fetchmail
-cd ~/src/sup
-./sup
+SRC=$HOME/src/sup
+ruby -I$SRC/lib $SRC/bin/sup

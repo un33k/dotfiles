@@ -1,4 +1,4 @@
-bind c screen 1
+#bind c screen 1
 #bind 0 select 10
 #screen 1
 # screen 2
@@ -33,8 +33,8 @@ bind } history
 #bindkey -k F2 command   # Ctrl-A
 
 # ALT+j  y ALT+k
-bindkey ^[1 prev # alt+1
-bindkey ^[2 next # alt+2
+#bindkey ^[1 prev # alt+1
+#bindkey ^[2 next # alt+2
 
 deflogin off
 autodetach on

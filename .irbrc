@@ -1,8 +1,8 @@
 require 'rubygems'              # rubygems
-require 'ap'                    # awesome print
+#require 'ap'                    # awesome print
 require 'bond'                  # improved completion
-require 'looksee'               # intropection
-require 'interactive_editor'    # popup an editor
+#require 'looksee'               # intropection
+#require 'interactive_editor'    # popup an editor
 require 'ripl'                  # ripl
 require 'ripl/multi_line'       # ripl: multiline support
 require 'ripl/color_error'      # ripl: colored errors
