@@ -1,0 +1,52 @@
+#!/usr/bin/conky -d -c
+alignment tr
+background yes
+border_width 5
+cpu_avg_samples 2
+default_color 000000		
+default_outline_color 000000 	
+default_shade_color 000000	
+double_buffer yes
+draw_borders no
+draw_graph_borders no
+draw_outline no
+draw_shades yes
+gap_x 0
+gap_y 15
+maximum_width 250
+minimum_size 210
+net_avg_samples 2
+no_buffers yes
+override_utf8_locale yes
+own_window no
+own_window_colour 000000	
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+own_window_transparent yes
+own_window_type normal 
+short_units yes			
+stippled_borders 3
+text_buffer_size 8000
+total_run_times 0
+update_interval 1.0
+use_xft yes
+xftalpha 1
+xftfont Zegoe Light:pixelsize=12
+
+TEXT
+${offset 45}${voffset 27}${font Limelight:size=26}${color #fff}${time %H} : ${time %M}${font}
+
+${offset 65}${voffset 15}Host : ${exec hostname}
+${offset 65}Kernel : ${kernel}
+${offset 65}Uptime : $uptime_short
+${offset 65}${voffset 15}CPU : ${cpu cpu1} % - ${cpu cpu2} %
+${offset 65}Memory : $mem - ${memperc} %
+${offset 65}${voffset 25}Space :${offset 5}root: ${fs_free /}
+${offset 65}${offset 40}home : ${fs_free /home}
+##### eth0= LAN | ppp0=modem/cellular | wlan0=Wireless LAN #####
+#${offset 70}${voffset 40}${addr eth0}
+${offset 60}${voffset 20}${addr wlan0} ${offset 10}UL : ${upspeed wlan0}
+${offset 130}DL : ${downspeed wlan0}
+#${offset 70}${voffset 40}${addr wlan0}
+
+
+${image ~/.conky/simple/bg.png -p 0,0}
