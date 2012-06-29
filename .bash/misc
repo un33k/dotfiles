@@ -53,9 +53,9 @@ export XDG_CONFIG_HOME=~/.config
 export TERM=xterm-256color
 
 # virtualenvwrapper
-export WORKON_HOME=~/.virtualenvs
-source `which virtualenvwrapper.sh`
-export PIP_VIRTUALENV_BASE=$WORKON_HOME
+export WORKON_HOME=~/.virtualenvs \
+export PIP_VIRTUALENV_BASE=$WORKON_HOME \
 export PIP_RESPECT_VIRTUALENV=true
+which virtualenvwrapper.sh && source `which virtualenvwrapper.sh`
 
 export PS1 PROMPT_COMMAND=prompt_command
