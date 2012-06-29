@@ -82,9 +82,6 @@ scratchpads = [ NS "ipython" "gnome-terminal --title='sc-python'"
               , NS "iotop" "gnome-terminal -e iotop --title='sc-iotop'"
                     (title =? "sc-iotop")
                     (customFloating $ W.RationalRect (1/6) (1/6) (2/3) (2/3))
-              , NS "obnob" "gnome-terminal --title='sc-obnob' -e 'fab -f ~/.python/fabfile.py obnob'"
-                    (title =? "sc-obnob")
-                    (customFloating $ W.RationalRect (1/6) (1/6) (2/3) (2/3))
               ]
 
 -- Additional keybindings
@@ -100,7 +97,7 @@ mykeys c@(XConfig {modMask = modm}) = M.fromList $
                                     , ((modm              , xK_q     ), restart "xmonad" True)     -- Restart xmonad
                                     , ((modm              , xK_s     ), spawnSelected defaultGSConfig ["google-chrome", "pidgin", "firefox",
                                                                                                        "banshee", "VirtualBox", "skype",
-                                                                                                       "xchat"])
+                                                                                                       "transmission"])
 
                                     -- *** Move focus up or down the window stack
                                     , ((modm,               xK_j     ), windows W.focusDown)
