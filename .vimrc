@@ -79,16 +79,10 @@ au BufRead,BufNewFile *.less set filetype=less
 au BufRead,BufNewFile *.ru   set filetype=ruby
 au BufNewFile,BufRead *.prawn set filetype=ruby
 
-"""""""""""""""
-""" Status line
-" set statusline=%<%F%=%h%m%r%h%w\ %{strftime(\"%c\",getftime(expand(\"%:p\")))}\ %y\ [%{&ff}]\ (%l,%c)\ %P
-
-
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 """"""""""""""""""""""""" Mappings """"""""""""""""""""""""""""
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 let mapleader = ","         " set mapleader to something useful
-let maplocalleader = ";"    " set mapleader to something useful
 
 " Enter introduces a new line on command mode
 nmap <cr> i<cr><esc>
@@ -163,6 +157,7 @@ map <leader>au :!hg annotate -nu % \| less<cr>
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 """"""""""""""""" Plugins configurations """"""""""""""""""""""
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+set omnifunc=syntaxcomplete#Complete
 autocmd FileType python set omnifunc=pythoncomplete#Complete
 autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS
 autocmd FileType html set omnifunc=htmlcomplete#CompleteTags
@@ -170,9 +165,6 @@ autocmd FileType css set omnifunc=csscomplete#CompleteCSS
 
 " supertab
 let g:SuperTabDefaultCompletionType = "context"
-
-" python_open_module, open current module below cursor in v-split
-let pom_key_open_in_win='<leader>p'
 
 " custom scripts loading (top tabline)
 source $HOME/.vim/tabline.vim
@@ -189,10 +181,14 @@ autocmd FileType python map <buffer> <F5> :call Pep8()<cr>
 autocmd FileType ruby set shiftwidth=2 softtabstop=2 tabstop=2
 autocmd FileType javascript nmap <leader>l :JSLintUpdate<cr>
 autocmd FileType javascript set shiftwidth=4 softtabstop=4 tabstop=4
+autocmd FileType htmldjango set shiftwidth=2 softtabstop=2 tabstop=2
 autocmd BufWritePost,FileWritePost *.coffee :silent !coffee -c <afile>
 autocmd BufNewFile,BufRead [vV]agrantfile set filetype=ruby
 autocmd BufNewFile,BufRead [cC]apfile set filetype=ruby
 autocmd BufNewFile,BufRead [tT]horfile set filetype=ruby
+autocmd BufNewFile,BufRead *.json set filetype=javascript
+autocmd FileType gitcommit DiffGitCached | wincmd p | wincmd H
+
 
 " Command-T
 nmap <leader>ff :CommandT<cr>
@@ -209,6 +205,7 @@ let python_highlight_doctests = 1
 " syntastic
 let g:syntastic_javascript_checker = 'jslint'
 let g:syntastic_javascript_jslint_conf = "--white --undef --nomen --regexp --plusplus --bitwise --newcap --sloppy --vars --es5=false"
+let g:syntastic_python_checker = 'flake8'
 
 " powerline
 let g:Powerline_symbols = 'fancy'
