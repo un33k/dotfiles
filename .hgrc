@@ -2,19 +2,17 @@
 username = Matias Aguirre <matiasaguirre@gmail.com>
 ssh = ssh -C
 ignore = ~/.hgignore
-#merge = vimdiff
+#merge =
+merge = internal:merge
 
 [merge-tools]
-threesome.executable = gvim
-threesome.args = -f $base $local $other $output -c 'ThreesomeInit'
-threesome.premerge = keep
-threesome.priority = 1
-#vimdiff.executable = vim
+#vimdiff.executable =
+#vimdiff.executable = gvim
 #vimdiff.args = -d $base $local $output $other +close +close
 
 [extensions]
 hgext.hgk =
-hgext.fetch =
+#hgext.fetch =
 hgext.color =
 hgext.pager =
 hgext.mq =
@@ -26,6 +24,9 @@ hgext.graphlog =
 hgext.transplant =
 hgpaste = ~/.hgext/paste.py
 hgprompt = ~/.hgext/prompt.py
+hgshelve = ~/.hgext/hgshelve.py
+hgext.bookmarks =
+hgext.git =
 
 [diff]
 showfunc = 1
@@ -43,6 +44,8 @@ untrack = rm -Af
 mpaste = paste --dest pastebin.dixo.net --url "https://dev.mydeco.com/pastebin/" --usenetrc
 ipaste = paste --dest lodgeit --url "https://paste.insophia.com" --usenetrc
 ipastepy = ipaste --stdin --syntax python
+fetch = pull --rebase
+show = log -vpr
 
 [defaults]
 #log = --limit 10

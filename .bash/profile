@@ -45,6 +45,16 @@ if [ "$PS1" ]; then
     alias v="/usr/bin/vim"
     alias mkvirt="mkvirtualenv --no-site-packages"
     alias dotfiles="GIT_DIR=~/.dotfiles.git GIT_WORK_TREE=~ git"
+    alias b="bundle exec"
 fi
 
+# vi mode
+set -o vi
+bind -m vi-insert "\C-l.":clear-screen
+bind -m vi-insert "\C-a.":beginning-of-line
+bind -m vi-insert "\C-e.":end-of-line
+bind -m vi-insert "\C-w.":backward-kill-word
+
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" # Load RVM function'
+[[ -r $rvm_path/scripts/completion ]] && . $rvm_path/scripts/completion
+[[ -s $HOME/.tmuxinator/scripts/tmuxinator ]] && source $HOME/.tmuxinator/scripts/tmuxinator

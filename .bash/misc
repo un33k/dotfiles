@@ -9,7 +9,7 @@ umask 022
 
 # no bell
 setterm -blength 0
-xset b off
+[[ "x$DISPLAY" != "x" ]] && xset b off
 
 # latam keyboard
 # setxkbmap latam
