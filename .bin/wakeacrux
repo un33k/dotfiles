@@ -1,2 +1,0 @@
-#!/bin/sh
-wakeonlan -i omab.dyndns.org 00:11:d8:9e:4a:99

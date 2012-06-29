@@ -1,2 +1,0 @@
-#!/bin/sh
-add-apt-repository ppa:$1

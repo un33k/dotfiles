@@ -1,2 +1,0 @@
-#!/bin/sh
-sudo ufw allow from ${1:-192.168.133.8}/24
