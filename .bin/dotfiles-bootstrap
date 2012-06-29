@@ -1,4 +1,5 @@
 #!/bin/bash
+
 [[ $1 = '-h' || -z $1 && -d ~/.dotfiles.git ]] && {
     echo "curl -s https://github.com/omab/dotfiles/raw/master/.bin/dotfiles-bootstrap | bash -"
     echo "wget --no-check-certificate -nv -O - https://github.com/omab/dotfiles/raw/master/.bin/dotfiles-bootstrap | bash -"
@@ -6,10 +7,37 @@
 }
 
 set -e -x
-[[ -d dotfiles/.git ]] || git clone git@github.com:omab/dotfiles.git || git clone https://omab@github.com/omab/dotfiles.git
-export GIT_DIR=${1:-~/.dotfiles.git}
-export GIT_WORK_TREE=${2:-~}
-mv dotfiles/.git $GIT_DIR
-rm -rf dotfiles
-echo '*' >>$GIT_DIR/info/exclude
-git reset --hard
+
+DOTFILES=$HOME/.dotfiles
+
+[[ -d $DOTFILES ]] \
+    || git clone git@github.com:omab/dotfiles.git $DOTFILES \
+    || git clone https://omab@github.com/omab/dotfiles.git $DOTFILES
+
+# Just link basic stuff (awesome, xmonad and others should be linked if needed)
+pushd $DOTFILES
+    git pull origin master
+popd
+
+link() {
+    rm -rf $HOME/$1;
+    ln -s $DOTFILES/$1 $HOME/$1
+}
+
+link .bin
+link .bash_logout
+link .bash_profile
+link .bash
+link .bashrc
+link .editrc
+link .inputrc
+link .ackrc
+link .screenrc
+link .ipython
+link .irbrc
+link .vimrc
+link .vim
+link .gvimrc
+link .hgrc
+link .hgignore
+link .hgext
