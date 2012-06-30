@@ -44,7 +44,6 @@ if [ "$PS1" ]; then
     alias vi="gvim"
     alias v="/usr/bin/vim"
     alias mkvirt="mkvirtualenv --no-site-packages"
-    alias dotfiles="GIT_DIR=~/.dotfiles.git GIT_WORK_TREE=~ git"
     alias b="bundle exec"
 fi
 
