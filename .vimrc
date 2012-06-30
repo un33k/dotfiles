@@ -4,8 +4,7 @@
 
 """"""""""""
 """ Pathogen
-filetype off                " disable filetype, pathogen needs this
-call pathogen#runtime_append_all_bundles()
+call pathogen#infect()
 filetype on                 " enable filetype detection
 filetype plugin on          " enable plugin loading
 filetype plugin indent on   " enable indentation loading
