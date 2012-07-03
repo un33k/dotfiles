@@ -13,6 +13,7 @@ git_bundles = [
   "git://github.com/tpope/vim-fugitive.git",             # fugitive
   "git://github.com/gregsexton/gitv.git",                # gitv
   "git://github.com/jeetsukumaran/vim-buffergator.git",  # buffergator
+  "git://github.com/mattn/webapi-vim.git",               # gist-vim dependency
   "git://github.com/mattn/gist-vim.git",                 # vim-gist
   "git://github.com/klen/plugin-helpers.git",            # plugin-helpers
   "git://github.com/Lokaltog/vim-powerline.git",         # vim-powerline
