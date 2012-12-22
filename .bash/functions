@@ -99,7 +99,7 @@ prompt_command() {
 
     [[ $VIRTUAL_ENV ]] && ve="[${COLOR_RED_BOLD}${VIRTUAL_ENV##*/}${COLOR_NONE}]"
 
-    PS1="${COLOR_RED_BOLD}${prompt_jobs:+$prompt_jobs}${COLOR_NONE}${ve:+$ve }${prompt_server} ${vcs:+$vcs }${COLOR_YELLOW}${shortpwd}"
+    PS1="${COLOR_RED_BOLD}${prompt_jobs:+$prompt_jobs}${COLOR_NONE}${ve:+$ve }${prompt_server} ${vcs:+$vcs }${COLOR_YELLOW}${shortpwd}${COLOR_NONE}"
     PS1+="\n${COLOR_NONE}\$ " # shorted path
 
     [[ $WINDOW ]] && echo -ne "\ek${shortpwd}\e\\" # update screen status line

@@ -37,6 +37,9 @@ set gdefault                 " global sustitution by default
 set completeopt=menuone,longest,preview " completion menu style
 set t_Co=256                 " 256 color compatibility
 "set clipboard=unnamed        " use + clipboard by default
+if exists('+cryptmethod')
+    set cryptmethod=blowfish     " crypt algorithm
+endif
 
 """""""""""""""""""
 """ Persistent undo
@@ -55,6 +58,8 @@ set tabstop=4                       " replace tabs with 4 spaces
 set expandtab                       " expand tabs to spaces
 set smarttab                        " smarting tab
 set backspace=indent,eol,start      " backspace behavior
+set wildmode=list:longest,list:full
+set wildignore+=*.o,*.obj,.git,*.rbc,*.class,.svn,vendor/gems/*,*.bak,*.exe,*.pyc,*.DS_Store,*.db
 
 """""""""""""
 """ Searching
@@ -158,12 +163,17 @@ map <leader>au :!hg annotate -nu % \| less<cr>
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 set omnifunc=syntaxcomplete#Complete
 autocmd FileType python set omnifunc=pythoncomplete#Complete
+autocmd FileType ruby setlocal omnifunc=rubycomplete#Complete
 autocmd FileType javascript set omnifunc=javascriptcomplete#CompleteJS
-autocmd FileType html set omnifunc=htmlcomplete#CompleteTags
+autocmd FileType html,markdown setlocal omnifunc=htmlcomplete#CompleteTags
 autocmd FileType css set omnifunc=csscomplete#CompleteCSS
 
 " supertab
 let g:SuperTabDefaultCompletionType = "context"
+let g:SuperTabContextDefaultCompletionType = '&omnifunc'
+let g:SuperTabCompletionContexts = ['s:ContextText', 's:ContextDiscover']
+let g:SuperTabContextTextOmniPrecedence = ['&omnifunc', '&completefunc']
+let g:SuperTabContextDiscoverDiscovery = ["&omnifunc:<c-x><c-o>", "&completefunc<c-x><c-n>"]
 
 " custom scripts loading (top tabline)
 source $HOME/.vim/tabline.vim
@@ -186,6 +196,7 @@ autocmd BufNewFile,BufRead [vV]agrantfile set filetype=ruby
 autocmd BufNewFile,BufRead [cC]apfile set filetype=ruby
 autocmd BufNewFile,BufRead [tT]horfile set filetype=ruby
 autocmd BufNewFile,BufRead *.json set filetype=javascript
+autocmd BufNewFile,BufRead *.mote set filetype=mote
 autocmd FileType gitcommit DiffGitCached | wincmd p | wincmd H
 
 
@@ -204,7 +215,8 @@ let python_highlight_doctests = 1
 " syntastic
 let g:syntastic_javascript_checker = 'jslint'
 let g:syntastic_javascript_jslint_conf = "--white --undef --nomen --regexp --plusplus --bitwise --newcap --sloppy --vars --es5=false"
-let g:syntastic_python_checker = 'flake8'
+let g:syntastic_python_checker_args = '--ignore=E121,E126,E127'
+let g:syntastic_python_checker = 'flake8'  " pip install flake8
 
 " powerline
 let g:Powerline_symbols = 'fancy'
@@ -214,3 +226,43 @@ let g:UltiSnipsSnippetsDir = "$HOME/.vim/ultisnips"
 
 " VimColor
 let g:cssColorVimDoNotMessMyUpdatetime = 1
+
+
+" neocomplcache
+let g:acp_enableAtStartup = 0
+let g:neocomplcache_enable_at_startup = 1
+let g:neocomplcache_enable_smart_case = 1
+let g:neocomplcache_enable_camel_case_completion = 1
+let g:neocomplcache_enable_underbar_completion = 1
+let g:neocomplcache_min_syntax_length = 3
+let g:neocomplcache_lock_buffer_name_pattern = '\*ku\*'
+
+" Define dictionary.
+let g:neocomplcache_dictionary_filetype_lists = {'default' : ''}
+
+if !exists('g:neocomplcache_keyword_patterns')
+  let g:neocomplcache_keyword_patterns = {}
+endif
+let g:neocomplcache_keyword_patterns['default'] = '\h\w*'
+
+" Plugin key-mappings.
+imap <C-k>     <Plug>(neocomplcache_snippets_expand)
+smap <C-k>     <Plug>(neocomplcache_snippets_expand)
+
+" SuperTab like snippets behavior.
+imap <expr><TAB> neocomplcache#sources#snippets_complete#expandable() ? "\<Plug>(neocomplcache_snippets_expand)" : pumvisible() ? "\<C-n>" : "\<TAB>"
+
+" Recommended key-mappings.
+inoremap <expr><TAB>  pumvisible() ? "\<C-n>" : "\<TAB>"
+inoremap <expr><C-e>  neocomplcache#cancel_popup()
+
+" Enable heavy omni completion.
+if !exists('g:neocomplcache_omni_patterns')
+  let g:neocomplcache_omni_patterns = {}
+endif
+let g:neocomplcache_omni_patterns.ruby = '[^. *\t]\.\w*\|\h\w*::'
+let g:neocomplcache_omni_patterns.python = '[^. *\t]\.\w*\|\h\w*::'
+
+" Jedi python autocompletion
+let g:jedi#popup_on_dot = 0
+let g:jedi#show_function_definition = 0
