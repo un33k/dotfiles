@@ -215,7 +215,7 @@ let python_highlight_doctests = 1
 " syntastic
 let g:syntastic_javascript_checker = 'jslint'
 let g:syntastic_javascript_jslint_conf = "--white --undef --nomen --regexp --plusplus --bitwise --newcap --sloppy --vars --es5=false"
-let g:syntastic_python_checker_args = '--ignore=E121,E126,E127'
+let g:syntastic_python_checker_args = '--ignore=E121,E126,E127,E128'
 let g:syntastic_python_checker = 'flake8'  " pip install flake8
 
 " powerline
