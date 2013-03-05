@@ -2,7 +2,7 @@
 """vjson - script to view JSON responses"""
 
 import sys
-import simplejson
+import json
 import optparse
 from urllib2 import Request, urlopen, URLError, HTTPError
 
@@ -36,8 +36,8 @@ else:
 
 # JSON prettyfier
 try:
-    o = simplejson.loads(content)
-    text = simplejson.dumps(o, indent=3)
+    o = json.loads(content)
+    text = json.dumps(o, indent=3)
 except ValueError, e:
     print "Error:", e
     sys.exit(1)

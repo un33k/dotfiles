@@ -74,6 +74,9 @@ syntax sync fromstart       " sync syntax from start
 set background=dark         " dark backround for better reading
 colorscheme jellybeans      " current colorscheme
 
+au InsertEnter * set cul
+au InsertLeave * set nocul
+
 " Syntax overriding,
 "   * html is always htmldjango
 "   * sup files are always mail
@@ -215,7 +218,7 @@ let python_highlight_doctests = 1
 " syntastic
 let g:syntastic_javascript_checker = 'jslint'
 let g:syntastic_javascript_jslint_conf = "--white --undef --nomen --regexp --plusplus --bitwise --newcap --sloppy --vars --es5=false"
-let g:syntastic_python_checker_args = '--ignore=E121,E126,E127,E128'
+let g:syntastic_python_checker_args = '--ignore=E121,E123,E124,E126,E127,E128'
 let g:syntastic_python_checker = 'flake8'  " pip install flake8
 
 " powerline
