@@ -3,4 +3,4 @@
 #export DJANGO_SETTINGS_MODULE=settings
 #export NLTK_DATA=/usr/local/share/nltk/data
 export PYTHONSTARTUP=~/.pythonstartup.py
-export PYTHONPATH=$PYTHONPATH:~/.python:~/src/django/django
+# export PYTHONPATH=$PYTHONPATH:~/.python:~/src/django/django
