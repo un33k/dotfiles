@@ -1,0 +1,13 @@
+continuousView yes
+
+bind j any scrollDown(16)
+bind k any scrollUp(16)
+bind l any scrollRight(16)
+bind h any scrollLeft(16)
+
+bind K any prevPage
+bind J any nextPage
+
+bind G any gotoPage(1)
+
+bind q any quit

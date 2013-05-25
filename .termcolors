@@ -1,0 +1,19 @@
+# ft=vim:shell
+
+# xterm escape colors
+COLOR_RED="\[\e[31;40m\]"
+COLOR_GREEN="\[\e[32;40m\]"
+COLOR_YELLOW="\[\e[33;40m\]"
+COLOR_BLUE="\[\e[34;40m\]"
+COLOR_MAGENTA="\[\e[35;40m\]"
+COLOR_CYAN="\[\e[36;40m\]"
+
+COLOR_RED_BOLD="\[\e[31;1m\]"
+COLOR_GREEN_BOLD="\[\e[32;1m\]"
+COLOR_YELLOW_BOLD="\[\e[33;1m\]"
+COLOR_BLUE_BOLD="\[\e[34;1m\]"
+COLOR_MAGENTA_BOLD="\[\e[35;1m\]"
+COLOR_CYAN_BOLD="\[\e[36;1m\]"
+COLOR_WHITE_BOLD="\[\e[38;1m\]"
+
+COLOR_NONE="\[\e[0m\]"
