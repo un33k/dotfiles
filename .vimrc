@@ -161,6 +161,10 @@ imap jj <ESC>
 " helpful mercurial shortcuts
 map <leader>au :!hg annotate -nu % \| less<cr>
 
+" set Unix and UTF8 encoding on current file
+nmap <leader>q :set fileencoding=utf8 fileformat=unix<cr>
+
+
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 """"""""""""""""" Plugins configurations """"""""""""""""""""""
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
