@@ -6,3 +6,5 @@
 --type-set=mail=.mail
 --type-set=scss=.scss
 --type-set=coffee=.coffee
+--type-set=mote=.mote
+--type-set=rst=.rst
