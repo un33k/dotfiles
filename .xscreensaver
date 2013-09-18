@@ -1,5 +1,5 @@
 # XScreenSaver Preferences File
-# Written by xscreensaver-demo 5.15 for omab on Tue May 28 22:45:28 2013.
+# Written by xscreensaver-demo 5.15 for omab on Mon Sep 16 15:46:23 2013.
 # http://www.jwz.org/xscreensaver/
 
 timeout:	0:10:00
@@ -243,7 +243,7 @@ programs:								      \
   GL: 				companioncube -root			    \n\
   GL: 				hilbert -root				    \n\
   GL: 				tronbit -root				    \n\
-  any: 				electricsheep --root 1			    \n\
+  GL: 				electricsheep --root 1			    \n\
 				unicode -root				    \n\
 
 
