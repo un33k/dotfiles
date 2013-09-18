@@ -1,0 +1,59 @@
+#!/usr/bin/env python
+# Run with:
+#   git log --no-merges --pretty="format:%ad::%cn <%ae>::%d::%s" \
+#           --decorate --date=short | gitlog
+
+import fileinput
+from collections import defaultdict
+
+
+# YYYY-MM-DD::AUTHOR:: (DECORATOR)::SUBJECT
+#   Decorators types:
+#       * (HEAD, origin/master, origin/HEAD, master)  HEAD
+#       * (tag: v01.1.12)                             TAG
+#       * empty                                       No tag
+#
+
+tags = []
+tags_dates = {}
+log_lines = defaultdict(list)
+
+
+for idx, line in enumerate(fileinput.input()):
+    date, author, tag, subject = line.split('::')
+    if idx == 0:
+        tag = 'HEAD'
+    if tag:
+        tag = tag.strip(' ()')
+        if 'HEAD' in tag:
+            tag = 'HEAD'
+        elif 'tag:' in tag:
+            tag = tag.replace('tag: ', '')
+        tags.append(tag)
+        tags_dates[tag] = date
+    else:
+        tag = tags[-1]
+        log_lines[tag].append((date, author, subject))
+
+
+for tag in tags:
+    date = tags_dates[tag]
+    title = u'{0} {1}'.format(date, tag)
+    if tag == 'HEAD':
+        title += ' (unreleased)'
+
+    print '{0}\n{1}\n'.format(title, '=' * len(title))
+
+    for date, author, subject in log_lines[tag]:
+        print '  * {0} {1}'.format(date, author)
+        if len(subject) <= 75:
+            print '    {0}'.format(subject)
+        else:
+            subject_string = ''
+            for s in subject.strip().split():
+                if len(subject_string + s) > 75:
+                    print '    {0}'.format(subject_string)
+                    subject_string = ''
+                subject_string += s + ' '
+            if subject_string:
+                print '    {0}\n'.format(subject_string)
