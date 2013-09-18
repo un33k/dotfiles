@@ -45,7 +45,8 @@ if [ "$PS1" ]; then
     alias v="/usr/bin/vim"
     alias mkvirt="mkvirtualenv --no-site-packages"
     alias b="bundle exec"
-    alias rmpyc="find . -iname '*.pyc' -delete"
+    alias rmpyc="find . -name '*.pyc' -delete && find . -name '__pycache__' -delete"
+    alias e="emacs"
 fi
 
 # vi mode
