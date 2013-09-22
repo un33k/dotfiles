@@ -3,6 +3,7 @@
 #   git log --no-merges --pretty="format:%ad::%cn <%ae>::%d::%s" \
 #           --decorate --date=short | gitlog
 
+import re
 import fileinput
 from collections import defaultdict
 
@@ -11,24 +12,29 @@ from collections import defaultdict
 #   Decorators types:
 #       * (HEAD, origin/master, origin/HEAD, master)  HEAD
 #       * (tag: v01.1.12)                             TAG
+#       * (HEAD, tag: v0.1.13, master)                TAG
 #       * empty                                       No tag
 #
 
 tags = []
 tags_dates = {}
 log_lines = defaultdict(list)
+tag_re = re.compile(r'tag: (v\d+\.\d+\.\d+)')
 
 
 for idx, line in enumerate(fileinput.input()):
     date, author, tag, subject = line.split('::')
-    if idx == 0:
+    tag = (tag or '').strip(' ()')
+    match = tag_re.findall(tag)
+
+    if match:
+        tag = match[0]
+    elif idx == 0:
         tag = 'HEAD'
+    else:
+        tag = None
+
     if tag:
-        tag = tag.strip(' ()')
-        if 'HEAD' in tag:
-            tag = 'HEAD'
-        elif 'tag:' in tag:
-            tag = tag.replace('tag: ', '')
         tags.append(tag)
         tags_dates[tag] = date
     else:
