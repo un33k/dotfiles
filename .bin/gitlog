@@ -23,7 +23,7 @@ tag_re = re.compile(r'tag: (v\d+\.\d+\.\d+)')
 
 
 for idx, line in enumerate(fileinput.input()):
-    date, author, tag, subject = line.split('::')
+    date, author, tag, subject = line.split('::', 3)
     tag = (tag or '').strip(' ()')
     match = tag_re.findall(tag)
 
@@ -39,7 +39,7 @@ for idx, line in enumerate(fileinput.input()):
         tags_dates[tag] = date
     else:
         tag = tags[-1]
-        log_lines[tag].append((date, author, subject))
+    log_lines[tag].append((date, author, subject))
 
 
 for tag in tags:
