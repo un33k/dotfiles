@@ -13,9 +13,10 @@ for file in ~/.bash/plugins/*; do
 done
 
 # PATHS
-#export PATH=$HOME/.bin:$HOME/src/sup/bin/:$HOME/tmp/django/bin:$PATH:/usr/local/sbin:/usr/sbin:/sbin
-export PATH=${PATH}:/var/lib/gems/1.8/bin # put lessc in the path
-export PATH=$HOME/.bin:$HOME/src/django/django/django/bin:$PATH:/usr/local/sbin:/usr/sbin:/sbin
+PATH=${PATH}:/var/lib/gems/1.8/bin # put lessc in the path
+PATH=$HOME/.bin:$HOME/src/django/django/django/bin:$PATH:/usr/local/sbin:/usr/sbin:/sbin
+PATH=$HOME/.rbenv/bin:$PATH
+export PATH
 
 export EDITOR="/usr/bin/vim"
 #export AWT_TOOLKIT=MToolkit
