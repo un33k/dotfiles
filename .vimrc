@@ -85,6 +85,8 @@ au BufRead            sup.*  set ft=mail
 au BufRead,BufNewFile *.less set filetype=less
 au BufRead,BufNewFile *.ru   set filetype=ruby
 au BufNewFile,BufRead *.prawn set filetype=ruby
+au BufRead,BufNewFile *.slim set filetype=haml
+au BufRead,BufNewFile *.eco set filetype=eruby
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 """"""""""""""""""""""""" Mappings """"""""""""""""""""""""""""
@@ -198,12 +200,13 @@ autocmd FileType ruby set shiftwidth=2 softtabstop=2 tabstop=2
 autocmd FileType javascript nmap <leader>l :JSLintUpdate<cr>
 autocmd FileType javascript set shiftwidth=4 softtabstop=4 tabstop=4
 autocmd FileType htmldjango set shiftwidth=2 softtabstop=2 tabstop=2
-autocmd BufWritePost,FileWritePost *.coffee :silent !coffee -c <afile>
 autocmd BufNewFile,BufRead [vV]agrantfile set filetype=ruby
 autocmd BufNewFile,BufRead [cC]apfile set filetype=ruby
 autocmd BufNewFile,BufRead [tT]horfile set filetype=ruby
 autocmd BufNewFile,BufRead *.json set filetype=javascript
 autocmd BufNewFile,BufRead *.mote set filetype=mote
+autocmd BufNewFile,BufRead *.coffee set filetype=coffee
+autocmd BufNewFile,BufRead *.skim set filetype=haml
 autocmd FileType gitcommit DiffGitCached | wincmd p | wincmd H
 
 
