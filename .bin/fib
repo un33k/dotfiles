@@ -1,0 +1,11 @@
+#!/usr/bin/python
+import sys
+from math import sqrt
+
+
+def fib(n):
+    return ((1 + sqrt(5)) ** n - (1 - sqrt(5)) ** n) / (2 ** n * sqrt(5))
+
+
+if __name__ == '__main__':
+    print ' '.join(str(int(fib(int(val)))) for val in sys.argv[1:])
