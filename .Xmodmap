@@ -1,4 +1,6 @@
 keycode 22 = BackSpace Insert
+keycode 96 = Prior
+keycode 169 = Next
 
 ! Exchange left Alt and left Win
 remove mod1 = Alt_L
