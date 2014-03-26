@@ -46,6 +46,7 @@ submodules = [
   "git://github.com/Shougo/neosnippet",                  # neosnippet
   "git://github.com/davidhalter/jedi-vim.git",           # jedi (python completion) 
   "git@github.com:tonchis/to-github-vim.git",            # ToGithub
+  "git@github.com:drmikehenry/vim-fontsize.git",         # vim-fontsize
 ].each do |url|
     dir = url.split('/').last.sub(/\.git$/, '')
     if not File.directory? dir
